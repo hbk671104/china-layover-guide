@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import GuideList from '../../components/GuideList.astro';
+import EligibilityChecker from '../../components/EligibilityChecker';
 
 const guides = (
   await getCollection('guides', ({ data }) => data.category === 'transit-visa')
@@ -23,6 +24,10 @@ const guides = (
       immigration.
     </p>
   </header>
+
+  <section class="mx-auto max-w-3xl px-4 py-8">
+    <EligibilityChecker client:load />
+  </section>
 
   <section class="mx-auto max-w-3xl px-4 py-10">
     <h2 class="text-2xl font-bold text-slate-900">Guides</h2>

@@ -41,6 +41,6 @@ const ogImage = new URL(image, site).href;
 <meta name="twitter:image" content={ogImage} />
 {
   jsonLd.map((block) => (
-    <script type="application/ld+json" set:html={JSON.stringify(block)} />
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(block)} />
   ))
 }

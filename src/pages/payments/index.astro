@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import GuideList from '../../components/GuideList.astro';
+import PaymentRecommender from '../../components/PaymentRecommender';
 
 const guides = (
   await getCollection('guides', ({ data }) => data.category === 'payments')
@@ -22,6 +23,10 @@ const guides = (
       The workaround: link your foreign card to Alipay, WeChat Pay, or TenPayGo before you travel.
     </p>
   </header>
+
+  <section class="mx-auto max-w-3xl px-4 py-8">
+    <PaymentRecommender client:load />
+  </section>
 
   <section class="mx-auto max-w-3xl px-4 py-10">
     <h2 class="text-2xl font-bold text-slate-900">Guides</h2>
