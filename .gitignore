@@ -11,3 +11,5 @@ npm-debug.log*
 .env.production
 # OS
 .DS_Store
+# agent runtime state
+.reasonix/

@@ -13,5 +13,10 @@ export default defineConfig({
   integrations: [mdx(), react(), sitemap()],
   vite: {
     plugins: [tailwindcss()],
+    server: {
+      watch: {
+        ignored: ['**/.reasonix/**', '**/.agents/**'],
+      },
+    },
   },
 });
