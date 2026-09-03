@@ -1,0 +1,50 @@
+---
+import '../styles/global.css';
+import Seo from '../components/Seo.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath?: string;
+  type?: 'website' | 'article';
+  image?: string;
+  jsonLd?: Record<string, unknown>[];
+}
+
+const {
+  title,
+  description,
+  canonicalPath = '/',
+  type = 'website',
+  image = '/og-default.png',
+  jsonLd = [],
+} = Astro.props;
+
+const siteName = 'China Layover Guide';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <Seo
+      {title}
+      {description}
+      {canonicalPath}
+      {type}
+      {image}
+      siteName={siteName}
+      {jsonLd}
+    />
+  </head>
+  <body class="flex min-h-screen flex-col bg-white text-slate-800">
+    <Header />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

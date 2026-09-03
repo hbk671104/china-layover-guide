@@ -1,0 +1,27 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-slate-200 bg-slate-50">
+  <div class="mx-auto max-w-5xl px-4 py-10">
+    <div class="flex flex-col gap-6 sm:flex-row sm:justify-between">
+      <div>
+        <p class="font-bold text-slate-900">China Layover Guide</p>
+        <p class="mt-1 max-w-md text-sm text-slate-600">
+          Practical, independent guides for foreign travelers on a short stopover in China.
+        </p>
+      </div>
+      <nav aria-label="Footer navigation" class="text-sm">
+        <ul class="flex flex-col gap-2 sm:items-end">
+          <li><a href="/about/" class="text-slate-600 hover:text-[var(--color-brand)]">About</a></li>
+          <li><a href="/privacy/" class="text-slate-600 hover:text-[var(--color-brand)]">Privacy</a></li>
+          <li><a href="/terms/" class="text-slate-600 hover:text-[var(--color-brand)]">Terms</a></li>
+        </ul>
+      </nav>
+    </div>
+    <p class="mt-8 text-xs text-slate-500">
+      Information may change at any time. Always verify with official government and provider
+      sources before you travel. © {year} China Layover Guide.
+    </p>
+  </div>
+</footer>

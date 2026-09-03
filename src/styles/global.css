@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #c2271d;
+  --color-brand-dark: #9a1f16;
+  --color-ink: #1f2937;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
