@@ -14,7 +14,7 @@ const {
   description,
   canonicalPath = '/',
   type = 'website',
-  image = '/og-default.png',
+  image = '/og-default.svg',
   siteName,
   jsonLd = [],
 } = Astro.props;
@@ -25,6 +25,7 @@ const ogImage = new URL(image, site).href;
 ---
 
 <meta name="generator" content={Astro.generator} />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
