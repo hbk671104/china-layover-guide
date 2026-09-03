@@ -1,0 +1,40 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  guides: CollectionEntry<'guides'>[];
+}
+
+const { guides } = Astro.props;
+---
+
+{
+  guides.length === 0 ? (
+    <p class="text-slate-600">Guides are on the way — check back soon.</p>
+  ) : (
+    <ul class="grid gap-4">
+      {
+        guides.map((guide) => (
+          <li>
+            <a
+              href={`/guides/${guide.id}/`}
+              class="block rounded-xl border border-slate-200 p-6 transition hover:border-[var(--color-brand)]"
+            >
+              <span class="text-xs font-semibold uppercase tracking-wide text-[var(--color-brand)]">
+                {
+                  guide.data.updated.toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'short',
+                    day: 'numeric',
+                  })
+                }
+              </span>
+              <h3 class="mt-1 text-xl font-bold text-slate-900">{guide.data.title}</h3>
+              <p class="mt-2 text-slate-600">{guide.data.description}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  )
+}

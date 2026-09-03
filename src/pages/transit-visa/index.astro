@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideList from '../../components/GuideList.astro';
+
+const guides = (
+  await getCollection('guides', ({ data }) => data.category === 'transit-visa')
+).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+---
+
+<BaseLayout
+  title="China Transit Visa & 240-Hour Visa-Free Rules"
+  description="How China's 240-hour visa-free transit policy works, who qualifies, and how to use it on your layover."
+  canonicalPath="/transit-visa/"
+>
+  <header class="mx-auto max-w-3xl px-4 pt-12">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+      Transit visa &amp; the 240-hour rule
+    </h1>
+    <p class="mt-4 text-lg text-slate-600">
+      Most layover travelers don&rsquo;t need a Chinese visa at all. Here&rsquo;s how the visa-free
+      transit policy works — and how to avoid the mistakes that get people turned around at
+      immigration.
+    </p>
+  </header>
+
+  <section class="mx-auto max-w-3xl px-4 py-10">
+    <h2 class="text-2xl font-bold text-slate-900">Guides</h2>
+    <div class="mt-6">
+      <GuideList {guides} />
+    </div>
+  </section>
+</BaseLayout>

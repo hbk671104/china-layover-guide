@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const cities = (await getCollection('cities')).sort((a, b) =>
+  a.data.city.localeCompare(b.data.city),
+);
+---
+
+<BaseLayout
+  title="City Quick Trips — China Layover Guide"
+  description="Fast, realistic layover routes for China's major cities: what to see, how to get there, and how long you need."
+  canonicalPath="/cities/"
+>
+  <header class="mx-auto max-w-5xl px-4 pt-12">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+      City quick trips
+    </h1>
+    <p class="mt-4 max-w-2xl text-lg text-slate-600">
+      Realistic layover routes for the cities where most travelers land. Each guide assumes you
+      want to maximize a short stop, not tick every box.
+    </p>
+  </header>
+
+  <section class="mx-auto max-w-5xl px-4 py-10">
+    <ul class="grid gap-4 sm:grid-cols-2">
+      {
+        cities.map((city) => (
+          <li>
+            <a
+              href={`/cities/${city.id}/`}
+              class="block rounded-xl border border-slate-200 p-6 transition hover:border-[var(--color-brand)]"
+            >
+              <span class="text-xs font-semibold uppercase tracking-wide text-[var(--color-brand)]">
+                {city.data.region}
+              </span>
+              <h2 class="mt-1 text-xl font-bold text-slate-900">{city.data.city}</h2>
+              <p class="mt-2 text-slate-600">{city.data.bestFor}</p>
+              <p class="mt-2 text-sm text-slate-500">{city.data.layoverWindow}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</BaseLayout>

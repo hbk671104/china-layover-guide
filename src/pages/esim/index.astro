@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideList from '../../components/GuideList.astro';
+
+const guides = (
+  await getCollection('guides', ({ data }) => data.category === 'esim')
+).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+---
+
+<BaseLayout
+  title="eSIM for China: Set It Up Before You Land"
+  description="Why you need an eSIM before landing in China, how to pick a plan, and how to stay connected to the apps you already use."
+  canonicalPath="/esim/"
+>
+  <header class="mx-auto max-w-3xl px-4 pt-12">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+      eSIM setup, before you land
+    </h1>
+    <p class="mt-4 text-lg text-slate-600">
+      China&rsquo;s network blocks many apps you use daily. The fix is simple: install an eSIM
+      <strong>before</strong> you land, so Google Maps, WhatsApp, Instagram, and Gmail keep working
+      the moment you arrive.
+    </p>
+  </header>
+
+  <section class="mx-auto max-w-3xl px-4 py-10">
+    <h2 class="text-2xl font-bold text-slate-900">Guides</h2>
+    <div class="mt-6">
+      <GuideList {guides} />
+    </div>
+  </section>
+</BaseLayout>

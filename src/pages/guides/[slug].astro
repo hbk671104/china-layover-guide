@@ -1,0 +1,71 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SourceList from '../../components/SourceList.astro';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map((guide) => ({
+    params: { slug: guide.id },
+    props: { guide },
+  }));
+}
+
+const { guide } = Astro.props;
+const { Content } = await render(guide);
+
+const categoryLabel = {
+  'transit-visa': 'Transit visa',
+  esim: 'eSIM',
+  payments: 'Payments',
+}[guide.data.category];
+
+const jsonLd = [
+  {
+    '@type': 'Article',
+    headline: guide.data.title,
+    description: guide.data.description,
+    dateModified: guide.data.updated.toISOString(),
+    author: { '@type': 'Organization', name: 'China Layover Guide' },
+  },
+];
+---
+
+<BaseLayout
+  title={guide.data.title}
+  description={guide.data.description}
+  type="article"
+  canonicalPath={`/guides/${guide.id}/`}
+  jsonLd={jsonLd}
+>
+  <article class="mx-auto max-w-3xl px-4 py-12">
+    <header>
+      <a
+        href={`/${guide.data.category}/`}
+        class="text-sm font-semibold text-[var(--color-brand)] hover:underline"
+      >
+        &larr; {categoryLabel}
+      </a>
+      <h1 class="mt-4 text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+        {guide.data.title}
+      </h1>
+      <p class="mt-4 text-lg text-slate-600">{guide.data.description}</p>
+      <p class="mt-4 text-sm text-slate-500">
+        Last updated:{' '}
+        <time datetime={guide.data.updated.toISOString()}>
+          {
+            guide.data.updated.toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+            })
+          }
+        </time>
+      </p>
+    </header>
+    <div class="prose prose-slate mt-10 max-w-none">
+      <Content />
+    </div>
+    <SourceList sources={guide.data.sources} />
+  </article>
+</BaseLayout>

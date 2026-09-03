@@ -1,18 +1,109 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const pillars = [
+  {
+    href: '/transit-visa/',
+    title: 'Transit visa',
+    description: "China's 240-hour visa-free transit policy, decoded — who qualifies and how to use it.",
+  },
+  {
+    href: '/esim/',
+    title: 'eSIM setup',
+    description: 'Stay connected to the apps you already use. Set up an eSIM before you land.',
+  },
+  {
+    href: '/payments/',
+    title: 'Payments',
+    description: 'Visa/Mastercard and Apple/Google Pay have limits here. Here\u2019s what actually works.',
+  },
+  {
+    href: '/cities/',
+    title: 'City trips',
+    description: 'Fast, realistic layover routes for the cities where most travelers land.',
+  },
+];
+
+const steps = [
+  {
+    title: 'Before you fly',
+    body: 'Install an eSIM, link your card to Alipay/WeChat Pay or TenPayGo, and save your onward ticket.',
+  },
+  {
+    title: 'At immigration',
+    body: 'Use the 240-hour visa-free transit lane with your passport, arrival card, and onward ticket.',
+  },
+  {
+    title: 'On the ground',
+    body: 'Follow a city route matched to your layover window — and pay with the QR code, not the card.',
+  },
+];
 ---
 
 <BaseLayout
   title="China Layover Guide — Make the most of your stopover"
   description="Practical guides for foreign travelers on a layover in China: visa-free transit, eSIM setup, payments, and quick city trips."
 >
-  <section class="mx-auto max-w-5xl px-4 py-16 sm:py-24">
-    <h1 class="max-w-3xl text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
-      Turn your China layover into a <span class="text-[var(--color-brand)]">real trip</span>.
-    </h1>
-    <p class="mt-6 max-w-2xl text-lg text-slate-600">
-      Practical, independent guides for foreign travelers on a short stopover in China: visa-free
-      transit rules, eSIM setup before you land, payments that actually work, and quick city trips.
-    </p>
+  <section class="bg-gradient-to-b from-red-50 to-white">
+    <div class="mx-auto max-w-5xl px-4 py-16 sm:py-24">
+      <h1 class="max-w-3xl text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
+        Turn your China layover into a <span class="text-[var(--color-brand)]">real trip</span>.
+      </h1>
+      <p class="mt-6 max-w-2xl text-lg text-slate-600">
+        Practical, independent guides for foreign travelers on a short stopover in China:
+        visa-free transit rules, eSIM setup before you land, payments that actually work, and quick
+        city trips.
+      </p>
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a
+          href="/transit-visa/"
+          class="rounded-lg bg-[var(--color-brand)] px-6 py-3 font-semibold text-white hover:bg-[var(--color-brand-dark)]"
+        >
+          Check the transit rules
+        </a>
+        <a
+          href="/esim/"
+          class="rounded-lg border border-slate-300 px-6 py-3 font-semibold text-slate-700 hover:border-[var(--color-brand)] hover:text-[var(--color-brand)]"
+        >
+          Set up your eSIM
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-4 py-12">
+    <h2 class="text-2xl font-bold text-slate-900">Everything you need, in one place</h2>
+    <ul class="mt-6 grid gap-4 sm:grid-cols-2">
+      {
+        pillars.map((pillar) => (
+          <li>
+            <a
+              href={pillar.href}
+              class="block h-full rounded-xl border border-slate-200 p-6 transition hover:border-[var(--color-brand)]"
+            >
+              <h3 class="text-xl font-bold text-slate-900">{pillar.title}</h3>
+              <p class="mt-2 text-slate-600">{pillar.description}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="bg-slate-50">
+    <div class="mx-auto max-w-5xl px-4 py-12">
+      <h2 class="text-2xl font-bold text-slate-900">How a smooth layover goes</h2>
+      <ol class="mt-6 grid gap-4 sm:grid-cols-3">
+        {
+          steps.map((step, index) => (
+            <li class="rounded-xl border border-slate-200 bg-white p-6">
+              <span class="text-sm font-bold text-[var(--color-brand)]">Step {index + 1}</span>
+              <h3 class="mt-1 font-bold text-slate-900">{step.title}</h3>
+              <p class="mt-2 text-sm text-slate-600">{step.body}</p>
+            </li>
+          ))
+        }
+      </ol>
+    </div>
   </section>
 </BaseLayout>

@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideList from '../../components/GuideList.astro';
+
+const guides = (
+  await getCollection('guides', ({ data }) => data.category === 'payments')
+).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+---
+
+<BaseLayout
+  title="Payments in China for Foreign Travelers"
+  description="Visa and Mastercard acceptance is limited in China. Here's how to pay with Alipay, WeChat Pay, and TenPayGo using the cards you already have."
+  canonicalPath="/payments/"
+>
+  <header class="mx-auto max-w-3xl px-4 pt-12">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+      Payments that actually work
+    </h1>
+    <p class="mt-4 text-lg text-slate-600">
+      China is nearly cashless, but Visa/Mastercard and Apple/Google Pay have limited acceptance.
+      The workaround: link your foreign card to Alipay, WeChat Pay, or TenPayGo before you travel.
+    </p>
+  </header>
+
+  <section class="mx-auto max-w-3xl px-4 py-10">
+    <h2 class="text-2xl font-bold text-slate-900">Guides</h2>
+    <div class="mt-6">
+      <GuideList {guides} />
+    </div>
+  </section>
+</BaseLayout>
