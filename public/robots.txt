@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chinalayover.guide/sitemap-index.xml
+Sitemap: https://prc.tours/sitemap-index.xml
+
