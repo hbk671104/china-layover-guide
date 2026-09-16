@@ -19,7 +19,7 @@ const {
   jsonLd = [],
 } = Astro.props;
 
-const site = Astro.site ?? new URL('https://prc.tours');
+const site = Astro.site ?? new URL('https://chinalayoverguide.com');
 const canonical = new URL(canonicalPath, site).href;
 const ogImage = new URL(image, site).href;
 ---

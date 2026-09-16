@@ -7,8 +7,8 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  // 生产域名：prc.tours（DNS 托管在 Cloudflare）
-  site: 'https://prc.tours',
+  // 生产域名：chinalayoverguide.com（DNS 托管在 Cloudflare）
+  site: 'https://chinalayoverguide.com',
   output: 'static',
   integrations: [mdx(), react(), sitemap()],
   vite: {
