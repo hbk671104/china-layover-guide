@@ -7,12 +7,31 @@ import PaymentRecommender from '../../components/PaymentRecommender';
 const guides = (
   await getCollection('guides', ({ data }) => data.category === 'payments')
 ).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+
+const siteUrl = 'https://chinalayoverguide.com';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Payments in China for Foreign Travelers | China Layover Guide',
+    description:
+      'Visa and Mastercard acceptance is limited in China. How to pay with Alipay, WeChat Pay, and TenPayGo using the cards you already have.',
+    url: `${siteUrl}/payments/`,
+    hasPart: guides.map((guide) => ({
+      '@type': 'Article',
+      headline: guide.data.title,
+      url: `${siteUrl}/guides/${guide.id}/`,
+    })),
+  },
+];
 ---
 
 <BaseLayout
   title="Payments in China for Foreign Travelers"
   description="Visa and Mastercard acceptance is limited in China. Here's how to pay with Alipay, WeChat Pay, and TenPayGo using the cards you already have."
   canonicalPath="/payments/"
+  jsonLd={jsonLd}
 >
   <header class="mx-auto max-w-3xl px-4 pt-12">
     <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">

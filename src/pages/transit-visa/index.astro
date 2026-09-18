@@ -7,11 +7,30 @@ import EligibilityChecker from '../../components/EligibilityChecker';
 const guides = (
   await getCollection('guides', ({ data }) => data.category === 'transit-visa')
 ).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+
+const siteUrl = 'https://chinalayoverguide.com';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'China Transit Visa & 240-Hour Visa-Free Rules | China Layover Guide',
+    description:
+      "How China's 240-hour visa-free transit policy works, who qualifies, and how to use it on your layover.",
+    url: `${siteUrl}/transit-visa/`,
+    hasPart: guides.map((guide) => ({
+      '@type': 'Article',
+      headline: guide.data.title,
+      url: `${siteUrl}/guides/${guide.id}/`,
+    })),
+  },
+];
 ---
 
 <BaseLayout
   title="China Transit Visa & 240-Hour Visa-Free Rules"
   description="How China's 240-hour visa-free transit policy works, who qualifies, and how to use it on your layover."
+  jsonLd={jsonLd}
   canonicalPath="/transit-visa/"
 >
   <header class="mx-auto max-w-3xl px-4 pt-12">

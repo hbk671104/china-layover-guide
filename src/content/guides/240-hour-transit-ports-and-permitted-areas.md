@@ -8,6 +8,15 @@ sources:
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "National Immigration Administration (NIA) — official English portal and 12367 hotline information"
     url: "https://en.nia.gov.cn/"
+faqs:
+  - question: "How many ports can I enter China through under the 240-hour visa-free transit policy?"
+    answer: "There are 65 designated ports across 24 provinces, autonomous regions and municipalities. Entry must be at a designated port, so check your arrival city against the current list before booking."
+  - question: "Can I travel between provinces on 240-hour visa-free transit?"
+    answer: "Yes, within the permitted areas. Cross-province travel is allowed between participating regions, so an entry in Beijing can combine with a stay in Shanghai. You still cannot travel anywhere in China, and you must exit through a designated port within 240 hours."
+  - question: "What counts as a third country or region for China transit?"
+    answer: "Your onward destination must differ from where you came from. Hong Kong, Macau and Taiwan each count as a separate region, so London to Shanghai to Hong Kong is generally valid transit, while a round trip back to London is not."
+  - question: "How do I know which areas I am permitted to visit?"
+    answer: "The permitted area depends on your port of entry. Many ports cover a whole province or region, while others are restricted to specific cities. Check the entry for your arrival port before planning any travel beyond the city."
 ---
 
 > This reference was last reviewed on 2026-09-16. Port lists and permitted-area rules change: always confirm the current list with the National Immigration Administration (NIA) or the 12367 hotline before booking.

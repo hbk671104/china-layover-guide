@@ -10,6 +10,15 @@ sources:
     url: "https://en.nia.gov.cn/n147418/n147468/c182992/content.html"
   - label: "National Immigration Administration (NIA) — Policy interpretation: visa-free transit policies (2025-07-04)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
+faqs:
+  - question: "Is the 30-day visa-free entry better than 240-hour transit?"
+    answer: "For most eligible travelers, yes. It is longer, simpler, and has no third-country requirement, so a round trip qualifies. Use the transit policy only when your nationality is not on the 30-day list, or when you hold a visa already."
+  - question: "Can I use the 30-day visa-free entry for a transit stop?"
+    answer: "Yes. If your nationality is on the 30-day list, you can enter on that instead of the transit policy, and the onward-ticket rule no longer applies to you."
+  - question: "What disqualifies me from the 240-hour transit policy?"
+    answer: "Three things most often: a passport that is not on the 55-country list, an onward ticket that returns to where you came from rather than a third country or region, and entering at a port that is not designated for transit."
+  - question: "Do I need a visa if I qualify for either scheme?"
+    answer: "No. Both are visa-free entry routes. The transit policy is a form of visa-free entry, not a visa, so you do not need a separate visa as long as you meet its conditions."
 ---
 
 > This page was last reviewed on 2026-09-16. Both policies change often: countries are regularly added and expiry dates shift. Always confirm the current list for your nationality with the National Immigration Administration (NIA) or the 12367 hotline before booking.

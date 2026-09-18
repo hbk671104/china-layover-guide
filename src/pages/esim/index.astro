@@ -3,15 +3,34 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import GuideList from '../../components/GuideList.astro';
 
+const siteUrl = 'https://chinalayoverguide.com';
+
 const guides = (
   await getCollection('guides', ({ data }) => data.category === 'esim')
 ).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'eSIM for China | China Layover Guide',
+    description:
+      'Why you need an eSIM before landing in China, how to pick a plan, and how to stay connected to the apps you already use.',
+    url: `${siteUrl}/esim/`,
+    hasPart: guides.map((guide) => ({
+      '@type': 'Article',
+      headline: guide.data.title,
+      url: `${siteUrl}/guides/${guide.id}/`,
+    })),
+  },
+];
 ---
 
 <BaseLayout
   title="eSIM for China: Set It Up Before You Land"
   description="Why you need an eSIM before landing in China, how to pick a plan, and how to stay connected to the apps you already use."
   canonicalPath="/esim/"
+  jsonLd={jsonLd}
 >
   <header class="mx-auto max-w-3xl px-4 pt-12">
     <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">

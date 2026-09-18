@@ -8,6 +8,15 @@ sources:
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "National Immigration Administration (NIA) — official English portal and 12367 hotline information"
     url: "https://en.nia.gov.cn/"
+faqs:
+  - question: "Can you see the Great Wall on a Beijing layover?"
+    answer: "Yes, but it takes most of a day. You need roughly 10 hours or more, a morning arrival, and a pre-booked private car. Anything less and you are risking your onward flight."
+  - question: "How long do you need to visit the Great Wall from Beijing?"
+    answer: "At least 10 hours, with a morning arrival. That is the minimum that is genuinely worth it: the drive is 1.5 hours each way from PEK and 2.5 hours from PKX, and you get roughly 2 to 3 hours actually on the wall. From Daxing, add 2 to 4 hours to every threshold."
+  - question: "Which Great Wall section is closest to Beijing airport?"
+    answer: "Mutianyu is the closest practical section and the usual choice on a layover. It is restored, less crowded than Badaling, and has a cable car, which matters when you are short on time. The scenic hiking sections like Jinshanling and Simatai are too far for a layover."
+  - question: "Should I take a taxi or a tour to the Great Wall?"
+    answer: "Neither, if you are on a layover. A pre-booked private car or driver for the day is the only realistic option, because you need someone waiting at the wall for the return leg rather than you hunting for a ride."
 ---
 
 > This page was last reviewed on 2026-09-10. Driving times vary with traffic and road conditions; confirm the current Great Wall ticketing rules with the official site or your tour operator before you book.

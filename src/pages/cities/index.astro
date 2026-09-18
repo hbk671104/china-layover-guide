@@ -10,12 +10,38 @@ const cities = (await getCollection('cities')).sort((a, b) =>
 const itineraries = (
   await getCollection('guides', ({ data }) => data.category === 'cities')
 ).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+
+const siteUrl = 'https://chinalayoverguide.com';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'City Quick Trips | China Layover Guide',
+    description:
+      "Fast, realistic layover routes for China's major cities: what to see, how to get there, and how long you need.",
+    url: `${siteUrl}/cities/`,
+    hasPart: [
+      ...cities.map((city) => ({
+        '@type': 'Article',
+        headline: `${city.data.city} layover guide`,
+        url: `${siteUrl}/cities/${city.id}/`,
+      })),
+      ...itineraries.map((guide) => ({
+        '@type': 'Article',
+        headline: guide.data.title,
+        url: `${siteUrl}/guides/${guide.id}/`,
+      })),
+    ],
+  },
+];
 ---
 
 <BaseLayout
  title="City Quick Trips | China Layover Guide"
   description="Fast, realistic layover routes for China's major cities: what to see, how to get there, and how long you need."
   canonicalPath="/cities/"
+  jsonLd={jsonLd}
 >
   <header class="mx-auto max-w-5xl px-4 pt-12">
     <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">

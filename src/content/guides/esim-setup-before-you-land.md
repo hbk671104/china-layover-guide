@@ -10,6 +10,15 @@ sources:
     url: "https://esim.holafly.com/esim-china/"
   - label: "Nomad — China eSIM (example provider, not an endorsement)"
     url: "https://www.getnomad.app/china-esim"
+faqs:
+  - question: "Why do I need an eSIM before landing in China?"
+    answer: "Because the apps you rely on are blocked on local networks, and you need working data the moment you land for maps, translation and ride-hailing. An eSIM that routes data outside the mainland keeps those apps working."
+  - question: "When should I install and activate my eSIM?"
+    answer: "Install the profile before you fly, at home, on reliable Wi-Fi. Activate it so it is ready on arrival, or set it to activate on landing if your provider supports that."
+  - question: "Will my regular SIM still work?"
+    answer: "Your home SIM keeps working for calls and texts if you leave it enabled, but its data will not bypass the firewall. Use the eSIM for data and keep the physical SIM for receiving verification codes."
+  - question: "Can I get a Chinese eSIM instead?"
+    answer: "Chinese carriers sell local SIMs and eSIMs, but those route through mainland networks, so the apps you need stay blocked without a VPN. For a short layover, a travel eSIM is the simpler choice."
 ---
 
 > Reviewed 2026-09-16. eSIM plans and prices change often: check the provider's current terms before buying.

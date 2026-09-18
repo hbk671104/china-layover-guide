@@ -6,12 +6,31 @@ import GuideList from '../../components/GuideList.astro';
 const guides = (
   await getCollection('guides', ({ data }) => data.category === 'logistics')
 ).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+
+const siteUrl = 'https://chinalayoverguide.com';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'China Layover Logistics | China Layover Guide',
+    description:
+      'The practical side of a China layover: airport-to-city transfers, luggage storage, hotel registration, and what to do when things go wrong.',
+    url: `${siteUrl}/logistics/`,
+    hasPart: guides.map((guide) => ({
+      '@type': 'Article',
+      headline: guide.data.title,
+      url: `${siteUrl}/guides/${guide.id}/`,
+    })),
+  },
+];
 ---
 
 <BaseLayout
   title="China Layover Logistics: Transfers, Luggage & Registration"
   description="The practical side of a China layover: airport-to-city transfers, luggage storage, hotel registration, and what to do when things go wrong."
   canonicalPath="/logistics/"
+  jsonLd={jsonLd}
 >
   <header class="mx-auto max-w-3xl px-4 pt-12">
     <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">

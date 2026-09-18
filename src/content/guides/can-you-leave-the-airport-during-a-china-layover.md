@@ -8,6 +8,15 @@ sources:
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "National Immigration Administration (NIA) — official English portal and 12367 hotline information"
     url: "https://en.nia.gov.cn/"
+faqs:
+  - question: "Can I leave the airport during a China layover?"
+    answer: "Yes, in most cases. If you hold an eligible passport and a confirmed onward ticket to a third country or region, you can enter visa-free at a designated port and leave the airport. Nationalities on the 30-day visa-free list can use that instead."
+  - question: "Do I need a visa to leave the airport?"
+    answer: "Not if you qualify for visa-free entry. Either the 240-hour transit policy or the 30-day visa-free entry lets you clear immigration and go into the city. Without one of those, you need a visa to leave the transit area."
+  - question: "How long a layover do I need to leave the airport?"
+    answer: "About 7 hours is the practical minimum at most major airports, and 8 or more is comfortable. Below 6 hours, immigration plus the transfer each way and a 2.5-hour return buffer leave no usable time."
+  - question: "What happens if I miss my onward flight?"
+    answer: "You are responsible for it, and the airline is not obliged to rebook you for free. That is why the return buffer matters more than maximizing city time. Build in 2.5 hours before an international departure, and longer if you have bags to check."
 ---
 
 > This page was last reviewed on 2026-09-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.

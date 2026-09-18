@@ -10,6 +10,15 @@ sources:
     url: "https://www.wechat.com/en/"
   - label: "TenPay Global (TenPayGo)"
     url: "https://www.tenpayglobal.com/"
+faqs:
+  - question: "Can I use my Visa or Mastercard in China?"
+    answer: "At large hotels and some international chains, yes. Most everyday places, including restaurants, markets and taxis, are QR-payment only, so a card alone will not cover a normal day."
+  - question: "Do I need Alipay or WeChat Pay as a foreigner?"
+    answer: "Yes, if you want to shop and eat where locals do. Both accept foreign cards now. Alipay is the easier setup and the one to do first, with WeChat Pay as backup."
+  - question: "Can I still use cash in China?"
+    answer: "Cash is legal tender and must be accepted, but in practice small vendors often cannot make change, and some are genuinely cashless. Carry a small amount as backup rather than as your main method."
+  - question: "Which payment app should I set up first?"
+    answer: "Alipay. It has the simpler foreign-card flow and broader acceptance at small merchants. Add WeChat Pay afterwards as a second option in case one has an issue with your card."
 ---
 
 > Reviewed 2026-09-16. Payment provider terms and fees change: check the apps before you travel.

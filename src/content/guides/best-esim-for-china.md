@@ -10,6 +10,15 @@ sources:
     url: "https://esim.holafly.com/esim-china/"
   - label: "Nomad — China eSIM (example provider, not an endorsement)"
     url: "https://www.getnomad.app/china-esim"
+faqs:
+  - question: "Which eSIM is best for a China layover?"
+    answer: "Any plan that routes data outside the mainland firewall, because that is what keeps Google Maps, WhatsApp and Gmail working. Compare on routing and hotspot support rather than headline price, and install it before you fly."
+  - question: "How much data do I need for a short layover?"
+    answer: "For a layover of a day or two, a modest plan is usually enough. Maps, translation and messaging use little data; video and large uploads are what burn through it. Check whether the plan throttles after a daily cap, since that matters more than the total."
+  - question: "Do I need a VPN as well as an eSIM?"
+    answer: "Usually not. A travel eSIM that routes data outside mainland China already gets you to the apps you need. A VPN is a separate tool for when you are on local Wi-Fi or a local SIM instead."
+  - question: "Can I install a China eSIM after I land?"
+    answer: "Technically yes, but it is a bad plan. You need working internet to download the profile, and airport Wi-Fi in China typically requires an SMS code you may not be able to receive. Install and activate it before departure."
 ---
 
 > Reviewed 2026-09-10. eSIM plans, prices, and fair-use policies change often: check each provider's current terms before buying. Providers listed as examples, not endorsements.
