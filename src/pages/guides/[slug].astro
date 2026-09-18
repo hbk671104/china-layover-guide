@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceList from '../../components/SourceList.astro';
 import HeroImage from '../../components/HeroImage.astro';
+import FaqSection from '../../components/FaqSection.astro';
 import AuthorByline from '../../components/AuthorByline.astro';
 import { authorForCategory } from '../../data/authors';
 
@@ -133,6 +134,7 @@ if (guide.data.faqs.length > 0) {
     <div class="prose prose-slate mt-10 max-w-none">
       <Content />
     </div>
+    <FaqSection faqs={guide.data.faqs} />
     <SourceList sources={guide.data.sources} />
   </article>
 </BaseLayout>

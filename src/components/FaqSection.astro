@@ -1,0 +1,33 @@
+---
+interface Props {
+  faqs: { question: string; answer: string }[];
+  title?: string;
+}
+
+const { faqs, title = 'Frequently asked questions' } = Astro.props;
+---
+
+{
+  faqs.length > 0 && (
+    <section class="mt-12 border-t border-slate-200 pt-8">
+      {/*
+        The questions render as visible h3s under an h2, so the heading outline
+        stays valid and the text is real page content. That matters twice over:
+        Google requires FAQPage markup to be matched by visible content on the
+        page, and answer engines extract from rendered HTML rather than from a
+        JSON-LD script.
+      */}
+      <h2 id="faq-heading" class="text-2xl font-bold text-slate-900">
+        {title}
+      </h2>
+      <div class="mt-6 space-y-6">
+        {faqs.map((faq) => (
+          <div>
+            <h3 class="text-lg font-semibold text-slate-900">{faq.question}</h3>
+            <p class="mt-2 text-slate-600">{faq.answer}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+  )
+}
