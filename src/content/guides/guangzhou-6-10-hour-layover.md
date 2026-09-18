@@ -1,6 +1,6 @@
 ---
-title: "Guangzhou 6/10-Hour Layover: What to Do"
-description: "What actually fits in a 6-hour and a 10-hour layover in Guangzhou, dim sum timing, the metro route from Baiyun, and the one mistake that ruins the food."
+title: "Guangzhou Layover in 6 or 10 Hours: What to Do"
+description: "What actually fits in a 6-hour and a 10-hour layover in Guangzhou with an hour-by-hour plan, dim sum timing, the metro route from Baiyun, and the one mistake that ruins the food."
 category: cities
 updated: 2026-09-17
 sources:
@@ -17,6 +17,10 @@ faqs:
     answer: "Go before 11am. Yum cha is a morning and lunch ritual, and the good restaurants fill with locals early. Arriving mid-afternoon means missing what Guangzhou does best."
   - question: "How far is Canton Tower from the airport?"
     answer: "Canton Tower is in the city centre, roughly 45–60 minutes from Baiyun Airport by metro. It's a different direction from the old town, so don't plan both on a short layover."
+  - question: "Should I go up Canton Tower on a Guangzhou layover?"
+    answer: "Only if the weather is clear and you're on schedule. The observation deck costs extra and takes an hour. Viewing the tower from Huacheng Square is free and nearly as impressive for photos."
+  - question: "Can I fit a Pearl River cruise into a Guangzhou layover?"
+    answer: "Only at the evening end. The illuminated cruises run after dark, which usually conflicts with your return buffer. A daytime river view from Shamian Island is the practical substitute."
 ---
 
 ## The short answer
@@ -38,24 +42,41 @@ faqs:
 
 That gives you roughly **1.5–2 hours in the city.** It is enough for a memorable meal, and it is not enough for a second stop. Do not try.
 
-### 10 hours: the classic day
+### 10 hours: the classic day, hour by hour
 
-| Time | Step |
+Assuming a mid-morning landing. Shift the whole plan if you land later.
+
+| Clock | Step |
 |---|---|
-| Morning | Land, clear immigration, store bags |
-| Late morning | **Dim sum** (arrive before 11am) |
-| Early afternoon | **Shamian Island**, leafy colonial-era streets, an hour's slow walk |
-| Afternoon | **Chen Clan Ancestral Hall** for the architecture, if time allows |
-| Late afternoon | **Canton Tower** for the skyline |
-| Early evening | **Beijing Road** for street food and shopping |
-| Evening | Metro Line 3 back to CAN with a 2.5-hour buffer |
+| 0:00 | Land at CAN, clear immigration (allow 45–90 min) |
+| 1:15 | Store bags, or leave them in the car if you hired one |
+| 1:45 | **Metro Line 3** into the city (~45–55 min, ~¥8) |
+| 2:45 | **Dim sum**: the main event. Allow 1–1.5 hours |
+| 4:15 | **Shamian Island**: a slow hour among the colonial-era buildings |
+| 5:30 | Metro to **Canton Tower** / Huacheng Square |
+| 6:00 | Skyline photos; go up the tower only if it is clear |
+| 7:15 | **Beijing Road** or Shangxiajiu for street food and a walk |
+| 8:15 | Metro Line 3 back to CAN (45–55 min) |
+| 9:15 | At the airport, 2.5-hour buffer before departure |
 
-About **5–6 usable hours**, which is a genuinely good day.
+That is about **5–6 usable hours**, and it lands you at the gate with time to spare and no sprinting. If you have time in hand, **Chen Clan Ancestral Hall** is worth slotting in for the architecture.
+
+## The order matters, eat first
+
+This is the single biggest difference between a good Guangzhou layover and a wasted one, and it is the same for both windows. **Dim sum is a morning and lunch ritual.** Locals arrive early; the good teahouses fill by noon and the kitchens wind down through the afternoon.
+
+So the sequence is not negotiable if you land before about 2pm: **airport → dim sum → everything else.**
+
+### If you land in the afternoon
+
+Flip it. Do Shamian Island and Canton Tower first, then eat Cantonese **roast goose or roast meats** for dinner instead. You will not get proper yum cha, but you will get excellent Cantonese food, and that is still the point of Guangzhou.
 
 ## Getting in and out
 
 - **Metro Line 3**, 45–55 minutes, roughly ¥8. Cheap, traffic-proof, and signed in English. This is the right choice.
 - **Taxi / DiDi**, 45–60 minutes, ¥100–130. Convenient with luggage but traffic-dependent.
+- **Between the highlights**, the metro is usually faster than a taxi in Guangzhou traffic.
+- **Canton Tower and Shamian Island are in different directions**, so order them by geography, not preference.
 
 ## What to eat
 
@@ -65,9 +86,16 @@ Guangzhou is the home of Cantonese cooking, so eat the classics:
 - **Roast goose**, Guangzhou's signature, and better here than anywhere else
 - **Wonton noodles** and **double-skin milk dessert**
 
+Order a pot of tea and let it come in waves. Dim sum is a slow meal by design.
+
 ## The mistake that ruins a Guangzhou layover
 
 **Arriving in the afternoon and expecting dim sum.** Yum cha runs through the morning and lunch service. Locals eat early. If you land at 3pm, flip the plan: do Shamian Island and Canton Tower, and eat Cantonese roast meats for dinner instead.
+
+## The two things that will cost you the flight
+
+1. **Immigration queues.** CAN is a major hub for Africa, Southeast Asia, and Europe traffic. Allow a real 60–90 minutes.
+2. **The last metro.** Line 3 stops running around 22:30–23:00. If your buffer runs past that, your return becomes a taxi or DiDi, and you should leave the city 30 minutes earlier.
 
 ## Before you go
 

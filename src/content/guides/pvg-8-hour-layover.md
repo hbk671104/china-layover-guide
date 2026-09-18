@@ -1,6 +1,6 @@
 ---
-title: "PVG 8-Hour Layover: What You Can Actually Do"
-description: "An honest plan for an 8-hour layover at Shanghai Pudong: the Maglev route in, exactly how much city time you get, and the return buffer that keeps you flying."
+title: "PVG Layover: The Maglev Route and Time Budget"
+description: "The Pudong-specific plan: Maglev and Metro Line 2 timings, when the last train runs, and how much of an 8-hour layover survives the 30 km transfer."
 category: transit-visa
 updated: 2026-09-17
 sources:
@@ -22,6 +22,8 @@ faqs:
 ## The short answer
 
 **An 8-hour layover at PVG is enough to see the Bund, if you move deliberately.** You get roughly **2.5–3.5 usable hours** in the city. That is real, but it is not enough for a checklist. Do one thing well and get back early.
+
+This page is about the Pudong side: the Maglev and metro timings, when the last train runs, and the return buffer that keeps you flying. For what to actually see in each window, see [Shanghai layover by window](/guides/shanghai-layover-itinerary/).
 
 ## The time budget, honestly
 

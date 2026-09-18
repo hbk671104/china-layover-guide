@@ -63,4 +63,4 @@ Guangzhou's specific issue is **spread**: the airport, the Tianhe business distr
 
 ## Bottom line
 
-Guangzhou is one of the more straightforward Chinese layovers: a cheap, fast metro and a compact set of highlights. Check your eligibility, then plan around food. See the [Guangzhou 6/10-hour guide](/guides/guangzhou-6-10-hour-layover/), the [10-hour deep dive](/guides/guangzhou-10-hour-layover/), and the [CAN airport guide](/airports/can/).
+Guangzhou is one of the more straightforward Chinese layovers: a cheap, fast metro and a compact set of highlights. Check your eligibility, then plan around food. See the [Guangzhou 6/10-hour guide](/guides/guangzhou-6-10-hour-layover/) and the [CAN airport guide](/airports/can/).

@@ -54,14 +54,14 @@
 - [SZX — Shenzhen Bao'an layover guide](https://chinalayoverguide.com/airports/szx/)
 - [TFU — Chengdu Tianfu layover guide](https://chinalayoverguide.com/airports/tfu/)
 - [XIY — Xi'an Xianyang layover guide](https://chinalayoverguide.com/airports/xiy/)
-- [PVG 8-hour layover: what you can actually do](https://chinalayoverguide.com/guides/pvg-8-hour-layover/)
+- [PVG layover: the Maglev route and time budget](https://chinalayoverguide.com/guides/pvg-8-hour-layover/)
 - [Can I leave Shanghai Pudong Airport on a layover?](https://chinalayoverguide.com/guides/can-i-leave-pvg-airport-on-a-layover/)
 - [Shanghai layover tours: worth it, and how to book](https://chinalayoverguide.com/guides/shanghai-layover-tours-worth-it/)
 - [Can I leave Guangzhou Baiyun Airport on a layover?](https://chinalayoverguide.com/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/)
 - [Guangzhou 6/10-hour layover: what to do](https://chinalayoverguide.com/guides/guangzhou-6-10-hour-layover/)
 - [Baiyun airport to Guangzhou city centre](https://chinalayoverguide.com/guides/baiyun-airport-to-city-centre/)
-- [PVG & CAN luggage storage on a layover](https://chinalayoverguide.com/guides/pvg-can-luggage-storage/)
-- [Guangzhou 10-hour layover: the complete plan](https://chinalayoverguide.com/guides/guangzhou-10-hour-layover/)
+- [PVG and CAN luggage storage: airport-specific details](https://chinalayoverguide.com/guides/pvg-can-luggage-storage/)
+- [Guangzhou layover in 6 or 10 hours](https://chinalayoverguide.com/guides/guangzhou-6-10-hour-layover/)
 - [Guangzhou layover tours: worth it, and how to book](https://chinalayoverguide.com/guides/guangzhou-layover-tours-worth-it/)
 
 ## Airport transfers & logistics
@@ -77,7 +77,7 @@
 ## City layover trips
 
 - [All city quick trips](https://chinalayoverguide.com/cities/)
-- [Shanghai layover: 6, 8, 12 and 24 hours](https://chinalayoverguide.com/guides/shanghai-layover-itinerary/)
+- [Shanghai layover by window: 6, 8, 12 or 24 hours](https://chinalayoverguide.com/guides/shanghai-layover-itinerary/)
 - [Beijing layover: 6, 8, 12 and 24 hours](https://chinalayoverguide.com/guides/beijing-layover-itinerary/)
 - [Guangzhou layover: 6, 8, 12 and 24 hours](https://chinalayoverguide.com/guides/guangzhou-layover-itinerary/)
 - [Chengdu layover: pandas](https://chinalayoverguide.com/guides/chengdu-layover-itinerary/)

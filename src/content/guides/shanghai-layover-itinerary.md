@@ -1,6 +1,6 @@
 ---
-title: "Shanghai Layover: What You Can Actually Do in 6, 8, 12, and 24 Hours"
-description: "A realistic Shanghai layover plan for each window, what to see, how long the airport transfer takes, and how much usable city time you really get from PVG or SHA."
+title: "Shanghai Layover by Window: 6, 8, 12 or 24 Hours"
+description: "How much city time each Shanghai layover window really gives you, and which sights fit a 6, 8, 12 or 24-hour stop from either PVG or SHA. Not sure which window you can use? Start here."
 category: cities
 updated: 2026-09-16
 sources:
@@ -21,7 +21,9 @@ faqs:
 
 ## The short answer
 
-Shanghai is the easiest big-city layover in China. With **8 hours or more you can comfortably see The Bund and eat a real meal**; with 12 hours you get a full classic day; with 24 hours you can add a water town or the French Concession. With under 6 hours, stay at the airport.
+The window you have decides what Shanghai you get, and this page is about choosing it. **6 hours is a taste; 8 hours comfortably covers the Bund and a real meal; 12 hours is a full classic day; 24 hours adds a water town or the French Concession.** The usable time is shorter than the layover in every case, because PVG is about 30 km out.
+
+Once you know your window, the airport mechanics matter just as much. If you are arriving at Pudong, the [PVG route and time budget](/guides/pvg-8-hour-layover/) covers the Maglev, the Metro Line 2 timings and the last-train cutoffs in detail.
 
 ## Which airport, and how long to reach the city
 

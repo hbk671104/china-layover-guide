@@ -1,0 +1,8 @@
+# Cloudflare Pages redirects.
+# https://developers.cloudflare.com/pages/configuration/redirects/
+#
+# One file per removed URL, 301 so search engines consolidate the signals onto
+# the surviving page instead of treating the old one as gone.
+
+# Merged into the 6/10-hour guide, which carries the stronger internal links.
+/guides/guangzhou-10-hour-layover/ /guides/guangzhou-6-10-hour-layover/ 301
