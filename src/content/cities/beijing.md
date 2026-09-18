@@ -14,6 +14,7 @@ transportTips: "The Airport Express takes about 25 minutes to Dongzhimen. The su
 eSimTip: "Activate your travel eSIM before landing — PEK airport Wi-Fi needs an SMS code."
 paymentTip: "Book Forbidden City tickets online in advance with your passport; pay with Alipay/WeChat Pay everywhere."
 mapLink: "https://maps.app.goo.gl/beijing"
+updated: 2026-09-03
 ---
 
 ## Why Beijing works for a layover

@@ -2,7 +2,7 @@
  * Payment recommendation matrix for foreign travelers in China.
  *
  * This is general guidance, not financial advice. Acceptance varies by
- * merchant and provider terms change. Review date: 2026-09-03.
+ * merchant and provider terms change. Review date: 2026-09-17.
  */
 
 export type CardBrand = 'visa' | 'mastercard' | 'amex' | 'discover' | 'none';
@@ -120,7 +120,7 @@ const androidNote =
   'Google Pay itself is not widely accepted offline in China. Use the Alipay/WeChat Pay apps instead — your linked card does the paying.';
 
 export const paymentMatrix: PaymentMatrix = {
-  lastReviewed: '2026-09-03',
+  lastReviewed: '2026-09-17',
   sourceUrl: 'https://www.tenpayglobal.com/',
   recommendations: {
     visa: {

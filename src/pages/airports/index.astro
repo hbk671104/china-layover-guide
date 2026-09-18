@@ -1,0 +1,90 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { airports } from '../../data/airports';
+
+const siteUrl = 'https://chinalayover.guide';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Airport layover guides — China Layover Guide',
+    description:
+      'Layover guides for every major Chinese airport: transfer times, what fits in each window, luggage storage, and whether you can leave the airport.',
+    url: `${siteUrl}/airports/`,
+    hasPart: airports.map((airport) => ({
+      '@type': 'Article',
+      headline: `${airport.name} (${airport.code.toUpperCase()}) layover guide`,
+      url: `${siteUrl}/airports/${airport.code}/`,
+    })),
+  },
+];
+---
+
+<BaseLayout
+  title="China Airport Layover Guides — Every Major Hub"
+  description="Layover guides for China's major airports: how long the transfer takes, what you can do in each window, luggage storage, and whether you can leave the airport."
+  canonicalPath="/airports/"
+  jsonLd={jsonLd}
+>
+  <header class="mx-auto max-w-5xl px-4 pt-12">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+      Airport layover guides
+    </h1>
+    <p class="mt-4 max-w-2xl text-lg text-slate-600">
+      Pick your arrival airport. Each guide covers the transfer into the city, what actually fits in
+      your window, luggage storage, and the mistakes that cost travelers their onward flight.
+    </p>
+  </header>
+
+  <section class="mx-auto max-w-5xl px-4 py-10">
+    <ul class="grid gap-4 sm:grid-cols-2">
+      {
+        airports.map((airport) => (
+          <li>
+            <a
+              href={`/airports/${airport.code}/`}
+              class="block h-full rounded-xl border border-slate-200 p-6 transition hover:border-[var(--color-brand)]"
+            >
+              <span class="text-xs font-semibold uppercase tracking-wide text-[var(--color-brand)]">
+                {airport.code.toUpperCase()}
+              </span>
+              <h2 class="mt-1 text-xl font-bold text-slate-900">{airport.city}</h2>
+              <p class="mt-2 text-slate-600">{airport.name}</p>
+              <p class="mt-2 text-sm text-slate-500">
+                Leave the airport from ~{airport.minViableHours}h · {airport.distance}
+              </p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="mx-auto max-w-3xl px-4 pb-14">
+    <div class="rounded-xl border border-slate-200 bg-slate-50 p-6">
+      <h2 class="font-bold text-slate-900">Before you plan around any of these</h2>
+      <p class="mt-2 text-sm text-slate-600">
+        Leaving the airport depends on your nationality and your onward ticket, not just your layover
+        length. Check the rules first:
+      </p>
+      <ul class="mt-3 space-y-1 text-sm">
+        <li>
+          <a href="/guides/can-you-leave-the-airport-during-a-china-layover/" class="text-[var(--color-brand)] hover:underline">
+            Can you leave the airport during a China layover?
+          </a>
+        </li>
+        <li>
+          <a href="/guides/240-hour-visa-free-transit/" class="text-[var(--color-brand)] hover:underline">
+            China's 240-hour visa-free transit: the complete guide
+          </a>
+        </li>
+        <li>
+          <a href="/transit-visa/" class="text-[var(--color-brand)] hover:underline">
+            Check your eligibility
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+</BaseLayout>

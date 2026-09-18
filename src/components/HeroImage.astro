@@ -1,0 +1,59 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  width?: number;
+  height?: number;
+  /** Set on the single most important image above the fold. */
+  priority?: boolean;
+  /** Attribution text, shown when the licence requires credit. */
+  credit?: string;
+  /** Link for the attribution (source page or licence deed). */
+  creditUrl?: string;
+  class?: string;
+}
+
+const {
+  src,
+  alt,
+  width = 1400,
+  height = 788,
+  priority = false,
+  credit,
+  creditUrl,
+  class: className = '',
+} = Astro.props;
+---
+
+<figure class={`m-0 ${className}`}>
+  <div class="overflow-hidden rounded-2xl bg-slate-100">
+    <img
+      src={src}
+      alt={alt}
+      width={width}
+      height={height}
+      loading={priority ? 'eager' : 'lazy'}
+      decoding={priority ? 'sync' : 'async'}
+      fetchpriority={priority ? 'high' : 'auto'}
+      class="h-full w-full object-cover"
+    />
+  </div>
+  {
+    credit && (
+      <figcaption class="mt-2 text-xs text-slate-500">
+        Photo:{' '}
+        {creditUrl ? (
+          <a
+            href={creditUrl}
+            rel="noopener nofollow"
+            class="underline underline-offset-2 hover:text-[var(--color-brand)]"
+          >
+            {credit}
+          </a>
+        ) : (
+          credit
+        )}
+      </figcaption>
+    )
+  }
+</figure>

@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { checkEligibility, type EligibilityStatus } from '../lib/eligibility';
 import { visaRules } from '../data/visa-rules';
+import NationalityCombobox from './NationalityCombobox';
 
 const statusStyles: Record<EligibilityStatus, string> = {
   eligible: 'border-green-300 bg-green-50 text-green-900',
@@ -33,21 +34,12 @@ export default function EligibilityChecker() {
       </p>
 
       <div className="mt-5 grid gap-4 sm:grid-cols-2">
-        <label className="block">
-          <span className="text-sm font-semibold text-slate-700">Nationality</span>
-          <select
-            value={nationality}
-            onChange={(event) => setNationality(event.target.value)}
-            className="mt-1 w-full rounded-lg border border-slate-300 bg-white p-2 text-slate-900"
-          >
-            {visaRules.eligibleCountries.map((country) => (
-              <option key={country} value={country}>
-                {country}
-              </option>
-            ))}
-            <option value="Other">Other / not listed</option>
-          </select>
-        </label>
+        <div className="block">
+          <NationalityCombobox value={nationality} onChange={setNationality} />
+          <p className="mt-1 text-xs text-slate-500">
+            Search all nationalities — whether or not your country is eligible.
+          </p>
+        </div>
 
         <label className="block">
           <span className="text-sm font-semibold text-slate-700">Entry port</span>

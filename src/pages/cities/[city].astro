@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import HeroImage from '../../components/HeroImage.astro';
 
 export async function getStaticPaths() {
   const cities = await getCollection('cities');
@@ -13,13 +14,48 @@ export async function getStaticPaths() {
 const { city } = Astro.props;
 const { Content } = await render(city);
 
+const siteUrl = 'https://chinalayover.guide';
+const canonicalPath = `/cities/${city.id}/`;
+
 const jsonLd = [
   {
+    '@context': 'https://schema.org',
     '@type': 'Article',
+    mainEntityOfPage: `${siteUrl}${canonicalPath}`,
     headline: `${city.data.city} layover guide`,
     description: city.data.bestFor,
+    image: `${siteUrl}/og-default.png`,
     dateModified: new Date().toISOString(),
-    author: { '@type': 'Organization', name: 'China Layover Guide' },
+    author: {
+      '@type': 'Organization',
+      name: 'China Layover Guide',
+      url: `${siteUrl}/about/`,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'China Layover Guide',
+      url: `${siteUrl}/about/`,
+      logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'City quick trips',
+        item: `${siteUrl}/cities/`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: `${city.data.city} layover guide`,
+        item: `${siteUrl}${canonicalPath}`,
+      },
+    ],
   },
 ];
 ---
@@ -43,6 +79,37 @@ const jsonLd = [
         {city.data.region} · {city.data.bestFor}
       </p>
       <p class="mt-2 text-sm text-slate-500">Suggested window: {city.data.layoverWindow}</p>
+      <p class="mt-2 text-sm text-slate-500">
+        Last updated:{' '}
+        <time datetime={city.data.updated.toISOString()}>
+          {
+            city.data.updated.toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+            })
+          }
+        </time>
+      </p>
+      <p class="mt-2 text-sm text-slate-500">
+        Researched and fact-checked by the{' '}
+        <a href="/about/" class="underline hover:text-[var(--color-brand)]">
+          China Layover Guide editorial team
+        </a>{' '}
+        against official sources.
+      </p>
+      {
+        city.data.heroImage && (
+          <HeroImage
+            src={city.data.heroImage}
+            alt={city.data.heroAlt ?? `A view of ${city.data.city}`}
+            credit={city.data.heroCredit}
+            creditUrl={city.data.heroCreditUrl}
+            class="mt-6"
+            priority
+          />
+        )
+      }
     </header>
 
     <div class="mt-10 grid gap-4 sm:grid-cols-2">

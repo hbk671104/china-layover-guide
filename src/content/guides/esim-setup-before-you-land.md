@@ -2,7 +2,7 @@
 title: "China eSIM Setup: Do It Before You Land"
 description: "Why a China travel eSIM keeps your usual apps working, how to choose a plan, and the exact setup steps to finish before your flight lands."
 category: esim
-updated: 2026-09-03
+updated: 2026-09-16
 sources:
   - label: "Airalo — China eSIM plans (example provider, not an endorsement)"
     url: "https://www.airalo.com/china-esim"
@@ -12,7 +12,7 @@ sources:
     url: "https://www.getnomad.app/china-esim"
 ---
 
-> Reviewed 2026-09-03. eSIM plans and prices change often — check the provider's current terms before buying.
+> Reviewed 2026-09-16. eSIM plans and prices change often — check the provider's current terms before buying.
 
 ## Why you need this before you land
 
@@ -46,3 +46,12 @@ The catch: **airport Wi-Fi in China usually requires an SMS code**, and your hom
 ## Bottom line
 
 A travel eSIM is the highest-leverage thing you can do before a China layover: it keeps your usual apps working and removes the biggest source of airport stress. Buy it early, install it early, and test it before you take off.
+
+## Related guides
+
+- [Best eSIM for China: Airalo, Holafly & Nomad compared](/guides/best-esim-for-china/)
+- [eSIM vs VPN vs roaming in China](/guides/esim-vs-vpn-vs-roaming/)
+- [Does Google Maps work in China?](/guides/does-google-maps-work-in-china/)
+- [China airport Wi-Fi: the SMS catch](/guides/china-airport-wifi/)
+- [China apps checklist: what to install before you fly](/guides/china-apps-checklist/)
+- [Payments in China for foreigners](/guides/payments-in-china-for-foreigners/)

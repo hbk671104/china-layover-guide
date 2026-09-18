@@ -1,0 +1,253 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { airports, findAirport } from '../../data/airports';
+
+export async function getStaticPaths() {
+  return airports.map((airport) => ({
+    params: { code: airport.code },
+    props: { airport },
+  }));
+}
+
+const { airport } = Astro.props;
+const code = airport.code.toUpperCase();
+const siteUrl = 'https://chinalayover.guide';
+const canonicalPath = `/airports/${airport.code}/`;
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    mainEntityOfPage: `${siteUrl}${canonicalPath}`,
+    headline: `${airport.name} (${code}) layover guide`,
+    description: `How to use a layover at ${code}: transfer times to ${airport.city}, what fits in each window, luggage storage, and visa-free transit eligibility.`,
+    image: `${siteUrl}/og-default.png`,
+    dateModified: new Date().toISOString(),
+    author: {
+      '@type': 'Organization',
+      name: 'China Layover Guide',
+      url: `${siteUrl}/about/`,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'China Layover Guide',
+      url: `${siteUrl}/about/`,
+      logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+      { '@type': 'ListItem', position: 2, name: 'Airports', item: `${siteUrl}/airports/` },
+      { '@type': 'ListItem', position: 3, name: code, item: `${siteUrl}${canonicalPath}` },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: `Can I leave ${code} airport on a layover?`,
+        answer: airport.transitEligible
+          ? `Yes, if you qualify for China's visa-free entry or 240-hour visa-free transit. ${code} is a designated transit port, so eligible travelers can enter and travel within ${airport.permittedArea}.`
+          : `${code} is not a designated port for the 240-hour visa-free transit policy. Check whether the 30-day visa-free entry or a visa applies to you.`,
+      },
+      {
+        '@type': 'Question',
+        name: `How long does it take to get from ${code} to ${airport.city}?`,
+        answer: `${airport.transfers[0].mode} takes about ${airport.transfers[0].time}. Expect to pay around ${airport.transfers[0].cost}.`,
+      },
+      {
+        '@type': 'Question',
+        name: `What is the minimum layover to leave ${code}?`,
+        answer: `Roughly ${airport.minViableHours} hours at the airport before leaving is worthwhile, and ${airport.comfortableHours}+ hours is comfortable. Below ${airport.minViableHours} hours, stay airside.`,
+      },
+      {
+        '@type': 'Question',
+        name: `Is there luggage storage at ${code}?`,
+        answer: airport.luggage.available
+          ? `Yes. ${airport.luggage.location} Expect around ${airport.luggage.cost}.`
+          : `Confirm current luggage storage options with the airport before you travel.`,
+      },
+    ],
+  },
+];
+
+const related = airports.filter((other) => other.code !== airport.code).slice(0, 4);
+---
+
+<BaseLayout
+  title={`${code} Layover Guide — ${airport.name}`}
+  description={`How to use a layover at ${code} (${airport.name}): transfer times to ${airport.city}, what fits in 6, 8, 12, and 24 hours, luggage storage, and whether you can leave the airport.`}
+  canonicalPath={canonicalPath}
+  type="article"
+  jsonLd={jsonLd}
+>
+  <article class="mx-auto max-w-3xl px-4 py-12">
+    <header>
+      <a href="/airports/" class="text-sm font-semibold text-[var(--color-brand)] hover:underline">
+        &larr; All airports
+      </a>
+      <h1 class="mt-4 text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+        {code} layover guide
+      </h1>
+      <p class="mt-3 text-lg text-slate-600">{airport.name} · {airport.city}</p>
+      <p class="mt-2 text-sm text-slate-500">
+        {airport.distance} · leave the airport from ~{airport.minViableHours}h
+      </p>
+      <p class="mt-2 text-sm text-slate-500">
+        Researched and fact-checked by the{' '}
+        <a href="/about/" class="underline hover:text-[var(--color-brand)]">
+          China Layover Guide editorial team
+        </a>{' '}
+        against official sources.
+      </p>
+    </header>
+
+    <section class="mt-10 rounded-xl border border-slate-200 p-5">
+      <h2 class="font-bold text-slate-900">The short answer</h2>
+      <p class="mt-2 text-sm text-slate-600">
+        You need roughly <strong>{airport.minViableHours} hours</strong> at {code} before leaving the
+        airport is worthwhile, and <strong>{airport.comfortableHours}+ hours</strong> to be
+        comfortable. {airport.transfers[0].mode} gets you to {airport.city} in about{' '}
+        {airport.transfers[0].time}.
+        {airport.transitEligible
+          ? ` ${code} is a designated port under the 240-hour visa-free transit policy, covering ${airport.permittedArea}.`
+          : ''}
+      </p>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="text-2xl font-bold text-slate-900">Getting into {airport.city}</h2>
+      <div class="mt-4 overflow-x-auto">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="border-b border-slate-200 text-left text-slate-500">
+              <th class="py-2 pr-3 font-semibold">Option</th>
+              <th class="py-2 pr-3 font-semibold">Time</th>
+              <th class="py-2 pr-3 font-semibold">Cost</th>
+              <th class="py-2 font-semibold">Traffic-proof</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              airport.transfers.map((transfer) => (
+                <tr class="border-b border-slate-100 align-top">
+                  <td class="py-3 pr-3 font-medium text-slate-900">
+                    {transfer.mode}
+                    <p class="mt-1 font-normal text-slate-600">{transfer.notes}</p>
+                  </td>
+                  <td class="py-3 pr-3 whitespace-nowrap text-slate-600">{transfer.time}</td>
+                  <td class="py-3 pr-3 whitespace-nowrap text-slate-600">{transfer.cost}</td>
+                  <td class="py-3 text-slate-600">{transfer.trafficProof ? 'Yes' : 'No'}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="text-2xl font-bold text-slate-900">What fits in each window</h2>
+      <ul class="mt-4 space-y-4">
+        {
+          airport.windows.map((window) => (
+            <li class="rounded-xl border border-slate-200 p-5">
+              <div class="flex flex-wrap items-baseline gap-x-3">
+                <h3 class="font-bold text-slate-900">{window.label}</h3>
+                <span class="text-sm font-semibold text-[var(--color-brand)]">{window.verdict}</span>
+              </div>
+              <p class="mt-2 text-sm text-slate-600">{window.detail}</p>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="mt-10 grid gap-4 sm:grid-cols-2">
+      <div class="rounded-xl border border-slate-200 p-5">
+        <h2 class="font-bold text-slate-900">Luggage storage</h2>
+        <p class="mt-2 text-sm text-slate-600">{airport.luggage.location}</p>
+        <p class="mt-2 text-sm text-slate-600">
+          <strong>Cost:</strong> {airport.luggage.cost}
+        </p>
+      </div>
+      <div class="rounded-xl border border-slate-200 p-5">
+        <h2 class="font-bold text-slate-900">Entry rules</h2>
+        <p class="mt-2 text-sm text-slate-600">
+          {airport.transitEligible
+            ? `Covered by the 240-hour visa-free transit policy. Permitted area: ${airport.permittedArea}.`
+            : 'Check the current visa-free rules for this port before you book.'}
+        </p>
+        <p class="mt-2 text-sm">
+          <a href="/transit-visa/" class="font-semibold text-[var(--color-brand)] hover:underline">
+            Check your eligibility &rarr;
+          </a>
+        </p>
+      </div>
+    </section>
+
+    <section class="mt-10 rounded-xl border border-amber-200 bg-amber-50 p-5">
+      <h2 class="font-bold text-amber-900">{airport.code.toUpperCase()} traps to avoid</h2>
+      <ul class="mt-2 list-disc space-y-1 pl-5 text-sm text-amber-900">
+        {airport.gotchas.map((gotcha) => <li>{gotcha}</li>)}
+      </ul>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="text-2xl font-bold text-slate-900">Related guides</h2>
+      <ul class="mt-4 space-y-2 text-sm">
+        <li>
+          <a href="/guides/guangzhou-10-hour-layover/" class="text-[var(--color-brand)] hover:underline">
+            Guangzhou 10-hour layover: the complete plan
+          </a>
+        </li>
+        <li>
+          <a href="/guides/guangzhou-layover-tours-worth-it/" class="text-[var(--color-brand)] hover:underline">
+            Guangzhou layover tours: worth it, and how to book
+          </a>
+        </li>
+        <li>
+          <a href="/guides/china-airport-to-city-transfers/" class="text-[var(--color-brand)] hover:underline">
+            China airport to city: every major hub compared
+          </a>
+        </li>
+        <li>
+          <a href="/guides/luggage-storage-at-china-airports/" class="text-[var(--color-brand)] hover:underline">
+            Luggage storage at China's airports
+          </a>
+        </li>
+        <li>
+          <a href="/guides/can-you-leave-the-airport-during-a-china-layover/" class="text-[var(--color-brand)] hover:underline">
+            Can you leave the airport during a China layover?
+          </a>
+        </li>
+        {airport.citySlug && (
+          <li>
+            <a href={`/cities/${airport.citySlug}/`} class="text-[var(--color-brand)] hover:underline">
+              {airport.city} layover guide
+            </a>
+          </li>
+        )}
+        {
+          related.map((other) => (
+            <li>
+              <a href={`/airports/${other.code}/`} class="text-[var(--color-brand)] hover:underline">
+                {other.code.toUpperCase()} — {other.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <p class="mt-10 text-xs text-slate-500">
+      Transfer times, fares, and operating hours change. Verify against the airport's own transport
+      page and the National Immigration Administration before you book.
+    </p>
+  </article>
+</BaseLayout>

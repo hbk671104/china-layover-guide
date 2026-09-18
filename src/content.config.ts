@@ -7,7 +7,7 @@ const guides = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    category: z.enum(['transit-visa', 'esim', 'payments']),
+    category: z.enum(['transit-visa', 'esim', 'payments', 'cities', 'logistics']),
     updated: z.coerce.date(),
     sources: z
       .array(
@@ -17,6 +17,18 @@ const guides = defineCollection({
         }),
       )
       .default([]),
+    faqs: z
+      .array(
+        z.object({
+          question: z.string(),
+          answer: z.string(),
+        }),
+      )
+      .default([]),
+    heroImage: z.string().optional(),
+    heroAlt: z.string().optional(),
+    heroCredit: z.string().optional(),
+    heroCreditUrl: z.string().url().optional(),
   }),
 });
 
@@ -33,6 +45,11 @@ const cities = defineCollection({
     eSimTip: z.string(),
     paymentTip: z.string(),
     mapLink: z.string().url(),
+    updated: z.coerce.date(),
+    heroImage: z.string().optional(),
+    heroAlt: z.string().optional(),
+    heroCredit: z.string().optional(),
+    heroCreditUrl: z.string().url().optional(),
   }),
 });
 

@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceList from '../../components/SourceList.astro';
+import HeroImage from '../../components/HeroImage.astro';
 
 export async function getStaticPaths() {
   const guides = await getCollection('guides');
@@ -18,17 +19,67 @@ const categoryLabel = {
   'transit-visa': 'Transit visa',
   esim: 'eSIM',
   payments: 'Payments',
+  cities: 'City trips',
+  logistics: 'Layover logistics',
 }[guide.data.category];
 
-const jsonLd = [
+const siteUrl = 'https://chinalayover.guide';
+const canonicalPath = `/guides/${guide.id}/`;
+
+const jsonLd: Record<string, unknown>[] = [
   {
+    '@context': 'https://schema.org',
     '@type': 'Article',
+    mainEntityOfPage: `${siteUrl}${canonicalPath}`,
     headline: guide.data.title,
     description: guide.data.description,
+    image: `${siteUrl}/og-default.png`,
+    datePublished: guide.data.updated.toISOString(),
     dateModified: guide.data.updated.toISOString(),
-    author: { '@type': 'Organization', name: 'China Layover Guide' },
+    author: {
+      '@type': 'Organization',
+      name: 'China Layover Guide',
+      url: `${siteUrl}/about/`,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'China Layover Guide',
+      url: `${siteUrl}/about/`,
+      logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: categoryLabel,
+        item: `${siteUrl}/${guide.data.category}/`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: guide.data.title,
+        item: `${siteUrl}${canonicalPath}`,
+      },
+    ],
   },
 ];
+
+if (guide.data.faqs.length > 0) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: guide.data.faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+    })),
+  });
+}
 ---
 
 <BaseLayout
@@ -62,6 +113,25 @@ const jsonLd = [
           }
         </time>
       </p>
+      <p class="mt-2 text-sm text-slate-500">
+        Researched and fact-checked by the{' '}
+        <a href="/about/" class="underline hover:text-[var(--color-brand)]">
+          China Layover Guide editorial team
+        </a>{' '}
+        against official sources.
+      </p>
+      {
+        guide.data.heroImage && (
+          <HeroImage
+            src={guide.data.heroImage}
+            alt={guide.data.heroAlt ?? guide.data.title}
+            credit={guide.data.heroCredit}
+            creditUrl={guide.data.heroCreditUrl}
+            class="mt-6"
+            priority
+          />
+        )
+      }
     </header>
     <div class="prose prose-slate mt-10 max-w-none">
       <Content />

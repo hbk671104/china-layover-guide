@@ -14,7 +14,7 @@ describe('checkEligibility', () => {
     expect(result.reasons.join(' ')).toContain('Shanghai');
   });
 
-  it('marks a nationality not on the 54-country list as not eligible', () => {
+  it('marks a nationality not on the 55-country list as not eligible, naming it', () => {
     const result = checkEligibility({
       nationality: 'India',
       portId: 'shanghai',
@@ -23,6 +23,7 @@ describe('checkEligibility', () => {
     });
 
     expect(result.status).toBe('not-eligible');
+    expect(result.headline).toContain('India');
   });
 
   it('marks a round trip as not eligible', () => {

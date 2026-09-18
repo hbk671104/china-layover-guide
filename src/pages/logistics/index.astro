@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideList from '../../components/GuideList.astro';
+
+const guides = (
+  await getCollection('guides', ({ data }) => data.category === 'logistics')
+).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+---
+
+<BaseLayout
+  title="China Layover Logistics: Transfers, Luggage & Registration"
+  description="The practical side of a China layover: airport-to-city transfers, luggage storage, hotel registration, and what to do when things go wrong."
+  canonicalPath="/logistics/"
+>
+  <header class="mx-auto max-w-3xl px-4 pt-12">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+      Layover logistics
+    </h1>
+    <p class="mt-4 text-lg text-slate-600">
+      The unglamorous parts that decide whether a layover works: getting in from the
+      airport, dropping your bags, registering your stay, and staying out of trouble.
+    </p>
+  </header>
+
+  <section class="mx-auto max-w-3xl px-4 py-10">
+    <h2 class="text-2xl font-bold text-slate-900">Guides</h2>
+    <div class="mt-6">
+      <GuideList guides={guides} />
+    </div>
+  </section>
+</BaseLayout>

@@ -13,6 +13,7 @@ transportTips: "Tianfu Airport (TFU) is far — about an hour to the center. The
 eSimTip: "Set up your eSIM before landing; roaming data keeps Google Maps and WhatsApp working normally."
 paymentTip: "Street food and teahouses are QR-only; Alipay/WeChat Pay with your foreign card is essential."
 mapLink: "https://maps.app.goo.gl/chengdu"
+updated: 2026-09-03
 ---
 
 ## Why Chengdu works for a layover

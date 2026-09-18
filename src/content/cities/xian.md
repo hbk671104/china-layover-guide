@@ -13,6 +13,7 @@ transportTips: "The Terracotta Army is about an hour from the airport and the ci
 eSimTip: "Activate your eSIM before landing so maps and translation apps work the moment you exit the airport."
 paymentTip: "Buy Terracotta Army tickets online in advance with your passport; street food in the Muslim Quarter is Alipay/WeChat only."
 mapLink: "https://maps.app.goo.gl/xian"
+updated: 2026-09-03
 ---
 
 ## Why Xi'an works for a layover

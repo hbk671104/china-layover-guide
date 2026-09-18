@@ -40,5 +40,5 @@ Before going live, set the production domain in `astro.config.mjs` (`site`) so c
 ## Notes
 
 - `astro` is pinned to `7.2.10`: `astro@7.3.0` fails static builds with `./_internal/logger is not exported` (package regression). Upgrade once a fixed version is published.
-- The OG image is currently an SVG placeholder (`public/og-default.svg`). Replace it with a 1200×630 PNG before launch.
+- The OG image is a generated 1200×630 PNG (`public/og-default.png`), served as the default social preview.
 - Affiliate links are intentionally absent in v1; the content model (`sources[]`) leaves room to add them with disclosures later.

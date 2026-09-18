@@ -14,6 +14,7 @@ transportTips: "The Maglev is the fastest way in from Pudong (8 minutes to Longy
 eSimTip: "Install and activate your eSIM before landing — airport Wi-Fi requires SMS verification and is unreliable."
 paymentTip: "Set up Alipay or WeChat Pay with your foreign card before you land; most street vendors and small shops do not take Visa/Mastercard directly."
 mapLink: "https://maps.app.goo.gl/shanghai"
+updated: 2026-09-03
 ---
 
 ## Why Shanghai works for a layover

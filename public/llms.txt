@@ -1,0 +1,91 @@
+# China Layover Guide
+
+> Practical, independent guides for foreign travelers on a short stopover in China: visa-free transit rules, eSIM setup before you land, payments that actually work, airport transfers, and quick city trips. Facts are reviewed against official sources and every page carries a last-updated date.
+
+## Start here
+
+- [Home](https://chinalayover.guide/): turn your China layover into a real trip
+- [All guides](https://chinalayover.guide/guides/): every article, grouped by topic
+- [Airport layover guides](https://chinalayover.guide/airports/): PVG, CAN, PEK, PKX, SHA, SZX, TFU, XIY
+- [About & accuracy policy](https://chinalayover.guide/about/)
+
+## Visa-free transit & entry rules
+
+- [China's 240-hour visa-free transit: the complete guide](https://chinalayover.guide/guides/240-hour-visa-free-transit/)
+- [30-day visa-free entry vs 240-hour transit: which one applies to you?](https://chinalayover.guide/guides/30-day-visa-free-vs-240-hour-transit/)
+- [24-hour vs 240-hour visa-free transit: what's the difference?](https://chinalayover.guide/guides/24-hour-vs-240-hour-visa-free-transit/)
+- [The third-country rule for China transit (A→B→C)](https://chinalayover.guide/guides/third-country-rule-for-china-transit/)
+- [Transit mistakes that get travelers denied](https://chinalayover.guide/guides/china-transit-mistakes-that-get-you-denied/)
+- [240-hour transit: 65 ports and permitted areas reference](https://chinalayover.guide/guides/240-hour-transit-ports-and-permitted-areas/)
+- [Visa-free vs visa: when you actually need a Chinese visa](https://chinalayover.guide/guides/visa-free-vs-visa-china/)
+- [China's regional visa-free schemes (Hainan & bilateral)](https://chinalayover.guide/guides/china-regional-visa-free-schemes/)
+- [Is a China layover worth it? An honest look](https://chinalayover.guide/guides/is-a-china-layover-worth-it/)
+- [China layover statistics & facts 2026](https://chinalayover.guide/guides/china-layover-statistics-and-facts/)
+- [Can you leave the airport during a China layover?](https://chinalayover.guide/guides/can-you-leave-the-airport-during-a-china-layover/)
+- [Transit visa hub](https://chinalayover.guide/transit-visa/)
+
+## eSIM & connectivity
+
+- [China eSIM setup: do it before you land](https://chinalayover.guide/guides/esim-setup-before-you-land/)
+- [Best eSIM for China: Airalo, Holafly & Nomad compared](https://chinalayover.guide/guides/best-esim-for-china/)
+- [eSIM vs VPN vs roaming in China](https://chinalayover.guide/guides/esim-vs-vpn-vs-roaming/)
+- [Does Google Maps work in China?](https://chinalayover.guide/guides/does-google-maps-work-in-china/)
+- [China airport Wi-Fi: the SMS catch](https://chinalayover.guide/guides/china-airport-wifi/)
+- [China apps checklist: what to install before you fly](https://chinalayover.guide/guides/china-apps-checklist/)
+- [eSIM hub](https://chinalayover.guide/esim/)
+
+## Payments & apps
+
+- [How to pay in China: Alipay, WeChat Pay & TenPayGo for foreigners](https://chinalayover.guide/guides/payments-in-china-for-foreigners/)
+- [Alipay for foreigners: step-by-step setup](https://chinalayover.guide/guides/alipay-for-foreigners/)
+- [WeChat Pay and TenPayGo for foreigners](https://chinalayover.guide/guides/wechat-pay-and-tenpaygo-for-foreigners/)
+- [Do you need cash in China?](https://chinalayover.guide/guides/do-you-need-cash-in-china/)
+- [Do Apple Pay and Google Pay work in China?](https://chinalayover.guide/guides/apple-pay-and-google-pay-in-china/)
+- [Payments hub](https://chinalayover.guide/payments/)
+
+## Airport transfer guides (by airport)
+
+- [Airport layover guides hub](https://chinalayover.guide/airports/) — every major hub
+- [PVG — Shanghai Pudong layover guide](https://chinalayover.guide/airports/pvg/)
+- [SHA — Shanghai Hongqiao layover guide](https://chinalayover.guide/airports/sha/)
+- [CAN — Guangzhou Baiyun layover guide](https://chinalayover.guide/airports/can/)
+- [PEK — Beijing Capital layover guide](https://chinalayover.guide/airports/pek/)
+- [PKX — Beijing Daxing layover guide](https://chinalayover.guide/airports/pkx/)
+- [SZX — Shenzhen Bao'an layover guide](https://chinalayover.guide/airports/szx/)
+- [TFU — Chengdu Tianfu layover guide](https://chinalayover.guide/airports/tfu/)
+- [XIY — Xi'an Xianyang layover guide](https://chinalayover.guide/airports/xiy/)
+- [PVG 8-hour layover: what you can actually do](https://chinalayover.guide/guides/pvg-8-hour-layover/)
+- [Can I leave Shanghai Pudong Airport on a layover?](https://chinalayover.guide/guides/can-i-leave-pvg-airport-on-a-layover/)
+- [Shanghai layover tours: worth it, and how to book](https://chinalayover.guide/guides/shanghai-layover-tours-worth-it/)
+- [Can I leave Guangzhou Baiyun Airport on a layover?](https://chinalayover.guide/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/)
+- [Guangzhou 6/10-hour layover: what to do](https://chinalayover.guide/guides/guangzhou-6-10-hour-layover/)
+- [Baiyun airport to Guangzhou city centre](https://chinalayover.guide/guides/baiyun-airport-to-city-centre/)
+- [PVG & CAN luggage storage on a layover](https://chinalayover.guide/guides/pvg-can-luggage-storage/)
+- [Guangzhou 10-hour layover: the complete plan](https://chinalayover.guide/guides/guangzhou-10-hour-layover/)
+- [Guangzhou layover tours: worth it, and how to book](https://chinalayover.guide/guides/guangzhou-layover-tours-worth-it/)
+
+## Airport transfers & logistics
+
+- [China airport to city: transfers compared](https://chinalayover.guide/guides/china-airport-to-city-transfers/)
+- [Luggage storage at China's airports](https://chinalayover.guide/guides/luggage-storage-at-china-airports/)
+- [DiDi and ride-hailing in China](https://chinalayover.guide/guides/didi-and-ride-hailing-in-china/)
+- [China high-speed rail for tourists](https://chinalayover.guide/guides/china-high-speed-rail-for-tourists/)
+- [Is China safe for tourists? Scams and risks](https://chinalayover.guide/guides/china-travel-safety-and-scams/)
+- [Hotel registration for foreigners in China](https://chinalayover.guide/guides/hotel-registration-for-foreigners-in-china/)
+- [Logistics hub](https://chinalayover.guide/logistics/)
+
+## City layover trips
+
+- [All city quick trips](https://chinalayover.guide/cities/)
+- [Shanghai layover: 6, 8, 12 and 24 hours](https://chinalayover.guide/guides/shanghai-layover-itinerary/)
+- [Beijing layover: 6, 8, 12 and 24 hours](https://chinalayover.guide/guides/beijing-layover-itinerary/)
+- [Guangzhou layover: 6, 8, 12 and 24 hours](https://chinalayover.guide/guides/guangzhou-layover-itinerary/)
+- [Chengdu layover: pandas](https://chinalayover.guide/guides/chengdu-layover-itinerary/)
+- [Xi'an layover: Terracotta Army](https://chinalayover.guide/guides/xian-layover-itinerary/)
+- [Can you see the Great Wall on a Beijing layover?](https://chinalayover.guide/guides/great-wall-from-beijing-layover/)
+- [Beijing](https://chinalayover.guide/cities/beijing/) · [Shanghai](https://chinalayover.guide/cities/shanghai/) · [Guangzhou](https://chinalayover.guide/cities/guangzhou/) · [Chengdu](https://chinalayover.guide/cities/chengdu/) · [Xi'an](https://chinalayover.guide/cities/xian/) · [Shenzhen](https://chinalayover.guide/cities/shenzhen/) · [Hangzhou](https://chinalayover.guide/cities/hangzhou/) · [Chongqing](https://chinalayover.guide/cities/chongqing/) · [Xiamen](https://chinalayover.guide/cities/xiamen/) · [Qingdao](https://chinalayover.guide/cities/qingdao/) · [Nanjing](https://chinalayover.guide/cities/nanjing/) · [Guilin](https://chinalayover.guide/cities/guilin/)
+
+## Notes
+
+- Immigration and payment rules change; always confirm with the National Immigration Administration (NIA) or the 12367 hotline before booking.
+- This file is maintained as a machine-readable index for AI assistants and search engines.

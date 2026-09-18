@@ -1,10 +1,15 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideList from '../../components/GuideList.astro';
 
 const cities = (await getCollection('cities')).sort((a, b) =>
   a.data.city.localeCompare(b.data.city),
 );
+
+const itineraries = (
+  await getCollection('guides', ({ data }) => data.category === 'cities')
+).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
 ---
 
 <BaseLayout
@@ -42,5 +47,15 @@ const cities = (await getCollection('cities')).sort((a, b) =>
         ))
       }
     </ul>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-4 pb-14">
+    <h2 class="text-2xl font-bold text-slate-900">Layover itineraries by window</h2>
+    <p class="mt-2 max-w-2xl text-slate-600">
+      Detailed 6, 8, 12, and 24-hour plans for the cities where most long-haul flights stop.
+    </p>
+    <div class="mt-6">
+      <GuideList guides={itineraries} />
+    </div>
   </section>
 </BaseLayout>

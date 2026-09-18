@@ -13,6 +13,7 @@ transportTips: "Baiyun Airport connects to the city on Metro Line 3 (about 40 mi
 eSimTip: "Install your eSIM before arrival; airport Wi-Fi is unreliable without a local number."
 paymentTip: "Cantonese dim sum places and small shops are QR-code only — set up Alipay/WeChat Pay in advance."
 mapLink: "https://maps.app.goo.gl/guangzhou"
+updated: 2026-09-03
 ---
 
 ## Why Guangzhou works for a layover

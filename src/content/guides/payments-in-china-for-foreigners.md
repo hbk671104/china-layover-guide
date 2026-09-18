@@ -2,7 +2,7 @@
 title: "How to Pay in China: Alipay, WeChat Pay & TenPayGo for Foreigners"
 description: "Visa and Mastercard acceptance is limited in China. Here's how to link your foreign card to Alipay, WeChat Pay, and TenPayGo so you can pay like a local."
 category: payments
-updated: 2026-09-03
+updated: 2026-09-16
 sources:
   - label: "Alipay — international travelers"
     url: "https://www.alipay.com/"
@@ -12,7 +12,7 @@ sources:
     url: "https://www.tenpayglobal.com/"
 ---
 
-> Reviewed 2026-09-03. Payment provider terms and fees change — check the apps before you travel.
+> Reviewed 2026-09-16. Payment provider terms and fees change — check the apps before you travel.
 
 ## The situation on the ground
 
@@ -57,3 +57,12 @@ WeChat Pay is the other half of the duopoly, and some vendors only take WeChat. 
 ## Bottom line
 
 Spend 20 minutes setting up Alipay + WeChat Pay (+ TenPayGo) before you fly, and paying in China stops being a problem. Keep a little cash for the rare holdout.
+
+## Related guides
+
+- [Alipay for foreigners: step-by-step setup](/guides/alipay-for-foreigners/)
+- [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)
+- [Do you need cash in China?](/guides/do-you-need-cash-in-china/)
+- [Do Apple Pay and Google Pay work in China?](/guides/apple-pay-and-google-pay-in-china/)
+- [China apps checklist: what to install before you fly](/guides/china-apps-checklist/)
+- [DiDi and ride-hailing in China](/guides/didi-and-ride-hailing-in-china/)

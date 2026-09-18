@@ -18,11 +18,33 @@ const {
   description,
   canonicalPath = '/',
   type = 'website',
-  image = '/og-default.svg',
+  image = '/og-default.png',
   jsonLd = [],
 } = Astro.props;
 
 const siteName = 'China Layover Guide';
+const siteUrl = 'https://chinalayover.guide';
+
+const siteJsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'Organization',
+        name: siteName,
+        url: `${siteUrl}/`,
+        logo: `${siteUrl}/favicon.svg`,
+      },
+      {
+        '@type': 'WebSite',
+        name: siteName,
+        url: `${siteUrl}/`,
+      },
+    ],
+  },
+];
+
+const allJsonLd = [...siteJsonLd, ...jsonLd];
 ---
 
 <!doctype html>
@@ -37,7 +59,7 @@ const siteName = 'China Layover Guide';
       {type}
       {image}
       siteName={siteName}
-      {jsonLd}
+      jsonLd={allJsonLd}
     />
   </head>
   <body class="flex min-h-screen flex-col bg-white text-slate-800">
