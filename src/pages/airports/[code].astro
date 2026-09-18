@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 
 const { airport } = Astro.props;
 const code = airport.code.toUpperCase();
-const siteUrl = 'https://chinalayover.guide';
+const siteUrl = 'https://chinalayoverguide.com';
 const canonicalPath = `/airports/${airport.code}/`;
 
 const jsonLd = [

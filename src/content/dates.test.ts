@@ -1,4 +1,4 @@
-import { readdir, readFile, stat } from 'node:fs/promises';
+import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { describe, expect, it } from 'vitest';
@@ -7,13 +7,17 @@ import { describe, expect, it } from 'vitest';
  * Guards the `updated` dates that drive both the visible "Last updated" line and
  * the sitemap's lastmod signal.
  *
- * Two failure modes this catches, both of which have shipped before:
+ * Failure modes this catches, all of which have shipped before:
  *   1. A date in the future (a typo like 2026-09-03 written on the 17th, or a
  *      copy-pasted date that never gets edited).
- *   2. A date that disagrees with the file's own creation date, which makes the
- *      whole lastmod signal uniform and therefore worthless.
+ *   2. A body review date that contradicts the frontmatter, so the page argues
+ *      with itself.
+ *   3. A date nobody has revisited in over a year.
  *
- * If either fires, run: python3 scripts/sync-dates.py
+ * Deliberately NOT checked: whether `updated` equals the file's filesystem
+ * timestamp. Git rewrites timestamps on clone, rebase and checkout, so that
+ * assertion fires spuriously on every integration. The date should track
+ * editorial review, which is a human fact the filesystem does not know.
  */
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
@@ -23,16 +27,6 @@ const COLLECTIONS = ['guides', 'cities'] as const;
 
 function toIsoDate(date: Date): string {
   return date.toISOString().slice(0, 10);
-}
-
-/**
- * Calendar date the file was created. APFS preserves birthtime across edits, so
- * it does not move when the file is rewritten — unlike mtime.
- */
-async function createdDate(file: string): Promise<string> {
-  const stats = await stat(file);
-  const created = stats.birthtimeMs || stats.mtimeMs;
-  return toIsoDate(new Date(created));
 }
 
 async function frontmatterDate(file: string): Promise<string | null> {
@@ -83,22 +77,25 @@ describe('content dates', () => {
         expect(future, `dates ahead of today (${today}): ${future.join(', ')}`).toEqual([]);
       });
 
-      it('updated matches each file creation date', async () => {
-        const drifted: string[] = [];
+      it('updated is not in the distant past', async () => {
+        // A sanity floor, not an authorship check: git rewrites file timestamps
+        // on clone/rebase, so filesystem dates cannot be the oracle here.
+        const today = toIsoDate(new Date());
+        const stale: string[] = [];
 
         for (const entry of await entries(collection)) {
           const declared = await frontmatterDate(entry.full);
           if (!declared) continue;
 
-          const created = await createdDate(entry.full);
-          if (declared !== created) {
-            drifted.push(`${entry.file}: declared ${declared}, created ${created}`);
+          const ageDays = (Date.parse(today) - Date.parse(declared)) / 86_400_000;
+          if (!Number.isFinite(ageDays) || ageDays > 365) {
+            stale.push(`${entry.file}: ${declared}`);
           }
         }
 
         expect(
-          drifted,
-          `Run "python3 scripts/sync-dates.py" to fix:\n  ${drifted.join('\n  ')}`,
+          stale,
+          `dates over a year old, likely unmaintained:\n  ${stale.join('\n  ')}`,
         ).toEqual([]);
       });
     });
