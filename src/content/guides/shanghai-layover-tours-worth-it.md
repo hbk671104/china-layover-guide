@@ -14,18 +14,18 @@ faqs:
   - question: "How much does a Shanghai layover tour cost?"
     answer: "Private layover tours with airport pickup generally run from roughly US$100 to US$220 per person depending on group size, duration, and whether tickets and meals are included. Group tours and shared shuttles cost less."
   - question: "Do layover tours include airport pickup?"
-    answer: "The private tours usually do — a driver meets you in the arrivals hall with a name sign and tracks your flight. Confirm before booking whether pickup is at PVG, SHA, or both."
+    answer: "The private tours usually do: a driver meets you in the arrivals hall with a name sign and tracks your flight. Confirm before booking whether pickup is at PVG, SHA, or both."
   - question: "Do I need a visa for a Shanghai layover tour?"
     answer: "You need to be eligible to enter China. Most tours expect you to use the 240-hour visa-free transit (eligible passports only, with an onward ticket to a third country) or the 30-day visa-free entry. Bring your passport and onward ticket."
 ---
 
 ## The short answer
 
-**Worth it if you have 8+ hours and would rather not plan.** A private layover tour handles the transfer, the route, and the timing — which is exactly the hard part. **Not worth it under 6 hours**, and unnecessary if you are happy taking the Maglev and doing one thing yourself.
+**Worth it if you have 8+ hours and would rather not plan.** A private layover tour handles the transfer, the route, and the timing, which is exactly the hard part. **Not worth it under 6 hours**, and unnecessary if you are happy taking the Maglev and doing one thing yourself.
 
 ## What a layover tour actually is
 
-A driver meets you in the arrivals hall with a name sign, tracks your flight, and drives you into the city. A guide then takes you to a compressed set of highlights — usually the Bund, Yu Garden and the old town, sometimes the French Concession or Shanghai Tower — and gets you back to the airport with a buffer.
+A driver meets you in the arrivals hall with a name sign, tracks your flight, and drives you into the city. A guide then takes you to a compressed set of highlights (usually the Bund, Yu Garden and the old town, sometimes the French Concession or Shanghai Tower) and gets you back to the airport with a buffer.
 
 Typical durations: **4–8 hours**, structured around your flight times.
 
@@ -37,12 +37,12 @@ Typical durations: **4–8 hours**, structured around your flight times.
 | Tour with tickets + lunch | ~US$200–230 | Yu Garden and Shanghai Tower entry often included |
 | Shared / group option | Lower | Less flexible on timing |
 
-Treat these as indicative — prices move with season and group size. Check what is **excluded**: many private tours quote vehicle and driver only, with guide service, entrance fees, and meals extra.
+Treat these as indicative, prices move with season and group size. Check what is **excluded**: many private tours quote vehicle and driver only, with guide service, entrance fees, and meals extra.
 
 ## When a tour is the right call
 
 - **You have 8+ hours** and want to maximize them without research.
-- **You are traveling with family or heavy bags** — the car solves the luggage problem entirely.
+- **You are traveling with family or heavy bags**: the car solves the luggage problem entirely.
 - **You land somewhere unfamiliar** and would rather not navigate immigration, the Maglev, and a metro transfer while jet-lagged.
 - **Timing risk worries you.** A tour operator carries the responsibility for getting you back, and they plan around traffic.
 
@@ -57,15 +57,15 @@ Treat these as indicative — prices move with season and group size. Check what
 1. **Confirm you can enter.** Check [can you leave PVG on a layover?](/guides/can-i-leave-pvg-airport-on-a-layover/) and the [eligibility checker](/transit-visa/).
 2. **Give accurate flight numbers.** Reputable operators track arrivals, but only if they have the right details.
 3. **Check the pickup airport.** PVG and SHA are 70 km apart; make sure the tour meets you at the right one.
-4. **Ask what is excluded** — guide service, tickets, meals, and gratuities are often separate.
+4. **Ask what is excluded**, guide service, tickets, meals, and gratuities are often separate.
 5. **Confirm the cancellation policy** and the minimum layover they require. Many state 6–8 hours.
 
 ## The middle path
 
 You do not have to choose between a full private tour and total improvisation:
 
-- **Book a private transfer only** (car and driver, no guide) and follow a route yourself — cheaper than a guided tour and solves the luggage and timing problems.
-- **Take the Maglev** and do the [8-hour itinerary](/guides/pvg-8-hour-layover/) — the cheapest option, and entirely doable.
+- **Book a private transfer only** (car and driver, no guide) and follow a route yourself, cheaper than a guided tour and solves the luggage and timing problems.
+- **Take the Maglev** and do the [8-hour itinerary](/guides/pvg-8-hour-layover/): the cheapest option, and entirely doable.
 
 ## Bottom line
 

@@ -16,12 +16,12 @@ faqs:
   - question: "How long does a Chinese visa take to process?"
     answer: "Standard processing is typically around four working days at a Chinese embassy, consulate, or visa application center. Express and rush services are often available for an extra fee."
   - question: "Can I apply for a Chinese visa on arrival?"
-    answer: "Generally no for tourism. China does have a port visa system in limited circumstances, but you should not plan a tourist trip around getting a visa on arrival — apply before you travel."
+    answer: "Generally no for tourism. China does have a port visa system in limited circumstances, but you should not plan a tourist trip around getting a visa on arrival, apply before you travel."
 ---
 
 ## The short answer
 
-If you are **not** covered by [30-day visa-free entry](/guides/30-day-visa-free-vs-240-hour-transit/) or [240-hour visa-free transit](/guides/240-hour-visa-free-transit/), you need a visa **before** you travel. The **L visa** is the standard tourist visa; the **G visa** is for transit. Apply early — standard processing runs around four working days.
+If you are **not** covered by [30-day visa-free entry](/guides/30-day-visa-free-vs-240-hour-transit/) or [240-hour visa-free transit](/guides/240-hour-visa-free-transit/), you need a visa **before** you travel. The **L visa** is the standard tourist visa; the **G visa** is for transit. Apply early, standard processing runs around four working days.
 
 ## First, check whether you actually need one
 
@@ -38,7 +38,7 @@ If you are **not** covered by [30-day visa-free entry](/guides/30-day-visa-free-
 | **M** (business) | Commercial and trade activity | Varies |
 | **Z / X / Q / S** | Work, study, family | Longer-term |
 
-For most travelers who need a visa for a tourism stopover, **L** is the right choice. **G** exists for transit but is only worth pursuing when your itinerary genuinely matches it — and if you qualify for the visa-free transit scheme, you do not need it at all.
+For most travelers who need a visa for a tourism stopover, **L** is the right choice. **G** exists for transit but is only worth pursuing when your itinerary genuinely matches it, and if you qualify for the visa-free transit scheme, you do not need it at all.
 
 ## Documents checklist
 
@@ -48,16 +48,16 @@ For most travelers who need a visa for a tourism stopover, **L** is the right ch
 - **Confirmed onward or return travel** booking
 - **Accommodation booking** for your stay
 - **Visa or entry permission for your next destination**, if required
-- **Proof of funds** — occasionally requested
+- **Proof of funds**, occasionally requested
 
 Requirements vary by nationality and by the specific embassy or visa center, so check the one that has jurisdiction over your residence.
 
 ## How to apply
 
-1. **Find your jurisdiction** — the Chinese embassy, consulate, or China Visa Application Service Center covering where you live.
+1. **Find your jurisdiction**: the Chinese embassy, consulate, or China Visa Application Service Center covering where you live.
 2. **Complete the form** online where the local system requires it, then **submit in person** or via the process that post accepts.
-3. **Pay the fee** — it varies by nationality and number of entries. Express service costs more.
-4. **Wait** — typically about four working days for standard processing.
+3. **Pay the fee**. It varies by nationality and number of entries. Express service costs more.
+4. **Wait**: typically about four working days for standard processing.
 5. **Collect** your passport and check the visa's **validity** and **entries** carefully.
 
 ## Why you should not leave it late

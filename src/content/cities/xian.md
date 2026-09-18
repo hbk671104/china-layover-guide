@@ -22,7 +22,7 @@ Xi'an is the shortest route to one of the world's great sights: the Terracotta A
 
 ## The route
 
-Head straight to the **Terracotta Army** — it's an hour from the airport and gets busy by late morning. Return to the city and walk or rent a bike on the **City Wall** at the South Gate. Finish in the **Muslim Quarter** for lamb skewers and hand-pulled noodles before your flight.
+Head straight to the **Terracotta Army**. It's an hour from the airport and gets busy by late morning. Return to the city and walk or rent a bike on the **City Wall** at the South Gate. Finish in the **Muslim Quarter** for lamb skewers and hand-pulled noodles before your flight.
 
 ## Food to try
 
@@ -30,4 +30,4 @@ Roujiamo (Chinese "burger"), yangrou paomo (lamb soup with crumbled bread), and 
 
 ## Timing notes
 
-XIY airport is about 50 minutes from the city. The Terracotta Army deserves 2–3 hours — if your layover is shorter than 10 hours, stay in the city and do the wall and Muslim Quarter instead.
+XIY airport is about 50 minutes from the city. The Terracotta Army deserves 2–3 hours: if your layover is shorter than 10 hours, stay in the city and do the wall and Muslim Quarter instead.

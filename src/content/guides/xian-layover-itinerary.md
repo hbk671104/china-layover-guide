@@ -21,7 +21,7 @@ faqs:
 
 ## The short answer
 
-Xi'an is the shortest route to one of the world's great sights — **if you have 10 hours or more**. The Terracotta Army is about an hour outside the city and deserves 2–3 hours on site. Under 10 hours? Stay in the city and do the **City Wall** and **Muslim Quarter**, which are both excellent and close in.
+Xi'an is the shortest route to one of the world's great sights, **if you have 10 hours or more**. The Terracotta Army is about an hour outside the city and deserves 2–3 hours on site. Under 10 hours? Stay in the city and do the **City Wall** and **Muslim Quarter**, which are both excellent and close in.
 
 ## Airport to city
 
@@ -33,16 +33,16 @@ Xi'an is the shortest route to one of the world's great sights — **if you have
 
 ## What each window gives you
 
-### 6 hours — city only, barely
+### 6 hours, city only, barely
 Enough for the **City Wall** at the South Gate and a quick snack, nothing more.
 
-### 8 hours — the city, properly
-About **3–4 usable hours**. Walk or rent a bike on the **City Wall** (the 14 km loop is best preserved in China), then eat your way through the **Muslim Quarter** — lamb skewers, roujiamo, and hand-pulled noodles.
+### 8 hours: the city, properly
+About **3–4 usable hours**. Walk or rent a bike on the **City Wall** (the 14 km loop is best preserved in China), then eat your way through the **Muslim Quarter**, lamb skewers, roujiamo, and hand-pulled noodles.
 
-### 12 hours — the Terracotta Army
-About **5–6 usable hours**, and this is the minimum for the warriors. Go **straight to the Terracotta Army** — about an hour from the airport — and budget 2–3 hours there. On the way back, stop at the City Wall if time allows. This means a pre-booked driver, not public buses.
+### 12 hours: the Terracotta Army
+About **5–6 usable hours**, and this is the minimum for the warriors. Go **straight to the Terracotta Army**, about an hour from the airport, and budget 2–3 hours there. On the way back, stop at the City Wall if time allows. This means a pre-booked driver, not public buses.
 
-### 24 hours — both, unhurried
+### 24 hours: both, unhurried
 Overnight in the city: Terracotta Army in the morning, City Wall in the afternoon, Muslim Quarter for dinner, and the illuminated **Bell Tower and Drum Tower** at night. Add the **Big Wild Goose Pagoda** if you have time.
 
 ## The timing math for the warriors
@@ -64,13 +64,13 @@ Roujiamo (Chinese "burger"), yangrou paomo (lamb soup with crumbled bread), bian
 
 ## Booking and practicalities
 
-- **Book Terracotta Army tickets online in advance** with your passport — they sell in timed waves.
+- **Book Terracotta Army tickets online in advance** with your passport. They sell in timed waves.
 - **Pre-book a driver** for the warriors; a taxi back from the site is hard to find.
 - **Cycling the City Wall** costs about ¥45 for 100 minutes and is worth it if you have the time.
 
 ## Before you go
 
-- [Set up a payment app](/guides/payments-in-china-for-foreigners/) — Muslim Quarter stalls are QR-only.
+- [Set up a payment app](/guides/payments-in-china-for-foreigners/), Muslim Quarter stalls are QR-only.
 - [Install an eSIM](/guides/esim-setup-before-you-land/) so maps and translation work on arrival.
 - Confirm entry via [240-hour visa-free transit](/guides/240-hour-visa-free-transit/).
 

@@ -27,7 +27,7 @@ Take **Metro Line 11** from Bao'an Airport toward Futian. Start at the **Ping An
 
 ## Food to try
 
-Cantonese-style dim sum (Shenzhen sits in Guangdong), freshly made rice noodles, and the city's huge range of regional Chinese restaurants — the tech workforce means almost every province is represented.
+Cantonese-style dim sum (Shenzhen sits in Guangdong), freshly made rice noodles, and the city's huge range of regional Chinese restaurants: the tech workforce means almost every province is represented.
 
 ## Timing notes
 
@@ -35,4 +35,4 @@ The airport is close by the standards of Chinese hubs: Line 11 reaches the centr
 
 ## Border note
 
-Shenzhen has land crossings to Hong Kong (Futian, Luohu, and Shenzhen Bay). If your itinerary enters or leaves through Hong Kong, keep your onward documents handy — see [can you leave the airport during a layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+Shenzhen has land crossings to Hong Kong (Futian, Luohu, and Shenzhen Bay). If your itinerary enters or leaves through Hong Kong, keep your onward documents handy, see [can you leave the airport during a layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).

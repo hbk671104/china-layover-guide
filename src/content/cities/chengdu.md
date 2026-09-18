@@ -22,7 +22,7 @@ Chengdu is the best layover in western China: giant pandas in the morning, a tea
 
 ## The route
 
-Go straight to the **Chengdu Panda Base** in the morning — pandas are most active before 10am and it gets crowded later. Head back into the city for a lazy hour at **People's Park**, where you can drink tea and watch locals play mahjong. End at **Jinli Street** for snacks and souvenirs before the airport run.
+Go straight to the **Chengdu Panda Base** in the morning, pandas are most active before 10am and it gets crowded later. Head back into the city for a lazy hour at **People's Park**, where you can drink tea and watch locals play mahjong. End at **Jinli Street** for snacks and souvenirs before the airport run.
 
 ## Food to try
 

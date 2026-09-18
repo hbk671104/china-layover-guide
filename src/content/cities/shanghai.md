@@ -27,7 +27,7 @@ Start on the **Bund** for the skyline, walk 15 minutes south to **Yu Garden** fo
 
 ## Food to try
 
-Soup dumplings (*xiaolongbao*), scallion oil noodles, and a quick *jianbing* from a street stall. Pay with Alipay/WeChat Pay — cash is increasingly rare.
+Soup dumplings (*xiaolongbao*), scallion oil noodles, and a quick *jianbing* from a street stall. Pay with Alipay/WeChat Pay, cash is increasingly rare.
 
 ## Timing notes
 

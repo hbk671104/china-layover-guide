@@ -1,6 +1,6 @@
 ---
 title: "Alipay for Foreigners: Step-by-Step Setup with a Visa or Mastercard"
-description: "How to set up Alipay with a foreign card before you fly — identity verification, fees, spending limits, and why a small test payment matters."
+description: "How to set up Alipay with a foreign card before you fly, identity verification, fees, spending limits, and why a small test payment matters."
 category: payments
 updated: 2026-09-16
 sources:
@@ -27,9 +27,9 @@ Alipay is the single most useful app to set up before a China trip. **Link your 
 
 1. **Download Alipay** from your home app store before you fly.
 2. **Register** with your own phone number and confirm the SMS code.
-3. **Verify your identity** — open *Me → Settings → Account and Security → Identity Information*, choose *Foreigner → Passport*, upload a clear photo of your passport page, and complete the short face scan. Approval is usually quick, but can take up to 24 hours.
-4. **Add your card** — go to *Me → Bank Cards → Add Card*, enter the number, expiry, and CVV, and approve your bank's 3-D Secure step. A small test charge appears and then reverses.
-5. **Test a small payment** before you rely on it — buy a bottle of water at a convenience store.
+3. **Verify your identity**, open *Me → Settings → Account and Security → Identity Information*, choose *Foreigner → Passport*, upload a clear photo of your passport page, and complete the short face scan. Approval is usually quick, but can take up to 24 hours.
+4. **Add your card**, go to *Me → Bank Cards → Add Card*, enter the number, expiry, and CVV, and approve your bank's 3-D Secure step. A small test charge appears and then reverses.
+5. **Test a small payment** before you rely on it, buy a bottle of water at a convenience store.
 
 ## What it costs
 
@@ -51,7 +51,7 @@ Many street stalls print a **personal QR code**, which cannot accept foreign-lin
 
 - Ask the vendor for their merchant payment code.
 - Try WeChat Pay instead.
-- Fall back to cash — see [do you need cash in China?](/guides/do-you-need-cash-in-china/).
+- Fall back to cash, see [do you need cash in China?](/guides/do-you-need-cash-in-china/).
 
 ## Set up a backup
 

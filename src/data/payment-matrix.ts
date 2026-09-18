@@ -75,7 +75,7 @@ const baseSteps: Record<CardBrand, PaymentStep[]> = {
     {
       app: 'Alipay',
       action: 'Try adding your Amex to Alipay.',
-      note: 'Acceptance for Amex is more limited — verify in the app before you travel.',
+   note: 'Acceptance for Amex is more limited, verify in the app before you travel.',
     },
     {
       app: 'WeChat Pay',
@@ -115,9 +115,9 @@ const baseSteps: Record<CardBrand, PaymentStep[]> = {
 };
 
 const iosNote =
-  'Apple Pay itself is not widely accepted offline in China. Use the Alipay/WeChat Pay apps instead — your linked card does the paying.';
+ 'Apple Pay itself is not widely accepted offline in China. Use the Alipay/WeChat Pay apps instead, your linked card does the paying.';
 const androidNote =
-  'Google Pay itself is not widely accepted offline in China. Use the Alipay/WeChat Pay apps instead — your linked card does the paying.';
+ 'Google Pay itself is not widely accepted offline in China. Use the Alipay/WeChat Pay apps instead, your linked card does the paying.';
 
 export const paymentMatrix: PaymentMatrix = {
   lastReviewed: '2026-09-17',
@@ -152,7 +152,7 @@ export const paymentMatrix: PaymentMatrix = {
     none: {
       headline: 'Without a foreign card, plan around cash.',
       steps: baseSteps.none,
-      warnings: ['Exchanging cash at airports is convenient but rates vary.', 'Small vendors may struggle with large notes — ask for small bills.'],
+   warnings: ['Exchanging cash at airports is convenient but rates vary.', 'Small vendors may struggle with large notes, ask for small bills.'],
     },
   },
 };

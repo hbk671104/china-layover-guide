@@ -10,11 +10,11 @@ sources:
     url: "https://en.nia.gov.cn/"
 ---
 
-> This reference was last reviewed on 2026-09-16. Port lists and permitted-area rules change — always confirm the current list with the National Immigration Administration (NIA) or the 12367 hotline before booking.
+> This reference was last reviewed on 2026-09-16. Port lists and permitted-area rules change: always confirm the current list with the National Immigration Administration (NIA) or the 12367 hotline before booking.
 
 ## What this page is
 
-China's 240-hour visa-free transit policy operates through **65 designated ports** across **24 provinces, autonomous regions, and municipalities**. Once you enter, you can travel **within the permitted areas of the participating provinces** — and between them — but you cannot roam anywhere in China.
+China's 240-hour visa-free transit policy operates through **65 designated ports** across **24 provinces, autonomous regions, and municipalities**. Once you enter, you can travel **within the permitted areas of the participating provinces**, and between them, but you cannot roam anywhere in China.
 
 This page is the quick reference: what's a designated port, which areas each province allows, and the handful of "restricted to certain cities" cases that most often trip people up.
 
@@ -53,22 +53,22 @@ Most provinces allow travel across the **whole province**. A few restrict travel
 
 These six regions don't allow whole-province travel. If your layover involves one of them, plan carefully:
 
-- **Sichuan — 11 cities:** Chengdu, Zigong, Luzhou, Deyang, Suining, Neijiang, Leshan, Yibin, Ya'an, Meishan, and Ziyang.
-- **Yunnan — 9 cities/prefectures:** Kunming, Yuxi, Chuxiong, Honghe, Wenshan, Pu'er, Xishuangbanna, Dali, and Lijiang.
-- **Guangxi — 12 cities:** Nanning, Liuzhou, Guilin, Wuzhou, Beihai, Fangchenggang, Qinzhou, Guigang, Yulin, Hezhou, Hechi, and Laibin.
-- **Shanxi — 2 cities:** Taiyuan and Datong.
-- **Jiangxi — 2 cities:** Nanchang and Jingdezhen.
-- **Heilongjiang — 1 city:** Harbin.
+- **Sichuan, 11 cities:** Chengdu, Zigong, Luzhou, Deyang, Suining, Neijiang, Leshan, Yibin, Ya'an, Meishan, and Ziyang.
+- **Yunnan, 9 cities/prefectures:** Kunming, Yuxi, Chuxiong, Honghe, Wenshan, Pu'er, Xishuangbanna, Dali, and Lijiang.
+- **Guangxi, 12 cities:** Nanning, Liuzhou, Guilin, Wuzhou, Beihai, Fangchenggang, Qinzhou, Guigang, Yulin, Hezhou, Hechi, and Laibin.
+- **Shanxi, 2 cities:** Taiyuan and Datong.
+- **Jiangxi, 2 cities:** Nanchang and Jingdezhen.
+- **Heilongjiang, 1 city:** Harbin.
 
 ## The cross-province rule
 
-The current policy allows **cross-province travel within the permitted areas** of the participating provinces. In practice this means, for example, an entry via Beijing can combine with a stay in Shanghai — **if** you stay inside each area's limits and **exit** through a designated port within 240 hours.
+The current policy allows **cross-province travel within the permitted areas** of the participating provinces. In practice this means, for example, an entry via Beijing can combine with a stay in Shanghai, **if** you stay inside each area's limits and **exit** through a designated port within 240 hours.
 
 It does **not** mean free nationwide travel. The police and immigration checks still apply, and overstaying the 240-hour limit has serious consequences.
 
 ## What counts as a "third country or region"
 
-Your onward ticket must be to a destination **different from where you arrived**, departing within 240 hours. Hong Kong, Macau, and Taiwan each count as separate regions — so London → Shanghai → Hong Kong is generally a valid transit, while London → Shanghai → London is not.
+Your onward ticket must be to a destination **different from where you arrived**, departing within 240 hours. Hong Kong, Macau, and Taiwan each count as separate regions, so London → Shanghai → Hong Kong is generally a valid transit, while London → Shanghai → London is not.
 
 ## How to use this page
 

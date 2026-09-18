@@ -16,7 +16,7 @@ faqs:
   - question: "Does the 240-hour clock start when I land?"
     answer: "No. The 240-hour stay begins at 00:00 on the day after entry, which in practice gives most travelers close to a full 10 calendar days."
   - question: "Is the 24-hour transit available to every nationality?"
-    answer: "Yes — the 24-hour direct transit facility is open to almost all nationalities at most international ports. The 240-hour policy is restricted to 55 listed countries."
+    answer: "Yes: the 24-hour direct transit facility is open to almost all nationalities at most international ports. The 240-hour policy is restricted to 55 listed countries."
 ---
 
 ## The short answer
@@ -42,7 +42,7 @@ Two different things get called "24-hour transit":
 1. **Airside transit.** You stay in the international transit zone and change planes. No visa, no permit, any nationality. You cannot exit the airport.
 2. **24-hour visa-free entry.** If you want to leave the airport, apply at the **24/240-hour visa-free transit counter** for a temporary entry permit. This is usually granted for a genuine short stay and requires your onward ticket.
 
-Important: the 24-hour clock is counted from your **scheduled arrival time**, not from the next day. So a 24-hour connection is genuinely short — you cannot stretch it the way the 240-hour rule allows.
+Important: the 24-hour clock is counted from your **scheduled arrival time**, not from the next day. So a 24-hour connection is genuinely short. You cannot stretch it the way the 240-hour rule allows.
 
 ## How the 240-hour rule works
 
@@ -54,11 +54,11 @@ Important: the 24-hour clock is counted from your **scheduled arrival time**, no
 
 ## Which one applies to you?
 
-1. **Connecting in under 24 hours and not leaving the airport?** You need nothing — airside transit.
+1. **Connecting in under 24 hours and not leaving the airport?** You need nothing, airside transit.
 2. **Want to leave the airport for a few hours, any nationality?** Ask for the 24-hour entry permit at the transit counter.
 3. **Eligible passport + a stop of a day or more + onward to a different country?** Use the 240-hour rule.
 4. **Eligible passport, staying longer or arriving/departing in the same country?** Consider [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/), or a regular visa.
 
 ## Bottom line
 
-Both rules are about transit, not tourism for its own sake. If your stop is short, the 24-hour facility is universal and simple. If it's long and your passport qualifies, the 240-hour rule turns a layover into a trip — as long as your onward ticket goes to a third country.
+Both rules are about transit, not tourism for its own sake. If your stop is short, the 24-hour facility is universal and simple. If it's long and your passport qualifies, the 240-hour rule turns a layover into a trip, as long as your onward ticket goes to a third country.

@@ -19,7 +19,7 @@ updated: 2026-09-16
 
 ## Why Nanjing works for a layover
 
-Nanjing was China's capital for six dynasties and again in the twentieth century, and it carries that weight visibly — imperial tombs in forested hills, a surviving Ming city wall, and one of the country's best museums. It is also close enough to Shanghai by high-speed rail to pair with a longer stopover.
+Nanjing was China's capital for six dynasties and again in the twentieth century, and it carries that weight visibly, imperial tombs in forested hills, a surviving Ming city wall, and one of the country's best museums. It is also close enough to Shanghai by high-speed rail to pair with a longer stopover.
 
 ## The route
 
@@ -31,8 +31,8 @@ Salted duck (Nanjing's signature), duck blood vermicelli soup, *tangbao* soup du
 
 ## Timing notes
 
-Lukou Airport is about 40–50 minutes out via Metro S1, and Purple Mountain deserves a couple of hours. This is a comfortable 10-hour layover rather than a quick one — with under 8 hours, focus on the City Wall and Confucius Temple area instead.
+Lukou Airport is about 40–50 minutes out via Metro S1, and Purple Mountain deserves a couple of hours. This is a comfortable 10-hour layover rather than a quick one, with under 8 hours, focus on the City Wall and Confucius Temple area instead.
 
 ## Pairing with Shanghai
 
-Nanjing is roughly an hour from Shanghai by high-speed rail, so a 24-hour Shanghai stopover can absorb a Nanjing day trip — see [China high-speed rail for tourists](/guides/china-high-speed-rail-for-tourists/) and the [Shanghai itinerary](/guides/shanghai-layover-itinerary/).
+Nanjing is roughly an hour from Shanghai by high-speed rail, so a 24-hour Shanghai stopover can absorb a Nanjing day trip, see [China high-speed rail for tourists](/guides/china-high-speed-rail-for-tourists/) and the [Shanghai itinerary](/guides/shanghai-layover-itinerary/).

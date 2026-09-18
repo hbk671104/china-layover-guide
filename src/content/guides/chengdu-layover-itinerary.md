@@ -21,7 +21,7 @@ faqs:
 
 ## The short answer
 
-Chengdu is the best layover in western China — **if you land in the morning**. The Panda Base is the draw, and pandas are only active early. With **8 hours and a morning arrival** you can do it; with an afternoon arrival, plan a food-and-teahouse day instead.
+Chengdu is the best layover in western China, **if you land in the morning**. The Panda Base is the draw, and pandas are only active early. With **8 hours and a morning arrival** you can do it; with an afternoon arrival, plan a food-and-teahouse day instead.
 
 ## Airport to city
 
@@ -31,25 +31,25 @@ Chengdu is the best layover in western China — **if you land in the morning**.
 | Shuangliu (CTU) | Metro Line 10, closer in | ~¥5–8 |
 | Taxi / DiDi | 40–60 min | ¥100–150 |
 
-Tianfu is the newer international hub and it is **far** from the center — factor that into every plan.
+Tianfu is the newer international hub and it is **far** from the center, factor that into every plan.
 
 ## What each window gives you
 
-### 6 hours — airport only
+### 6 hours, airport only
 Not enough once you account for immigration and the Tianfu transfer.
 
-### 8 hours — pandas, if you land early
-About **3–4 usable hours**. Go **straight to the Chengdu Panda Base** — it opens early and the pandas are most active before 10am. Then back into the city for a quick lunch. This only works with a morning arrival.
+### 8 hours, pandas, if you land early
+About **3–4 usable hours**. Go **straight to the Chengdu Panda Base**. It opens early and the pandas are most active before 10am. Then back into the city for a quick lunch. This only works with a morning arrival.
 
-### 12 hours — pandas plus teahouse
+### 12 hours, pandas plus teahouse
 About **6 usable hours**. Panda Base in the morning, then **People's Park** for a lazy hour at a teahouse watching locals play mahjong, and finish at **Jinli Street** for snacks and souvenirs.
 
-### 24 hours — add the food properly
+### 24 hours: add the food properly
 Book a hotel and eat seriously: Sichuan hotpot, mapo tofu, dan dan noodles. Add **Kuanzhai Alley** for the restored Qing-dynasty lanes and, if you have the evening, a **Sichuan opera face-changing show**.
 
 ## Afternoon-arrival alternative
 
-If you land after midday, skip the pandas — they sleep. Instead:
+If you land after midday, skip the pandas. They sleep. Instead:
 
 1. **People's Park** teahouse (Heming Teahouse is the classic).
 2. **Kuanzhai Alley** or **Jinli Street** for lanes and snacks.
@@ -57,14 +57,14 @@ If you land after midday, skip the pandas — they sleep. Instead:
 
 ## Food to try
 
-Hotpot (ask for mild if unsure — Sichuan "medium" is genuinely spicy), mapo tofu, dan dan noodles, and anything dressed in numbing Sichuan peppercorn oil.
+Hotpot (ask for mild if unsure, Sichuan "medium" is genuinely spicy), mapo tofu, dan dan noodles, and anything dressed in numbing Sichuan peppercorn oil.
 
 ## Before you go
 
-- [Set up a payment app](/guides/payments-in-china-for-foreigners/) — street food and teahouses are QR-only.
-- [Install an eSIM](/guides/esim-setup-before-you-land/) — roaming data keeps maps and WhatsApp working.
-- [Book panda base tickets in advance](/guides/china-apps-checklist/) — they are passport-linked and busy.
+- [Set up a payment app](/guides/payments-in-china-for-foreigners/), street food and teahouses are QR-only.
+- [Install an eSIM](/guides/esim-setup-before-you-land/), roaming data keeps maps and WhatsApp working.
+- [Book panda base tickets in advance](/guides/china-apps-checklist/). They are passport-linked and busy.
 
 ## Bottom line
 
-Chengdu is a morning city: land early, go straight to the pandas, then slow down over tea and hotpot. Land late and it becomes a food layover — which is not a bad consolation. See [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
+Chengdu is a morning city: land early, go straight to the pandas, then slow down over tea and hotpot. Land late and it becomes a food layover: which is not a bad consolation. See [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).

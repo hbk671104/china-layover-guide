@@ -23,11 +23,11 @@ Guilin is the landscape on the back of the twenty-yuan note: limestone karst pea
 
 ## The route
 
-In the city itself, start at **Elephant Trunk Hill**, then visit the **Reed Flute Cave** with its illuminated limestone formations. In the evening, the **Two Rivers and Four Lakes** area is lit up and pleasant to walk. With a full day or an overnight, add the **Li River cruise** to Yangshuo — the signature experience, and a morning departure.
+In the city itself, start at **Elephant Trunk Hill**, then visit the **Reed Flute Cave** with its illuminated limestone formations. In the evening, the **Two Rivers and Four Lakes** area is lit up and pleasant to walk. With a full day or an overnight, add the **Li River cruise** to Yangshuo: the signature experience, and a morning departure.
 
 ## Food to try
 
-Guilin rice noodles (*mifen*) — the local staple, cheap and excellent — plus beer fish (a Yangshuo specialty) and stuffed river snails.
+Guilin rice noodles (*mifen*), the local staple, cheap and excellent, plus beer fish (a Yangshuo specialty) and stuffed river snails.
 
 ## Timing notes
 
@@ -36,5 +36,5 @@ The Li River cruise is a half-day commitment with a morning departure, so it doe
 ## Before you go
 
 - [Set up a payment app](/guides/payments-in-china-for-foreigners/).
-- [Install an eSIM](/guides/esim-setup-before-you-land/) — this is not a city to arrive in without working maps.
+- [Install an eSIM](/guides/esim-setup-before-you-land/). This is not a city to arrive in without working maps.
 - Check entry and permitted areas via [240-hour visa-free transit](/guides/240-hour-visa-free-transit/).

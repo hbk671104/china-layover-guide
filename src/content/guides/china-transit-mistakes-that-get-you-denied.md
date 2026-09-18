@@ -1,6 +1,6 @@
 ---
 title: "China Transit Mistakes That Get Travelers Denied Boarding or Entry"
-description: "The most common reasons visa-free transit travelers are refused at check-in or immigration in China — and how to avoid each one before you fly."
+description: "The most common reasons visa-free transit travelers are refused at check-in or immigration in China, and how to avoid each one before you fly."
 category: transit-visa
 updated: 2026-09-16
 sources:
@@ -26,7 +26,7 @@ Most China transit refusals are self-inflicted. The recurring causes are a **rou
 ## The mistakes, in order of frequency
 
 ### 1. Booking a round trip
-The onward ticket must go to a **third country or region** — not back to where you started. London → Shanghai → London fails; London → Shanghai → Tokyo works. This is the single most common error.
+The onward ticket must go to a **third country or region**: not back to where you started. London → Shanghai → London fails; London → Shanghai → Tokyo works. This is the single most common error.
 
 ### 2. No confirmed onward ticket
 You must have a **confirmed booking** with a date and flight number to show. A vague plan is not enough. Keep a screenshot offline, because airport Wi-Fi often needs an SMS code.
@@ -41,13 +41,13 @@ The NIA requires **at least three months** beyond entry for the transit policy, 
 Each port maps to a **permitted area**. You cannot roam anywhere in China. Some provinces are limited to specific cities, and even where cross-province travel is allowed, it is only between participating provinces. Verify your route.
 
 ### 6. Overstaying the window
-The 240-hour clock starts at **00:00 the day after entry**. A delayed flight is not an excuse — overstaying has serious consequences. Build in a real buffer.
+The 240-hour clock starts at **00:00 the day after entry**. A delayed flight is not an excuse, overstaying has serious consequences. Build in a real buffer.
 
 ### 7. Booking a hotel outside the permitted region
 Immigration officers may ask where you are staying. A reservation in a city your permit does not cover can cause problems. Book inside the permitted area.
 
 ### 8. Relying on the wrong list
-The **30-day visa-free list** and the **240-hour transit list** are different. Assuming you qualify under one because you read about the other is a common trap — the US, for example, is transit-only.
+The **30-day visa-free list** and the **240-hour transit list** are different. Assuming you qualify under one because you read about the other is a common trap: the US, for example, is transit-only.
 
 ## A pre-flight checklist
 

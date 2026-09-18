@@ -23,11 +23,11 @@ Chongqing is the city that breaks the internet: monorails threading through apar
 
 ## The route
 
-Take **Metro Line 10** from Jiangbei Airport to the **Jiefangbei** area. Start at the **Liziba** viewpoint, where Line 2 runs straight through a residential building. Ride the **Yangtze River Cableway** across the river, explore the steep stairway neighborhoods, then finish at **Hongyadong** — an 11-storey stilted complex best seen illuminated at night. If you have more time, **Ciqikou** ancient town is a half-day add-on.
+Take **Metro Line 10** from Jiangbei Airport to the **Jiefangbei** area. Start at the **Liziba** viewpoint, where Line 2 runs straight through a residential building. Ride the **Yangtze River Cableway** across the river, explore the steep stairway neighborhoods, then finish at **Hongyadong**: an 11-storey stilted complex best seen illuminated at night. If you have more time, **Ciqikou** ancient town is a half-day add-on.
 
 ## Food to try
 
-Chongqing hotpot with the nine-grid pot, chuan chuan skewers, xiaomian (spicy noodles), and suanlafen (hot-and-sour sweet potato noodles). Ask for mild if you are unsure — the default is genuinely spicy.
+Chongqing hotpot with the nine-grid pot, chuan chuan skewers, xiaomian (spicy noodles), and suanlafen (hot-and-sour sweet potato noodles). Ask for mild if you are unsure. The default is genuinely spicy.
 
 ## Timing notes
 

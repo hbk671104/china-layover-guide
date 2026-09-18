@@ -12,11 +12,11 @@ sources:
     url: "https://www.getnomad.app/china-esim"
 ---
 
-> Reviewed 2026-09-16. eSIM plans and prices change often — check the provider's current terms before buying.
+> Reviewed 2026-09-16. eSIM plans and prices change often: check the provider's current terms before buying.
 
 ## Why you need this before you land
 
-China's network blocks many apps you use every day — Google services, WhatsApp, Instagram, Facebook, and sometimes Gmail. There are two ways around it:
+China's network blocks many apps you use every day, Google services, WhatsApp, Instagram, Facebook, and sometimes Gmail. There are two ways around it:
 
 1. **A travel eSIM** (recommended): your data is routed through a partner network outside China, so blocked apps keep working without a VPN.
 2. **A local Chinese SIM**: fast and cheap, but blocked apps stay blocked unless you also set up a VPN.
@@ -40,7 +40,7 @@ The catch: **airport Wi-Fi in China usually requires an SMS code**, and your hom
 ## On the ground
 
 - Keep your home SIM off. If your phone asks about "allow data switching", say no.
-- Most travel eSIMs are **data-only** — you won't get a Chinese phone number. That's fine: you don't need one for Alipay/WeChat Pay, maps, or ride-hailing.
+- Most travel eSIMs are **data-only**. You won't get a Chinese phone number. That's fine: you don't need one for Alipay/WeChat Pay, maps, or ride-hailing.
 - If an app asks for SMS verification and you can't receive it, use your home number's roaming SMS if available, or set up the app before you travel.
 
 ## Bottom line

@@ -18,7 +18,7 @@ export interface EligibilityResult {
 
 export function checkEligibility(input: EligibilityInput): EligibilityResult {
   const disclaimers = [
-    'Rules change — always verify with the National Immigration Administration (NIA) or the 12367 hotline before booking.',
+  'Rules change, always verify with the National Immigration Administration (NIA) or the 12367 hotline before booking.',
     `This checker is informational, not a guarantee of entry. Last reviewed ${visaRules.lastReviewed}.`,
   ];
 
@@ -27,7 +27,7 @@ export function checkEligibility(input: EligibilityInput): EligibilityResult {
       status: 'eligible',
       headline: 'You already have a valid Chinese visa',
       reasons: [
-        'Use your visa for entry — the visa-free transit policy is only relevant if you do not hold a visa.',
+    'Use your visa for entry, the visa-free transit policy is only relevant if you do not hold a visa.',
       ],
       disclaimers,
     };
@@ -53,7 +53,7 @@ export function checkEligibility(input: EligibilityInput): EligibilityResult {
       status: 'not-eligible',
       headline: 'A round trip does not qualify',
       reasons: [
-        'Your onward destination must be a third country or region — different from the country you arrived from.',
+    'Your onward destination must be a third country or region, different from the country you arrived from.',
         'Example: London → Shanghai → London does not qualify; London → Shanghai → Tokyo does.',
       ],
       disclaimers,
@@ -75,7 +75,7 @@ export function checkEligibility(input: EligibilityInput): EligibilityResult {
 
   return {
     status: 'eligible',
-    headline: 'Looks eligible — with the usual caveats',
+  headline: 'Looks eligible | with the usual caveats',
     reasons: [
       'Your nationality is on the 55-country list.',
       `${port.label} is a designated transit port.`,

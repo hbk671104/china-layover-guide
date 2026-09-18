@@ -19,15 +19,15 @@ updated: 2026-09-16
 
 ## Why Qingdao works for a layover
 
-Qingdao is one of China's most distinctive cities — a former German concession that left behind red-roofed villas, a cathedral, and a brewery culture that became the country's most famous beer. It sits on the Yellow Sea with a long, walkable waterfront.
+Qingdao is one of China's most distinctive cities: a former German concession that left behind red-roofed villas, a cathedral, and a brewery culture that became the country's most famous beer. It sits on the Yellow Sea with a long, walkable waterfront.
 
 ## The route
 
-Start at **Zhanqiao Pier** for the classic view of the pavilion on the water. Walk to **St. Michael's Cathedral**, then along the waterfront to the **Badaguan Scenic Area** — a district of villas and quiet tree-lined streets. Finish at the **Tsingtao Brewery Museum** for the history and a tasting, and **May Fourth Square** for the modern skyline.
+Start at **Zhanqiao Pier** for the classic view of the pavilion on the water. Walk to **St. Michael's Cathedral**, then along the waterfront to the **Badaguan Scenic Area**: a district of villas and quiet tree-lined streets. Finish at the **Tsingtao Brewery Museum** for the history and a tasting, and **May Fourth Square** for the modern skyline.
 
 ## Food to try
 
-Fresh seafood (clams, prawns, sea snails), *jiaozhi* dumplings, and of course Tsingtao beer — best drunk at a street-side beer hall in the old town.
+Fresh seafood (clams, prawns, sea snails), *jiaozhi* dumplings, and of course Tsingtao beer, best drunk at a street-side beer hall in the old town.
 
 ## Timing notes
 

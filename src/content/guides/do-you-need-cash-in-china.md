@@ -1,5 +1,5 @@
 ---
-title: "Do You Need Cash in China? (Yes — Here's How Much)"
+title: "Do You Need Cash in China? (Yes, Here's How Much)"
 description: "China is nearly cashless, but RMB cash is still worth carrying. How much to bring, what it's actually for, and how ATMs and the law work for tourists."
 category: payments
 updated: 2026-09-16
@@ -16,12 +16,12 @@ faqs:
   - question: "Where can I get yuan in China?"
     answer: "Withdraw from ATMs at major banks such as Bank of China or ICBC using a debit card, or exchange at a bank counter. Airport exchange rates are usually worse than ATM withdrawal."
   - question: "Can foreign cards pay into a vendor's personal QR code?"
-    answer: "No. Personal QR codes cannot accept foreign-linked cards — only merchant or aggregate codes can. This is the most common reason a payment fails, and it is exactly when cash helps."
+    answer: "No. Personal QR codes cannot accept foreign-linked cards, only merchant or aggregate codes can. This is the most common reason a payment fails, and it is exactly when cash helps."
 ---
 
 ## The short answer
 
-China runs on QR codes, so **Alipay or WeChat Pay is your primary method** — but carry **¥200–500 in small notes** as backup. Cash is legally required to be accepted, and it covers the two situations apps fail: vendors with personal QR codes, and a dead phone or blocked card.
+China runs on QR codes, so **Alipay or WeChat Pay is your primary method**, but carry **¥200–500 in small notes** as backup. Cash is legally required to be accepted, and it covers the two situations apps fail: vendors with personal QR codes, and a dead phone or blocked card.
 
 ## Why cash still matters
 
@@ -42,8 +42,8 @@ Do not carry large amounts. The point is a fallback, not a wallet.
 
 ## Where to get yuan
 
-- **ATMs at major banks** — Bank of China, ICBC, China Construction Bank, and Agricultural Bank accept many international cards. Withdraw a sensible amount to limit per-withdrawal fees.
-- **Bank counters** — reliable, with a passport.
+- **ATMs at major banks**, Bank of China, ICBC, China Construction Bank, and Agricultural Bank accept many international cards. Withdraw a sensible amount to limit per-withdrawal fees.
+- **Bank counters**, reliable, with a passport.
 - **Avoid** relying on airport currency exchange; rates are usually poor compared with an ATM.
 
 Watch for your own bank's foreign-transaction and ATM fees, and remember that if an ATM asks for a six-digit PIN and you have a four-digit one, you usually enter your four digits and press Enter.

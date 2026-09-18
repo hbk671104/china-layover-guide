@@ -12,7 +12,7 @@ sources:
     url: "https://www.tenpayglobal.com/"
 ---
 
-> Reviewed 2026-09-16. Payment provider terms and fees change — check the apps before you travel.
+> Reviewed 2026-09-16. Payment provider terms and fees change: check the apps before you travel.
 
 ## The situation on the ground
 
@@ -44,14 +44,14 @@ WeChat Pay is the other half of the duopoly, and some vendors only take WeChat. 
 ## What to do before your flight
 
 1. Install **Alipay** and **WeChat Pay** (and **TenPayGo** if available in your region).
-2. Link your Visa/Mastercard and complete passport verification — do this at home, because the apps sometimes need SMS codes.
+2. Link your Visa/Mastercard and complete passport verification, do this at home, because the apps sometimes need SMS codes.
 3. Test a small top-up or check that your card shows as verified.
 4. Withdraw or bring **¥200–500 in cash** as a fallback.
 
 ## On the ground
 
 - The merchant scans your QR, or you scan theirs. Either way, the app pays with your linked card.
-- Small transaction fees can apply to foreign cards after a threshold — usually a few percent.
+- Small transaction fees can apply to foreign cards after a threshold: usually a few percent.
 - If a payment fails, try the other app before reaching for cash.
 
 ## Bottom line

@@ -77,7 +77,7 @@ export const airports: Airport[] = [
         time: '60–90 min',
         cost: '¥7–9',
         notes:
-          'Cheapest, and it runs the whole way without a Maglev transfer — but it stops 20+ times through Pudong.',
+     'Cheapest, and it runs the whole way without a Maglev transfer, but it stops 20+ times through Pudong.',
         trafficProof: true,
       },
       {
@@ -130,7 +130,7 @@ export const airports: Airport[] = [
         'Left-luggage counters (行李寄存) in the arrivals and departures halls; confirm the current location and hours at the airport.',
     },
     gotchas: [
-      'PVG and Hongqiao (SHA) are about 70 km apart. A cross-airport connection eats 1.5–2 hours by road — never combine one with sightseeing.',
+   'PVG and Hongqiao (SHA) are about 70 km apart. A cross-airport connection eats 1.5–2 hours by road, never combine one with sightseeing.',
       'The Maglev stops running around 21:40, and Metro Line 2 around 22:30. Late arrivals are taxi or DiDi only.',
       'The Maglev only reaches Longyang Road, which is not the city centre. You still need a metro transfer.',
     ],
@@ -202,7 +202,7 @@ export const airports: Airport[] = [
     gotchas: [
       'Guangzhou is spread out. Do not try to combine Canton Tower and the old town on a very short layover.',
       'Dim sum is a morning and lunch ritual. Arriving at 3pm means missing the point of the city.',
-      'Immigration can be slow at peak hours — leave a real buffer for your onward flight.',
+   'Immigration can be slow at peak hours, leave a real buffer for your onward flight.',
     ],
   },
   {
@@ -242,7 +242,7 @@ export const airports: Airport[] = [
         label: '6–8 hours',
         verdict: 'One sight, done properly',
         detail:
-          'About 2.5–3 hours on the ground. Pick Tiananmen Square plus a hutong walk, or the Temple of Heaven — not both.',
+     'About 2.5–3 hours on the ground. Pick Tiananmen Square plus a hutong walk, or the Temple of Heaven, not both.',
       },
       {
         label: '10–12 hours',
@@ -315,7 +315,7 @@ export const airports: Airport[] = [
       {
         label: '24 hours+',
         verdict: 'A proper stopover',
-        detail: 'Overnight in the city. Add Mutianyu for the Great Wall — a private car is the only realistic option.',
+    detail: 'Overnight in the city. Add Mutianyu for the Great Wall, a private car is the only realistic option.',
       },
     ],
     luggage: {
@@ -325,7 +325,7 @@ export const airports: Airport[] = [
     },
     gotchas: [
       'Daxing is roughly twice as far from the centre as Capital Airport. Everything takes longer.',
-      'A PEK↔PKX connection is a 1.5–2 hour transfer across the city — do not add sightseeing to one.',
+   'A PEK↔PKX connection is a 1.5–2 hour transfer across the city, do not add sightseeing to one.',
       'Allow 2.5 hours at the airport before an international departure.',
     ],
   },
@@ -385,7 +385,7 @@ export const airports: Airport[] = [
       location: 'Left-luggage counters in the terminal; confirm the current location and hours at the airport.',
     },
     gotchas: [
-      'If your inbound is SHA and your outbound is PVG, that is roughly 70 km across the city — allow 1.5–2 hours.',
+   'If your inbound is SHA and your outbound is PVG, that is roughly 70 km across the city, allow 1.5–2 hours.',
       'Terminal 2 connects to Hongqiao Railway Station, which is handy for high-speed rail day trips.',
       'Hongqiao handles many domestic flights, so check which airport your international connection uses.',
     ],
@@ -445,7 +445,7 @@ export const airports: Airport[] = [
     },
     gotchas: [
       'Shenzhen sits on the Hong Kong border. If you plan to cross, check your visa or entry status for both sides.',
-      'The city is long and narrow — allow for distance between the bay, Futian, and the airport.',
+   'The city is long and narrow, allow for distance between the bay, Futian, and the airport.',
       'Line 11 is an express line; not every metro line reaches the airport directly.',
     ],
   },
@@ -506,7 +506,7 @@ export const airports: Airport[] = [
       location: 'Left-luggage counters in the terminal; confirm the current location and hours at the airport.',
     },
     gotchas: [
-      'Landing after midday means you will miss the pandas — they sleep through the afternoon.',
+   'Landing after midday means you will miss the pandas, they sleep through the afternoon.',
       'Tianfu is far from the centre. Do not budget the same as for a close-in airport.',
       'Panda Base tickets are passport-linked and busy; book ahead.',
     ],
@@ -576,7 +576,7 @@ export const airports: Airport[] = [
     },
     gotchas: [
       'The Terracotta Army needs roughly 8–9 hours of layover to be comfortable once immigration, driving, and the return buffer are counted.',
-      'Book Terracotta Army tickets online in advance with your passport — they sell in timed waves.',
+   'Book Terracotta Army tickets online in advance with your passport, they sell in timed waves.',
       'A taxi back from the Terracotta Army site is hard to find. Pre-book your driver for the round trip.',
     ],
   },

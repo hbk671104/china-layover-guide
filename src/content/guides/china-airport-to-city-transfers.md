@@ -1,6 +1,6 @@
 ---
 title: "China Airport to City: Transfers Compared for Every Major Layover Hub"
-description: "How to get from China's main airports to the city center — costs, times, and the best option for PEK, PKX, PVG, SHA, CAN, TFU, XIY, and more."
+description: "How to get from China's main airports to the city center, costs, times, and the best option for PEK, PKX, PVG, SHA, CAN, TFU, XIY, and more."
 category: logistics
 updated: 2026-09-16
 sources:
@@ -12,13 +12,13 @@ sources:
     url: "https://www.bdia.com.cn/"
 faqs:
   - question: "What is the fastest way from Shanghai Pudong Airport to the city?"
-    answer: "The Maglev to Longyang Road takes about 8 minutes, then Metro Line 2 continues into the center — roughly 40–55 minutes door to door for around ¥55. Metro Line 2 direct is cheaper (¥7–9) but takes 60–90 minutes."
+    answer: "The Maglev to Longyang Road takes about 8 minutes, then Metro Line 2 continues into the center: roughly 40–55 minutes door to door for around ¥55. Metro Line 2 direct is cheaper (¥7–9) but takes 60–90 minutes."
   - question: "How do I get from Beijing Capital Airport to the city?"
-    answer: "Take the Airport Express to Dongzhimen or Sanyuanqiao — about 25–35 minutes for ¥25 — then metro or taxi onward. It runs roughly 06:00 to 23:00."
+    answer: "Take the Airport Express to Dongzhimen or Sanyuanqiao (about 25–35 minutes for ¥25) then metro or taxi onward. It runs roughly 06:00 to 23:00."
   - question: "What is the cheapest way from a Chinese airport to the city?"
     answer: "The metro. Fares from most airports are under ¥10, though the trip is slower than the dedicated express trains or Maglev. Hongqiao (SHA) is the cheapest and easiest, at ¥3–7 and 30–50 minutes."
   - question: "What if I land after midnight?"
-    answer: "Metro and Maglev services stop between roughly 21:40 and 22:30. After that, use a metered taxi or DiDi from the official queue or app — never an unofficial driver soliciting in arrivals."
+    answer: "Metro and Maglev services stop between roughly 21:40 and 22:30. After that, use a metered taxi or DiDi from the official queue or app, never an unofficial driver soliciting in arrivals."
 ---
 
 ## The short answer
@@ -41,7 +41,7 @@ Every major Chinese airport connects to its city by **metro or a dedicated expre
 | Shenzhen Bao'an (SZX) | Metro Line 11 | ~30–50 min | ~¥7–10 |
 | Hangzhou Xiaoshan (HGH) | Metro / Airport bus | ~45–60 min | ~¥20–30 |
 
-Treat fares and journey times as indicative — they change, so check the airport's own transport page or a maps app on arrival.
+Treat fares and journey times as indicative. They change, so check the airport's own transport page or a maps app on arrival.
 
 ## How to choose
 
@@ -54,7 +54,7 @@ Treat fares and journey times as indicative — they change, so check the airpor
 
 - **Metro and Maglev:** buy a single ticket with cash, or use Alipay/WeChat Pay QR at the gates. Shanghai gates also accept contactless foreign cards.
 - **Taxi:** metered; pay with cash or a QR app. Most drivers do not take foreign cards.
-- **DiDi:** China's ride-hailing app. Fares are shown upfront and international cards are supported. You need a data connection — see [eSIM setup](/guides/esim-setup-before-you-land/).
+- **DiDi:** China's ride-hailing app. Fares are shown upfront and international cards are supported. You need a data connection, see [eSIM setup](/guides/esim-setup-before-you-land/).
 
 ## Rules that save you money and trouble
 

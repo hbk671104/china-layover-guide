@@ -16,12 +16,12 @@ faqs:
   - question: "How long a layover do I need at CAN to leave the airport?"
     answer: "Around 7 hours minimum and 8+ comfortable. Guangzhou is spread out, so resist the urge to see both Canton Tower and the old town on a short stop."
   - question: "Can I visit Hong Kong from a Guangzhou layover?"
-    answer: "It's possible but not advisable on a short stop — the border crossing and travel time consume most of a day. High-speed rail to Shenzhen takes about 35 minutes, but you still need buffer time at both ends."
+    answer: "It's possible but not advisable on a short stop: the border crossing and travel time consume most of a day. High-speed rail to Shenzhen takes about 35 minutes, but you still need buffer time at both ends."
 ---
 
 ## The short answer
 
-**Yes — CAN is a designated port and eligible travelers can leave.** You need around **7 hours minimum**, and 8+ to be comfortable. Metro Line 3 gets you into the city in about 45–55 minutes for roughly ¥8, which makes Guangzhou one of the easier Chinese layovers.
+**Yes, CAN is a designated port and eligible travelers can leave.** You need around **7 hours minimum**, and 8+ to be comfortable. Metro Line 3 gets you into the city in about 45–55 minutes for roughly ¥8, which makes Guangzhou one of the easier Chinese layovers.
 
 ## Can you enter?
 
@@ -48,19 +48,19 @@ Guangzhou's specific issue is **spread**: the airport, the Tianhe business distr
 
 ## The way out
 
-1. **At check-in**, say you are using visa-free transit — airlines check your onward ticket before boarding.
+1. **At check-in**, say you are using visa-free transit: airlines check your onward ticket before boarding.
 2. **Fill in the Arrival Card** on the plane.
-3. **Join the 24/240-hour visa-free transit lane** at immigration — not the regular foreigner queue.
-4. **Store your bags** if you need to — left-luggage is usually ¥15–30 per bag.
+3. **Join the 24/240-hour visa-free transit lane** at immigration: not the regular foreigner queue.
+4. **Store your bags** if you need to, left-luggage is usually ¥15–30 per bag.
 5. **Take Metro Line 3** into the city.
 
 ## The traps that catch people
 
 - **Dim sum is a morning and lunch ritual.** Landing at 3pm means missing the thing Guangzhou is best at.
-- **Guangzhou is a major hub for flights to and from Africa, Southeast Asia, and Europe** — immigration can be busy, so leave a real buffer.
+- **Guangzhou is a major hub for flights to and from Africa, Southeast Asia, and Europe**: immigration can be busy, so leave a real buffer.
 - **A round trip does not qualify** for visa-free transit. Guangzhou → home is not a third country.
 - **Do not attempt Hong Kong** on a short layover. The border crossing eats the day.
 
 ## Bottom line
 
-Guangzhou is one of the more straightforward Chinese layovers — a cheap, fast metro and a compact set of highlights. Check your eligibility, then plan around food. See the [Guangzhou 6/10-hour guide](/guides/guangzhou-6-10-hour-layover/), the [10-hour deep dive](/guides/guangzhou-10-hour-layover/), and the [CAN airport guide](/airports/can/).
+Guangzhou is one of the more straightforward Chinese layovers: a cheap, fast metro and a compact set of highlights. Check your eligibility, then plan around food. See the [Guangzhou 6/10-hour guide](/guides/guangzhou-6-10-hour-layover/), the [10-hour deep dive](/guides/guangzhou-10-hour-layover/), and the [CAN airport guide](/airports/can/).

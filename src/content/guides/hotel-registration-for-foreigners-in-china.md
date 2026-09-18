@@ -12,7 +12,7 @@ faqs:
   - question: "Do I have to register my accommodation in China as a foreigner?"
     answer: "Yes. Foreign nationals must register where they are staying with the local public security office within 24 hours of arrival. If you stay at a hotel, the hotel does this for you at check-in."
   - question: "Do hotels register foreign guests automatically?"
-    answer: "Foreigner-registered hotels complete the registration at check-in. Confirm your hotel accepts foreign guests, and keep your passport with you — it is used for registration."
+    answer: "Foreigner-registered hotels complete the registration at check-in. Confirm your hotel accepts foreign guests, and keep your passport with you, it is used for registration."
   - question: "What if I stay with a friend or in an apartment?"
     answer: "You, or the person hosting you, must register with the local police station within 24 hours. Many areas now offer an online self-registration system, but check the local rules."
   - question: "What happens if I do not register?"
@@ -32,7 +32,7 @@ Foreign visitors to China must **register their accommodation with the local pol
 | A friend's or family's home | You, or your host | Within 24 hours |
 | Rented apartment | You (or the host) | Within 24 hours |
 
-Hotels that accept foreign guests handle the paperwork automatically — you simply hand over your passport. The catch is that **not every property is registered to take foreign guests**, which is why it is worth confirming before you book.
+Hotels that accept foreign guests handle the paperwork automatically. You simply hand over your passport. The catch is that **not every property is registered to take foreign guests**, which is why it is worth confirming before you book.
 
 ## If you are staying privately
 
@@ -40,12 +40,12 @@ You (or the person hosting you) must go to the **local public security bureau** 
 
 ## Why it matters for a layover
 
-On a short stop this is easy to overlook — especially if you are staying with a friend or in a short-term rental rather than a hotel. It is a legal requirement, and skipping it can mean **fines** and complications with immigration. It also matters if you are on **visa-free transit**: officers may ask where you are staying, and an unregistered or out-of-area address can cause problems.
+On a short stop this is easy to overlook: especially if you are staying with a friend or in a short-term rental rather than a hotel. It is a legal requirement, and skipping it can mean **fines** and complications with immigration. It also matters if you are on **visa-free transit**: officers may ask where you are staying, and an unregistered or out-of-area address can cause problems.
 
 ## Practical tips
 
 - **Book foreigner-registered hotels** for a stress-free arrival.
-- **Carry your passport** — it is needed for registration and can be requested by authorities.
+- **Carry your passport**. It is needed for registration and can be requested by authorities.
 - **Do it on day one.** Do not wait until the end of your stay.
 - **Keep a record** of the registration slip or confirmation if you are given one.
 

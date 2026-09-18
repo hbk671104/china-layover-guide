@@ -19,11 +19,11 @@ updated: 2026-09-03
 
 ## Why Beijing works for a layover
 
-Beijing is the classic first stop in China. It's not the easiest layover — the airport is far and the city is huge — but with 10+ hours you can see the imperial core and even squeeze in the Great Wall at Mutianyu if you pre-book a car or join a small group.
+Beijing is the classic first stop in China. It's not the easiest layover (the airport is far and the city is huge) but with 10+ hours you can see the imperial core and even squeeze in the Great Wall at Mutianyu if you pre-book a car or join a small group.
 
 ## The route
 
-Take the Airport Express to Dongzhimen, then the subway to Tiananmen and the Forbidden City. Walk through to Jingshan Park for the classic view over the palace roofs. If you have a full day, head to Mutianyu early instead — it's less crowded than Badaling and the toboggan down is memorable.
+Take the Airport Express to Dongzhimen, then the subway to Tiananmen and the Forbidden City. Walk through to Jingshan Park for the classic view over the palace roofs. If you have a full day, head to Mutianyu early instead. It's less crowded than Badaling and the toboggan down is memorable.
 
 ## Food to try
 

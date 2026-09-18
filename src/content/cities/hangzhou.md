@@ -23,7 +23,7 @@ Hangzhou is the classic Chinese postcard: a vast lake ringed by pagodas and will
 
 ## The route
 
-Start at **West Lake** — walk the **Su Causeway** or the shoreline near the broken bridge. Head to **Lingyin Temple**, one of China's most important Buddhist temples, set among carvings and forest. Then visit the **Longjing (Dragon Well) tea village** for the tea terraces and a tasting. If time allows, **Hefang Street** and the illuminated **Leifeng Pagoda** round out the day.
+Start at **West Lake**, walk the **Su Causeway** or the shoreline near the broken bridge. Head to **Lingyin Temple**, one of China's most important Buddhist temples, set among carvings and forest. Then visit the **Longjing (Dragon Well) tea village** for the tea terraces and a tasting. If time allows, **Hefang Street** and the illuminated **Leifeng Pagoda** round out the day.
 
 ## Food to try
 

@@ -80,7 +80,7 @@ const related = airports.filter((other) => other.code !== airport.code).slice(0,
 ---
 
 <BaseLayout
-  title={`${code} Layover Guide — ${airport.name}`}
+ title={`${code} Layover Guide | ${airport.name}`}
   description={`How to use a layover at ${code} (${airport.name}): transfer times to ${airport.city}, what fits in 6, 8, 12, and 24 hours, luggage storage, and whether you can leave the airport.`}
   canonicalPath={canonicalPath}
   type="article"
@@ -237,7 +237,7 @@ const related = airports.filter((other) => other.code !== airport.code).slice(0,
           related.map((other) => (
             <li>
               <a href={`/airports/${other.code}/`} class="text-[var(--color-brand)] hover:underline">
-                {other.code.toUpperCase()} — {other.name}
+        {other.code.toUpperCase()}, {other.name}
               </a>
             </li>
           ))

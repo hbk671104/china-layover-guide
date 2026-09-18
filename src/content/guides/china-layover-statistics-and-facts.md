@@ -1,6 +1,6 @@
 ---
 title: "China Layover Statistics & Facts 2026: The Numbers That Matter"
-description: "A citable reference of China layover and visa-free transit figures — countries, ports, time limits, transfer times, and airport data for 2026."
+description: "A citable reference of China layover and visa-free transit figures, countries, ports, time limits, transfer times, and airport data for 2026."
 category: transit-visa
 updated: 2026-09-16
 sources:
@@ -69,19 +69,19 @@ China's 240-hour visa-free transit covers **55 countries** through **65 ports** 
 | Guangzhou CAN → city (Metro Line 3) | ~45–55 min | ~¥8 |
 | Chengdu TFU → city (Metro Line 18) | 35–40 min | ¥7–10 |
 
-Transfer times and fares change — verify on the airport's own site before relying on them. See the full [airport-to-city transfer guide](/guides/china-airport-to-city-transfers/).
+Transfer times and fares change, verify on the airport's own site before relying on them. See the full [airport-to-city transfer guide](/guides/china-airport-to-city-transfers/).
 
 ## The numbers we repeat most
 
-- **10 days** — the practical length of the 240-hour transit window.
-- **65 ports, 24 provinces** — where the 240-hour policy applies.
-- **~50 vs 55** — the 30-day entry list and the 240-hour transit list are **not the same**, and they overlap heavily but differ (the US is transit-only).
-- **3 months** — the NIA's minimum passport validity for the transit policy; airlines may ask for six.
-- **2.5–3 hours** — the buffer to be back at the airport before an international departure.
+- **10 days**: the practical length of the 240-hour transit window.
+- **65 ports, 24 provinces**, where the 240-hour policy applies.
+- **~50 vs 55**: the 30-day entry list and the 240-hour transit list are **not the same**, and they overlap heavily but differ (the US is transit-only).
+- **3 months**: the NIA's minimum passport validity for the transit policy; airlines may ask for six.
+- **2.5–3 hours**: the buffer to be back at the airport before an international departure.
 
 ## How to use this page
 
-If you are writing about China layovers or quoting a figure, the visa-free numbers trace to the NIA (2025-07-04) and the 30-day list to the NIA compilation of 2026-02-17. Everything else — fares, transfer times, opening hours — is indicative and should be re-checked against the operator.
+If you are writing about China layovers or quoting a figure, the visa-free numbers trace to the NIA (2025-07-04) and the 30-day list to the NIA compilation of 2026-02-17. Everything else (fares, transfer times, opening hours) is indicative and should be re-checked against the operator.
 
 ## Bottom line
 

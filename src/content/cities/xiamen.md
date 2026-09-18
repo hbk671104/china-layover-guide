@@ -23,7 +23,7 @@ Xiamen is one of China's most pleasant cities: a subtropical island with colonia
 
 ## The route
 
-Head first to **Zhongshan Road** for the pedestrian street and old-town feel, then take the **ferry to Gulangyu Island** — a car-free island of colonial villas, gardens, and viewpoints. If you are short on time, skip the island and visit **Nanputuo Temple** and **Xiamen University** instead. Finish at **Zengcuoan Village** for seafood and cafés.
+Head first to **Zhongshan Road** for the pedestrian street and old-town feel, then take the **ferry to Gulangyu Island**: a car-free island of colonial villas, gardens, and viewpoints. If you are short on time, skip the island and visit **Nanputuo Temple** and **Xiamen University** instead. Finish at **Zengcuoan Village** for seafood and cafés.
 
 ## Food to try
 
@@ -31,10 +31,10 @@ Oyster omelette, satay noodles, fish ball soup, and the Fujian specialty *fotiao
 
 ## Timing notes
 
-The airport is only 20–30 minutes from the center, which gives you more usable time than most Chinese hubs. But **Gulangyu ferry tickets are capacity-limited** and sell out — book online in advance and arrive early, or plan around it.
+The airport is only 20–30 minutes from the center, which gives you more usable time than most Chinese hubs. But **Gulangyu ferry tickets are capacity-limited** and sell out: book online in advance and arrive early, or plan around it.
 
 ## Before you go
 
-- [Set up a payment app](/guides/payments-in-china-for-foreigners/) — island vendors are QR-only.
+- [Set up a payment app](/guides/payments-in-china-for-foreigners/), island vendors are QR-only.
 - [Install an eSIM](/guides/esim-setup-before-you-land/) before you fly.
 - Confirm entry via [240-hour visa-free transit](/guides/240-hour-visa-free-transit/).

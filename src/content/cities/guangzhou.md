@@ -18,11 +18,11 @@ updated: 2026-09-03
 
 ## Why Guangzhou works for a layover
 
-Guangzhou is China's food capital and one of its most relaxed big cities. It's a great layover if you're flying between Southeast Asia and Europe — the airport is huge and well connected, and the city rewards slow wandering more than checklist sightseeing.
+Guangzhou is China's food capital and one of its most relaxed big cities. It's a great layover if you're flying between Southeast Asia and Europe. The airport is huge and well connected, and the city rewards slow wandering more than checklist sightseeing.
 
 ## The route
 
-Take Metro Line 3 to Canton Tower for the skyline, then switch to Line 6 for Shamian Island — a leafy former concession area perfect for a walk and coffee. Finish near Beijing Road for shopping and street food before heading back. If food is your priority, skip the tower and go straight to a proper dim sum lunch.
+Take Metro Line 3 to Canton Tower for the skyline, then switch to Line 6 for Shamian Island: a leafy former concession area perfect for a walk and coffee. Finish near Beijing Road for shopping and street food before heading back. If food is your priority, skip the tower and go straight to a proper dim sum lunch.
 
 ## Food to try
 
@@ -30,4 +30,4 @@ Dim sum (har gow, siu mai, char siu bao), roast goose, double-skin milk dessert,
 
 ## Timing notes
 
-Baiyun Airport is about 40 minutes from the center by metro. Immigration can be slow at peak hours — leave a real buffer for your onward flight.
+Baiyun Airport is about 40 minutes from the center by metro. Immigration can be slow at peak hours: leave a real buffer for your onward flight.

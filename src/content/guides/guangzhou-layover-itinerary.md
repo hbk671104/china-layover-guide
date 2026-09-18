@@ -1,6 +1,6 @@
 ---
 title: "Guangzhou Layover: What to Do in 6, 8, 12, and 24 Hours"
-description: "A realistic Guangzhou layover plan for each window — dim sum, Shamian Island, Canton Tower, and how long the transfer from Baiyun Airport really takes."
+description: "A realistic Guangzhou layover plan for each window, dim sum, Shamian Island, Canton Tower, and how long the transfer from Baiyun Airport really takes."
 category: cities
 updated: 2026-09-16
 sources:
@@ -16,7 +16,7 @@ faqs:
   - question: "How do I get from Baiyun Airport to central Guangzhou?"
     answer: "Take Metro Line 3 from the airport, roughly 45–55 minutes to the Tianhe business district and the city center for about ¥8. Taxis and DiDi cost ¥100–130 and take 45–60 minutes depending on traffic."
   - question: "Can I visit Hong Kong from a Guangzhou layover?"
-    answer: "It is possible but not advisable on a short stop — the border crossing and travel time consume most of a day. High-speed rail to Shenzhen takes about 35 minutes, but you still need buffer time at both ends."
+    answer: "It is possible but not advisable on a short stop: the border crossing and travel time consume most of a day. High-speed rail to Shenzhen takes about 35 minutes, but you still need buffer time at both ends."
 ---
 
 ## The short answer
@@ -34,16 +34,16 @@ Baiyun Airport (CAN) is well connected and the metro is straightforward. Immigra
 
 ## What each window gives you
 
-### 6 hours — stay at the airport
+### 6 hours, stay at the airport
 Immigration plus the transfer plus the return buffer leaves too little. Not worth the stress.
 
-### 8 hours — dim sum and Shamian Island
-About **3–4 usable hours**. Take Metro Line 3 in, eat a proper **dim sum breakfast or lunch** (arrive before 11am when locals go), then walk **Shamian Island** — leafy colonial-era streets perfect for a slow hour. Back on Line 2/3.
+### 8 hours, dim sum and Shamian Island
+About **3–4 usable hours**. Take Metro Line 3 in, eat a proper **dim sum breakfast or lunch** (arrive before 11am when locals go), then walk **Shamian Island**, leafy colonial-era streets perfect for a slow hour. Back on Line 2/3.
 
-### 12 hours — add Canton Tower
+### 12 hours: add Canton Tower
 About **6 usable hours**. Dim sum, Shamian Island, then **Canton Tower** for the skyline and, if you have the time, a **Pearl River night cruise**. Finish at **Beijing Road** for street food and shopping.
 
-### 24 hours — eat your way through
+### 24 hours, eat your way through
 Book a hotel downtown and treat it as a food trip: morning tea, roast goose for lunch, a proper Cantonese dinner. Add **Chen Clan Ancestral Hall** for the architecture, or a day trip to **Foshan** (30 minutes by metro).
 
 ## The route that works

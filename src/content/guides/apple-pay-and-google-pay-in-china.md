@@ -21,7 +21,7 @@ faqs:
 
 ## The short answer
 
-Forget tap-to-pay. **Foreign Apple Pay and Google Pay generally do not work at Chinese terminals**, because China's payment system runs on **QR codes**, not NFC card readers. Set up **Alipay or WeChat Pay** instead — that is what actually works.
+Forget tap-to-pay. **Foreign Apple Pay and Google Pay generally do not work at Chinese terminals**, because China's payment system runs on **QR codes**, not NFC card readers. Set up **Alipay or WeChat Pay** instead. That is what actually works.
 
 ## Why tap-to-pay fails here
 
@@ -36,7 +36,7 @@ Domestic users pay inside Alipay and WeChat Pay. Foreign cards are bridged into 
 
 | Method | Where it works |
 |---|---|
-| Alipay QR (linked foreign card) | Nearly everywhere — food, transport, shops |
+| Alipay QR (linked foreign card) | Nearly everywhere, food, transport, shops |
 | WeChat Pay QR (linked foreign card) | Nearly everywhere, and for bookings |
 | Contactless foreign card | Some metro/Maglev gates and large hotels/malls |
 | Physical foreign card | International hotels, duty-free, upscale chains |
@@ -44,12 +44,12 @@ Domestic users pay inside Alipay and WeChat Pay. Foreign cards are bridged into 
 
 ## The practical setup
 
-1. Install **Alipay** and **WeChat** before you fly — see [Alipay for foreigners](/guides/alipay-for-foreigners/) and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/).
+1. Install **Alipay** and **WeChat** before you fly, see [Alipay for foreigners](/guides/alipay-for-foreigners/) and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/).
 2. **Verify your passport** in each app and **link your card**.
 3. **Test a ¥5 purchase** at a convenience store.
-4. Carry **¥200–500 in small notes** — see [do you need cash in China?](/guides/do-you-need-cash-in-china/).
+4. Carry **¥200–500 in small notes**, see [do you need cash in China?](/guides/do-you-need-cash-in-china/).
 
-If you want to use the card that is already in your Apple Wallet, add that same card directly inside Alipay or WeChat Pay — the card works, the wallet does not.
+If you want to use the card that is already in your Apple Wallet, add that same card directly inside Alipay or WeChat Pay: the card works, the wallet does not.
 
 ## The exceptions worth knowing
 

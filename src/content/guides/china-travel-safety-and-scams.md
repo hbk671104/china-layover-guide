@@ -1,6 +1,6 @@
 ---
 title: "Is China Safe for Tourists? Scams, Risks, and What to Actually Watch For"
-description: "China is statistically very safe for travelers. Here are the real risks on a layover — taxi scams, tea-house cons, and pickpocketing — and how to avoid each."
+description: "China is statistically very safe for travelers. Here are the real risks on a layover (taxi scams, tea-house cons, and pickpocketing) and how to avoid each."
 category: logistics
 updated: 2026-09-16
 sources:
@@ -55,8 +55,8 @@ Door-to-door tour sellers offering Great Wall or city tours at inflated prices.
 - **Use DiDi or the official taxi queue.** Never an unmarked car.
 - **Keep your passport secure** and carry a photocopy or photo separately.
 - **Save your embassy details offline** before you travel.
-- **Do not carry large amounts of cash** — see [do you need cash in China?](/guides/do-you-need-cash-in-china/).
-- **Watch your step** — traffic, e-bikes, and scooters are the most likely way to actually get hurt.
+- **Do not carry large amounts of cash**, see [do you need cash in China?](/guides/do-you-need-cash-in-china/).
+- **Watch your step**, traffic, e-bikes, and scooters are the most likely way to actually get hurt.
 - **Respect local rules** at attractions and on public transport.
 
 ## Emergency numbers
@@ -70,11 +70,11 @@ Door-to-door tour sellers offering Great Wall or city tours at inflated prices.
 
 ## Health and practicalities
 
-- **Tap water is not drinkable** — drink bottled or boiled water.
+- **Tap water is not drinkable**, drink bottled or boiled water.
 - **Pharmacies** are common; bring any prescription medication in original packaging with a copy of the prescription.
 - **Travel insurance** is cheap and worth having for a longer stopover.
 - **Air quality** in northern cities can be poor in winter; sensitive travelers should plan indoor stops.
 
 ## Bottom line
 
-China is safer than most travelers expect. Your job is not to defend against violence — it is to avoid petty hustles by sticking to official channels: the taxi queue or DiDi, licensed attractions, and pre-booked transport. For getting around safely, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
+China is safer than most travelers expect. Your job is not to defend against violence. It is to avoid petty hustles by sticking to official channels: the taxi queue or DiDi, licensed attractions, and pre-booked transport. For getting around safely, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).

@@ -1,6 +1,6 @@
 ---
 title: "China Apps Checklist: What to Install Before You Fly"
-description: "The apps you actually need for a China layover — payments, maps, ride-hailing, translation, and trains — plus what to set up at home versus on arrival."
+description: "The apps you actually need for a China layover (payments, maps, ride-hailing, translation, and trains) plus what to set up at home versus on arrival."
 category: esim
 updated: 2026-09-16
 sources:
@@ -16,18 +16,18 @@ faqs:
   - question: "Can I install these apps after I land in China?"
     answer: "Technically yes, but do not plan on it. Google Play is blocked in mainland China, the Apple App Store may serve a different storefront, and SMS verification is unreliable while roaming. Install everything on home Wi-Fi before you fly."
   - question: "Does Google Maps work in China?"
-    answer: "Google Maps is unreliable in mainland China because Google services are blocked. Navigation data is also often inaccurate or offset. Use Amap or Baidu Maps instead — both work well, though Amap has the better English support."
+    answer: "Google Maps is unreliable in mainland China because Google services are blocked. Navigation data is also often inaccurate or offset. Use Amap or Baidu Maps instead: both work well, though Amap has the better English support."
   - question: "Do I need a VPN app for China?"
-    answer: "If you use a travel eSIM that routes data outside mainland China, you usually do not need a separate VPN for everyday apps. If you use a local Chinese SIM, you will need one for Google, WhatsApp, and Instagram — and VPN apps are hard to install once you are in China."
+    answer: "If you use a travel eSIM that routes data outside mainland China, you usually do not need a separate VPN for everyday apps. If you use a local Chinese SIM, you will need one for Google, WhatsApp, and Instagram, and VPN apps are hard to install once you are in China."
 ---
 
 ## The short answer
 
-Install **five categories of app before you fly**: payments (Alipay + WeChat), navigation (Amap), ride-hailing (DiDi), translation, and trains if you are moving between cities. Do it on home Wi-Fi — Google Play is blocked in China and app-store behavior changes once you connect to a Chinese network.
+Install **five categories of app before you fly**: payments (Alipay + WeChat), navigation (Amap), ride-hailing (DiDi), translation, and trains if you are moving between cities. Do it on home Wi-Fi: Google Play is blocked in China and app-store behavior changes once you connect to a Chinese network.
 
 ## The checklist
 
-### 1. Payments — do this first
+### 1. Payments, do this first
 
 | App | Why | Priority |
 |---|---|---|
@@ -36,7 +36,7 @@ Install **five categories of app before you fly**: payments (Alipay + WeChat), n
 
 Verify your passport and link a card in both. See [Alipay for foreigners](/guides/alipay-for-foreigners/) and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/).
 
-### 2. Navigation — Google Maps will not save you
+### 2. Navigation, Google Maps will not save you
 
 | App | Notes |
 |---|---|
@@ -60,7 +60,7 @@ DiDi also runs as a mini-program inside Alipay and WeChat if you would rather no
 | **Google Translate** | Download the offline Chinese pack before you fly; online mode may be blocked |
 | **Baidu Translate** | Works inside China without a VPN; strong camera mode |
 
-Camera translation is the feature you will actually use — menus, signs, taxi addresses.
+Camera translation is the feature you will actually use, menus, signs, taxi addresses.
 
 ### 5. Trains and travel (if you are moving between cities)
 
@@ -80,8 +80,8 @@ See [China high-speed rail for tourists](/guides/china-high-speed-rail-for-touri
 
 ## The one that catches people out
 
-**SMS verification.** Many apps want to text you a code. If your home SIM is off or roaming SMS is unreliable, you cannot complete setup abroad. Do every verification step **before you leave**, and write down the last four digits of your registered phone number — DiDi drivers ask for them as an identity check.
+**SMS verification.** Many apps want to text you a code. If your home SIM is off or roaming SMS is unreliable, you cannot complete setup abroad. Do every verification step **before you leave**, and write down the last four digits of your registered phone number: DiDi drivers ask for them as an identity check.
 
 ## Bottom line
 
-Ten minutes of setup at home removes almost all the friction of a China layover. Payments, maps, ride-hailing, translation, trains — install them all before you fly, and read [China eSIM setup](/guides/esim-setup-before-you-land/) to make sure they work when you land.
+Ten minutes of setup at home removes almost all the friction of a China layover. Payments, maps, ride-hailing, translation, trains, install them all before you fly, and read [China eSIM setup](/guides/esim-setup-before-you-land/) to make sure they work when you land.

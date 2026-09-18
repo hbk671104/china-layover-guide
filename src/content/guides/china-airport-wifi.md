@@ -21,7 +21,7 @@ faqs:
 
 ## The short answer
 
-Chinese airports do offer free Wi-Fi — but it is usually **gated behind an SMS code sent to a Chinese mobile number**. If you are on a foreign SIM, that code often never arrives. **Do not plan on getting online at the airport**: buy a travel eSIM before you fly and activate it on landing.
+Chinese airports do offer free Wi-Fi, but it is usually **gated behind an SMS code sent to a Chinese mobile number**. If you are on a foreign SIM, that code often never arrives. **Do not plan on getting online at the airport**: buy a travel eSIM before you fly and activate it on landing.
 
 ## Why the Wi-Fi gate exists
 
@@ -49,7 +49,7 @@ Some airports provide a **kiosk that scans your passport** to issue a login code
 
 Before you fly:
 
-1. **Buy a travel eSIM** and install it on home Wi-Fi — see [Best eSIM for China](/guides/best-esim-for-china/).
+1. **Buy a travel eSIM** and install it on home Wi-Fi, see [Best eSIM for China](/guides/best-esim-for-china/).
 2. **Test it** is not possible until you land, so instead confirm the install completed and the plan shows as active.
 3. **Enable it** just before landing.
 4. **Open a map** in the terminal to confirm data is flowing.
@@ -59,10 +59,10 @@ This removes the entire problem: you never need the airport Wi-Fi code.
 ## If you arrive without data
 
 1. Look for the airport's **Wi-Fi kiosk** or a staffed information desk.
-2. Ask airport staff — many terminals have a help desk that can issue a code.
+2. Ask airport staff, many terminals have a help desk that can issue a code.
 3. Use a **coffee shop or lounge** network; some are less strictly gated.
 4. As a last resort, **buy a local SIM** at a carrier counter (bring your passport).
 
 ## Bottom line
 
-Airport Wi-Fi in China is a trap for foreign travelers — available, but gated behind a code you may not be able to receive. Buy and install an eSIM before you fly so you land with data. See the [eSIM setup guide](/guides/esim-setup-before-you-land/) and the [apps checklist](/guides/china-apps-checklist/).
+Airport Wi-Fi in China is a trap for foreign travelers, available, but gated behind a code you may not be able to receive. Buy and install an eSIM before you fly so you land with data. See the [eSIM setup guide](/guides/esim-setup-before-you-land/) and the [apps checklist](/guides/china-apps-checklist/).

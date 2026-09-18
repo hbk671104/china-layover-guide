@@ -40,7 +40,7 @@ The point is that you are genuinely in transit. The onward destination must not 
 | London → Shanghai → Tokyo | Yes | C differs from A |
 | New York → Beijing → Bangkok | Yes | C differs from A |
 | London → Shanghai → Hong Kong | Generally yes | Hong Kong is a separate region |
-| London → Shanghai → London | **No** | Round trip — C equals A |
+| London → Shanghai → London | **No** | Round trip, C equals A |
 | New York → Beijing → Chicago | **No** | Return to the same country |
 | Paris → Beijing → Shanghai → Tokyo | Usually yes, with care | Domestic legs are allowed within the permitted areas; your onward international ticket must be to a third country |
 
@@ -50,7 +50,7 @@ The point is that you are genuinely in transit. The onward destination must not 
 
 ## Separate tickets are fine
 
-You do not need one single booking. A separate onward ticket works, but you must be able to **show it** — a booking confirmation with a date and flight number. Keep a screenshot on your phone, since airport Wi-Fi may need an SMS code you cannot receive. Airlines check carefully because they are penalized if they board an ineligible passenger.
+You do not need one single booking. A separate onward ticket works, but you must be able to **show it**: a booking confirmation with a date and flight number. Keep a screenshot on your phone, since airport Wi-Fi may need an SMS code you cannot receive. Airlines check carefully because they are penalized if they board an ineligible passenger.
 
 ## The related requirement: permitted areas
 

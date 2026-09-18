@@ -21,7 +21,7 @@ faqs:
 
 ## The short answer
 
-**No — Google Maps is not reliable in mainland China.** Google services are blocked, and China's mapping data is often offset or incomplete anyway. Use **Amap (高德地图)** or **Baidu Maps** for navigation, and keep Google Maps only as something that might work over a travel eSIM.
+**No, Google Maps is not reliable in mainland China.** Google services are blocked, and China's mapping data is often offset or incomplete anyway. Use **Amap (高德地图)** or **Baidu Maps** for navigation, and keep Google Maps only as something that might work over a travel eSIM.
 
 ## What's blocked and what isn't
 
@@ -35,7 +35,7 @@ faqs:
 | Alipay / WeChat Pay | Works | Works |
 | Apple Maps | Partially works | Partially works |
 
-Apple Maps is a partial exception — it is available on iPhones in China and uses local data, though detail and English quality vary.
+Apple Maps is a partial exception. It is available on iPhones in China and uses local data, though detail and English quality vary.
 
 ## Why "it loads" does not mean "it works"
 
@@ -54,11 +54,11 @@ Use a Chinese map app and the problem disappears.
 - Deepest coverage of Chinese addresses.
 - Strong if you can paste or scan a Chinese address.
 
-Both are free. Install them before you fly, since app-store behavior inside China is unpredictable — see the [China apps checklist](/guides/china-apps-checklist/).
+Both are free. Install them before you fly, since app-store behavior inside China is unpredictable, see the [China apps checklist](/guides/china-apps-checklist/).
 
 ## Will a travel eSIM bring Google back?
 
-**Usually, yes.** A travel eSIM from Airalo, Holafly, or Nomad routes your data through a partner network **outside** mainland China, so Google Maps, Gmail, and WhatsApp frequently keep working with no separate VPN. That is the main reason travelers buy an eSIM rather than a local SIM — see [Best eSIM for China](/guides/best-esim-for-china/) and [eSIM vs VPN vs roaming](/guides/esim-vs-vpn-vs-roaming/).
+**Usually, yes.** A travel eSIM from Airalo, Holafly, or Nomad routes your data through a partner network **outside** mainland China, so Google Maps, Gmail, and WhatsApp frequently keep working with no separate VPN. That is the main reason travelers buy an eSIM rather than a local SIM, see [Best eSIM for China](/guides/best-esim-for-china/) and [eSIM vs VPN vs roaming](/guides/esim-vs-vpn-vs-roaming/).
 
 Two caveats:
 
@@ -69,7 +69,7 @@ Two caveats:
 
 1. Install **Amap** and **Baidu Maps** at home.
 2. Download an **offline map area** for each city you will visit.
-3. Save your hotel's **Chinese address** as a screenshot — it works for taxis and DiDi.
+3. Save your hotel's **Chinese address** as a screenshot. It works for taxis and DiDi.
 4. Keep a **translation app with camera mode** for signs and menus.
 
 ## Bottom line

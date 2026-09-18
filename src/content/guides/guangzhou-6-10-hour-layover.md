@@ -1,6 +1,6 @@
 ---
 title: "Guangzhou 6/10-Hour Layover: What to Do"
-description: "What actually fits in a 6-hour and a 10-hour layover in Guangzhou — dim sum timing, the metro route from Baiyun, and the one mistake that ruins the food."
+description: "What actually fits in a 6-hour and a 10-hour layover in Guangzhou, dim sum timing, the metro route from Baiyun, and the one mistake that ruins the food."
 category: cities
 updated: 2026-09-17
 sources:
@@ -10,7 +10,7 @@ sources:
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
 faqs:
   - question: "Is a 6-hour layover in Guangzhou enough to leave the airport?"
-    answer: "It's tight but possible. Metro Line 3 takes 45–55 minutes each way, so after immigration and a 2.5-hour return buffer you have roughly 1.5–2 hours in the city — enough for one dim sum meal and no more."
+    answer: "It's tight but possible. Metro Line 3 takes 45–55 minutes each way, so after immigration and a 2.5-hour return buffer you have roughly 1.5–2 hours in the city, enough for one dim sum meal and no more."
   - question: "What can I do in a 10-hour layover in Guangzhou?"
     answer: "About 5–6 usable hours: a proper dim sum lunch, a walk on Shamian Island, Canton Tower for the skyline, and a street-food pass along Beijing Road."
   - question: "What time should I eat dim sum in Guangzhou?"
@@ -21,11 +21,11 @@ faqs:
 
 ## The short answer
 
-**6 hours is enough for exactly one thing: dim sum.** **10 hours is enough for the classic Guangzhou day** — dim sum, Shamian Island, Canton Tower, and street food. The single most important adjustment: **eat early.** Yum cha is a morning and lunch ritual, and landing in the afternoon misses it.
+**6 hours is enough for exactly one thing: dim sum.** **10 hours is enough for the classic Guangzhou day**, dim sum, Shamian Island, Canton Tower, and street food. The single most important adjustment: **eat early.** Yum cha is a morning and lunch ritual, and landing in the afternoon misses it.
 
 ## The two plans
 
-### 6 hours — one meal, done well
+### 6 hours: one meal, done well
 
 | Time | Step |
 |---|---|
@@ -36,15 +36,15 @@ faqs:
 | 3:30 | Head back |
 | 5:00 | At the airport, 2.5-hour buffer |
 
-That gives you roughly **1.5–2 hours in the city.** It is enough for a memorable meal — and it is not enough for a second stop. Do not try.
+That gives you roughly **1.5–2 hours in the city.** It is enough for a memorable meal, and it is not enough for a second stop. Do not try.
 
-### 10 hours — the classic day
+### 10 hours: the classic day
 
 | Time | Step |
 |---|---|
 | Morning | Land, clear immigration, store bags |
 | Late morning | **Dim sum** (arrive before 11am) |
-| Early afternoon | **Shamian Island** — leafy colonial-era streets, an hour's slow walk |
+| Early afternoon | **Shamian Island**, leafy colonial-era streets, an hour's slow walk |
 | Afternoon | **Chen Clan Ancestral Hall** for the architecture, if time allows |
 | Late afternoon | **Canton Tower** for the skyline |
 | Early evening | **Beijing Road** for street food and shopping |
@@ -54,15 +54,15 @@ About **5–6 usable hours**, which is a genuinely good day.
 
 ## Getting in and out
 
-- **Metro Line 3** — 45–55 minutes, roughly ¥8. Cheap, traffic-proof, and signed in English. This is the right choice.
-- **Taxi / DiDi** — 45–60 minutes, ¥100–130. Convenient with luggage but traffic-dependent.
+- **Metro Line 3**, 45–55 minutes, roughly ¥8. Cheap, traffic-proof, and signed in English. This is the right choice.
+- **Taxi / DiDi**, 45–60 minutes, ¥100–130. Convenient with luggage but traffic-dependent.
 
 ## What to eat
 
 Guangzhou is the home of Cantonese cooking, so eat the classics:
 
 - **Har gow** (shrimp dumplings), **siu mai**, **char siu bao**, **cheung fun** (rice noodle rolls)
-- **Roast goose** — Guangzhou's signature, and better here than anywhere else
+- **Roast goose**, Guangzhou's signature, and better here than anywhere else
 - **Wonton noodles** and **double-skin milk dessert**
 
 ## The mistake that ruins a Guangzhou layover
@@ -71,9 +71,9 @@ Guangzhou is the home of Cantonese cooking, so eat the classics:
 
 ## Before you go
 
-- **Set up Alipay or WeChat Pay** — dim sum restaurants and street stalls are QR-only. See [payments in China](/guides/payments-in-china-for-foreigners/).
+- **Set up Alipay or WeChat Pay**, dim sum restaurants and street stalls are QR-only. See [payments in China](/guides/payments-in-china-for-foreigners/).
 - **Install an eSIM** before you fly. See [eSIM setup](/guides/esim-setup-before-you-land/).
-- **Confirm entry** — check [can you leave CAN on a layover?](/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/).
+- **Confirm entry**: check [can you leave CAN on a layover?](/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/).
 
 ## Bottom line
 
