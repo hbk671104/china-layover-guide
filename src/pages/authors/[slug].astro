@@ -1,0 +1,171 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { authors, categoryLabels } from '../../data/authors';
+import { getCollection } from 'astro:content';
+import GuideList from '../../components/GuideList.astro';
+
+export async function getStaticPaths() {
+  return authors.map((author) => ({
+    params: { slug: author.slug },
+    props: { author },
+  }));
+}
+
+const { author } = Astro.props;
+const siteUrl = 'https://chinalayoverguide.com';
+
+const allGuides = await getCollection('guides');
+const written = allGuides
+  .filter((guide) => author.categories.includes(guide.data.category))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const writtenCities = await getCollection('cities');
+
+const categories = author.categories.map((c) => categoryLabels[c] ?? c);
+
+const person = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: author.name,
+  url: `${siteUrl}/authors/${author.slug}/`,
+  description: author.tagline,
+  jobTitle: author.role,
+  knowsAbout: author.knowsAbout,
+  ...(author.sameAs.length ? { sameAs: author.sameAs } : {}),
+  ...(author.avatar ? { image: `${siteUrl}${author.avatar}` } : {}),
+  alumniOf: author.alumniOf.map((school) => ({
+    '@type': 'CollegeOrUniversity',
+    name: school.name,
+    ...(school.url ? { url: school.url } : {}),
+  })),
+  worksFor: {
+    '@type': 'Organization',
+    name: 'China Layover Guide',
+    url: siteUrl,
+  },
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: 'Beijing',
+    addressCountry: 'CN',
+  },
+};
+
+const jsonLd = [
+  person,
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+      { '@type': 'ListItem', position: 2, name: 'Authors', item: `${siteUrl}/authors/` },
+      { '@type': 'ListItem', position: 3, name: author.name, item: `${siteUrl}/authors/${author.slug}/` },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ProfilePage',
+    mainEntity: { '@type': 'Person', name: author.name, url: `${siteUrl}/authors/${author.slug}/` },
+  },
+];
+---
+
+<BaseLayout
+  title={`${author.name} | Author at China Layover Guide`}
+  description={author.tagline}
+  canonicalPath={`/authors/${author.slug}/`}
+  type="article"
+  jsonLd={jsonLd}
+>
+  <article class="mx-auto max-w-3xl px-4 py-12">
+    <header class="flex items-start gap-5">
+      {
+        author.avatar ? (
+          <img
+            src={author.avatar}
+            alt={author.name}
+            width="96"
+            height="96"
+            loading="eager"
+            decoding="sync"
+            fetchpriority="high"
+            class="h-24 w-24 shrink-0 rounded-full object-cover"
+          />
+        ) : (
+          <span
+            aria-hidden="true"
+            class="flex h-24 w-24 shrink-0 items-center justify-center rounded-full bg-slate-100 text-2xl font-bold text-slate-600"
+          >
+            {author.name.split(' ').map((p) => p[0]).join('')}
+          </span>
+        )
+      }
+      <div>
+        <h1 class="text-3xl font-extrabold tracking-tight text-slate-900">{author.name}</h1>
+        <p class="mt-1 font-semibold text-[var(--color-brand)]">{author.role}</p>
+        <p class="mt-1 text-sm text-slate-500">{author.location}</p>
+        {
+          author.sameAs.length > 0 && (
+            <p class="mt-2 text-sm">
+              {author.sameAs.map((link) => (
+                <a
+                  href={link}
+                  rel="me noopener"
+                  class="text-[var(--color-brand)] hover:underline"
+                >
+                  {link.replace(/^https?:\/\//, '')}
+                </a>
+              ))}
+            </p>
+          )
+        }
+      </div>
+    </header>
+
+    <section class="mt-8 space-y-4 text-slate-700">
+      {author.bio.map((paragraph) => <p>{paragraph}</p>)}
+    </section>
+
+    <section class="mt-10 rounded-xl border border-slate-200 p-6">
+      <h2 class="font-bold text-slate-900">What {author.name.split(' ')[0]} can vouch for</h2>
+      <p class="mt-2 text-sm text-slate-600">{author.verification}</p>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="text-xl font-bold text-slate-900">Writes about</h2>
+      <ul class="mt-3 flex flex-wrap gap-2">
+        {
+          author.knowsAbout.map((topic) => (
+            <li class="rounded-full bg-slate-100 px-3 py-1 text-sm text-slate-700">{topic}</li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="text-xl font-bold text-slate-900">
+        {written.length + writtenCities.length} guides by {author.name}
+      </h2>
+      <p class="mt-2 text-sm text-slate-500">
+        Covering {categories.join(', ')}.
+      </p>
+      <div class="mt-4">
+        <GuideList guides={written} />
+      </div>
+      {
+        author.categories.includes('cities') && (
+          <p class="mt-4 text-sm">
+            <a href="/cities/" class="text-[var(--color-brand)] hover:underline">
+              City layover guides &rarr;
+            </a>
+          </p>
+        )
+      }
+    </section>
+
+    <p class="mt-10 text-sm text-slate-500">
+      <a href="/authors/" class="text-[var(--color-brand)] hover:underline">
+        &larr; All authors
+      </a>
+    </p>
+  </article>
+</BaseLayout>

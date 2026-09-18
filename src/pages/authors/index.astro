@@ -1,0 +1,129 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { authors } from '../../data/authors';
+import { getCollection } from 'astro:content';
+
+const siteUrl = 'https://chinalayoverguide.com';
+
+const guides = await getCollection('guides');
+const cities = await getCollection('cities');
+
+const cards = authors.map((author) => {
+  const written = [
+    ...guides.filter((g) => author.categories.includes(g.data.category)),
+    ...cities,
+  ].length;
+  return { author, count: written };
+});
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Authors — China Layover Guide',
+    description:
+      'The people who research, test and write the China Layover Guide. Who they are, where they live, and what they can personally vouch for.',
+    url: `${siteUrl}/authors/`,
+    hasPart: authors.map((author) => ({
+      '@type': 'Person',
+      name: author.name,
+      url: `${siteUrl}/authors/${author.slug}/`,
+    })),
+  },
+];
+---
+
+<BaseLayout
+  title="Authors | China Layover Guide"
+  description="The people who research and write the China Layover Guide. Both live in Beijing; one has used China's visa-free transit as a foreigner, one tests the payment apps and eSIMs on this site."
+  canonicalPath="/authors/"
+  jsonLd={jsonLd}
+>
+  <article class="mx-auto max-w-3xl px-4 py-12">
+    <header>
+      <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+        Who writes this
+      </h1>
+      <p class="mt-4 text-lg text-slate-600">
+        Two people, both living in Beijing. Everything here is written from China, not researched
+        from abroad.
+      </p>
+    </header>
+
+    <section class="mt-10 space-y-6">
+      {
+        cards.map(({ author, count }) => (
+          <a
+            href={`/authors/${author.slug}/`}
+            class="flex items-start gap-4 rounded-xl border border-slate-200 p-6 transition hover:border-[var(--color-brand)]"
+          >
+            {author.avatar ? (
+              <img
+                src={author.avatar}
+                alt={author.name}
+                width="64"
+                height="64"
+                loading="lazy"
+                decoding="async"
+                class="h-16 w-16 shrink-0 rounded-full object-cover"
+              />
+            ) : (
+              <span
+                aria-hidden="true"
+                class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-slate-100 text-lg font-bold text-slate-600"
+              >
+                {author.name.split(' ').map((p) => p[0]).join('')}
+              </span>
+            )}
+            <div>
+              <h2 class="text-xl font-bold text-slate-900">{author.name}</h2>
+              <p class="text-sm font-semibold text-[var(--color-brand)]">{author.role}</p>
+              <p class="mt-2 text-slate-600">{author.tagline}</p>
+              <p class="mt-2 text-sm text-slate-500">
+                {count} guide{count === 1 ? '' : 's'} · {author.location}
+              </p>
+            </div>
+          </a>
+        ))
+      }
+    </section>
+
+    <section class="mt-12 rounded-xl border border-slate-200 bg-slate-50 p-6">
+      <h2 class="font-bold text-slate-900">How we check things</h2>
+      <p class="mt-2 text-sm text-slate-600">
+        Not everything on a travel site can be tested. Some things can be looked up. We try to be
+        clear about which is which.
+      </p>
+      <ul class="mt-3 space-y-2 text-sm text-slate-600">
+        <li>
+          <strong class="text-slate-900">Payment and connectivity guides</strong> are based on
+          first-hand testing. Bokang sets up each app and eSIM plan on a foreign card and confirms
+          what actually works.
+        </li>
+        <li>
+          <strong class="text-slate-900">Visa and transit rules</strong> are checked against
+          publications from the National Immigration Administration (NIA). No one can self-test a
+          visa rule, so we cite the source instead of claiming otherwise.
+        </li>
+        <li>
+          <strong class="text-slate-900">Airline and airport details</strong> come from the airline
+          or airport's own published terms, linked at the foot of each page.
+        </li>
+      </ul>
+      <p class="mt-3 text-sm text-slate-600">
+        Every factual page carries a last-updated date and a source list. If something looks wrong,
+        the correction address is listed on the{' '}
+        <a href="/about/" class="text-[var(--color-brand)] hover:underline">
+          about page
+        </a>
+        .
+      </p>
+    </section>
+
+    <p class="mt-8 text-sm text-slate-500">
+      <a href="/about/" class="text-[var(--color-brand)] hover:underline">
+        More about this site &rarr;
+      </a>
+    </p>
+  </article>
+</BaseLayout>

@@ -1,0 +1,69 @@
+---
+import type { Author } from '../data/authors';
+
+interface Props {
+  author: Author;
+  /** ISO date string for the article's last update. */
+  updated?: string;
+  /** Extra line under the byline, e.g. a verification note. */
+  note?: string;
+}
+
+const { author, updated, note } = Astro.props;
+
+const initials = author.name
+  .split(' ')
+  .map((part) => part[0])
+  .join('');
+---
+
+<div class="mt-6 flex items-start gap-3 border-t border-slate-200 pt-4">
+  {
+    author.avatar ? (
+      <img
+        src={author.avatar}
+        alt={author.name}
+        width="40"
+        height="40"
+        loading="lazy"
+        decoding="async"
+        class="h-10 w-10 shrink-0 rounded-full object-cover"
+      />
+    ) : (
+      <span
+        aria-hidden="true"
+        class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-slate-100 text-sm font-bold text-slate-600"
+      >
+        {initials}
+      </span>
+    )
+  }
+  <div class="text-sm text-slate-600">
+    <p>
+      By{' '}
+      <a
+        href={`/authors/${author.slug}/`}
+        rel="author"
+        class="font-semibold text-slate-900 hover:text-[var(--color-brand)] hover:underline"
+      >
+        {author.name}
+      </a>
+      <span class="text-slate-500"> · {author.role}</span>
+    </p>
+    {
+      updated && (
+        <p class="mt-0.5 text-slate-500">
+          Last updated{' '}
+          <time datetime={updated}>
+            {new Date(updated).toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+            })}
+          </time>
+        </p>
+      )
+    }
+    {note && <p class="mt-1 text-slate-500">{note}</p>}
+  </div>
+</div>

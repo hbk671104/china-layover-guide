@@ -2,6 +2,8 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HeroImage from '../../components/HeroImage.astro';
+import AuthorByline from '../../components/AuthorByline.astro';
+import { authorForCategory } from '../../data/authors';
 
 export async function getStaticPaths() {
   const cities = await getCollection('cities');
@@ -13,6 +15,8 @@ export async function getStaticPaths() {
 
 const { city } = Astro.props;
 const { Content } = await render(city);
+
+const author = authorForCategory('cities');
 
 const siteUrl = 'https://chinalayoverguide.com';
 const canonicalPath = `/cities/${city.id}/`;
@@ -27,9 +31,12 @@ const jsonLd = [
     image: `${siteUrl}/og-default.png`,
     dateModified: new Date().toISOString(),
     author: {
-      '@type': 'Organization',
-      name: 'China Layover Guide',
-      url: `${siteUrl}/about/`,
+      '@type': 'Person',
+      name: author.name,
+      url: `${siteUrl}/authors/${author.slug}/`,
+      jobTitle: author.role,
+      knowsAbout: author.knowsAbout,
+      ...(author.sameAs.length ? { sameAs: author.sameAs } : {}),
     },
     publisher: {
       '@type': 'Organization',
@@ -79,25 +86,11 @@ const jsonLd = [
         {city.data.region} · {city.data.bestFor}
       </p>
       <p class="mt-2 text-sm text-slate-500">Suggested window: {city.data.layoverWindow}</p>
-      <p class="mt-2 text-sm text-slate-500">
-        Last updated:{' '}
-        <time datetime={city.data.updated.toISOString()}>
-          {
-            city.data.updated.toLocaleDateString('en-US', {
-              year: 'numeric',
-              month: 'long',
-              day: 'numeric',
-            })
-          }
-        </time>
-      </p>
-      <p class="mt-2 text-sm text-slate-500">
-        Researched and fact-checked by the{' '}
-        <a href="/about/" class="underline hover:text-[var(--color-brand)]">
-          China Layover Guide editorial team
-        </a>{' '}
-        against official sources.
-      </p>
+      <AuthorByline
+        author={author}
+        updated={city.data.updated.toISOString()}
+        note="Verified against the sources linked at the foot of this page."
+      />
       {
         city.data.heroImage && (
           <HeroImage

@@ -3,6 +3,8 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceList from '../../components/SourceList.astro';
 import HeroImage from '../../components/HeroImage.astro';
+import AuthorByline from '../../components/AuthorByline.astro';
+import { authorForCategory } from '../../data/authors';
 
 export async function getStaticPaths() {
   const guides = await getCollection('guides');
@@ -14,6 +16,8 @@ export async function getStaticPaths() {
 
 const { guide } = Astro.props;
 const { Content } = await render(guide);
+
+const author = authorForCategory(guide.data.category);
 
 const categoryLabel = {
   'transit-visa': 'Transit visa',
@@ -37,9 +41,12 @@ const jsonLd: Record<string, unknown>[] = [
     datePublished: guide.data.updated.toISOString(),
     dateModified: guide.data.updated.toISOString(),
     author: {
-      '@type': 'Organization',
-      name: 'China Layover Guide',
-      url: `${siteUrl}/about/`,
+      '@type': 'Person',
+      name: author.name,
+      url: `${siteUrl}/authors/${author.slug}/`,
+      jobTitle: author.role,
+      knowsAbout: author.knowsAbout,
+      ...(author.sameAs.length ? { sameAs: author.sameAs } : {}),
     },
     publisher: {
       '@type': 'Organization',
@@ -101,25 +108,15 @@ if (guide.data.faqs.length > 0) {
         {guide.data.title}
       </h1>
       <p class="mt-4 text-lg text-slate-600">{guide.data.description}</p>
-      <p class="mt-4 text-sm text-slate-500">
-        Last updated:{' '}
-        <time datetime={guide.data.updated.toISOString()}>
-          {
-            guide.data.updated.toLocaleDateString('en-US', {
-              year: 'numeric',
-              month: 'long',
-              day: 'numeric',
-            })
-          }
-        </time>
-      </p>
-      <p class="mt-2 text-sm text-slate-500">
-        Researched and fact-checked by the{' '}
-        <a href="/about/" class="underline hover:text-[var(--color-brand)]">
-          China Layover Guide editorial team
-        </a>{' '}
-        against official sources.
-      </p>
+      <AuthorByline
+        author={author}
+        updated={guide.data.updated.toISOString()}
+        note={
+          author.categories.includes('payments') || author.categories.includes('esim')
+            ? 'Tested in China on a foreign card. Sources linked at the foot of this page.'
+            : 'Verified against the sources linked at the foot of this page.'
+        }
+      />
       {
         guide.data.heroImage && (
           <HeroImage

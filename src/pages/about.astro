@@ -1,29 +1,166 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { authors } from '../data/authors';
+
+const siteUrl = 'https://chinalayoverguide.com';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: 'About — China Layover Guide',
+    description:
+      'Who writes China Layover Guide, how the site earns its information, and what we can and cannot verify.',
+    url: `${siteUrl}/about/`,
+    publisher: {
+      '@type': 'Organization',
+      name: 'China Layover Guide',
+      url: siteUrl,
+    },
+    about: authors.map((author) => ({
+      '@type': 'Person',
+      name: author.name,
+      url: `${siteUrl}/authors/${author.slug}/`,
+    })),
+  },
+];
 ---
 
 <BaseLayout
- title="About | China Layover Guide"
-  description="Why China Layover Guide exists and how we keep the information accurate."
+  title="About | China Layover Guide"
+  description="Who writes China Layover Guide, how we verify visa rules and payment details, and what we can and cannot check first-hand."
   canonicalPath="/about/"
+  jsonLd={jsonLd}
 >
-  <article class="prose prose-slate mx-auto max-w-3xl px-4 py-12">
-    <h1>About</h1>
-    <p>
-      China Layover Guide exists for one traveler: the person with 10, 24, or 72 hours in China and
-   no idea whether they can leave the airport. Most can, thanks to the 240-hour visa-free
-   transit policy, and a short layover can become one of the best parts of a trip.
+  <article class="mx-auto max-w-3xl px-4 py-12">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">About</h1>
+
+    <p class="mt-4 text-lg text-slate-600">
+      China Layover Guide is for one traveler: the person with 10, 24, or 72 hours in China and no
+      idea whether they can leave the airport. Most can, under the 240-hour visa-free transit
+      policy, and a long layover can end up being the best part of a trip.
     </p>
-    <p>
-      We focus on the three things that make or break a China stopover: the immigration rules,
-      staying connected (eSIM before you land), and paying for things. Then we point you at
-      realistic city routes so you actually see something.
-    </p>
-    <h2>Accuracy</h2>
-    <p>
-      Immigration and payment rules change. Every factual page carries a &ldquo;last updated&rdquo;
-      date and links to official sources. Always verify with the National Immigration
-      Administration, your airline, and your bank before you travel.
+
+    <section class="mt-10">
+      <h2 class="text-2xl font-bold text-slate-900">Who writes this</h2>
+      <p class="mt-2 text-slate-600">
+        Two people, both living in Beijing. That matters, because a lot of what makes a China
+        layover work only shows up on the ground: which payment app accepts a foreign card, whether
+        the airport Wi-Fi will send you an SMS code, how long immigration actually takes.
+      </p>
+
+      <div class="mt-6 space-y-4">
+        {
+          authors.map((author) => (
+            <a
+              href={`/authors/${author.slug}/`}
+              class="flex items-start gap-4 rounded-xl border border-slate-200 p-5 transition hover:border-[var(--color-brand)]"
+            >
+              {author.avatar ? (
+                <img
+                  src={author.avatar}
+                  alt={author.name}
+                  width="56"
+                  height="56"
+                  loading="lazy"
+                  decoding="async"
+                  class="h-14 w-14 shrink-0 rounded-full object-cover"
+                />
+              ) : (
+                <span
+                  aria-hidden="true"
+                  class="flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-slate-100 text-base font-bold text-slate-600"
+                >
+                  {author.name.split(' ').map((p) => p[0]).join('')}
+                </span>
+              )}
+              <div>
+                <h3 class="font-bold text-slate-900">{author.name}</h3>
+                <p class="text-sm font-semibold text-[var(--color-brand)]">{author.role}</p>
+                <p class="mt-1 text-sm text-slate-600">{author.tagline}</p>
+              </div>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="mt-12">
+      <h2 class="text-2xl font-bold text-slate-900">How we verify things</h2>
+      <p class="mt-2 text-slate-600">
+        Not everything on a travel site can be tested, and claiming otherwise is how travel writing
+        goes wrong. Some details can be looked up and cited. Some can be checked by hand. We try to
+        be specific about which is which.
+      </p>
+
+      <div class="mt-6 space-y-4">
+        <div class="rounded-xl border border-slate-200 p-5">
+          <h3 class="font-bold text-slate-900">Payment and eSIM guides: tested first-hand</h3>
+          <p class="mt-2 text-sm text-slate-600">
+            Bokang sets up each payment app and eSIM plan on a foreign card and checks what actually
+            works before a guide is published. This is why those pages carry details like which
+            card types fail at which step. Payment terms and plans change often, so they are
+            re-tested and the pages updated.
+          </p>
+        </div>
+
+        <div class="rounded-xl border border-slate-200 p-5">
+          <h3 class="font-bold text-slate-900">Visa and transit rules: verified against sources</h3>
+          <p class="mt-2 text-sm text-slate-600">
+            Nobody can self-test a visa rule. Immigration policy is checked line by line against
+            publications from the National Immigration Administration, plus the relevant airline or
+            airport terms. Nora has used China's visa-free transit entry herself, which guides what
+            the transit pages focus on, but the rules themselves are cited rather than tested.
+          </p>
+        </div>
+
+        <div class="rounded-xl border border-slate-200 p-5">
+          <h3 class="font-bold text-slate-900">Every factual page carries its evidence</h3>
+          <p class="mt-2 text-sm text-slate-600">
+            Each guide and city page shows a last-updated date and a list of sources at the foot of
+            the page. If a rule changes, the page is revised and the date moves with it.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="mt-12">
+      <h2 class="text-2xl font-bold text-slate-900">What we do not claim</h2>
+      <ul class="mt-3 list-disc space-y-2 pl-5 text-slate-600">
+        <li>
+          We are not immigration lawyers or a government body. Nothing here is legal advice, and the
+          final decision on entry always belongs to the officer in front of you.
+        </li>
+        <li>
+          We do not claim to have personally tested every airport, port or airline policy. Where we
+          have not, the page cites the official source instead.
+        </li>
+        <li>
+          We publish no sponsored rankings. Product mentions reflect what was tested, not who paid.
+        </li>
+      </ul>
+    </section>
+
+    <section class="mt-12">
+      <h2 class="text-2xl font-bold text-slate-900">Corrections</h2>
+      <p class="mt-2 text-slate-600">
+        Immigration and payment rules change constantly, and we would rather be corrected than be
+        confidently wrong. If you spot an error, or a rule has changed, open an issue on the{' '}
+        <a
+          href="https://github.com/hbk671104/china-layover-guide/issues"
+          rel="noopener"
+          class="text-[var(--color-brand)] hover:underline"
+        >
+          project repository
+        </a>
+        . Every correction is checked against the source before the page is updated.
+      </p>
+    </section>
+
+    <p class="mt-10 text-sm text-slate-500">
+      <a href="/authors/" class="text-[var(--color-brand)] hover:underline">
+        Meet the authors &rarr;
+      </a>
     </p>
   </article>
 </BaseLayout>
