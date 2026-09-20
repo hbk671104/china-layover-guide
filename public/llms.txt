@@ -22,6 +22,7 @@
 - [Is a China layover worth it? An honest look](https://chinalayoverguide.com/guides/is-a-china-layover-worth-it/)
 - [China layover statistics & facts 2026](https://chinalayoverguide.com/guides/china-layover-statistics-and-facts/)
 - [Can you leave the airport during a China layover?](https://chinalayoverguide.com/guides/can-you-leave-the-airport-during-a-china-layover/)
+- [Do Chinese airlines give you a free hotel on a long layover?](https://chinalayoverguide.com/guides/china-airline-layover-hotel/)
 - [Transit visa hub](https://chinalayoverguide.com/transit-visa/)
 
 ## eSIM & connectivity
@@ -45,7 +46,6 @@
 
 ## Airport transfer guides (by airport)
 
-- [Airport layover guides hub](https://chinalayoverguide.com/airports/) — every major hub
 - [PVG — Shanghai Pudong layover guide](https://chinalayoverguide.com/airports/pvg/)
 - [SHA — Shanghai Hongqiao layover guide](https://chinalayoverguide.com/airports/sha/)
 - [CAN — Guangzhou Baiyun layover guide](https://chinalayoverguide.com/airports/can/)
@@ -61,7 +61,6 @@
 - [Guangzhou 6/10-hour layover: what to do](https://chinalayoverguide.com/guides/guangzhou-6-10-hour-layover/)
 - [Baiyun airport to Guangzhou city centre](https://chinalayoverguide.com/guides/baiyun-airport-to-city-centre/)
 - [PVG and CAN luggage storage: airport-specific details](https://chinalayoverguide.com/guides/pvg-can-luggage-storage/)
-- [Guangzhou layover in 6 or 10 hours](https://chinalayoverguide.com/guides/guangzhou-6-10-hour-layover/)
 - [Guangzhou layover tours: worth it, and how to book](https://chinalayoverguide.com/guides/guangzhou-layover-tours-worth-it/)
 
 ## Airport transfers & logistics
@@ -87,5 +86,6 @@
 
 ## Notes
 
+- Full content in a single file: https://chinalayoverguide.com/llms-full.txt
 - Immigration and payment rules change; always confirm with the National Immigration Administration (NIA) or the 12367 hotline before booking.
 - This file is maintained as a machine-readable index for AI assistants and search engines.

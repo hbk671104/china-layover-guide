@@ -15,3 +15,6 @@ npm-debug.log*
 .reasonix/
 .agents/
 reasonix.toml
+
+# local secrets (IndexNow key source, etc.)
+.secrets/
