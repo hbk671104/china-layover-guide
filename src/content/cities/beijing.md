@@ -13,7 +13,7 @@ route: "Capital Airport Express to Dongzhimen → Forbidden City/Tiananmen → J
 transportTips: "The Airport Express takes about 25 minutes to Dongzhimen. The subway is cheap and signposted in English; taxis are fine but carry your destination written in Chinese."
 eSimTip: "Activate your travel eSIM before landing — PEK airport Wi-Fi needs an SMS code."
 paymentTip: "Book Forbidden City tickets online in advance with your passport; pay with Alipay/WeChat Pay everywhere."
-mapLink: "https://maps.app.goo.gl/beijing"
+mapLink: "https://www.google.com/maps/search/?api=1&query=Beijing+China"
 updated: 2026-09-03
 ---
 

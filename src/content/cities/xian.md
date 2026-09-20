@@ -12,7 +12,7 @@ route: "Airport shuttle/taxi → Terracotta Army → City Wall (South Gate) → 
 transportTips: "The Terracotta Army is about an hour from the airport and the city. A pre-booked driver is the most efficient way; public buses are cheaper but slow."
 eSimTip: "Activate your eSIM before landing so maps and translation apps work the moment you exit the airport."
 paymentTip: "Buy Terracotta Army tickets online in advance with your passport; street food in the Muslim Quarter is Alipay/WeChat only."
-mapLink: "https://maps.app.goo.gl/xian"
+mapLink: "https://www.google.com/maps/search/?api=1&query=Xian+China"
 updated: 2026-09-03
 ---
 

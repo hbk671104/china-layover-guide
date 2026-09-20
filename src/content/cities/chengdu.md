@@ -12,7 +12,7 @@ route: "Tianfu Airport Metro Line 18/1 → Panda Base (morning) → People's Par
 transportTips: "Tianfu Airport (TFU) is far — about an hour to the center. The metro is modern and fast, but a taxi/ride-hail saves time if you're heading straight to the panda base."
 eSimTip: "Set up your eSIM before landing; roaming data keeps Google Maps and WhatsApp working normally."
 paymentTip: "Street food and teahouses are QR-only; Alipay/WeChat Pay with your foreign card is essential."
-mapLink: "https://maps.app.goo.gl/chengdu"
+mapLink: "https://www.google.com/maps/search/?api=1&query=Chengdu+China"
 updated: 2026-09-03
 ---
 

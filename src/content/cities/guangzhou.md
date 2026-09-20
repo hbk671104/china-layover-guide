@@ -12,7 +12,7 @@ route: "Metro Line 3 from Baiyun Airport → Canton Tower → Shamian Island →
 transportTips: "Baiyun Airport connects to the city on Metro Line 3 (about 40 minutes). The metro is easy, but Guangzhou is spread out — don't try to see both the tower and the old town on a very short layover."
 eSimTip: "Install your eSIM before arrival; airport Wi-Fi is unreliable without a local number."
 paymentTip: "Cantonese dim sum places and small shops are QR-code only — set up Alipay/WeChat Pay in advance."
-mapLink: "https://maps.app.goo.gl/guangzhou"
+mapLink: "https://www.google.com/maps/search/?api=1&query=Guangzhou+China"
 updated: 2026-09-03
 ---
 
