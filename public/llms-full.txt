@@ -1763,7 +1763,7 @@ Many small vendors show a personal QR code, which cannot accept foreign-linked c
 **Sources**
 
 - Alipay — official site: https://www.alipay.com/
-- People's Bank of China — English portal: https://www.pbc.gov.cn/en/
+- People's Bank of China — English portal: https://www.pbc.gov.cn/en/index.html
 
 ---
 
@@ -1901,7 +1901,7 @@ No. Personal QR codes cannot accept foreign-linked cards, only merchant or aggre
 
 **Sources**
 
-- People's Bank of China — English portal: https://www.pbc.gov.cn/en/
+- People's Bank of China — English portal: https://www.pbc.gov.cn/en/index.html
 - Alipay — official site: https://www.alipay.com/
 
 ---

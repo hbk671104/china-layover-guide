@@ -7,7 +7,7 @@ sources:
   - label: "Alipay — official site"
     url: "https://www.alipay.com/"
   - label: "People's Bank of China — English portal"
-    url: "https://www.pbc.gov.cn/en/"
+    url: "https://www.pbc.gov.cn/en/index.html"
 faqs:
   - question: "Do I need a Chinese bank account to use Alipay as a foreigner?"
     answer: "No. You can register with your home phone number, verify your identity with your passport, and link an international Visa, Mastercard, or JCB card directly. A Chinese bank account is not required."

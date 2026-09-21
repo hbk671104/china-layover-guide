@@ -5,7 +5,7 @@ category: payments
 updated: 2026-09-16
 sources:
   - label: "People's Bank of China — English portal"
-    url: "https://www.pbc.gov.cn/en/"
+    url: "https://www.pbc.gov.cn/en/index.html"
   - label: "Alipay — official site"
     url: "https://www.alipay.com/"
 faqs:
