@@ -1,6 +1,6 @@
 ---
-title: "Beijing Layover: Realistic Plans for 6, 8, 12, and 24 Hours"
-description: "How to use a Beijing layover at PEK or PKX, transfer times, what fits in each window, whether the Great Wall is possible, and the mistakes that eat your day."
+title: "Things to Do in Beijing on a Layover: 6, 8, 12, and 24-Hour Plans"
+description: "The best things to do in Beijing on a layover at PEK or PKX, transfer times, what fits in each window, whether the Great Wall is possible, and the mistakes that eat your day."
 category: cities
 updated: 2026-09-16
 sources:

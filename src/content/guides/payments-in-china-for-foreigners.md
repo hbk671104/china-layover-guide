@@ -2,7 +2,7 @@
 title: "How to Pay in China: Alipay, WeChat Pay & TenPayGo for Foreigners"
 description: "Visa and Mastercard acceptance is limited in China. Here's how to link your foreign card to Alipay, WeChat Pay, and TenPayGo so you can pay like a local."
 category: payments
-updated: 2026-09-16
+updated: 2026-09-24
 sources:
   - label: "Alipay — international travelers"
     url: "https://www.alipay.com/"
@@ -10,6 +10,8 @@ sources:
     url: "https://www.wechat.com/en/"
   - label: "TenPay Global (TenPayGo)"
     url: "https://www.tenpayglobal.com/"
+  - label: "SCMP — Tencent rolls out payment app for foreign travellers ahead of APEC summit (2026-09-24)"
+    url: "https://www.scmp.com/tech/tech-trends/article/3368544/tencent-rolls-out-payment-app-foreign-travellers-ahead-apec-summit"
 faqs:
   - question: "Can I use my Visa or Mastercard in China?"
     answer: "At large hotels and some international chains, yes. Most everyday places, including restaurants, markets and taxis, are QR-payment only, so a card alone will not cover a normal day."
@@ -21,7 +23,7 @@ faqs:
     answer: "Alipay. It has the simpler foreign-card flow and broader acceptance at small merchants. Add WeChat Pay afterwards as a second option in case one has an issue with your card."
 ---
 
-> Reviewed 2026-09-16. Payment provider terms and fees change: check the apps before you travel.
+> Reviewed 2026-09-24. Payment provider terms and fees change: check the apps before you travel.
 
 ## The situation on the ground
 
@@ -48,11 +50,11 @@ WeChat Pay is the other half of the duopoly, and some vendors only take WeChat. 
 
 ## TenPayGo: built for foreign travelers
 
-**TenPayGo** is Tencent's newer product aimed specifically at foreign visitors. It bridges your familiar Visa/Mastercard to **offline WeChat Pay**, so you can tap into WeChat's enormous merchant network without a Chinese bank account. If you're mostly carrying Visa/Mastercard, TenPayGo is worth setting up alongside Alipay.
+**TenPayGo** is Tencent's separate app for foreign visitors, launched on 24 September 2026. You register with an **email address**, so you do not need a Chinese phone number or a Chinese bank account, then link an international card (UnionPay, Visa, Mastercard and four other networks), an overseas wallet, or Apple Pay. It pays over the **WeChat Pay merchant network**, so it works where WeChat Pay works, and it adds visitor features such as a Shenzhen transit QR code and a translate tool. If a Chinese phone number has been blocking you, or you want one app dedicated to travel, start here.
 
 ## What to do before your flight
 
-1. Install **Alipay** and **WeChat Pay** (and **TenPayGo** if available in your region).
+1. Install **Alipay** and **WeChat Pay**, and add **TenPayGo** if you cannot complete verification or do not have a Chinese phone number.
 2. Link your Visa/Mastercard and complete passport verification, do this at home, because the apps sometimes need SMS codes.
 3. Test a small top-up or check that your card shows as verified.
 4. Withdraw or bring **¥200–500 in cash** as a fallback.

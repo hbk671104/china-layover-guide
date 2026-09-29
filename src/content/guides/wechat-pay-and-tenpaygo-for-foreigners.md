@@ -1,13 +1,15 @@
 ---
-title: "WeChat Pay for Foreigners (and Where TenPayGo Fits In)"
+title: "WeChat Pay in China for Foreigners (and Where TenPayGo Fits In)"
 description: "How to set up WeChat Pay with an international card, why you need WeChat even if you use Alipay, and what TenPayGo is for foreign travelers."
 category: payments
-updated: 2026-09-16
+updated: 2026-09-24
 sources:
   - label: "WeChat — official site"
     url: "https://www.wechat.com/en/"
   - label: "TenPay Global — official site"
     url: "https://www.tenpayglobal.com/"
+  - label: "SCMP — Tencent rolls out payment app for foreign travellers ahead of APEC summit (2026-09-24)"
+    url: "https://www.scmp.com/tech/tech-trends/article/3368544/tencent-rolls-out-payment-app-foreign-travellers-ahead-apec-summit"
 faqs:
   - question: "Do I need WeChat Pay if I already have Alipay?"
     answer: "Alipay covers payments, but WeChat is also China's booking and messaging layer, attraction tickets, hotel check-in chats, and driver pickup pins often run through WeChat mini-programs, which have no Alipay equivalent."
@@ -16,7 +18,9 @@ faqs:
   - question: "What fees does WeChat Pay charge on foreign cards?"
     answer: "Like Alipay, single payments of ¥200 or less are typically fee-free and amounts above ¥200 carry about a 3% fee. Tencent has also run limited-time fee waivers for newly linked cards, check the prompt in the app."
   - question: "What is TenPayGo?"
-    answer: "TenPayGo is Tencent's cross-border payment product aimed at visitors, built to move money from an international card into the WeChat Pay network. Availability varies by region and card, so treat it as a supplement rather than a replacement for linking a card directly."
+    answer: "TenPayGo is Tencent's own payment app for foreign visitors, launched on 24 September 2026. You register with an email address, so you do not need a Chinese phone number or a Chinese bank account, then link an international card, an overseas wallet, or Apple Pay to pay anywhere WeChat Pay is accepted."
+  - question: "Do I need a Chinese phone number to use TenPayGo?"
+    answer: "No. TenPayGo signs you up with an email address, which is its main advantage over the older approach. WeChat Pay itself also accepts foreign phone numbers, but it still requires real-name verification with your passport."
 ---
 
 ## The short answer
@@ -45,7 +49,16 @@ The structure mirrors Alipay: **¥200 or less is normally fee-free; above ¥200 
 
 ## Where TenPayGo fits in
 
-**TenPayGo** (Tencent's cross-border product) is designed to bridge an international card into the WeChat Pay merchant network, similar in spirit to the older Alipay "Tour Pass" approach. It can be useful if direct card linking has trouble, but availability depends on your region and card, and it is not required. Try direct card binding first; use TenPayGo as a supplement.
+**TenPayGo** is Tencent's separate app for foreign visitors, launched on **24 September 2026**. Until now, paying with a foreign card in China meant setting up WeChat or Alipay and completing passport verification inside them. TenPayGo is the first Tencent app built for visitors from the ground up, and it removes the two biggest friction points:
+
+- **Sign-up is by email**, so you do not need a Chinese phone number or a Chinese bank account.
+- **It accepts what you already have**: international cards from seven major networks (UnionPay, Visa, Mastercard and others), around 60 overseas digital wallets, and Apple Pay.
+
+Payments run on the **WeChat Pay merchant network**, so the same shops, restaurants and transport operators accept it. Beyond paying, Tencent is adding visitor-specific features: a transit QR code for Shenzhen's metro and buses, a "circle to translate" tool for menus and signs, and in-app tax-refund requests.
+
+Two honest caveats. **These extras are still rolling out**, so treat the transit and tax-refund features as "check inside the app" rather than guaranteed. And **TenPayGo is a payment channel, not a replacement for WeChat itself**: attraction tickets, hotel messages and driver pins still run through WeChat mini-programs, which TenPayGo does not cover.
+
+So: if you can complete passport verification in WeChat or Alipay, do that first, because you will want WeChat installed anyway. If you are stuck on a Chinese phone number, or you want one app dedicated to travel, TenPayGo is now the simplest way in.
 
 ## Troubleshooting
 

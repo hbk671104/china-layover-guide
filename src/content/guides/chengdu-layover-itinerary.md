@@ -1,6 +1,6 @@
 ---
-title: "Chengdu Layover: Pandas in 6, 8, 12, and 24 Hours"
-description: "How to see giant pandas on a Chengdu layover, what the Tianfu Airport transfer costs you, and realistic plans for each layover window."
+title: "Things to Do in Chengdu on a Layover: Pandas in 6, 8, 12, and 24 Hours"
+description: "The best things to do in Chengdu on a layover, from the giant pandas to what the Tianfu Airport transfer costs you, with realistic plans for each window."
 category: cities
 updated: 2026-09-16
 sources:

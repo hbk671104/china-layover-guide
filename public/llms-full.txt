@@ -3,7 +3,7 @@
 > Complete text of every guide and city page on chinalayoverguide.com, for AI assistants and search engines. Visa-free transit rules, eSIM setup, payments and apps, airport transfers, and city layover itineraries. Facts are checked against official sources; each page carries a last-updated date.
 
 Canonical index: https://chinalayoverguide.com/llms.txt
-Page count: 43 guides, 12 city pages
+Page count: 36 guides, 12 city pages
 
 ---
 
@@ -423,170 +423,12 @@ No. Both are visa-free entry routes. The transit policy is a form of visa-free e
 
 ---
 
-## Can I Leave Guangzhou Baiyun Airport on a Layover?
-
-Source: https://chinalayoverguide.com/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/
-Last updated: 2026-09-17
-
-## The short answer
-
-**Yes, CAN is a designated port and eligible travelers can leave.** You need around **7 hours minimum**, and 8+ to be comfortable. Metro Line 3 gets you into the city in about 45–55 minutes for roughly ¥8, which makes Guangzhou one of the easier Chinese layovers.
-
-## Can you enter?
-
-CAN is a designated port under China's **240-hour visa-free transit** policy. Eligible travelers can enter and travel within **Guangdong province**.
-
-You need:
-
-1. A passport from one of the **55 eligible countries**.
-2. A **confirmed onward ticket to a third country or region** within 240 hours. Hong Kong, Macau, and Taiwan count as separate regions.
-3. A passport valid at least **3 months** beyond entry.
-
-> Many nationalities qualify for the separate **30-day visa-free entry**, which has no third-country requirement. See [30-day vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
-
-## How much time you need
-
-| Layover | Verdict |
-|---|---|
-| Under 6 hours | **Stay airside.** Immigration plus the return buffer leaves nothing. |
-| 6–7 hours | **Tight.** One destination, strict timing. |
-| 8–10 hours | **The sweet spot.** Dim sum, Shamian Island, and Canton Tower. |
-| 12+ hours | **A real day.** Add a night cruise or a day trip. |
-
-Guangzhou's specific issue is **spread**: the airport, the Tianhe business district, the old town, and Canton Tower are all some distance apart. On a short layover, do not try to chain them.
-
-## The way out
-
-1. **At check-in**, say you are using visa-free transit: airlines check your onward ticket before boarding.
-2. **Fill in the Arrival Card** on the plane.
-3. **Join the 24/240-hour visa-free transit lane** at immigration: not the regular foreigner queue.
-4. **Store your bags** if you need to, left-luggage is usually ¥15–30 per bag.
-5. **Take Metro Line 3** into the city.
-
-## The traps that catch people
-
-- **Dim sum is a morning and lunch ritual.** Landing at 3pm means missing the thing Guangzhou is best at.
-- **Guangzhou is a major hub for flights to and from Africa, Southeast Asia, and Europe**: immigration can be busy, so leave a real buffer.
-- **A round trip does not qualify** for visa-free transit. Guangzhou → home is not a third country.
-- **Do not attempt Hong Kong** on a short layover. The border crossing eats the day.
-
-## Bottom line
-
-Guangzhou is one of the more straightforward Chinese layovers: a cheap, fast metro and a compact set of highlights. Check your eligibility, then plan around food. See the [Guangzhou 6/10-hour guide](/guides/guangzhou-6-10-hour-layover/) and the [CAN airport guide](/airports/can/).
-
-**Frequently asked questions**
-
-### Can I leave Guangzhou Baiyun Airport without a visa?
-
-Yes, if you qualify for China's 240-hour visa-free transit. CAN is a designated port, and eligible travelers can enter and travel within Guangdong province. Many nationalities can also use the 30-day visa-free entry instead.
-
-### How long does it take to get from Baiyun Airport to the city?
-
-About 45–55 minutes on Metro Line 3, for roughly ¥8. Taxis and DiDi take 45–60 minutes and cost ¥100–130.
-
-### How long a layover do I need at CAN to leave the airport?
-
-Around 7 hours minimum and 8+ comfortable. Guangzhou is spread out, so resist the urge to see both Canton Tower and the old town on a short stop.
-
-### Can I visit Hong Kong from a Guangzhou layover?
-
-It's possible but not advisable on a short stop: the border crossing and travel time consume most of a day. High-speed rail to Shenzhen takes about 35 minutes, but you still need buffer time at both ends.
-
-**Sources**
-
-- Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-
----
-
-## Can I Leave Shanghai Pudong Airport on a Layover?
-
-Source: https://chinalayoverguide.com/guides/can-i-leave-pvg-airport-on-a-layover/
-Last updated: 2026-09-16
-
-## The short answer
-
-**Yes, PVG is a designated port, and most eligible travelers can leave the airport.** Whether it is *worth* it depends on your layover length: **7 hours is the practical minimum, 8+ is comfortable.** Under 6 hours, stay airside.
-
-## Can you enter?
-
-PVG is a designated port under China's **240-hour visa-free transit** policy, so eligible travelers can enter and travel within the **Shanghai municipality**.
-
-You need:
-
-1. A passport from one of the **55 eligible countries**.
-2. A **confirmed onward ticket to a third country or region** departing within 240 hours. Hong Kong, Macau, and Taiwan count as separate regions.
-3. Entry at a designated port, PVG qualifies.
-4. A passport valid at least **3 months** beyond entry.
-
-> Not on the transit list? Many nationalities qualify for China's separate **30-day visa-free entry**, which has no third-country requirement and is simpler. See [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
-
-## You already have a Chinese visa?
-
-Then the transit rules do not matter, use your visa. The visa-free schemes only apply when you do not hold one.
-
-## How much time you need
-
-| Layover | Verdict |
-|---|---|
-| Under 5 hours | **Stay airside.** Immigration alone can take 90 minutes. |
-| 5–6 hours | **Rushed.** You would reach the city and turn around. |
-| 7–8 hours | **Worth it.** The Bund and a meal. |
-| 10–12 hours | **Comfortable.** A real half-day. |
-| 12+ hours | **A proper stopover.** |
-
-The PVG-specific constraint: **immigration queues here are among the worst of China's big gateways.** An evening bank of long-haul arrivals can mean 60–90 minutes in the transit lane. Build that in.
-
-## The way out
-
-1. **At check-in**, mention you are using visa-free transit: airlines check your onward ticket before boarding.
-2. **Fill in the Arrival Card** on the plane.
-3. **Join the 24/240-hour visa-free transit lane** at immigration (not the regular foreigner queue).
-4. **Store your bags** if you are not checking into a hotel: left-luggage is usually ¥15–30 per bag.
-5. **Take the Maglev plus Metro Line 2** into the centre.
-
-## The traps that catch people
-
-- **PVG and SHA are 70 km apart.** If your connection uses both airports, that is a 1.5–2 hour transfer, and you should not add sightseeing under 12 hours.
-- **The Maglev stops around 21:40.** Late returns become taxi or DiDi.
-- **A round trip does not qualify.** London → Shanghai → London fails the third-country rule; London → Shanghai → Tokyo works.
-- **The transit lane is slower than the regular queue,** because officers manually check your itinerary.
-
-## Bottom line
-
-PVG is a genuine gateway. You can leave, and with 8 hours you should. Check your eligibility first, take the Maglev, and be back 2.5 hours before departure. For the itinerary itself, see [PVG 8-hour layover](/guides/pvg-8-hour-layover/) and the [PVG airport guide](/airports/pvg/).
-
-**Frequently asked questions**
-
-### Can I leave Shanghai Pudong Airport without a visa?
-
-Yes, if you qualify for China's 240-hour visa-free transit. You need an eligible passport, a confirmed onward ticket to a third country or region, and entry at a designated port, which PVG is. Many nationalities can also use the 30-day visa-free entry instead.
-
-### How long do I need at PVG to leave the airport?
-
-Around 7 hours minimum, and 8+ is comfortable. Immigration at PVG can take 60–90 minutes at peak, and you should be back 2.5 hours before an international departure.
-
-### Do I need an onward ticket to leave PVG?
-
-If you are using the 240-hour visa-free transit, yes, it must be to a third country or region, not back to where you came from. If you qualify for the 30-day visa-free entry, there is no third-country requirement.
-
-### Can I leave PVG if I only have 5 hours?
-
-Not realistically. Immigration plus the 40–55 minute transfer each way and a 2.5-hour return buffer consume essentially all of it.
-
-**Sources**
-
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-- Shanghai Airport — official transport information: https://www.shanghaiairport.com/
-
----
-
 ## Can I Leave the Airport During a China Layover?
 
 Source: https://chinalayoverguide.com/guides/can-you-leave-the-airport-during-a-china-layover/
-Last updated: 2026-09-16
+Last updated: 2026-09-24
 
-> This page was last reviewed on 2026-09-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
+> This page was last reviewed on 2026-09-24. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
 
 ## The short answer
 
@@ -647,6 +489,16 @@ Check the two lists. They overlap but aren't identical:
 
 If you're on the 30-day list, use that instead. It's simpler and lets you return to your origin country, unlike the transit rule. For the full comparison, see [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
 
+## What changes at specific airports
+
+The rules are national, but the timing math is airport-specific. Two of the busiest layover gateways:
+
+**Shanghai Pudong (PVG).** A designated port covering the **Shanghai municipality**. Immigration here is among the slowest of China's big gateways: an evening bank of long-haul arrivals can mean 60–90 minutes, and the visa-free transit lane is slower than the regular queue because officers check your itinerary by hand. The practical minimum to leave is about **7 hours**, and **8+** is comfortable. Two hard limits: the **Maglev stops around 21:40** and **Metro Line 2 around 22:30**, after which your return becomes a taxi or DiDi. PVG and Hongqiao (SHA) are about **70 km apart**, so a connection using both airports is a 1.5–2 hour transfer, not a sightseeing opportunity.
+
+**Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**.
+
+For what to actually do with your window once you are out, see the city guides in Related guides below.
+
 ## The three mistakes that ruin a city-visit layover
 
 1. **Forgetting the third-country rule.** London → Shanghai → London doesn't qualify. London → Shanghai → Tokyo does. This is the #1 reason travelers get denied.
@@ -661,15 +513,14 @@ Yes, for most eligible travelers on a China layover, you can absolutely leave th
 
 ## Related guides
 
-- [PVG 8-hour layover: what you can actually do](/guides/pvg-8-hour-layover/)
-- [Can I leave Shanghai Pudong Airport on a layover?](/guides/can-i-leave-pvg-airport-on-a-layover/)
-- [Shanghai layover tours: worth it, and how to book](/guides/shanghai-layover-tours-worth-it/)
-- [PVG & CAN luggage storage on a layover](/guides/pvg-can-luggage-storage/)
-- [Beijing layover: 6, 8, 12 and 24 hours](/guides/beijing-layover-itinerary/)
-- [Guangzhou layover: 6, 8, 12 and 24 hours](/guides/guangzhou-layover-itinerary/)
-- [Chengdu layover: pandas in 6, 8, 12 and 24 hours](/guides/chengdu-layover-itinerary/)
+- [Things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/)
+- [Things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/)
+- [Things to do in Beijing on a layover: 6, 8, 12 and 24 hours](/guides/beijing-layover-itinerary/)
+- [Things to do in Chengdu on a layover: pandas in 6, 8, 12 and 24 hours](/guides/chengdu-layover-itinerary/)
 - [Xi'an layover: Terracotta Army in 6, 8, 12 and 24 hours](/guides/xian-layover-itinerary/)
 - [Can you see the Great Wall on a Beijing layover?](/guides/great-wall-from-beijing-layover/)
+- [Do you need a visa for China?](/guides/visa-free-vs-visa-china/)
+- [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
 - [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
 
 **Frequently asked questions**
@@ -697,25 +548,58 @@ You are responsible for it, and the airline is not obliged to rebook you for fre
 
 ---
 
-## Do Chinese Airlines Give You a Free Hotel on a Long Layover?
+## Does China Airlines Give a Free Hotel on a Long Layover?
 
 Source: https://chinalayoverguide.com/guides/china-airline-layover-hotel/
-Last updated: 2026-09-18
+Last updated: 2026-09-29
 
 ## The short answer
 
-**Yes, all three major Chinese carriers run free transit hotel schemes**, and they are genuinely free rather than discounted. But they are stricter than most travelers expect, and the single most common reason people get refused is that their connection does not sit on **one through-ticket**. Separate tickets, even on the same airline, disqualify you.
+Two different airlines sit behind this question, and they give different answers.
+
+- **China Airlines** (the Taiwanese carrier, IATA code CI) does **not** publish a free transit hotel for an ordinary long connection. At Taipei it gives transit passengers a **free half-day tour** instead, and separately sells a **free stopover hotel** that you book as part of the itinerary.
+- **Air China, China Eastern and China Southern** — the three mainland carriers — all run **free transit hotel** schemes for qualifying connections. They are genuinely free rather than discounted, but stricter than most travelers expect.
+
+For the mainland three, the single most common reason people get refused is that their connection does not sit on **one through-ticket**. Separate tickets, even on the same airline, disqualify you.
 
 Two other things catch people out:
 
-1. **You must book before you fly.** None of the three accept walk-up bookings at the airport counter on the day.
-2. **You need entry permission.** The hotels are landside, so you must clear immigration to reach them, which means using the [240-hour visa-free transit](/transit-visa/) or holding a visa.
+1. **You must book before you fly.** None of the mainland three accept walk-up bookings at the airport counter on the day.
+2. **You need entry permission.** Their hotels are landside, so you must clear immigration to reach them, which means using the [240-hour visa-free transit](/transit-visa/) or holding a visa.
 
-## The rules at a glance
+## First, which "China Airlines" do you mean?
+
+The two names are one word apart and constantly confused, so it is worth being sure which carrier is on your ticket.
+
+| | China Airlines | Air China |
+|---|---|---|
+| Based in | Taiwan | Mainland China |
+| IATA code | **CI** | **CA** |
+| Main hub | Taipei Taoyuan (TPE) | Beijing Capital (PEK) and Daxing (PKX) |
+| What a long layover gets you | A free half-day tour | A free transit hotel |
+
+If you are flying **into mainland China**, your answer is the Air China, China Eastern or China Southern rules below. If you are **transiting Taipei**, read the China Airlines section next — and note that mainland China's 240-hour visa-free transit does not apply to a Taipei transit, because Taiwan runs its own entry rules.
+
+## China Airlines (Taiwan): a free tour, not a free hotel
+
+**What you get on a long layover:** a free half-day tour of Taipei or northern Taiwan.
+
+- **Who qualifies:** transit and transfer passengers with a **7–24 hour layover** before their onward flight, holding a valid R.O.C. visa or travelling on a passport eligible for Taiwan visa-exempt entry.
+- **How to book:** online pre-registration, from **10 to 45 days before arrival**. There are 18 seats, so early booking matters.
+- **Departure times:** morning tour from 08:15–08:30, back by 12:30; afternoon from 13:45–14:00, back by 18:00; evening from 18:10, back by 22:30. Pickup is at the Terminal 1 or Terminal 2 Tourist Service Centre.
+- **The tours:** a Taipei landmarks circuit, a traditional-arts and nature run to Daxi, or a night-market food tour.
+
+Registration runs through the [Taiwan Tourism Administration](https://halfdaytour.taiwan.net.tw/) and the terms are on [China Airlines' own tour page](https://flights.china-airlines.com/en-tw/twn_halfday_tour).
+
+**So where is the hotel?** China Airlines publishes a Taipei **stopover** hotel programme, "Discover Taiwan", on its own site. Read that as a stopover product: you build the stopover into the itinerary when you book, rather than collecting a hotel because your connection happens to be long. Terms are on the [China Airlines stopover page](https://taipeistopover.service.china-airlines.com/). Confirm them with the airline before you book — unlike the mainland transit hotels below, stopover promotions have come and gone over the years.
+
+**Do not assume the mainland rules transfer.** If your itinerary touches both Taiwan and the mainland, check each side separately. Taiwan's visa-exempt entry and mainland China's [240-hour visa-free transit](/transit-visa/) are unrelated schemes with different country lists.
+
+## The mainland three: free transit hotels, side by side
 
 | | China Eastern | China Southern | Air China |
 |---|---|---|---|
-| Ticket number starts | **781** |, | **999** |
+| Ticket number starts | **781** | Not published | **999** |
 | Transit window (overnight) | 6–24 hours | 6–30 hours (DI/ID); 6–240 hours (II) | 6–24h domestic; 6–30h with an international leg |
 | Main hubs | Shanghai, Beijing, Kunming, Xi'an | Guangzhou, Shenzhen, Beijing, Urumqi + 6 more | Beijing (PEK/PKX), Chengdu (TFU), Shanghai (PVG), Hangzhou, Tianjin, Wenzhou |
 | Includes | 1 night, breakfast, transfers | 1 night, breakfast, shuttle | 1 night, breakfast, shuttle (where available) |
@@ -775,6 +659,26 @@ Air China's product is called **Transit Accommodation**, and it splits into two 
 
 Air China states plainly that **on-site bookings are not accepted**, and that partner hotels have limited rooms, qualifying does not guarantee you one. It also notes that where a shuttle exists it may only serve one airport, so a PEK-to-PKX or PVG-to-SHA connection can leave you arranging and paying for your own transfer.
 
+## Other mainland carriers with free transit hotels
+
+The three majors are not the only carriers that do this, and on some of the others the window is far more generous.
+
+| Carrier | Where | Transit window | The condition that catches people |
+|---|---|---|---|
+| **Hainan Airlines** (HU) | Haikou (HAK), Chongqing (CKG) | Over 4 and up to 72 hours at Haikou; over 6 and up to 48 hours at Chongqing | The ticket has to be **bought in the Hainan Airlines app**. At Chongqing the free hotel and the free tour are **either/or**. Beijing offers a hotel discount, not a free night. |
+| **Xiamen Airlines** (MF) | Xiamen, Fuzhou, Quanzhou, Hangzhou | 6–24 hours, **and** the two flights must not depart on the same calendar day | Both segments on **one ticket** operated by Xiamen, Hebei or Jiangxi Airlines, and the international leg must be Xiamen-operated. Award and privilege-redemption classes (X, O, E) are excluded. |
+| **Sichuan Airlines** (3U) | Chengdu Shuangliu (CTU) and Tianfu (TFU) | 6–48 hours domestic; **6–240 hours** if any leg is international | Ticket number starting **876**. Book from 30 days out until 4 hours before the onward flight departs. |
+| **Shenzhen Airlines** (ZH) | Shenzhen Bao'an (SZX) only | 6–36 hours with an international leg; 6–24 hours domestic | Both segments must be operated by Shenzhen Airlines. |
+
+A few details worth knowing:
+
+- **Sichuan Airlines has the widest window** — up to 240 hours if your itinerary touches an international leg — and it states plainly that the hotel was never bundled into your fare and you pay nothing for it. If you are connecting through Chengdu, see the [TFU layover guide](/airports/tfu/). Chengdu's two airports are both covered, and a dual-airport transit can pick a hotel at either.
+- **Hainan's free night is an airport hotel**: one standard room for two people for one night, with a ¥200 supplement for single occupancy, subject to availability in peak season.
+- **Xiamen's hotel is landside.** International-to-international passengers have to complete temporary entry formalities at the airport before they can reach it, so you cannot stay airside. Xiamen's English-language page still carries a 2023 expiry date; the live rule took effect on 10 January 2025.
+- **A single room usually costs extra.** Xiamen assigns economy passengers two to a standard room, with a supplement of around ¥175–180 for single occupancy. China Southern works the same way.
+
+**And the carriers that do not:** Juneyao and Spring Airlines publish no free transit hotel of their own. Spring's page lists free meals and rooms at several airports, but they are **airport** schemes rather than airline products, each with its own booking channel and deadline — useful if you are flying Spring, but not something the airline will arrange for you.
+
 ## If you don't qualify
 
 Plenty of travelers won't. The usual reasons are a separate ticket, a fare below the threshold, or an onward leg that's domestic.
@@ -798,11 +702,21 @@ If your layover is short enough that a hotel is overkill but long enough to be t
 
 ## Bottom line
 
-China's three main carriers all give a free transit hotel, and China Southern is the most generous in practice because ordinary economy fares qualify. The catch is never the hotel. It's the paperwork: one through-ticket, a qualifying booking class, the right transit window, and a booking made before you fly rather than at the counter.
+Check which airline you actually booked. **China Airlines** (Taiwan, CI) gives a free half-day tour on a 7–24 hour Taipei layover, not a free hotel. The three mainland carriers — **Air China, China Eastern and China Southern** — do give a free transit hotel, and China Southern is the most generous of the majors in practice because ordinary economy fares qualify. Smaller carriers can be more generous still: Sichuan Airlines covers connections of up to 240 hours out of Chengdu.
+
+The catch is never the hotel. It's the paperwork: one through-ticket, a qualifying booking class, the right transit window, and a booking made before you fly rather than at the counter.
 
 Book it at the same time as your flights, not the week before. Rooms are capped at every carrier, and "eligible" and "guaranteed" are not the same word.
 
 **Frequently asked questions**
+
+### Does China Airlines provide a hotel for a long layover?
+
+Not for an ordinary long connection. China Airlines (the Taiwanese carrier, IATA code CI, hub Taipei Taoyuan) publishes a free stopover hotel programme for Taipei, but a stopover is booked as part of the itinerary, not granted because a connection is long. What transiting passengers do get is a free half-day tour on layovers of 7–24 hours, booked online 10–45 days before arrival. Confirm current terms on China Airlines' own pages before you book.
+
+### Is China Airlines the same as Air China?
+
+No, and the difference changes the answer. China Airlines (CI) is Taiwan's carrier, based at Taipei Taoyuan. Air China (CA) is the mainland Chinese flag carrier, based at Beijing Capital and Daxing, and is one of the three mainland carriers that give a free transit hotel. Mainland China's 240-hour visa-free transit does not apply to a Taipei transit, Taiwan runs its own entry rules.
 
 ### Does China Eastern provide a hotel for a long layover?
 
@@ -815,6 +729,10 @@ Yes. China Southern offers one free night plus breakfast and an airport shuttle 
 ### Does Air China give a free hotel on a long layover?
 
 Yes, under its Transit Accommodation product. You need a ticket number starting 999, flight numbers carrying the CA code, and a transit of 6–24 hours for domestic-to-domestic or 6–30 hours when an international segment is involved. Service cities are Beijing (Capital and Daxing), Chengdu (Tianfu), Shanghai (Pudong), Hangzhou, Tianjin and Wenzhou. Rooms are limited and Air China does not accept bookings at the airport on the day, you must book in advance.
+
+### Do other Chinese airlines give free transit hotels?
+
+Yes. Hainan Airlines gives a free night at Haikou and Chongqing, Xiamen Airlines at Xiamen, Fuzhou, Quanzhou and Hangzhou, Sichuan Airlines at Chengdu Shuangliu and Tianfu (up to 240 hours if a leg is international), and Shenzhen Airlines at Shenzhen Bao'an. Juneyao and Spring Airlines publish no free transit hotel of their own. Conditions differ per carrier: some require the ticket to be bought through the airline's own app, and nearly all require both segments on one ticket.
 
 ### What happens if my airline won't give me a free hotel?
 
@@ -830,12 +748,20 @@ Sometimes. Air China covers domestic-to-domestic connections with a 6–24 hour 
 
 **Sources**
 
+- China Airlines — Taiwan Free Half-Day Tour (official terms and eligibility): https://flights.china-airlines.com/en-tw/twn_halfday_tour
+- Taiwan Tourism Administration — free half-day tour registration for transit passengers: https://halfdaytour.taiwan.net.tw/
+- China Airlines — Discover Taiwan: free stopover hotel stay (official): https://taipeistopover.service.china-airlines.com/
 - Air China — Transit Accommodation (official service rules, English): https://m.airchina.com/c/invoke/zzjdinstruction%40pgenus
 - Air China — 中转住宿介绍 (official terms, Chinese): https://webresource.airchina.com.cn/zh-CN/content/cpjy/zzzs/
 - China Southern — Free Accommodations for Transfer Passengers (official): https://www.csair.com/mcms/mcmsNewSite/en/eu/build/index.html?page=free
-- China Southern — Guangzhou transit free accommodation rules: https://csair.com/sg/en/tourguide/airport_service/transit_flow/flightsTwo_hub/free_accommodations/
+- China Southern — free accommodations for transfer passengers (official): https://csair.com/hk/en/tourguide/airport_service/transit_flow/free
 - China Southern — Transfer Accommodation Service policy (2026): https://www.csair.com/mcms/mcms/CN/en/2025/20250731_1/index_en.html
 - China Eastern — Overnight Transit Hotel Service / STPC application: https://us.ceair.com/en/transit-hotel-application.html
+- Hainan Airlines — Haikou transit hotel and dining services (official): https://www.hnair.com/adnews/HAKlayover
+- Hainan Airlines — Chongqing transit hotel and tour services (official): https://www.hnair.com/adnews/CKGlayover
+- Xiamen Airlines — transit accommodation rules, effective 2025-01-10 (official, Chinese): https://rescms.xiamenair.cn/brandnew_CN/passenger-service/transfer-cf.html
+- Sichuan Airlines — transit hotel service terms (official, Chinese): https://www.sichuanair.com/value-added-services/old-rev-001.html
+- Shenzhen Airlines — Transfer Hotel service and connection windows (official): https://globalpage.shenzhenair.com/zhair/cms/static/pages/wcm/static-navigation/Itinerary/BookingServices/TransferHotel/TransferHotel_en?language_id=102
 - National Immigration Administration (NIA) — visa-free transit policy: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
@@ -1092,6 +1018,139 @@ The NIA requires at least three months' validity for the visa-free transit polic
 
 ---
 
+## China Visa-Free Countries: The Full List (2026)
+
+Source: https://chinalayoverguide.com/guides/china-visa-free-countries/
+Last updated: 2026-09-24
+
+> This reference was last reviewed on 2026-09-24. Visa-free lists change in waves, and countries are added or lapse several times a year. Always confirm the current list for your nationality with the National Immigration Administration (NIA) or the 12367 hotline before booking.
+
+## The short answer
+
+"China visa-free" is not one list. It is several lists that overlap, and the one that applies to you depends on **why** you are entering China and **how long** you are staying:
+
+| Scheme | Countries | Stay | Onward ticket needed? |
+|---|---|---|---|
+| **240-hour visa-free transit** | 55 | 10 days | Yes, to a third country or region |
+| **30-day visa-free entry** | ~50 | 30 days | No |
+| **Hainan regional scheme** | 59+ | 30 days | No (Hainan only) |
+| **Bilateral agreements** | ~29 | Usually 30 days | No |
+
+The table below is the **240-hour visa-free transit list**, the scheme most relevant to a layover. For a round trip or a longer stay, the 30-day entry list is usually the better fit, and it is a different list.
+
+## The 55 countries eligible for 240-hour visa-free transit
+
+These are the nationalities covered by China's 240-hour visa-free transit policy, grouped by region.
+
+### Europe (40)
+
+| | | | |
+|---|---|---|---|
+| Albania | Austria | Belarus | Belgium |
+| Bosnia and Herzegovina | Bulgaria | Croatia | Cyprus |
+| Czech Republic | Denmark | Estonia | Finland |
+| France | Germany | Greece | Hungary |
+| Iceland | Ireland | Italy | Latvia |
+| Lithuania | Luxembourg | Malta | Monaco |
+| Montenegro | Netherlands | North Macedonia | Norway |
+| Poland | Portugal | Romania | Russia |
+| Serbia | Slovakia | Slovenia | Spain |
+| Sweden | Switzerland | Ukraine | United Kingdom |
+
+### The Americas (6)
+
+| | | |
+|---|---|---|
+| Argentina | Brazil | Canada |
+| Chile | Mexico | United States |
+
+### Oceania (2)
+
+| | |
+|---|---|
+| Australia | New Zealand |
+
+### Asia (7)
+
+Brunei, Indonesia, Japan, Qatar, Singapore, South Korea, and the United Arab Emirates.
+
+**Ordinary passports only.** These rules apply to holders of valid ordinary passports, not diplomatic or service passports.
+
+## The 30-day visa-free entry list is a different list
+
+China's unilateral visa-free entry policy lets citizens of around **50 countries** stay up to **30 days** for tourism, business, family visits, or transit, with **no onward-ticket requirement**. It covers most of the EU, the United Kingdom, Australia, New Zealand, and several Gulf and Latin American countries, and it is renewed in waves (most countries through 31 December 2026).
+
+Two things matter here:
+
+- **It is broader and simpler than transit.** If your nationality is on this list, you can visit anywhere in mainland China and a round trip still qualifies. For most travelers it makes the 240-hour transit policy irrelevant.
+- **The two lists differ.** The United States, for example, is on the 55-country transit list but not on the 30-day list. Check your nationality against both.
+
+Because the 30-day list is revised frequently, this page does not reproduce it country by country. The authoritative list is the NIA's own, linked at the foot of this page.
+
+## Hainan and bilateral schemes
+
+Beyond the national rules, two more routes can get you in without a visa:
+
+- **Hainan, 30 days.** Ordinary passport holders from **59 or more countries** can enter Hainan Province visa-free for tourism, business, family visits, medical treatment, conferences, and sports events. Hainan's list is broader than the national 30-day list, so some nationalities that do not qualify nationally still qualify for Hainan.
+- **Bilateral agreements.** China has mutual visa-exemption agreements with around **29 countries**, including Singapore, Malaysia, Thailand, the UAE, and Qatar. Where one exists it takes precedence over the general scheme and may be more generous.
+
+## How to check whether you need a visa
+
+1. **Find your nationality** on the 55-country transit list above.
+2. **Check the 30-day entry list** on the NIA site. If you are on it, you almost certainly do not need a visa.
+3. **Check for a bilateral agreement**, which is often the most flexible route.
+4. **If your destination is Hainan**, check that regional scheme separately.
+5. **Confirm with your airline** before booking, because the check-in agent applies the rules at boarding.
+
+If none of the schemes covers you, see [Do you need a visa for China?](/guides/visa-free-vs-visa-china/) for the visa types, timelines, and costs.
+
+## Common mistakes
+
+- **Treating the lists as interchangeable.** The transit list and the 30-day list overlap but are not identical.
+- **Assuming a round trip qualifies for transit.** It does not. You must continue to a third country or region.
+- **Entering at the wrong port.** The transit policy works only at the 65 designated ports.
+- **Relying on a list you read months ago.** Countries are added and lapse throughout the year.
+
+## Related guides
+
+- [China's 240-hour visa-free transit: the complete guide](/guides/240-hour-visa-free-transit/)
+- [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/)
+- [China's 240-hour transit: the 65 ports and permitted areas](/guides/240-hour-transit-ports-and-permitted-areas/)
+- [The third-country rule for China transit (A→B→C)](/guides/third-country-rule-for-china-transit/)
+- [Do you need a visa for China?](/guides/visa-free-vs-visa-china/)
+- [China's regional visa-free schemes (Hainan and bilateral)](/guides/china-regional-visa-free-schemes/)
+
+**Frequently asked questions**
+
+### Which countries can visit China without a visa?
+
+There is no single list. The 240-hour visa-free transit policy covers 55 countries, the 30-day unilateral visa-free entry policy covers around 50 (and includes most of the EU, the UK, Australia and New Zealand), Hainan's regional scheme covers 59 or more, and China also has bilateral agreements with around 29 countries. Check your nationality against all of them.
+
+### Is the United States on China's visa-free list?
+
+US passport holders are on the 55-country 240-hour visa-free transit list, but not on the current 30-day unilateral visa-free entry list. That means Americans generally qualify only when genuinely transiting to a third country or region, not for a round trip.
+
+### Do I need a visa if my country is on the transit list?
+
+Not for transit. If your nationality is on the 55-country list and you are passing through China to a third country or region within 240 hours, you enter visa-free. If your trip starts and ends in China, the transit policy does not apply and you may need a visa.
+
+### Can citizens of visa-free countries travel anywhere in China?
+
+Under the 240-hour transit policy, no. You must stay within the permitted areas of the participating provinces and exit through a designated port within 240 hours. Under the 30-day visa-free entry policy, you can travel anywhere in mainland China.
+
+### Are the visa-free lists permanent?
+
+No. The unilateral 30-day scheme is temporary and renewed in waves, most countries through 31 December 2026, and country lists change several times a year. Always confirm the current list before booking non-refundable travel.
+
+**Sources**
+
+- National Immigration Administration (NIA) — Policy interpretation: visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Unilateral visa-free policy: latest country list (2026-02-17): https://en.nia.gov.cn/n147418/n147468/c182992/content.html
+- National Immigration Administration (NIA) — Regional visa-free entry policies: https://en.nia.gov.cn/n147418/n147463/c180637/content.html
+- National Immigration Administration (NIA) — official English portal and 12367 hotline information: https://en.nia.gov.cn/
+
+---
+
 ## Can You See the Great Wall on a Beijing Layover?
 
 Source: https://chinalayoverguide.com/guides/great-wall-from-beijing-layover/
@@ -1190,102 +1249,6 @@ Neither, if you are on a layover. A pre-booked private car or driver for the day
 
 ---
 
-## Guangzhou Layover Tours: Are They Worth It, and How to Book
-
-Source: https://chinalayoverguide.com/guides/guangzhou-layover-tours-worth-it/
-Last updated: 2026-09-17
-
-## The short answer
-
-**Worth it if you have 8+ hours and want zero logistics.** A private Guangzhou tour solves the two hard parts (the transfer and the dim sum timing) in a city where the highlights are spread out. **Not worth it under 6 hours**, and unnecessary if you are comfortable taking Metro Line 3 and eating on your own schedule.
-
-## What a Guangzhou layover tour looks like
-
-A driver meets you at Baiyun arrivals with a name sign and tracks your flight. Typical itineraries run **4–12 hours** and cover a rotating set of highlights:
-
-- **Chen Clan Ancestral Hall**: the pinnacle of Lingnan architecture, with extraordinary roof carvings
-- **Shamian Island**, leafy colonial-era streets
-- **Canton Tower**: the skyline and observation decks
-- **Huacheng Square / Zhujiang New Town**: the modern CBD
-- **Xiguan old town**, qilou arcades and traditional neighbourhoods
-- **Dim sum**: usually the centrepiece, and usually at a local teahouse rather than a tourist restaurant
-
-Many operators structure it in tiers by layover length: a 3–4 hour express (mostly driving, viewing Canton Tower from outside), a 5–6 hour combo, and a 7–8 hour immersion that adds the tower and a proper meal.
-
-## What they cost
-
-| Type | Indicative price | Notes |
-|---|---|---|
-| Small-group bus tour | from ~US$87 | Fixed departure, less flexible on timing |
-| Private tour, airport pickup | ~US$158–205 per person | Price varies by group size |
-| "All inclusive" private | ~US$200–220 | Adds entrance fees and a dim sum meal |
-
-The key detail: **most operators split their pricing into "private tour only" and "all inclusive".** The cheaper tier usually excludes food and sometimes guide service; the higher tier adds entrance fees and one meal. Confirm which one you are buying rather than assuming.
-
-Treat all figures as indicative. They move with season and group size.
-
-## When a tour is the right call
-
-- **You have 8+ hours.** Below that, no operator can manufacture city time.
-- **You want dim sum done properly.** A guide takes you to a local teahouse at the right hour, which matters more in Guangzhou than almost anywhere.
-- **The city's sprawl worries you.** The airport, the old town, and Canton Tower are all some distance apart; a car removes the navigation problem.
-- **You are traveling with bags or family.** The car solves luggage entirely.
-
-## When to skip it
-
-- **Under 6 hours.** Metro Line 3 takes 45–55 minutes each way, and a tour cannot compress that.
-- **You want a food-led day.** You will do better choosing your own restaurants than following an itinerary.
-- **You are a solo traveler on a budget.** Note that some operators put solo travelers on **metro and taxi** rather than a private car: check before booking, because that changes the value proposition.
-
-## The refund trap, read this before you pay
-
-Several Guangzhou operators state explicitly that **if immigration refuses your transit entry and you cannot join the tour, there is no refund**, because the guide and driver have already been reserved. Some list a "no refund available for cancellations" policy outright.
-
-That is a real risk to understand: **your eligibility is your responsibility, not the operator's.** Confirm it first: see [can I leave CAN on a layover?](/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/).
-
-## Before you book
-
-1. **Confirm you can enter.** Check the [eligibility checker](/transit-visa/), do not book a tour on the assumption that a transit permit will be granted.
-2. **Give accurate flight numbers**, or the operator cannot track your arrival.
-3. **Check the minimum layover** the operator requires, many state 6–8 hours.
-4. **Ask what is excluded**, guide service, entrance fees, meals, and gratuities are often separate.
-5. **Check whether solo travelers get a car** or metro and taxi.
-6. **Read the cancellation policy** carefully, including the denied-entry clause.
-
-## The middle path
-
-- **Book a private transfer only**, car and driver, no guide. Cheaper, and it solves luggage and timing.
-- **Take Metro Line 3** and follow the [Guangzhou 6/10-hour plan](/guides/guangzhou-6-10-hour-layover/). Roughly ¥8 each way and entirely doable.
-
-## Bottom line
-
-Guangzhou tours sell convenience and dim sum timing: both genuinely valuable if you have 8+ hours. If you have Metro Line 3 and an appetite, save the money. Start with the [CAN airport guide](/airports/can/).
-
-**Frequently asked questions**
-
-### Are Guangzhou layover tours worth it?
-
-They're worth it if you have 8+ hours and want the transfer, route, and timing handled for you. They're poor value under 6 hours, and unnecessary if you're happy taking Metro Line 3 and following a route yourself.
-
-### How much does a Guangzhou layover tour cost?
-
-Private layover tours with airport pickup generally run from about US$160 to US$220 per person, depending on group size and whether meals and tickets are included. Small-group bus tours start lower, around US$87.
-
-### Do Guangzhou layover tours include dim sum?
-
-Sometimes, it usually depends on the tier. Many operators offer a 'private tour only' price with food excluded and an 'all inclusive' price that adds a dim sum meal and entrance fees. Check which one you're buying.
-
-### What if I'm denied entry and can't join the tour?
-
-Many Guangzhou operators state clearly that if immigration refuses your transit entry, there is no refund, payment has already been committed to the guide and driver. Some tours are non-refundable outright, so read the policy before booking.
-
-**Sources**
-
-- Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-
----
-
 ## Is a China Layover Worth It? An Honest Look
 
 Source: https://chinalayoverguide.com/guides/is-a-china-layover-worth-it/
@@ -1367,174 +1330,6 @@ Shanghai is the easiest, Hongqiao is close to the center and Pudong is served by
 
 ---
 
-## PVG Layover: The Maglev Route and Time Budget
-
-Source: https://chinalayoverguide.com/guides/pvg-8-hour-layover/
-Last updated: 2026-09-17
-
-## The short answer
-
-**An 8-hour layover at PVG is enough to see the Bund, if you move deliberately.** You get roughly **2.5–3.5 usable hours** in the city. That is real, but it is not enough for a checklist. Do one thing well and get back early.
-
-This page is about the Pudong side: the Maglev and metro timings, when the last train runs, and the return buffer that keeps you flying. For what to actually see in each window, see [Shanghai layover by window](/guides/shanghai-layover-itinerary/).
-
-## The time budget, honestly
-
-| Step | Time |
-|---|---|
-| Land, disembark, clear immigration | 45–90 min |
-| Store luggage (if needed) | 15–30 min |
-| Maglev + Metro Line 2 into the centre | 40–55 min |
-| **In the city** | **2.5–3.5 hours** |
-| Return to PVG | 40–55 min |
-| Check-in, security, exit immigration | 2.5 hours |
-| **Total** | **~8 hours** |
-
-Notice how little slack there is. That is not a reason to stay in the terminal. It is a reason to plan.
-
-## The route in
-
-1. **Follow the Maglev signs** from arrivals. It is on the basement level, with a different entrance from the metro.
-2. **Buy a ticket**, ¥50, or **¥40 if you show a same-day boarding pass**. The discount is counter-only, so keep your boarding pass handy.
-3. **Ride to Longyang Road**: about 8 minutes at up to 300 km/h.
-4. **Transfer to Metro Line 2** and continue to Nanjing East Road or People's Square.
-5. **Walk to the Bund**, 10–15 minutes from Nanjing East Road.
-
-Total: about 40–55 minutes door to door.
-
-## What to actually do
-
-**The Bund, and one good meal.** That is the honest 8-hour answer.
-
-- Walk the waterfront promenade and look across at the Pudong skyline.
-- Eat **xiaolongbao** (soup dumplings) somewhere near Nanjing Road or the old town.
-- If you have time left, walk a stretch of **Nanjing Road** on your way back to the metro.
-
-**Do not attempt:** Yu Garden *and* the Bund *and* a sit-down banquet *and* Shanghai Tower. Each one is fine on its own; together they will make you late.
-
-## The return buffer is not negotiable
-
-Be back at PVG **2.5 hours before an international departure**, 3 if you have bags to check. Evening exit immigration plus security regularly stacks 45+ minutes.
-
-A hard constraint to know: **the Maglev stops around 21:40** and **Metro Line 2 around 22:30**. If your layover runs into the evening, your return trip becomes a taxi or DiDi, and you should leave the city earlier.
-
-## Before you land
-
-- **Set up Alipay or WeChat Pay**, small vendors and street stalls are QR-only. See [Alipay for foreigners](/guides/alipay-for-foreigners/).
-- **Install an eSIM** so maps and translation work the moment you land. See [eSIM setup](/guides/esim-setup-before-you-land/).
-- **Confirm you can enter**: check [can you leave the airport?](/guides/can-you-leave-the-airport-during-a-china-layover/) first.
-
-## Bottom line
-
-Eight hours at PVG buys you the Bund and a proper meal: one of the most photogenic half-days in travel. Take the Maglev, do one thing, and be back with 2.5 hours to spare. For the full airport detail, see the [PVG airport guide](/airports/pvg/).
-
-**Frequently asked questions**
-
-### Is an 8-hour layover at Shanghai Pudong enough to see the city?
-
-Yes. Eight hours gives you roughly 2.5–3.5 usable hours in Shanghai: about 40–55 minutes each way on the Maglev plus Metro Line 2, plus immigration and a 2.5-hour return buffer.
-
-### What can I see in 8 hours at PVG?
-
-Pick one thing and do it properly: the Bund is the classic choice. Walk the waterfront, eat xiaolongbao, and head back. Trying to add Yu Garden, Nanjing Road, and a sit-down meal will make you late.
-
-### How long does the Maglev take from Pudong Airport?
-
-About 8 minutes from PVG to Longyang Road, then 20–30 minutes on Metro Line 2 into the centre. Total door-to-door is roughly 40–55 minutes.
-
-### What time does the Maglev stop running?
-
-The Maglev runs from roughly 06:45 to 21:40, and Metro Line 2 stops around 22:30. If you land later than that, use a taxi or DiDi, and an evening 8-hour layover becomes much harder.
-
-**Sources**
-
-- Shanghai Airport — official transport information: https://www.shanghaiairport.com/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-
----
-
-## Shanghai Layover Tours: Are They Worth It, and How to Book
-
-Source: https://chinalayoverguide.com/guides/shanghai-layover-tours-worth-it/
-Last updated: 2026-09-16
-
-## The short answer
-
-**Worth it if you have 8+ hours and would rather not plan.** A private layover tour handles the transfer, the route, and the timing, which is exactly the hard part. **Not worth it under 6 hours**, and unnecessary if you are happy taking the Maglev and doing one thing yourself.
-
-## What a layover tour actually is
-
-A driver meets you in the arrivals hall with a name sign, tracks your flight, and drives you into the city. A guide then takes you to a compressed set of highlights (usually the Bund, Yu Garden and the old town, sometimes the French Concession or Shanghai Tower) and gets you back to the airport with a buffer.
-
-Typical durations: **4–8 hours**, structured around your flight times.
-
-## What they cost
-
-| Type | Indicative price | Notes |
-|---|---|---|
-| Private tour, airport pickup | ~US$100–220 per person | Price varies by group size and inclusions |
-| Tour with tickets + lunch | ~US$200–230 | Yu Garden and Shanghai Tower entry often included |
-| Shared / group option | Lower | Less flexible on timing |
-
-Treat these as indicative, prices move with season and group size. Check what is **excluded**: many private tours quote vehicle and driver only, with guide service, entrance fees, and meals extra.
-
-## When a tour is the right call
-
-- **You have 8+ hours** and want to maximize them without research.
-- **You are traveling with family or heavy bags**: the car solves the luggage problem entirely.
-- **You land somewhere unfamiliar** and would rather not navigate immigration, the Maglev, and a metro transfer while jet-lagged.
-- **Timing risk worries you.** A tour operator carries the responsibility for getting you back, and they plan around traffic.
-
-## When to skip it
-
-- **Under 6 hours.** No operator can create city time that is not there, and you would be paying for a stressful drive.
-- **You are comfortable with public transport.** The Maglev plus Metro Line 2 costs about ¥54 and takes 40–55 minutes. Pair it with a route and you have saved yourself the fee.
-- **You want to go deep on one thing.** Tours optimize for coverage; a food market or a single museum day is better done solo.
-
-## Before you book
-
-1. **Confirm you can enter.** Check [can you leave PVG on a layover?](/guides/can-i-leave-pvg-airport-on-a-layover/) and the [eligibility checker](/transit-visa/).
-2. **Give accurate flight numbers.** Reputable operators track arrivals, but only if they have the right details.
-3. **Check the pickup airport.** PVG and SHA are 70 km apart; make sure the tour meets you at the right one.
-4. **Ask what is excluded**, guide service, tickets, meals, and gratuities are often separate.
-5. **Confirm the cancellation policy** and the minimum layover they require. Many state 6–8 hours.
-
-## The middle path
-
-You do not have to choose between a full private tour and total improvisation:
-
-- **Book a private transfer only** (car and driver, no guide) and follow a route yourself, cheaper than a guided tour and solves the luggage and timing problems.
-- **Take the Maglev** and do the [8-hour itinerary](/guides/pvg-8-hour-layover/): the cheapest option, and entirely doable.
-
-## Bottom line
-
-Layover tours sell convenience, and on a tight connection convenience is genuinely valuable. If you have 8+ hours and want zero logistics, book one. If you have the Maglev and one destination in mind, save the money. Start with the [PVG 8-hour plan](/guides/pvg-8-hour-layover/).
-
-**Frequently asked questions**
-
-### Are Shanghai layover tours worth it?
-
-They're worth it if you have 8+ hours, value not planning, or are traveling with luggage and family. They're poor value if you have under 6 hours, or if you're comfortable taking the Maglev and following a route yourself.
-
-### How much does a Shanghai layover tour cost?
-
-Private layover tours with airport pickup generally run from roughly US$100 to US$220 per person depending on group size, duration, and whether tickets and meals are included. Group tours and shared shuttles cost less.
-
-### Do layover tours include airport pickup?
-
-The private tours usually do: a driver meets you in the arrivals hall with a name sign and tracks your flight. Confirm before booking whether pickup is at PVG, SHA, or both.
-
-### Do I need a visa for a Shanghai layover tour?
-
-You need to be eligible to enter China. Most tours expect you to use the 240-hour visa-free transit (eligible passports only, with an onward ticket to a third country) or the 30-day visa-free entry. Bring your passport and onward ticket.
-
-**Sources**
-
-- Shanghai Airport — official transport information: https://www.shanghaiairport.com/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-
----
-
 ## The Third-Country Rule for China Transit: A→B→C Explained
 
 Source: https://chinalayoverguide.com/guides/third-country-rule-for-china-transit/
@@ -1612,7 +1407,7 @@ Yes, and it is common. You need proof of the confirmed onward journey, and airli
 
 ---
 
-## Visa-Free vs Visa: When You Actually Need a Chinese Visa
+## Do You Need a Visa for China? Visa-Free Entry vs a Chinese Visa
 
 Source: https://chinalayoverguide.com/guides/visa-free-vs-visa-china/
 Last updated: 2026-09-16
@@ -1695,7 +1490,7 @@ Generally no for tourism. China does have a port visa system in limited circumst
 
 # Payments and apps
 
-## Alipay for Foreigners: Step-by-Step Setup with a Visa or Mastercard
+## Alipay in China for Foreigners: Step-by-Step Setup with a Visa or Mastercard
 
 Source: https://chinalayoverguide.com/guides/alipay-for-foreigners/
 Last updated: 2026-09-16
@@ -1909,9 +1704,9 @@ No. Personal QR codes cannot accept foreign-linked cards, only merchant or aggre
 ## How to Pay in China: Alipay, WeChat Pay & TenPayGo for Foreigners
 
 Source: https://chinalayoverguide.com/guides/payments-in-china-for-foreigners/
-Last updated: 2026-09-16
+Last updated: 2026-09-24
 
-> Reviewed 2026-09-16. Payment provider terms and fees change: check the apps before you travel.
+> Reviewed 2026-09-24. Payment provider terms and fees change: check the apps before you travel.
 
 ## The situation on the ground
 
@@ -1938,11 +1733,11 @@ WeChat Pay is the other half of the duopoly, and some vendors only take WeChat. 
 
 ## TenPayGo: built for foreign travelers
 
-**TenPayGo** is Tencent's newer product aimed specifically at foreign visitors. It bridges your familiar Visa/Mastercard to **offline WeChat Pay**, so you can tap into WeChat's enormous merchant network without a Chinese bank account. If you're mostly carrying Visa/Mastercard, TenPayGo is worth setting up alongside Alipay.
+**TenPayGo** is Tencent's separate app for foreign visitors, launched on 24 September 2026. You register with an **email address**, so you do not need a Chinese phone number or a Chinese bank account, then link an international card (UnionPay, Visa, Mastercard and four other networks), an overseas wallet, or Apple Pay. It pays over the **WeChat Pay merchant network**, so it works where WeChat Pay works, and it adds visitor features such as a Shenzhen transit QR code and a translate tool. If a Chinese phone number has been blocking you, or you want one app dedicated to travel, start here.
 
 ## What to do before your flight
 
-1. Install **Alipay** and **WeChat Pay** (and **TenPayGo** if available in your region).
+1. Install **Alipay** and **WeChat Pay**, and add **TenPayGo** if you cannot complete verification or do not have a Chinese phone number.
 2. Link your Visa/Mastercard and complete passport verification, do this at home, because the apps sometimes need SMS codes.
 3. Test a small top-up or check that your card shows as verified.
 4. Withdraw or bring **¥200–500 in cash** as a fallback.
@@ -1989,13 +1784,14 @@ Alipay. It has the simpler foreign-card flow and broader acceptance at small mer
 - Alipay — international travelers: https://www.alipay.com/
 - WeChat Pay — international visitors: https://www.wechat.com/en/
 - TenPay Global (TenPayGo): https://www.tenpayglobal.com/
+- SCMP — Tencent rolls out payment app for foreign travellers ahead of APEC summit (2026-09-24): https://www.scmp.com/tech/tech-trends/article/3368544/tencent-rolls-out-payment-app-foreign-travellers-ahead-apec-summit
 
 ---
 
-## WeChat Pay for Foreigners (and Where TenPayGo Fits In)
+## WeChat Pay in China for Foreigners (and Where TenPayGo Fits In)
 
 Source: https://chinalayoverguide.com/guides/wechat-pay-and-tenpaygo-for-foreigners/
-Last updated: 2026-09-16
+Last updated: 2026-09-24
 
 ## The short answer
 
@@ -2023,7 +1819,16 @@ The structure mirrors Alipay: **¥200 or less is normally fee-free; above ¥200 
 
 ## Where TenPayGo fits in
 
-**TenPayGo** (Tencent's cross-border product) is designed to bridge an international card into the WeChat Pay merchant network, similar in spirit to the older Alipay "Tour Pass" approach. It can be useful if direct card linking has trouble, but availability depends on your region and card, and it is not required. Try direct card binding first; use TenPayGo as a supplement.
+**TenPayGo** is Tencent's separate app for foreign visitors, launched on **24 September 2026**. Until now, paying with a foreign card in China meant setting up WeChat or Alipay and completing passport verification inside them. TenPayGo is the first Tencent app built for visitors from the ground up, and it removes the two biggest friction points:
+
+- **Sign-up is by email**, so you do not need a Chinese phone number or a Chinese bank account.
+- **It accepts what you already have**: international cards from seven major networks (UnionPay, Visa, Mastercard and others), around 60 overseas digital wallets, and Apple Pay.
+
+Payments run on the **WeChat Pay merchant network**, so the same shops, restaurants and transport operators accept it. Beyond paying, Tencent is adding visitor-specific features: a transit QR code for Shenzhen's metro and buses, a "circle to translate" tool for menus and signs, and in-app tax-refund requests.
+
+Two honest caveats. **These extras are still rolling out**, so treat the transit and tax-refund features as "check inside the app" rather than guaranteed. And **TenPayGo is a payment channel, not a replacement for WeChat itself**: attraction tickets, hotel messages and driver pins still run through WeChat mini-programs, which TenPayGo does not cover.
+
+So: if you can complete passport verification in WeChat or Alipay, do that first, because you will want WeChat installed anyway. If you are stuck on a Chinese phone number, or you want one app dedicated to travel, TenPayGo is now the simplest way in.
 
 ## Troubleshooting
 
@@ -2051,98 +1856,23 @@ Like Alipay, single payments of ¥200 or less are typically fee-free and amounts
 
 ### What is TenPayGo?
 
-TenPayGo is Tencent's cross-border payment product aimed at visitors, built to move money from an international card into the WeChat Pay network. Availability varies by region and card, so treat it as a supplement rather than a replacement for linking a card directly.
+TenPayGo is Tencent's own payment app for foreign visitors, launched on 24 September 2026. You register with an email address, so you do not need a Chinese phone number or a Chinese bank account, then link an international card, an overseas wallet, or Apple Pay to pay anywhere WeChat Pay is accepted.
+
+### Do I need a Chinese phone number to use TenPayGo?
+
+No. TenPayGo signs you up with an email address, which is its main advantage over the older approach. WeChat Pay itself also accepts foreign phone numbers, but it still requires real-name verification with your passport.
 
 **Sources**
 
 - WeChat — official site: https://www.wechat.com/en/
 - TenPay Global — official site: https://www.tenpayglobal.com/
+- SCMP — Tencent rolls out payment app for foreign travellers ahead of APEC summit (2026-09-24): https://www.scmp.com/tech/tech-trends/article/3368544/tencent-rolls-out-payment-app-foreign-travellers-ahead-apec-summit
 
 ---
 
 # City layover trips
 
-## Baiyun Airport to Guangzhou City Centre: Metro, Taxi or DiDi
-
-Source: https://chinalayoverguide.com/guides/baiyun-airport-to-city-centre/
-Last updated: 2026-09-16
-
-## The short answer
-
-**Take Metro Line 3.** About **45–55 minutes** for roughly **¥8**, direct into the Tianhe business district and the centre, and completely unaffected by traffic. Taxi and DiDi are comfortable with luggage but cost **¥100–130** and are at the mercy of Guangzhou traffic.
-
-## The options compared
-
-| Option | Time | Cost | Traffic-proof | Best for |
-|---|---|---|---|---|
-| **Metro Line 3** | 45–55 min | ~¥8 | Yes | Almost everyone |
-| **Taxi** | 45–60 min | ¥100–130 | No | Heavy bags, groups |
-| **DiDi** | 45–60 min | ¥100–130 | No | No Mandarin needed |
-| **Airport bus** | 60–90 min | ¥15–30 | No | Specific hotels or stations |
-
-## Metro Line 3, step by step
-
-1. Follow the **Metro / 地铁** signs from arrivals down to the station.
-2. Buy a single ticket from the machines (they take cash and QR payments), or scan a **transport QR code** in Alipay or WeChat Pay.
-3. Board **Line 3** toward the city.
-4. Get off at your destination, Tianhe, Guangzhou East, or a central interchange.
-
-The metro is signed in English, cheap, and entirely manageable with luggage outside rush hour.
-
-## When to take a car instead
-
-- **Heavy or multiple bags.** Metro stations have stairs and busy carriages.
-- **Late arrival.** The metro stops running around 22:30–23:00; check the last train before you rely on it.
-- **A group of three or four.** A taxi split four ways costs about the same as four metro tickets and gets you door to door.
-- **A tight layover.** A car removes the interchange walk and saves 10–20 minutes at each end.
-
-**DiDi** is the easiest car option: an English interface, fares shown upfront, and built-in chat translation. See [DiDi and ride-hailing in China](/guides/didi-and-ride-hailing-in-china/).
-
-## Paying
-
-- **Metro:** buy a ticket with cash, or use an Alipay/WeChat Pay transport QR at the gates.
-- **Taxi:** metered; pay with cash or a QR app. Most drivers do not accept foreign cards.
-- **DiDi:** charged automatically to your linked card or Alipay.
-
-If you have not set up a payment app, do it before you fly, see [Alipay for foreigners](/guides/alipay-for-foreigners/).
-
-## Rules that save you trouble
-
-- **Use the official taxi queue**, never a driver offering a ride inside arrivals.
-- **Have your destination in Chinese characters** on your phone.
-- **Check the last metro time** if your flight lands late.
-- **Do not take an unlicensed "black car"**. The price is not better and the risk is real.
-
-## Bottom line
-
-The metro is the default for a Baiyun layover: fast, cheap, and predictable. Take a car only for luggage, groups, or late arrivals. For what to do once you arrive, see the [Guangzhou 6/10-hour guide](/guides/guangzhou-6-10-hour-layover/) and the [CAN airport page](/airports/can/).
-
-**Frequently asked questions**
-
-### How do I get from Guangzhou Baiyun Airport to the city centre?
-
-Take Metro Line 3: about 45–55 minutes for roughly ¥8. It runs directly to the Tianhe business district and the city centre and is unaffected by traffic.
-
-### How much is a taxi from Baiyun Airport to Guangzhou?
-
-Roughly ¥100–130 for the 45–60 minute trip into the centre, depending on traffic and destination. Metered, plus any tolls. Use the official taxi queue.
-
-### Is DiDi cheaper than a taxi at Baiyun Airport?
-
-DiDi and metered taxis are broadly comparable. DiDi shows the fare before you confirm and avoids language issues, but you need a data connection and a payment method set up.
-
-### Which is faster, metro or taxi, from Baiyun Airport?
-
-It depends entirely on traffic. The metro is a predictable 45–55 minutes; a taxi is 45–60 minutes in light traffic but can be much longer in rush hour.
-
-**Sources**
-
-- Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
-- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-
----
-
-## Beijing Layover: Realistic Plans for 6, 8, 12, and 24 Hours
+## Things to Do in Beijing on a Layover: 6, 8, 12, and 24-Hour Plans
 
 Source: https://chinalayoverguide.com/guides/beijing-layover-itinerary/
 Last updated: 2026-09-16
@@ -2226,7 +1956,7 @@ PEK is better for the classic sights (Forbidden City, hutongs, Temple of Heaven)
 
 ---
 
-## Chengdu Layover: Pandas in 6, 8, 12, and 24 Hours
+## Things to Do in Chengdu on a Layover: Pandas in 6, 8, 12, and 24 Hours
 
 Source: https://chinalayoverguide.com/guides/chengdu-layover-itinerary/
 Last updated: 2026-09-16
@@ -2306,18 +2036,45 @@ Sichuan cuisine: hotpot with numbing Sichuan peppercorn, mapo tofu, dan dan nood
 
 ---
 
-## Guangzhou Layover in 6 or 10 Hours: What to Do
+## Things to Do in Guangzhou on a Layover: 6, 8, 10, 12 or 24 Hours
 
-Source: https://chinalayoverguide.com/guides/guangzhou-6-10-hour-layover/
-Last updated: 2026-09-17
+Source: https://chinalayoverguide.com/guides/guangzhou-layover-itinerary/
+Last updated: 2026-09-29
 
 ## The short answer
 
-**6 hours is enough for exactly one thing: dim sum.** **10 hours is enough for the classic Guangzhou day**, dim sum, Shamian Island, Canton Tower, and street food. The single most important adjustment: **eat early.** Yum cha is a morning and lunch ritual, and landing in the afternoon misses it.
+Guangzhou is China's food capital and one of its easier layovers: the airport connects by metro in under an hour, and the city rewards eating over sightseeing. With **6 hours you can do one great dim sum meal**; with **8 hours you add Shamian Island**; with **10 hours** you get the full classic day; with **12 hours** you add Canton Tower; with **24 hours** you eat your way through and add a day trip.
 
-## The two plans
+The single most important adjustment: **eat early.** Yum cha is a morning and lunch ritual, and landing in the afternoon misses it.
+
+## Airport to city
+
+| Option | Time | Cost | Traffic-proof | Best for |
+|---|---|---|---|---|
+| **Metro Line 3** | 45–55 min | ~¥8 | Yes | Almost everyone |
+| **Taxi** | 45–60 min | ¥100–130 | No | Heavy bags, groups |
+| **DiDi** | 45–60 min | ¥100–130 | No | No Mandarin needed |
+| **Airport bus** | 60–90 min | ¥15–30 | No | Specific hotels or stations |
+
+Baiyun Airport (CAN) is well connected and the metro is straightforward.
+
+**Metro Line 3, step by step:**
+
+1. Follow the **Metro / 地铁** signs from arrivals down to the station.
+2. Buy a single ticket from the machines (they take cash and QR payments), or scan a **transport QR code** in Alipay or WeChat Pay.
+3. Board **Line 3** toward the city.
+4. Get off at your destination: Tianhe, Guangzhou East, or a central interchange.
+
+**Take a car instead when** you have heavy or multiple bags, you are a group of three or four, you land late (the metro stops around 22:30–23:00), or you want to save the interchange walk on a tight layover. [DiDi](/guides/didi-and-ride-hailing-in-china/) is the easiest car option: English interface, fares shown upfront, built-in chat translation.
+
+**Paying:** buy metro tickets with cash or an Alipay/WeChat Pay transport QR. Taxis are metered and take cash or QR, but most drivers do not accept foreign cards. If you have not set up a payment app, do it before you fly: see [how to pay in China](/guides/payments-in-china-for-foreigners/).
+
+**Rules that save you trouble:** use the official taxi queue, have your destination in Chinese characters on your phone, check the last metro time if you land late, and never take an unlicensed "black car".
+
+## What each window gives you
 
 ### 6 hours: one meal, done well
+Immigration plus the transfer plus the return buffer leaves roughly **1.5–2 hours in the city**. That is enough for a memorable dim sum meal and not enough for a second stop.
 
 | Time | Step |
 |---|---|
@@ -2328,10 +2085,10 @@ Last updated: 2026-09-17
 | 3:30 | Head back |
 | 5:00 | At the airport, 2.5-hour buffer |
 
-That gives you roughly **1.5–2 hours in the city.** It is enough for a memorable meal, and it is not enough for a second stop. Do not try.
+### 8 hours: dim sum and Shamian Island
+About **3–4 usable hours**. Take Metro Line 3 in, eat a proper **dim sum breakfast or lunch** (arrive before 11am when locals go), then walk **Shamian Island**, leafy colonial-era streets perfect for a slow hour.
 
 ### 10 hours: the classic day, hour by hour
-
 Assuming a mid-morning landing. Shift the whole plan if you land later.
 
 | Clock | Step |
@@ -2347,28 +2104,27 @@ Assuming a mid-morning landing. Shift the whole plan if you land later.
 | 8:15 | Metro Line 3 back to CAN (45–55 min) |
 | 9:15 | At the airport, 2.5-hour buffer before departure |
 
-That is about **5–6 usable hours**, and it lands you at the gate with time to spare and no sprinting. If you have time in hand, **Chen Clan Ancestral Hall** is worth slotting in for the architecture.
+That is about **5–6 usable hours**, and it lands you at the gate with time to spare. If you have time in hand, **Chen Clan Ancestral Hall** is worth slotting in for the architecture.
 
-## The order matters, eat first
+### 12 hours: add Canton Tower and a night cruise
+About **6 usable hours** plus a comfortable margin. Do the 10-hour plan and add a **Pearl River night cruise** if your return buffer allows, or finish at **Beijing Road** for street food and shopping.
 
-This is the single biggest difference between a good Guangzhou layover and a wasted one, and it is the same for both windows. **Dim sum is a morning and lunch ritual.** Locals arrive early; the good teahouses fill by noon and the kitchens wind down through the afternoon.
+### 24 hours: eat your way through
+Book a hotel downtown and treat it as a food trip: morning tea, roast goose for lunch, a proper Cantonese dinner. Add **Chen Clan Ancestral Hall** for the architecture, or a day trip to **Foshan** (about 30 minutes by metro).
 
-So the sequence is not negotiable if you land before about 2pm: **airport → dim sum → everything else.**
+## The order matters: eat first
 
-### If you land in the afternoon
+This is the biggest difference between a good Guangzhou layover and a wasted one. **Dim sum is a morning and lunch ritual.** Locals arrive early; the good teahouses fill by noon and the kitchens wind down through the afternoon.
 
-Flip it. Do Shamian Island and Canton Tower first, then eat Cantonese **roast goose or roast meats** for dinner instead. You will not get proper yum cha, but you will get excellent Cantonese food, and that is still the point of Guangzhou.
+So if you land before about 2pm, the sequence is not negotiable: **airport, then dim sum, then everything else.**
 
-## Getting in and out
+**If you land in the afternoon**, flip it. Do Shamian Island and Canton Tower first, then eat Cantonese **roast goose or roast meats** for dinner instead. You will not get proper yum cha, but you will get excellent Cantonese food.
 
-- **Metro Line 3**, 45–55 minutes, roughly ¥8. Cheap, traffic-proof, and signed in English. This is the right choice.
-- **Taxi / DiDi**, 45–60 minutes, ¥100–130. Convenient with luggage but traffic-dependent.
-- **Between the highlights**, the metro is usually faster than a taxi in Guangzhou traffic.
-- **Canton Tower and Shamian Island are in different directions**, so order them by geography, not preference.
+**Worth knowing before you plan:** Canton Tower and Shamian Island are in different directions, so order the highlights by geography, not preference. The observation deck costs extra and takes an hour; viewing the tower from Huacheng Square is free and nearly as impressive for photos. The illuminated **Pearl River cruises run after dark**, which usually conflicts with your return buffer, so a daytime river view from Shamian Island is the practical substitute.
 
 ## What to eat
 
-Guangzhou is the home of Cantonese cooking, so eat the classics:
+Guangzhou is where Cantonese cooking comes from, so eat the classics:
 
 - **Har gow** (shrimp dumplings), **siu mai**, **char siu bao**, **cheung fun** (rice noodle rolls)
 - **Roast goose**, Guangzhou's signature, and better here than anywhere else
@@ -2376,121 +2132,51 @@ Guangzhou is the home of Cantonese cooking, so eat the classics:
 
 Order a pot of tea and let it come in waves. Dim sum is a slow meal by design.
 
-## The mistake that ruins a Guangzhou layover
+## Guangzhou layover tours: are they worth it?
 
-**Arriving in the afternoon and expecting dim sum.** Yum cha runs through the morning and lunch service. Locals eat early. If you land at 3pm, flip the plan: do Shamian Island and Canton Tower, and eat Cantonese roast meats for dinner instead.
+**Worth it if you have 8+ hours and want zero logistics.** A private Guangzhou tour solves the two hard parts, the transfer and the dim sum timing, in a city where the highlights are spread out. **Not worth it under 6 hours**, and unnecessary if you are comfortable taking Metro Line 3 and eating on your own schedule.
+
+A driver meets you at Baiyun arrivals with a name sign and tracks your flight. Typical itineraries run **4–12 hours** and cover a rotating set of highlights: Chen Clan Ancestral Hall, Shamian Island, Canton Tower, Huacheng Square, Xiguan old town, and usually dim sum at a local teahouse. Many operators tier them by layover length: a 3–4 hour express, a 5–6 hour combo, and a 7–8 hour immersion that adds the tower and a proper meal.
+
+| Type | Indicative price | Notes |
+|---|---|---|
+| Small-group bus tour | from ~US$87 | Fixed departure, less flexible on timing |
+| Private tour, airport pickup | ~US$158–205 per person | Varies by group size |
+| "All inclusive" private | ~US$200–220 | Adds entrance fees and a dim sum meal |
+
+**Most operators split pricing into "private tour only" and "all inclusive".** The cheaper tier usually excludes food and sometimes guide service; the higher tier adds entrance fees and one meal. Confirm which one you are buying. Treat all figures as indicative; they move with season and group size.
+
+**Read the refund clause before you pay.** Several Guangzhou operators state explicitly that if immigration refuses your transit entry and you cannot join the tour, there is no refund, because the guide and driver were already reserved. Some list a "no refund on cancellation" policy outright. Your eligibility is your responsibility, not the operator's.
+
+**Before you book:** confirm you can enter using the [eligibility checker](/transit-visa/), give accurate flight numbers so the operator can track you, check the minimum layover they require (many state 6–8 hours), ask what is excluded, and check whether solo travelers get a car or are put on metro and taxi.
+
+**The middle path:** book a private transfer only (car and driver, no guide) and follow the plans above yourself, or take Metro Line 3 for roughly ¥8 each way.
 
 ## The two things that will cost you the flight
 
 1. **Immigration queues.** CAN is a major hub for Africa, Southeast Asia, and Europe traffic. Allow a real 60–90 minutes.
 2. **The last metro.** Line 3 stops running around 22:30–23:00. If your buffer runs past that, your return becomes a taxi or DiDi, and you should leave the city 30 minutes earlier.
 
+Guangzhou is also spread out: the airport, the Tianhe business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them on a short layover. And a round trip does not qualify for visa-free transit: Guangzhou → home is not a third country.
+
 ## Before you go
 
-- **Set up Alipay or WeChat Pay**, dim sum restaurants and street stalls are QR-only. See [payments in China](/guides/payments-in-china-for-foreigners/).
-- **Install an eSIM** before you fly. See [eSIM setup](/guides/esim-setup-before-you-land/).
-- **Confirm entry**: check [can you leave CAN on a layover?](/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/).
+- **Set up Alipay or WeChat Pay before you fly**: dim sum restaurants and street stalls are QR-only. See [how to pay in China](/guides/payments-in-china-for-foreigners/).
+- **Install an eSIM before you land**: see [eSIM setup](/guides/esim-setup-before-you-land/).
+- **Confirm you can enter**: see [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- **Know where to leave your bags**: see [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
 
 ## Bottom line
 
-Go to Guangzhou hungry and go early. Six hours buys one great meal; ten buys a full Cantonese day. For airport specifics, see the [CAN airport guide](/airports/can/) and the [Guangzhou city page](/cities/guangzhou/).
+Go to Guangzhou hungry and go early. Six hours buys one great meal; ten buys a full Cantonese day. The metro is the default way in, and a tour only pays off if you want the logistics handled.
 
 ## Related guides
 
-- [Baiyun airport to Guangzhou city centre: metro, taxi or DiDi](/guides/baiyun-airport-to-city-centre/)
-- [Can I leave Guangzhou Baiyun Airport on a layover?](/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/)
-- [Guangzhou layover tours: worth it, and how to book](/guides/guangzhou-layover-tours-worth-it/)
-- [PVG & CAN luggage storage on a layover](/guides/pvg-can-luggage-storage/)
-- [Guangzhou layover: 6, 8, 12 and 24 hours](/guides/guangzhou-layover-itinerary/)
+- [Can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
-
-**Frequently asked questions**
-
-### Is a 6-hour layover in Guangzhou enough to leave the airport?
-
-It's tight but possible. Metro Line 3 takes 45–55 minutes each way, so after immigration and a 2.5-hour return buffer you have roughly 1.5–2 hours in the city, enough for one dim sum meal and no more.
-
-### What can I do in a 10-hour layover in Guangzhou?
-
-About 5–6 usable hours: a proper dim sum lunch, a walk on Shamian Island, Canton Tower for the skyline, and a street-food pass along Beijing Road.
-
-### What time should I eat dim sum in Guangzhou?
-
-Go before 11am. Yum cha is a morning and lunch ritual, and the good restaurants fill with locals early. Arriving mid-afternoon means missing what Guangzhou does best.
-
-### How far is Canton Tower from the airport?
-
-Canton Tower is in the city centre, roughly 45–60 minutes from Baiyun Airport by metro. It's a different direction from the old town, so don't plan both on a short layover.
-
-### Should I go up Canton Tower on a Guangzhou layover?
-
-Only if the weather is clear and you're on schedule. The observation deck costs extra and takes an hour. Viewing the tower from Huacheng Square is free and nearly as impressive for photos.
-
-### Can I fit a Pearl River cruise into a Guangzhou layover?
-
-Only at the evening end. The illuminated cruises run after dark, which usually conflicts with your return buffer. A daytime river view from Shamian Island is the practical substitute.
-
-**Sources**
-
-- Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-
----
-
-## Guangzhou Layover: What to Do in 6, 8, 12, and 24 Hours
-
-Source: https://chinalayoverguide.com/guides/guangzhou-layover-itinerary/
-Last updated: 2026-09-16
-
-## The short answer
-
-Guangzhou is China's food capital and an easy layover: the airport connects by metro in under an hour, and the city rewards eating over sightseeing. With **8 hours you can do dim sum and Shamian Island**; with 12 you add Canton Tower; with 24 you can go deeper into the food scene or add a day trip.
-
-## Airport to city
-
-| Option | Time | Cost |
-|---|---|---|
-| Metro Line 3 | ~45–55 min | ~¥8 |
-| Taxi / DiDi | 45–60 min | ¥100–130 |
-
-Baiyun Airport (CAN) is well connected and the metro is straightforward. Immigration can be slow at peak hours, so leave a real buffer on the return.
-
-## What each window gives you
-
-### 6 hours, stay at the airport
-Immigration plus the transfer plus the return buffer leaves too little. Not worth the stress.
-
-### 8 hours, dim sum and Shamian Island
-About **3–4 usable hours**. Take Metro Line 3 in, eat a proper **dim sum breakfast or lunch** (arrive before 11am when locals go), then walk **Shamian Island**, leafy colonial-era streets perfect for a slow hour. Back on Line 2/3.
-
-### 12 hours: add Canton Tower
-About **6 usable hours**. Dim sum, Shamian Island, then **Canton Tower** for the skyline and, if you have the time, a **Pearl River night cruise**. Finish at **Beijing Road** for street food and shopping.
-
-### 24 hours, eat your way through
-Book a hotel downtown and treat it as a food trip: morning tea, roast goose for lunch, a proper Cantonese dinner. Add **Chen Clan Ancestral Hall** for the architecture, or a day trip to **Foshan** (30 minutes by metro).
-
-## The route that works
-
-1. Clear immigration and store bags (left-luggage, usually ¥15–30 per bag).
-2. Metro Line 3 to the city.
-3. Dim sum → Shamian Island → Canton Tower → Beijing Road.
-4. Back to CAN with a 2.5-hour buffer.
-
-## Food to try
-
-Har gow, siu mai, char siu bao, cheung fun (rice noodle rolls), roast goose, wonton noodles, and double-skin milk dessert. Guangzhou is where Cantonese cooking comes from, so eat the classics rather than chasing novelty.
-
-## Related guides
-
-- [Baiyun airport to Guangzhou city centre: metro, taxi or DiDi](/guides/baiyun-airport-to-city-centre/)
-- [Can I leave Guangzhou Baiyun Airport on a layover?](/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/)
-- [Guangzhou 6/10-hour layover: what to do](/guides/guangzhou-6-10-hour-layover/)
-- [PVG & CAN luggage storage on a layover](/guides/pvg-can-luggage-storage/)
 - [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
-
-## Bottom line
-
-Guangzhou is a food destination that happens to have a convenient airport. Eight hours buys you a memorable dim sum meal and a walk; twelve buys you the skyline too. For transfer details, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
+- [CAN airport guide](/airports/can/)
+- [Guangzhou city quick trip](/cities/guangzhou/)
 
 **Frequently asked questions**
 
@@ -2502,31 +2188,37 @@ Yes, if you qualify for visa-free entry. Metro Line 3 reaches the central distri
 
 Cantonese food. Guangzhou is the home of dim sum (yum cha), roast goose, and wonton noodles, and it is widely considered China's culinary capital.
 
+### What time should I eat dim sum in Guangzhou?
+
+Go before 11am. Yum cha is a morning and lunch ritual, and the good restaurants fill with locals early. Arriving mid-afternoon means missing what Guangzhou does best.
+
 ### How do I get from Baiyun Airport to central Guangzhou?
 
-Take Metro Line 3 from the airport, roughly 45–55 minutes to the Tianhe business district and the city center for about ¥8. Taxis and DiDi cost ¥100–130 and take 45–60 minutes depending on traffic.
+Take Metro Line 3 from the airport: roughly 45–55 minutes to the Tianhe business district and the city center for about ¥8. Taxis and DiDi cost ¥100–130 and take 45–60 minutes depending on traffic.
 
-### Can I visit Hong Kong from a Guangzhou layover?
+### Are Guangzhou layover tours worth it?
 
-It is possible but not advisable on a short stop: the border crossing and travel time consume most of a day. High-speed rail to Shenzhen takes about 35 minutes, but you still need buffer time at both ends.
+They are worth it if you have 8+ hours and want the transfer, route, and dim sum timing handled for you. They are poor value under 6 hours, and unnecessary if you are happy taking Metro Line 3 and eating on your own schedule.
+
+### What if I am denied entry and cannot join a booked tour?
+
+Many Guangzhou operators state clearly that if immigration refuses your transit entry there is no refund, because the guide and driver were already committed. Your eligibility is your responsibility, so confirm it before you pay.
 
 **Sources**
 
 - Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
-- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
-## Shanghai Layover by Window: 6, 8, 12 or 24 Hours
+## Things to Do in Shanghai on a Layover: 6, 8, 12 or 24 Hours
 
 Source: https://chinalayoverguide.com/guides/shanghai-layover-itinerary/
-Last updated: 2026-09-16
+Last updated: 2026-09-24
 
 ## The short answer
 
-The window you have decides what Shanghai you get, and this page is about choosing it. **6 hours is a taste; 8 hours comfortably covers the Bund and a real meal; 12 hours is a full classic day; 24 hours adds a water town or the French Concession.** The usable time is shorter than the layover in every case, because PVG is about 30 km out.
-
-Once you know your window, the airport mechanics matter just as much. If you are arriving at Pudong, the [PVG route and time budget](/guides/pvg-8-hour-layover/) covers the Maglev, the Metro Line 2 timings and the last-train cutoffs in detail.
+The window you have decides what Shanghai you get. **6 hours is a taste; 8 hours comfortably covers the Bund and a real meal; 12 hours is a full classic day; 24 hours adds a water town or the French Concession.** Usable time is shorter than the layover in every case, because Pudong is about 30 km out.
 
 ## Which airport, and how long to reach the city
 
@@ -2536,42 +2228,95 @@ Once you know your window, the airport mechanics matter just as much. If you are
 | Pudong (PVG), Metro Line 2 direct | 60–90 min | ¥7–9 | Cheapest, or if your hotel is in Pudong |
 | Hongqiao (SHA), Metro Lines 2 / 10 | 30–50 min | ¥3–7 | The easiest option by far |
 
-Pudong is roughly 30 km east of the center, so the transfer is the whole game. The Maglev covers its 30 km leg in about 8 minutes; you then transfer to Metro Line 2 at Longyang Road. Metro Line 2 also runs the entire way from Pudong to Hongqiao, but it stops 20+ times.
-
 **A hard limit to plan around:** the Maglev stops running around 21:40 and Metro Line 2 around 22:30. Late arrivals are taxi or DiDi territory.
+
+PVG and SHA are about 70 km apart. If your connection uses both airports, treat it as a 1.5–2 hour transfer and do not add sightseeing under 12 hours.
+
+## Getting in from Pudong: the Maglev in detail
+
+1. Follow the **Maglev signs** from arrivals. It is on the basement level, with a separate entrance from the metro.
+2. Buy a ticket for **¥50, or ¥40 if you show a same-day boarding pass**. The discount is counter-only, so keep your boarding pass handy.
+3. Ride to **Longyang Road**: about 8 minutes at up to 300 km/h.
+4. Transfer to **Metro Line 2** and continue to Nanjing East Road or People's Square.
+5. Walk to **the Bund**, 10–15 minutes from Nanjing East Road.
 
 ## What each window actually gives you
 
 ### 6 hours: not worth leaving
-By the time you clear immigration (45–90 minutes is normal), ride in, and turn around, you have almost no city time. Stay airside or in the terminal, and save the city for a longer stop.
+By the time you clear immigration (45–90 minutes is normal), ride in, and turn around, there is almost no city time. Stay airside and save the city for a longer stop.
 
-### 8 hours: The Bund and one good meal
-Roughly **3–3.5 usable hours**. Take the Maglev plus Metro Line 2 to Nanjing East Road, walk to The Bund for the skyline, eat xiaolongbao (soup dumplings), and head back with a 2.5-hour buffer before your international departure.
+### 8 hours: the Bund and one good meal
+Roughly **2.5–3.5 usable hours**. Take the Maglev plus Metro Line 2 to Nanjing East Road, walk to the Bund for the skyline, eat xiaolongbao (soup dumplings), and head back with a 2.5-hour buffer.
+
+Do not attempt Yu Garden, the Bund, a sit-down banquet, and Shanghai Tower. Each is fine on its own; together they will make you late.
 
 ### 12 hours: the classic day
-About **6 usable hours**. Add Yu Garden and the old town, walk part of Nanjing Road, and if time allows cross to Lujiazui for the view back at the Bund. Start with the Bund before the crowds, and finish with dinner.
+About **6 usable hours**. Add Yu Garden and the old town, walk part of Nanjing Road, and cross to Lujiazui for the view back at the Bund. Start with the Bund before the crowds, and finish with dinner.
 
 ### 24 hours: a real stopover
-Book a hotel in Puxi (People's Square, Jing'an, or the French Concession), see the classic sights unhurried, add a river cruise at night, and use the morning for a day trip, Zhujiajiao water town or a one-hour high-speed train to Hangzhou.
+Book a hotel in Puxi (People's Square, Jing'an, or the French Concession), see the classic sights unhurried, add a river cruise at night, and use the morning for a day trip: Zhujiajiao water town, or a one-hour high-speed train to Hangzhou.
+
+## The time budget, honestly
+
+| Step | Time |
+|---|---|
+| Land, disembark, clear immigration | 45–90 min |
+| Store luggage (if needed) | 15–30 min |
+| Maglev + Metro Line 2 into the center | 40–55 min |
+| **In the city** | **2.5–3.5 hours** |
+| Return to PVG | 40–55 min |
+| Check-in, security, exit immigration | 2.5 hours |
+| **Total** | **~8 hours** |
+
+Immigration at PVG is among the slowest of China's big gateways. An evening bank of long-haul arrivals can mean 60–90 minutes, and the visa-free transit lane is slower than the regular queue because officers check your itinerary manually.
 
 ## The route that works
 
 1. Land and clear immigration; collect your bags if you have them.
-2. Store luggage at the airport if you're not checking into a hotel (left-luggage is usually ¥15–30 per bag).
-3. Maglev + Metro Line 2 (from Pudong) or Metro Line 2/10 (from Hongqiao) to the center.
-4. Bund → Yu Garden → Nanjing Road, in that order.
-5. Return with 2.5–3 hours before departure if you're checking a bag.
+2. Store luggage if you are not checking into a hotel (left-luggage is usually ¥15–30 per bag).
+3. Maglev + Metro Line 2 from Pudong, or Metro Lines 2/10 from Hongqiao, into the center.
+4. The Bund, then Yu Garden, then Nanjing Road, in that order.
+5. Return with 2.5–3 hours before departure if you are checking a bag.
+
+## Shanghai layover tours: are they worth it?
+
+**Worth it if you have 8+ hours and would rather not plan.** A private tour handles the transfer, the route, and the timing, which is exactly the hard part. **Not worth it under 6 hours**, and unnecessary if you are happy taking the Maglev yourself.
+
+A driver meets you in the arrivals hall with a name sign, tracks your flight, and drives you into the city. A guide takes you to a compressed set of highlights (usually the Bund, Yu Garden and the old town, sometimes the French Concession or Shanghai Tower) and gets you back with a buffer. Typical durations are 4–8 hours, structured around your flight times.
+
+| Type | Indicative price | Notes |
+|---|---|---|
+| Private tour, airport pickup | ~US$100–220 per person | Varies by group size and inclusions |
+| Tour with tickets and lunch | ~US$200–230 | Yu Garden and Shanghai Tower entry often included |
+| Shared or group option | Lower | Less flexible on timing |
+
+Prices are indicative and move with season and group size. Check what is **excluded**: many private tours quote vehicle and driver only, with guide service, entrance fees, and meals extra.
+
+**Book one when** you have 8+ hours, you are traveling with family or heavy bags, or timing risk worries you and you would rather the operator carry it.
+
+**Skip it when** you have under 6 hours, or you are comfortable with public transport. The Maglev plus Metro Line 2 costs about ¥54 and takes 40–55 minutes.
+
+**The middle path:** book a private transfer only (car and driver, no guide) and follow the route above yourself. Cheaper than a guided tour, and it still solves the luggage and timing problems.
 
 ## Before you go
 
-- **Set up Alipay before you fly**: most small vendors and street stalls are QR-only. See [payments in China](/guides/payments-in-china-for-foreigners/).
-- **Install an eSIM before you land**, airport Wi-Fi in China usually needs an SMS code you may not receive. See [eSIM setup](/guides/esim-setup-before-you-land/).
+- **Set up Alipay or WeChat Pay before you fly**: most small vendors and street stalls are QR-only. See [how to pay in China](/guides/payments-in-china-for-foreigners/).
+- **Install an eSIM before you land**: airport Wi-Fi in China usually needs an SMS code you may not receive. See [eSIM setup](/guides/esim-setup-before-you-land/).
 - **Have your hotel address in Chinese characters** saved on your phone if you plan to take a taxi.
-- **Confirm your transit eligibility** first, see [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- **Confirm your transit eligibility** first: see [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- **Know where to leave your bags**: see [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
 
 ## Bottom line
 
-Shanghai rewards 8 hours or more. Choose Hongqiao if you can, take the Maglev from Pudong if you can't, and treat any window under 6 hours as an airport day.
+Shanghai rewards 8 hours or more. Choose Hongqiao if you can, take the Maglev from Pudong if you cannot, book a tour only if you want the logistics handled, and treat any window under 6 hours as an airport day.
+
+## Related guides
+
+- [Can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/)
+- [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
+- [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
+- [PVG airport guide](/airports/pvg/)
+- [Shanghai city quick trip](/cities/shanghai/)
 
 **Frequently asked questions**
 
@@ -2581,20 +2326,28 @@ Yes, if you land at a reasonable hour and qualify for visa-free entry. Budget 40
 
 ### Should I fly into Pudong (PVG) or Hongqiao (SHA) for a short layover?
 
-Hongqiao is much closer to the center, Metro Lines 2 and 10 reach downtown in 30–50 minutes. Pudong is about 30 km east of the center and needs the Maglev plus Metro, or 60–90 minutes on Metro Line 2 alone.
+Hongqiao is much closer to the center: Metro Lines 2 and 10 reach downtown in 30–50 minutes. Pudong is about 30 km east of the center and needs the Maglev plus Metro, or 60–90 minutes on Metro Line 2 alone.
 
-### Does the Shanghai Maglev run at night?
+### How long does the Maglev take from Pudong Airport?
 
-No. The Maglev runs from roughly 06:45 to 21:40. If you land after that, use Metro Line 2 (until about 22:30), an airport bus, or a taxi or DiDi.
+About 8 minutes from PVG to Longyang Road, then 20–30 minutes on Metro Line 2 into the center. Door to door it is roughly 40–55 minutes.
 
-### Can I pay for the Shanghai metro with a foreign card?
+### What time does the Shanghai Maglev stop running?
 
-You can use Alipay or WeChat Pay QR codes at the gates in Shanghai, and contactless Visa or Mastercard has been accepted at metro and Maglev turnstiles since 2025. Buy a single ticket with cash as a fallback.
+The Maglev runs from roughly 06:45 to 21:40, and Metro Line 2 stops around 22:30. Land later than that and your trip back becomes a taxi or DiDi.
+
+### Are Shanghai layover tours worth it?
+
+Worth it if you have 8+ hours and would rather not plan, especially with family or heavy bags. Not worth it under 6 hours, and unnecessary if you are happy taking the Maglev and following a route yourself.
+
+### How much does a Shanghai layover tour cost?
+
+Private layover tours with airport pickup generally run from roughly US$100 to US$220 per person, depending on group size, duration, and whether tickets and meals are included. Shared and group options cost less.
 
 **Sources**
 
 - Shanghai Airport — official transport information: https://www.shanghaiairport.com/
-- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
@@ -2689,7 +2442,7 @@ Roujiamo (a Chinese-style meat sandwich), yangrou paomo (lamb soup with crumbled
 
 # eSIM and connectivity
 
-## Best eSIM for China: Airalo, Holafly & Nomad Compared
+## eSIM China: Best Plans Compared (Airalo, Holafly & Nomad)
 
 Source: https://chinalayoverguide.com/guides/best-esim-for-china/
 Last updated: 2026-09-10
@@ -2963,7 +2716,7 @@ If you use a travel eSIM that routes data outside mainland China, you usually do
 ## Does Google Maps Work in China? (And What to Use Instead)
 
 Source: https://chinalayoverguide.com/guides/does-google-maps-work-in-china/
-Last updated: 2026-09-16
+Last updated: 2026-09-29
 
 ## The short answer
 
@@ -2989,18 +2742,27 @@ China's mapping coordinates are deliberately offset from global GPS standards. T
 
 Use a Chinese map app and the problem disappears.
 
-## What to install instead
+## The map apps that actually work
+
+| App | Language | Best for | Availability |
+|---|---|---|---|
+| **Amap** (Gaode, 高德地图) | English available | The default for foreign visitors: metro, bus and walking directions, and finding a place by its English name | Works everywhere in mainland China |
+| **Baidu Maps** (百度地图) | Chinese-first | Finding a Chinese address, deepest local coverage | Works everywhere in mainland China |
+| **Apple Maps** | Localised | iPhone users who want the built-in app | Partly works in China on local data; detail and English quality vary |
+| **Google Maps** | English | Nothing useful while you are on a Chinese network | Only over a travel eSIM, and the coordinate offset still applies |
+
+**Install Amap before you fly.** The reason is not convenience, it is that app-store behaviour inside China is unpredictable, and you do not want to be solving it on airport Wi-Fi. Both Amap and Baidu Maps are free.
 
 **Amap (Gaode)**
-- Best English support among Chinese maps.
+- Best English support among the Chinese map apps.
 - Reliable metro, bus, and walking directions.
-- Good for finding a destination by English name.
+- Good for finding a destination by its English name.
 
 **Baidu Maps**
 - Deepest coverage of Chinese addresses.
-- Strong if you can paste or scan a Chinese address.
+- Strong once you can paste or scan a Chinese address.
 
-Both are free. Install them before you fly, since app-store behavior inside China is unpredictable, see the [China apps checklist](/guides/china-apps-checklist/).
+Both handle the coordinate-offset problem natively, which is the part Google Maps cannot fix.
 
 ## Will a travel eSIM bring Google back?
 
@@ -3013,7 +2775,7 @@ Two caveats:
 
 ## Practical navigation setup
 
-1. Install **Amap** and **Baidu Maps** at home.
+1. Install **Amap** and **Baidu Maps** at home, before you fly, see the [China apps checklist](/guides/china-apps-checklist/).
 2. Download an **offline map area** for each city you will visit.
 3. Save your hotel's **Chinese address** as a screenshot. It works for taxis and DiDi.
 4. Keep a **translation app with camera mode** for signs and menus.
@@ -3035,6 +2797,10 @@ Use Amap (Gaode) or Baidu Maps. Amap has the better English interface and solid 
 ### Does a travel eSIM make Google Maps work in China?
 
 Often yes. Travel eSIMs from providers like Airalo, Holafly, and Nomad route your data through a network outside mainland China, so Google services frequently keep working without a separate VPN.
+
+### What is the best map app for China?
+
+Amap (Gaode). It has the best English support of the Chinese map apps, reliable metro, bus and walking directions, and will find a destination by its English name. Baidu Maps is the fallback when you have a Chinese address to paste. Apple Maps partly works on iPhones in China. Do not rely on Google Maps while you are on a Chinese network.
 
 ### Is WhatsApp blocked in China?
 
@@ -3122,7 +2888,7 @@ Chinese carriers sell local SIMs and eSIMs, but those route through mainland net
 
 ---
 
-## eSIM vs VPN vs Roaming in China: Which Actually Works?
+## VPN for China: eSIM vs VPN vs Roaming Compared
 
 Source: https://chinalayoverguide.com/guides/esim-vs-vpn-vs-roaming/
 Last updated: 2026-09-16
@@ -3622,7 +3388,7 @@ Failing to register can lead to fines and problems with immigration. It is a leg
 ## Luggage Storage at China's Airports: What It Costs and Where to Find It
 
 Source: https://chinalayoverguide.com/guides/luggage-storage-at-china-airports/
-Last updated: 2026-09-16
+Last updated: 2026-09-24
 
 ## The short answer
 
@@ -3650,6 +3416,14 @@ Prices vary by airport and by bag size. Treat ¥15–30 as indicative and check 
 ## The option most travelers miss
 
 If you are hiring a **private driver**, for example for the [Great Wall from Beijing](/guides/great-wall-from-beijing-layover/) or the [Terracotta Army](/guides/xian-layover-itinerary/), the driver waits with the car. Your bags stay in the vehicle, you skip storage entirely, and you save 20–30 minutes at each end.
+
+## PVG and CAN: the airport-specific details
+
+The counters work the same way everywhere, but the risk at each airport is different, and it is mostly about the **return leg**.
+
+**Shanghai Pudong (PVG).** Counters sit in the arrivals and departures halls of both terminals, signed in English as "Left Luggage" or "Baggage Storage". Around **¥15–30 per bag per day**; bring your passport, and sometimes your onward ticket. The trap: the **Maglev stops around 21:40** and Metro Line 2 around **22:30**. If you are returning late, your trip back becomes a taxi or DiDi, which takes longer, so collect your bags earlier than you think you need to. PVG has two terminals connected by a walkway and the inter-terminal train, so confirm which terminal your onward flight departs from before you choose where to store. For the city side, see [things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/).
+
+**Guangzhou Baiyun (CAN).** Counters operate in the terminal, on the arrivals level. Around **¥15–30 per bag per day**; passport required. The trap: you are coming back on **Metro Line 3**, which takes 45–55 minutes, and with a 2.5-hour departure buffer that is most of your return leg. Budget the storage detour inside that time rather than on top of it. Baiyun operates two terminals, so check which one your flight uses, because the walk between them is not trivial. For the city side, see [things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/).
 
 ## What to keep with you
 
@@ -3694,89 +3468,6 @@ Staffed airport and station counters are generally reliable and issue a receipt,
 **Sources**
 
 - Beijing Capital International Airport — official site: https://www.bcia.com.cn/
-- Shanghai Airport — official transport information: https://www.shanghaiairport.com/
-
----
-
-## PVG and CAN Luggage Storage: Airport-Specific Details
-
-Source: https://chinalayoverguide.com/guides/pvg-can-luggage-storage/
-Last updated: 2026-09-17
-
-## The short answer
-
-Both airports have left-luggage counters, and both charge roughly the same. What differs is **where the counter is relative to your gate, and how much time you lose getting back to it**. That is the part worth planning, and it is what this page covers. For the general rules on how Chinese airport storage works, see [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
-
-## PVG (Shanghai Pudong)
-
-- **Where:** left-luggage counters in the arrivals and departures halls, signed in English as "Left Luggage" or "Baggage Storage".
-- **Cost:** around ¥15–30 per bag per day, indicative.
-- **What you need:** passport, and sometimes your onward ticket.
-
-**The PVG-specific timing trap:** the Maglev stops running around 21:40 and Metro Line 2 around 22:30. If you are returning late, your trip back becomes a taxi or DiDi, which takes longer than the Maglev. Collect your bags earlier than you think you need to.
-
-**Terminal note:** PVG has two terminals connected by a walkway and the inter-terminal train. Confirm which terminal your onward flight departs from before you decide where to store.
-
-## CAN (Guangzhou Baiyun)
-
-- **Where:** left-luggage counters in the terminal, on the arrivals level.
-- **Cost:** around ¥15–30 per bag per day, indicative.
-- **What you need:** passport.
-
-**The CAN-specific timing trap:** you are coming back on Metro Line 3, which takes 45–55 minutes. Combined with a 2.5-hour departure buffer, that is most of your return leg. Budget the storage detour as part of it rather than on top.
-
-**Terminal note:** Baiyun operates two terminals. Check which one your flight uses, since the walk between them is not trivial.
-
-## The shortcut that beats both counters
-
-If you are hiring a **private driver or taking DiDi for the day**, common for a Guangzhou dim sum run or a day in Shanghai, the driver waits with the car. Your bags stay in the vehicle and you skip the storage step at both ends.
-
-## The airports where this matters most
-
-Storage is a bigger deal at airports that are far from the city, because the trip back is long enough that you want to travel light:
-
-- **PVG** is about 30 km east of Shanghai's centre.
-- **CAN** is about 28 km north of Guangzhou's centre.
-- Both are covered in the [airport guides](/airports/), which break down transfer times by option.
-
-## Before you go
-
-- **Set up Alipay or WeChat Pay**: the counters take QR payment, and you may not want to break a large note. See [payments in China](/guides/payments-in-china-for-foreigners/).
-- **Keep documents on you**: passport, boarding pass and onward ticket details never go in stored luggage.
-- **Photograph your bag and the tag**.
-
-## Bottom line
-
-The counters at PVG and CAN are straightforward. The planning that matters is **the return leg**: at PVG because the Maglev stops early, at CAN because the metro ride is long. If you have a car, skip storage entirely.
-
-## Related guides
-
-- [Luggage storage at China's airports: the general rules](/guides/luggage-storage-at-china-airports/)
-- [Baiyun airport to Guangzhou city centre](/guides/baiyun-airport-to-city-centre/)
-- [Guangzhou layover in 6 or 10 hours](/guides/guangzhou-6-10-hour-layover/)
-- [PVG 8-hour layover: what you can actually do](/guides/pvg-8-hour-layover/)
-- [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
-
-**Frequently asked questions**
-
-### Where is luggage storage at Shanghai Pudong Airport?
-
-Left-luggage counters (行李寄存) sit in the arrivals and departures halls of both terminals. Signage in English reads 'Left Luggage' or 'Baggage Storage'. Confirm the current desk location and hours on arrival, since counters move between terminal updates.
-
-### Where is luggage storage at Guangzhou Baiyun Airport?
-
-Counters operate in the terminal, near the arrivals level. Baiyun has two terminals, so check which one your flight uses before you plan your walk back.
-
-### How much does airport luggage storage cost in China?
-
-Around ¥15–30 per bag per day at both airports. Rates are indicative and vary by bag size and storage duration, so check the counter's own price board.
-
-### Should I store my bag or keep it with me at PVG and CAN?
-
-If you have hired a car or taken DiDi for the day, keep your bags in the vehicle. The driver waits, you skip the counter entirely, and you save the storage fee plus 20–30 minutes of queuing at each end.
-
-**Sources**
-
 - Shanghai Airport — official transport information: https://www.shanghaiairport.com/
 - Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
 

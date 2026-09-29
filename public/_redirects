@@ -4,5 +4,20 @@
 # One file per removed URL, 301 so search engines consolidate the signals onto
 # the surviving page instead of treating the old one as gone.
 
-# Merged into the 6/10-hour guide, which carries the stronger internal links.
-/guides/guangzhou-10-hour-layover/ /guides/guangzhou-6-10-hour-layover/ 301
+# --- Shanghai cluster consolidated into the Shanghai city guide ---
+/guides/pvg-8-hour-layover/ /guides/shanghai-layover-itinerary/ 301
+/guides/shanghai-layover-tours-worth-it/ /guides/shanghai-layover-itinerary/ 301
+
+# --- Guangzhou cluster consolidated into the Guangzhou city guide ---
+/guides/guangzhou-6-10-hour-layover/ /guides/guangzhou-layover-itinerary/ 301
+/guides/guangzhou-layover-tours-worth-it/ /guides/guangzhou-layover-itinerary/ 301
+/guides/baiyun-airport-to-city-centre/ /guides/guangzhou-layover-itinerary/ 301
+# Originally merged into the 6/10-hour guide; repointed so it does not chain.
+/guides/guangzhou-10-hour-layover/ /guides/guangzhou-layover-itinerary/ 301
+
+# --- "Can I leave the airport" folds into the national guide ---
+/guides/can-i-leave-pvg-airport-on-a-layover/ /guides/can-you-leave-the-airport-during-a-china-layover/ 301
+/guides/can-i-leave-guangzhou-baiyun-airport-on-a-layover/ /guides/can-you-leave-the-airport-during-a-china-layover/ 301
+
+# --- Airport luggage detail folds into the national luggage guide ---
+/guides/pvg-can-luggage-storage/ /guides/luggage-storage-at-china-airports/ 301

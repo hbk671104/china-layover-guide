@@ -22,7 +22,7 @@ const jsonLd = [
     headline: `${airport.name} (${code}) layover guide`,
     description: `How to use a layover at ${code}: transfer times to ${airport.city}, what fits in each window, luggage storage, and visa-free transit eligibility.`,
     image: `${siteUrl}/og-default.png`,
-    dateModified: new Date().toISOString(),
+    dateModified: new Date(airport.updated).toISOString(),
     author: {
       '@type': 'Organization',
       name: 'China Layover Guide',
@@ -104,6 +104,16 @@ const related = airports.filter((other) => other.code !== airport.code).slice(0,
           China Layover Guide editorial team
         </a>{' '}
         against official sources.
+      </p>
+      <p class="mt-2 text-sm text-slate-500">
+        Last reviewed{' '}
+        <time datetime={new Date(airport.updated).toISOString()}>
+          {new Date(airport.updated).toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+          })}
+        </time>
       </p>
     </header>
 
@@ -202,13 +212,8 @@ const related = airports.filter((other) => other.code !== airport.code).slice(0,
       <h2 class="text-2xl font-bold text-slate-900">Related guides</h2>
       <ul class="mt-4 space-y-2 text-sm">
         <li>
-          <a href="/guides/guangzhou-6-10-hour-layover/" class="text-[var(--color-brand)] hover:underline">
-            Guangzhou layover in 6 or 10 hours
-          </a>
-        </li>
-        <li>
-          <a href="/guides/guangzhou-layover-tours-worth-it/" class="text-[var(--color-brand)] hover:underline">
-            Guangzhou layover tours: worth it, and how to book
+          <a href="/guides/guangzhou-layover-itinerary/" class="text-[var(--color-brand)] hover:underline">
+            Things to do in Guangzhou on a layover
           </a>
         </li>
         <li>

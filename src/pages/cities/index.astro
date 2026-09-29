@@ -38,18 +38,19 @@ const jsonLd = [
 ---
 
 <BaseLayout
- title="City Quick Trips | China Layover Guide"
-  description="Fast, realistic layover routes for China's major cities: what to see, how to get there, and how long you need."
+  title="China Layover City Trips: What to Do in Your Window"
+  description="Twelve Chinese cities where long-haul flights stop: routes, transfer times, and the minimum layover each needs, plus 6, 8, 12, and 24-hour itineraries."
   canonicalPath="/cities/"
   jsonLd={jsonLd}
 >
   <header class="mx-auto max-w-5xl px-4 pt-12">
     <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
-      City quick trips
+      City trips that fit your layover window
     </h1>
     <p class="mt-4 max-w-2xl text-lg text-slate-600">
-      Realistic layover routes for the cities where most travelers land. Each guide assumes you
-      want to maximize a short stop, not tick every box.
+      Twelve cities where long-haul flights stop, each with a route, a transfer plan, and the minimum
+      layover it needs. For Beijing, Shanghai, Guangzhou, Chengdu, and Xi&rsquo;an there are
+      in-depth plans hour by hour.
     </p>
   </header>
 
@@ -78,7 +79,8 @@ const jsonLd = [
   <section class="mx-auto max-w-5xl px-4 pb-14">
     <h2 class="text-2xl font-bold text-slate-900">Layover itineraries by window</h2>
     <p class="mt-2 max-w-2xl text-slate-600">
-      Detailed 6, 8, 12, and 24-hour plans for the cities where most long-haul flights stop.
+      Detailed 6, 8, 12, and 24-hour plans for Beijing, Shanghai, Guangzhou, Chengdu, and Xi&rsquo;an,
+      each built around the return-to-airport buffer rather than the most sights.
     </p>
     <div class="mt-6">
       <GuideList guides={itineraries} />

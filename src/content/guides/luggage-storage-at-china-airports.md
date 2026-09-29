@@ -2,12 +2,14 @@
 title: "Luggage Storage at China's Airports: What It Costs and Where to Find It"
 description: "Where to leave your bags during a China layover, airport left-luggage, station lockers, hotel storage, and the option most travelers overlook."
 category: logistics
-updated: 2026-09-16
+updated: 2026-09-24
 sources:
   - label: "Beijing Capital International Airport — official site"
     url: "https://www.bcia.com.cn/"
   - label: "Shanghai Airport — official transport information"
     url: "https://www.shanghaiairport.com/"
+  - label: "Guangzhou Baiyun International Airport — official site"
+    url: "https://www.gbiac.net/"
 faqs:
   - question: "Can I store luggage at a Chinese airport during a layover?"
     answer: "Yes. Most major Chinese airports have left-luggage counters (行李寄存), usually costing around ¥15–30 per bag per day. You will need your passport and sometimes a baggage ticket."
@@ -45,6 +47,14 @@ Prices vary by airport and by bag size. Treat ¥15–30 as indicative and check 
 ## The option most travelers miss
 
 If you are hiring a **private driver**, for example for the [Great Wall from Beijing](/guides/great-wall-from-beijing-layover/) or the [Terracotta Army](/guides/xian-layover-itinerary/), the driver waits with the car. Your bags stay in the vehicle, you skip storage entirely, and you save 20–30 minutes at each end.
+
+## PVG and CAN: the airport-specific details
+
+The counters work the same way everywhere, but the risk at each airport is different, and it is mostly about the **return leg**.
+
+**Shanghai Pudong (PVG).** Counters sit in the arrivals and departures halls of both terminals, signed in English as "Left Luggage" or "Baggage Storage". Around **¥15–30 per bag per day**; bring your passport, and sometimes your onward ticket. The trap: the **Maglev stops around 21:40** and Metro Line 2 around **22:30**. If you are returning late, your trip back becomes a taxi or DiDi, which takes longer, so collect your bags earlier than you think you need to. PVG has two terminals connected by a walkway and the inter-terminal train, so confirm which terminal your onward flight departs from before you choose where to store. For the city side, see [things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/).
+
+**Guangzhou Baiyun (CAN).** Counters operate in the terminal, on the arrivals level. Around **¥15–30 per bag per day**; passport required. The trap: you are coming back on **Metro Line 3**, which takes 45–55 minutes, and with a 2.5-hour departure buffer that is most of your return leg. Budget the storage detour inside that time rather than on top of it. Baiyun operates two terminals, so check which one your flight uses, because the walk between them is not trivial. For the city side, see [things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/).
 
 ## What to keep with you
 

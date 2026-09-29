@@ -1,6 +1,6 @@
 ---
-title: "Alipay for Foreigners: Step-by-Step Setup with a Visa or Mastercard"
-description: "How to set up Alipay with a foreign card before you fly, identity verification, fees, spending limits, and why a small test payment matters."
+title: "Alipay in China for Foreigners: Step-by-Step Setup with a Visa or Mastercard"
+description: "How to set up Alipay in China with a foreign card before you fly, identity verification, fees, spending limits, and why a small test payment matters."
 category: payments
 updated: 2026-09-16
 sources:

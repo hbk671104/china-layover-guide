@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { airports } from '../data/airports';
 
 /**
  * Pages that carry no search value. Keeping them out of the sitemap stops
@@ -91,6 +92,14 @@ async function stampLastmod(options: {
 
       dates.set(`${prefix}${slug}/`, parsed.toISOString());
     }
+  }
+
+  // Data-driven pages carry no frontmatter, so their dates come from the
+  // module that renders them. Add a source here when a new one appears.
+  for (const airport of airports) {
+    const parsed = new Date(airport.updated);
+    if (Number.isNaN(parsed.getTime())) continue;
+    dates.set(`/airports/${airport.code}/`, parsed.toISOString());
   }
 
   const sitemapDir = path.join(outDir, 'sitemap-0.xml');

@@ -2,7 +2,7 @@
  * Payment recommendation matrix for foreign travelers in China.
  *
  * This is general guidance, not financial advice. Acceptance varies by
- * merchant and provider terms change. Review date: 2026-09-17.
+ * merchant and provider terms change. Review date: 2026-09-24.
  */
 
 export type CardBrand = 'visa' | 'mastercard' | 'amex' | 'discover' | 'none';
@@ -40,8 +40,8 @@ const baseSteps: Record<CardBrand, PaymentStep[]> = {
     },
     {
       app: 'TenPayGo',
-      action: 'Open TenPayGo and link your Visa card to pay offline via WeChat Pay.',
-      note: 'Built for foreign travelers; bridges Visa/Mastercard to offline WeChat Pay.',
+      action: 'Open TenPayGo, register with an email address (no Chinese phone number needed), then link your Visa card.',
+      note: 'Tencent app for visitors, launched September 2026. Pays over the WeChat Pay network; also accepts overseas wallets and Apple Pay.',
     },
     {
       app: 'Cash',
@@ -62,8 +62,8 @@ const baseSteps: Record<CardBrand, PaymentStep[]> = {
     },
     {
       app: 'TenPayGo',
-      action: 'Open TenPayGo and link your Mastercard for offline WeChat Pay.',
-      note: 'Specifically designed to bridge Mastercard to offline WeChat Pay.',
+      action: 'Open TenPayGo, register with an email address (no Chinese phone number needed), then link your Mastercard.',
+      note: 'Tencent app for visitors, launched September 2026. Pays over the WeChat Pay network; also accepts overseas wallets and Apple Pay.',
     },
     {
       app: 'Cash',
@@ -120,7 +120,7 @@ const androidNote =
  'Google Pay itself is not widely accepted offline in China. Use the Alipay/WeChat Pay apps instead, your linked card does the paying.';
 
 export const paymentMatrix: PaymentMatrix = {
-  lastReviewed: '2026-09-17',
+  lastReviewed: '2026-09-24',
   sourceUrl: 'https://www.tenpayglobal.com/',
   recommendations: {
     visa: {

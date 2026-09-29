@@ -1,6 +1,6 @@
 ---
-title: "eSIM vs VPN vs Roaming in China: Which Actually Works?"
-description: "Three ways to stay connected on a China layover: a travel eSIM, a VPN, or your home carrier's roaming. How they differ, what each costs, and which to pick."
+title: "VPN for China: eSIM vs VPN vs Roaming Compared"
+description: "Do you need a VPN for China? How a travel eSIM, a VPN, and home-carrier roaming compare on blocked apps, cost, and setup, and which to use on a layover."
 category: esim
 updated: 2026-09-16
 sources:

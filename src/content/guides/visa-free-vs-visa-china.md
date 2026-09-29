@@ -1,6 +1,6 @@
 ---
-title: "Visa-Free vs Visa: When You Actually Need a Chinese Visa"
-description: "If you don't qualify for visa-free entry or transit, you need a visa. Which visa type to choose, how long it takes, and what it costs."
+title: "Do You Need a Visa for China? Visa-Free Entry vs a Chinese Visa"
+description: "If you don't qualify for visa-free entry or transit, you need a visa. How to tell whether you need a Chinese visa, which type to choose, and what it costs."
 category: transit-visa
 updated: 2026-09-16
 sources:

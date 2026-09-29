@@ -2,7 +2,7 @@
 title: "Can I Leave the Airport During a China Layover?"
 description: "The honest answer to whether you can leave the airport on a China layover, visa rules, how long you need, and the golden rule for making it back to your flight."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-09-24
 sources:
   - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
@@ -19,7 +19,7 @@ faqs:
     answer: "You are responsible for it, and the airline is not obliged to rebook you for free. That is why the return buffer matters more than maximizing city time. Build in 2.5 hours before an international departure, and longer if you have bags to check."
 ---
 
-> This page was last reviewed on 2026-09-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
+> This page was last reviewed on 2026-09-24. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
 
 ## The short answer
 
@@ -80,6 +80,16 @@ Check the two lists. They overlap but aren't identical:
 
 If you're on the 30-day list, use that instead. It's simpler and lets you return to your origin country, unlike the transit rule. For the full comparison, see [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
 
+## What changes at specific airports
+
+The rules are national, but the timing math is airport-specific. Two of the busiest layover gateways:
+
+**Shanghai Pudong (PVG).** A designated port covering the **Shanghai municipality**. Immigration here is among the slowest of China's big gateways: an evening bank of long-haul arrivals can mean 60–90 minutes, and the visa-free transit lane is slower than the regular queue because officers check your itinerary by hand. The practical minimum to leave is about **7 hours**, and **8+** is comfortable. Two hard limits: the **Maglev stops around 21:40** and **Metro Line 2 around 22:30**, after which your return becomes a taxi or DiDi. PVG and Hongqiao (SHA) are about **70 km apart**, so a connection using both airports is a 1.5–2 hour transfer, not a sightseeing opportunity.
+
+**Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**.
+
+For what to actually do with your window once you are out, see the city guides in Related guides below.
+
 ## The three mistakes that ruin a city-visit layover
 
 1. **Forgetting the third-country rule.** London → Shanghai → London doesn't qualify. London → Shanghai → Tokyo does. This is the #1 reason travelers get denied.
@@ -94,13 +104,12 @@ Yes, for most eligible travelers on a China layover, you can absolutely leave th
 
 ## Related guides
 
-- [PVG 8-hour layover: what you can actually do](/guides/pvg-8-hour-layover/)
-- [Can I leave Shanghai Pudong Airport on a layover?](/guides/can-i-leave-pvg-airport-on-a-layover/)
-- [Shanghai layover tours: worth it, and how to book](/guides/shanghai-layover-tours-worth-it/)
-- [PVG & CAN luggage storage on a layover](/guides/pvg-can-luggage-storage/)
-- [Beijing layover: 6, 8, 12 and 24 hours](/guides/beijing-layover-itinerary/)
-- [Guangzhou layover: 6, 8, 12 and 24 hours](/guides/guangzhou-layover-itinerary/)
-- [Chengdu layover: pandas in 6, 8, 12 and 24 hours](/guides/chengdu-layover-itinerary/)
+- [Things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/)
+- [Things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/)
+- [Things to do in Beijing on a layover: 6, 8, 12 and 24 hours](/guides/beijing-layover-itinerary/)
+- [Things to do in Chengdu on a layover: pandas in 6, 8, 12 and 24 hours](/guides/chengdu-layover-itinerary/)
 - [Xi'an layover: Terracotta Army in 6, 8, 12 and 24 hours](/guides/xian-layover-itinerary/)
 - [Can you see the Great Wall on a Beijing layover?](/guides/great-wall-from-beijing-layover/)
+- [Do you need a visa for China?](/guides/visa-free-vs-visa-china/)
+- [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
 - [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)

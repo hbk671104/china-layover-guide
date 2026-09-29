@@ -2,7 +2,7 @@
  * Airport layover data for the city-pair / airport-pair content tier.
  *
  * IMPORTANT: transfer times, fares, and operating hours change. This is a
- * best-effort snapshot reviewed 2026-09-17 and MUST be verified against the
+ * best-effort snapshot reviewed 2026-09-29 and MUST be verified against the
  * airport's own transport page before relying on it.
  *
  * Every number here surfaces on /airports/<code>/ — keep it conservative.
@@ -48,6 +48,8 @@ export interface Airport {
     cost: string;
     location: string;
   };
+  /** ISO date this airport's data was last reviewed. Stamped into the sitemap. */
+  updated: string;
   /** Airport-specific traps worth a callout. */
   gotchas: string[];
 }
@@ -55,6 +57,7 @@ export interface Airport {
 export const airports: Airport[] = [
   {
     code: 'pvg',
+    updated: '2026-09-17',
     name: 'Shanghai Pudong International Airport',
     city: 'Shanghai',
     citySlug: 'shanghai',
@@ -137,6 +140,7 @@ export const airports: Airport[] = [
   },
   {
     code: 'can',
+    updated: '2026-09-17',
     name: 'Guangzhou Baiyun International Airport',
     city: 'Guangzhou',
     citySlug: 'guangzhou',
@@ -207,6 +211,7 @@ export const airports: Airport[] = [
   },
   {
     code: 'pek',
+    updated: '2026-09-17',
     name: 'Beijing Capital International Airport',
     city: 'Beijing',
     citySlug: 'beijing',
@@ -270,6 +275,7 @@ export const airports: Airport[] = [
   },
   {
     code: 'pkx',
+    updated: '2026-09-17',
     name: 'Beijing Daxing International Airport',
     city: 'Beijing',
     citySlug: 'beijing',
@@ -331,6 +337,7 @@ export const airports: Airport[] = [
   },
   {
     code: 'sha',
+    updated: '2026-09-17',
     name: 'Shanghai Hongqiao International Airport',
     city: 'Shanghai',
     citySlug: 'shanghai',
@@ -392,6 +399,7 @@ export const airports: Airport[] = [
   },
   {
     code: 'szx',
+    updated: '2026-09-29',
     name: "Shenzhen Bao'an International Airport",
     city: 'Shenzhen',
     citySlug: 'shenzhen',
@@ -445,12 +453,14 @@ export const airports: Airport[] = [
     },
     gotchas: [
       'Shenzhen sits on the Hong Kong border. If you plan to cross, check your visa or entry status for both sides.',
-   'The city is long and narrow, allow for distance between the bay, Futian, and the airport.',
+      'The city is long and narrow, allow for distance between the bay, Futian, and the airport.',
       'Line 11 is an express line; not every metro line reaches the airport directly.',
+      'Shenzhen Airlines runs a free transit hotel here for connections of 6–24 hours domestic or 6–36 hours with an international leg, but both segments must be operated by Shenzhen Airlines and it has to be booked in advance.',
     ],
   },
   {
     code: 'tfu',
+    updated: '2026-09-29',
     name: 'Chengdu Tianfu International Airport',
     city: 'Chengdu',
     citySlug: 'chengdu',
@@ -506,13 +516,15 @@ export const airports: Airport[] = [
       location: 'Left-luggage counters in the terminal; confirm the current location and hours at the airport.',
     },
     gotchas: [
-   'Landing after midday means you will miss the pandas, they sleep through the afternoon.',
+      'Landing after midday means you will miss the pandas, they sleep through the afternoon.',
       'Tianfu is far from the centre. Do not budget the same as for a close-in airport.',
       'Panda Base tickets are passport-linked and busy; book ahead.',
+      'Two airlines run a free transit hotel at Chengdu: Sichuan Airlines for ticket numbers starting 876, and Air China under its Transit Accommodation rules. Neither accepts a booking on the day, so claim it before you fly.',
     ],
   },
   {
     code: 'xiy',
+    updated: '2026-09-17',
     name: "Xi'an Xianyang International Airport",
     city: "Xi'an",
     citySlug: 'xian',

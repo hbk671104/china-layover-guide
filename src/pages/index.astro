@@ -4,80 +4,93 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const pillars = [
   {
     href: '/transit-visa/',
-    title: 'Transit visa',
-  description: "China's 240-hour visa-free transit policy, decoded, who qualifies and how to use it.",
+    title: 'Visa-free transit',
+    description:
+      'Do you even need a visa? Check 55 countries, 65 ports, and the third-country rule that decides most cases.',
   },
   {
     href: '/esim/',
-    title: 'eSIM setup',
-    description: 'Stay connected to the apps you already use. Set up an eSIM before you land.',
+    title: 'eSIM & connectivity',
+    description:
+      "Google Maps, WhatsApp, and Gmail stop working when you land. Install an eSIM before you fly and they keep working.",
   },
   {
     href: '/payments/',
     title: 'Payments',
-    description: 'Visa/Mastercard and Apple/Google Pay have limits here. Here\u2019s what actually works.',
+    description:
+      "Hotels and big stores take a Visa card; small shops and taxis don't. Link your card to Alipay or WeChat Pay first.",
   },
   {
     href: '/cities/',
     title: 'City trips',
-    description: 'Fast, realistic layover routes for the cities where most travelers land.',
+    description:
+      'Hour-by-hour plans for 12 Chinese cities, from a five-hour stop at Hongqiao to a full day in Beijing.',
   },
   {
     href: '/logistics/',
     title: 'Layover logistics',
-    description: 'Airport transfers, hotel registration, and the practical bits in between.',
+    description:
+      'Airport transfers, luggage storage, hotel registration, and the return buffer that decides whether you make your flight.',
   },
 ];
 
 const steps = [
   {
     title: 'Before you fly',
-    body: 'Install an eSIM, link your card to Alipay/WeChat Pay or TenPayGo, and save your onward ticket.',
+    body: 'Install an eSIM, add your card to Alipay or WeChat Pay, and save your onward ticket offline — the airline will ask for it at check-in.',
   },
   {
     title: 'At immigration',
-    body: 'Use the 240-hour visa-free transit lane with your passport, arrival card, and onward ticket.',
+    body: 'Use the 240-hour visa-free transit lane with your passport, arrival card, and onward ticket to a third country. The clock starts at 00:00 the day after you enter.',
   },
   {
     title: 'On the ground',
-  body: 'Follow a city route matched to your layover window, and pay with the QR code, not the card.',
+    body: 'Take the airport express or a DiDi, pay by QR code, and be back at the airport 2.5–3 hours before an international departure.',
   },
 ];
 ---
 
 <BaseLayout
- title="China Layover Guide | Make the most of your stopover"
-  description="Practical guides for foreign travelers on a layover in China: visa-free transit, eSIM setup, payments, and quick city trips."
+  title="China Layover Guide: Visa-Free Transit, eSIM & City Plans"
+  description="Leave the airport on your China layover. Check 240-hour visa-free transit eligibility, set up an eSIM, and get hour-by-hour plans for 12 cities."
 >
   <section class="bg-gradient-to-b from-red-50 to-white">
     <div class="mx-auto max-w-5xl px-4 py-16 sm:py-24">
-      <h1 class="max-w-3xl text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
+      <p class="text-sm font-semibold uppercase tracking-wide text-[var(--color-brand)]">
+        240-hour visa-free transit &middot; 55 countries &middot; 65 ports
+      </p>
+      <h1 class="mt-3 max-w-3xl text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
         Turn your China layover into a <span class="text-[var(--color-brand)]">real trip</span>.
       </h1>
       <p class="mt-6 max-w-2xl text-lg text-slate-600">
-        Practical, independent guides for foreign travelers on a short stopover in China:
-        visa-free transit rules, eSIM setup before you land, payments that actually work, and quick
-        city trips.
+        Passports from 55 countries &mdash; including the UK, US, Canada, Australia, New Zealand, and
+        every EU state &mdash; can exit the airport without a visa under the 240-hour transit policy.
+        Here&rsquo;s what it takes to walk out of the terminal and make it back for your flight.
       </p>
       <div class="mt-8 flex flex-wrap gap-3">
         <a
           href="/transit-visa/"
           class="rounded-lg bg-[var(--color-brand)] px-6 py-3 font-semibold text-white hover:bg-[var(--color-brand-dark)]"
         >
-          Check the transit rules
+          Check my visa-free eligibility
         </a>
         <a
-          href="/esim/"
+          href="/cities/"
           class="rounded-lg border border-slate-300 px-6 py-3 font-semibold text-slate-700 hover:border-[var(--color-brand)] hover:text-[var(--color-brand)]"
         >
-          Set up your eSIM
+          Browse city layover plans
         </a>
       </div>
+      <ul class="mt-8 grid max-w-3xl gap-2 text-sm text-slate-600 sm:grid-cols-3">
+        <li>55 countries, 65 ports, 240 hours &mdash; from official sources</li>
+        <li>Payment and eSIM guides tested on foreign cards</li>
+        <li>A last-updated date and sources on every page</li>
+      </ul>
     </div>
   </section>
 
   <section class="mx-auto max-w-5xl px-4 py-12">
-    <h2 class="text-2xl font-bold text-slate-900">Everything you need, in one place</h2>
+    <h2 class="text-2xl font-bold text-slate-900">The five things a layover depends on</h2>
     <ul class="mt-6 grid gap-4 sm:grid-cols-2">
       {
         pillars.map((pillar) => (

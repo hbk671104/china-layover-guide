@@ -1,6 +1,6 @@
 # China Layover Guide — Content Strategy
 
-Last updated: 2026-09-03
+Last updated: 2026-09-24
 
 ## Goal & assumptions
 
@@ -20,8 +20,56 @@ Last updated: 2026-09-03
 
 **Biggest gaps:**
 
-1. **Factual drift.** `src/data/visa-rules.ts` lists 54 countries (and the array only contains 48). The official NIA policy is **55 countries** (Indonesia added 2025-06-12), **65 designated ports** across **24 provinces**, with **cross-province travel allowed within the permitted areas** (NIA Policy Interpretation, 2025-07-04; earlier announcements cited 60 ports — verify against NIA before publishing). The ports list also needs to be complete.
+1. **Factual drift (resolved 2026-09-24).** `src/data/visa-rules.ts` now carries the official **55-country** list (Indonesia added 2025-06-12) and the **65 designated ports** across **24 provinces**, with **cross-province travel allowed within the permitted areas** (NIA Policy Interpretation, 2025-07-04). `visa-rules.test.ts` asserts the 55-country length and unique port ids; re-verify the port list against NIA periodically.
 2. **Thin coverage of the highest-intent searches.** Competitors rank with per-window itineraries ("Shanghai layover 6/8/12 hours") and decision content ("Can I leave the airport?"). This site has one route per city, not per layover window, and does not cover the **30-day visa-free entry vs 240-hour transit** distinction at all.
+
+## Keyword demand model (added 2026-09-24)
+
+Demand for this niche was re-measured with the Semrush API (SEO API v3). Two corrections to the original plan:
+
+**1. Semrush has no "global" volume.** It reports per-country databases, so "global" can only be a sum. Because one English page can rank across every English market, prioritize on the **Anglosphere sum (US + UK + CA + AU + IE + NZ)**, not US alone. Singapore and India are large secondary pools; treat them as upside, not the primary target.
+
+| Cluster | Anglosphere monthly volume | KD | Notes |
+|---|---|---|---|
+| alipay / wechat pay | ~35,000 | 57-59 | brand-dominated; long-term only |
+| shanghai airport (+ pudong) | ~23,700 | n/a | biggest winnable target; UK/AU/NZ all contribute |
+| china visa / visa free (+ countries) | ~27,000 | 43-56 | UK leads the "visa free" half |
+| vpn for china / best vpn for china | ~24,500 | 47 | US-led; a niche competitor ranks #3-5 |
+| things to do in shanghai / beijing | ~15,100 | 26 | Shanghai at KD 26 is the best single win |
+| esim china / china esim / best esim | ~13,300 | 26-47 | AU/NZ-weighted (AU is ~7x US per capita) |
+| china transit visa | ~2,100 | 28 | winnable, low volume |
+| **china layover / beijing layover** | **~200** | n/a | effectively zero in every market |
+
+**2. "Layover" is not a search term.** `china layover` is 0/month in the US, UK, Canada, and Australia, and ~190/month worldwide. The demand for this niche sits in the adjacent head terms above. Keep layover framing for long-tail and LLM discovery, but put the head term in the title, H1, and description.
+
+**Market note:** do not build separate UK/AU sites. One English page serves all six markets; the lever is nationality-aware copy (name UK, Australian, Canadian, and EU passport holders explicitly where the rules differ).
+
+### Revised priorities
+
+1. **VPN cluster** — retitle `/guides/esim-vs-vpn-vs-roaming/` onto "vpn for china" / "best vpn for china" (~24,500, KD 47).
+2. **City + airport head terms** — city itineraries onto "things to do in {city}"; PVG and Baiyun pages onto the airport names.
+3. **New "China visa-free countries" page** — UK-led, feeds the transit cluster.
+4. **eSIM** — consolidate the five eSIM pages onto the three head terms, AU/NZ-first.
+5. **Alipay / WeChat Pay** — retitle, but treat as long-term (KD 56-59, brand-dominated).
+6. **Transit cluster** (`china 240 hour visa free` KD 17, `china transit visa` KD 28) — keep as the topical-authority anchor.
+7. **Consolidate** the Shanghai and Guangzhou layover clusters. **Done 2026-09-24:** each city is now one guide that absorbs its N-hour page, its tours page, and its transfer detail; the two "can I leave `<airport>`" pages fold into the national guide, and `pvg-can-luggage-storage` folds into the national luggage guide.
+
+**Status:** 2026-09-24 — retitled 11 guides; added `/guides/china-visa-free-countries/`; consolidated the Shanghai and Guangzhou clusters from 5 guide pages each down to one city guide each. Eight URLs were removed and 301-redirected (`public/_redirects`), with their airport, transfer, and tours detail merged into the two city guides plus the national "can you leave the airport" and luggage-storage guides. Still open: a dedicated `shanghai airport` page.
+
+### GSC signal review (2026-09-29)
+
+Search Console impressions, by cluster. The important finding is that most of the demand GSC surfaced was already served — the gap was **query phrasing**, not missing pages.
+
+| Cluster | Queries (impressions) | Coverage before | Action taken |
+|---|---|---|---|
+| Airline layover hotel | `does china airlines provide hotel for long layover` (6), `china airlines free transit hotel` (4) | `/guides/china-airline-layover-hotel/` covered the three mainland carriers, but its title answered "Chinese airlines", not the literal "China Airlines" (the Taiwanese carrier, CI) | Retitled to the query; added the CI disambiguation table and a verified CI section (free **half-day tour** on 7–24 h Taipei transits, book 10–45 days ahead; "Discover Taiwan" is a **stopover** hotel, not a transit hotel) |
+| Airport / city | `layover in chengdu airport` (6), `shanghai layover tour` (5), `china airport to city` (4), `10 hour layover in guangzhou` (3) | All four already served: `/airports/tfu/`, the tours section of `/guides/shanghai-layover-itinerary/`, `/guides/china-airport-to-city-transfers/`, and the 10-hour plan in `/guides/guangzhou-layover-itinerary/` | Fixed the Guangzhou title, which advertised 6/8/12/24 and omitted the 10-hour plan the body actually contains |
+| Payments | `does apple pay work in china` (5), `does google pay work in china` (3) | `/guides/apple-pay-and-google-pay-in-china/` answers both verbatim in FAQ + short answer | None needed — already exact-match |
+| Tools | `google maps china` (4) | `/guides/does-google-maps-work-in-china/` had a two-app bullet list | Rebuilt as a map-app comparison table (Amap / Baidu / Apple Maps / Google) plus a "best map app for China" FAQ |
+
+**Decision recorded:** GSC is confirming existing pages rather than requesting new ones. Do **not** create a dedicated Shanghai tours page — the strategy consolidated `shanghai-layover-tours-worth-it` into the city guide on purpose, and a new page would cannibalise it. Strengthen the on-page section instead. Same logic for the Chengdu airport query: `/airports/tfu/` already owns it.
+
+**Open questions for the next pull:** whether `shanghai layover tour` deserves its own URL (only if the city guide's section fails to rank after 4–6 weeks), and whether the third-party carrier list (Hainan, Xiamen, Sichuan) is worth adding to the airline hotel guide.
 
 ## Content pillars
 
