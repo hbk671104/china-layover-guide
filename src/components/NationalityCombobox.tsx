@@ -151,7 +151,7 @@ export default function NationalityCombobox({
                     d="M2.5 8.5l3.5 3.5 7.5-8"
                     fill="none"
                     stroke="currentColor"
-                    strokeWidth="2"
+                    strokeWidth="1.8"
                     strokeLinecap="round"
                     strokeLinejoin="round"
                   />

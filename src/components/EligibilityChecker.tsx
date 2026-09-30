@@ -23,7 +23,7 @@ function StatusIcon({ status }: { status: EligibilityStatus }) {
           d="M2.5 8.5l3.5 3.5 7.5-8"
           fill="none"
           stroke="currentColor"
-          strokeWidth="2"
+          strokeWidth="1.8"
           strokeLinecap="round"
           strokeLinejoin="round"
         />
@@ -37,7 +37,7 @@ function StatusIcon({ status }: { status: EligibilityStatus }) {
           d="M4 4l8 8M12 4l-8 8"
           fill="none"
           stroke="currentColor"
-          strokeWidth="2"
+          strokeWidth="1.8"
           strokeLinecap="round"
         />
       </svg>
