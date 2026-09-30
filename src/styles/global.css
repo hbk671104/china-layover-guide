@@ -348,6 +348,25 @@
     letter-spacing: 0.01em;
     color: var(--color-ink);
   }
+
+  /*
+    A native select draws its arrow a couple of pixels inside the border, and that
+    position cannot be styled — only replaced. The drawn chevron sits 0.9rem off
+    the edge, with matching right padding so a long option never runs into it.
+  */
+  select.field {
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1.6 2.1 6 6.2l4.4-4.1' fill='none' stroke='%235e544c' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.9rem center;
+    background-size: 0.75rem 0.5rem;
+    padding-right: 2.5rem;
+  }
+
+  /* Keyboard focus keeps a visible ring on the chevron-less control. */
+  select.field:focus {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1.6 2.1 6 6.2l4.4-4.1' fill='none' stroke='%23b3251b' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  }
 }
 
 /* ---- Long-form prose, themed to the paper palette --------------------- */
