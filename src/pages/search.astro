@@ -1,0 +1,97 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HubHeader from '../components/HubHeader.astro';
+import SearchDialog from '../components/SearchDialog.tsx';
+import { airports } from '../data/airports';
+import { SITE_PAGES } from '../lib/search-index';
+
+const guides = await getCollection('guides');
+const cities = await getCollection('cities');
+
+/** Exactly what `/search-index.json` contains, so the count cannot overstate. */
+const indexedPages = guides.length + cities.length + airports.length + SITE_PAGES.length;
+
+const categoryMeta = [
+  { href: '/transit-visa/', label: 'Visa-free transit', detail: 'Who qualifies, which ports, which areas.', key: 'transit-visa' },
+  { href: '/cities/', label: 'City trips', detail: 'Twelve cities, routes, and minimum windows.', key: 'cities' },
+  { href: '/payments/', label: 'Payments and apps', detail: 'Alipay, WeChat Pay, and what still needs cash.', key: 'payments' },
+  { href: '/esim/', label: 'eSIM and connectivity', detail: 'Getting online before you land.', key: 'esim' },
+  { href: '/logistics/', label: 'Airport logistics', detail: 'Transfers, luggage, and hotel registration.', key: 'logistics' },
+] as const;
+
+const topics = categoryMeta.map((meta) => ({
+  href: meta.href,
+  label: meta.label,
+  detail: meta.detail,
+  count: guides.filter((guide) => guide.data.category === meta.key).length,
+}));
+
+/**
+ * The search index itself is a static file (`/search-index.json`), so this page
+ * adds no server work. It exists as the destination for the header trigger and
+ * as a shareable URL: the panel reads and writes `?q=`.
+ */
+const title = 'Search | China Layover Guide';
+const description =
+  'Search every China Layover Guide article: visa-free transit rules, eSIM setup, payments, airport transfers, and city layover itineraries.';
+
+const siteUrl = 'https://chinalayoverguide.com';
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: title,
+    description,
+    url: `${siteUrl}/search/`,
+    isPartOf: { '@type': 'WebSite', name: 'China Layover Guide', url: `${siteUrl}/` },
+  },
+];
+---
+
+<BaseLayout {title} {description} canonicalPath="/search/" jsonLd={jsonLd} noindex>
+  <HubHeader
+    eyebrow={`${indexedPages} pages indexed · searches offline in your browser`}
+    title="Search the guide"
+    lead="Type a city, an airport code, a payment app, or a question. Results come from every guide, city page, and airport page on the site."
+  />
+
+  <div class="mx-auto max-w-3xl px-4 py-10 sm:px-6 sm:py-12">
+    <SearchDialog client:load mode="inline" />
+    <p class="mt-4 text-sm leading-relaxed text-faint">
+      Search runs in your browser against a file downloaded once. Nothing you type is sent
+      anywhere.
+    </p>
+  </div>
+
+  <section class="mx-auto max-w-6xl px-4 pb-16 sm:px-6" aria-labelledby="browse-topics">
+    <h2 id="browse-topics" class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink">
+      Browse by topic
+    </h2>
+    <ul class="mt-6 grid gap-x-10 border-t border-line md:grid-cols-2">
+      {
+        [
+          ...topics,
+          {
+            href: '/guides/',
+            label: 'Every guide',
+            detail: 'The full, dated list, newest first.',
+            count: guides.length,
+          },
+        ].map((topic) => (
+          <li>
+            <a href={topic.href} class="index-row group">
+              <span class="index-title flex items-baseline justify-between gap-4 font-display text-xl font-semibold tracking-[-0.015em] text-ink">
+                {topic.label}
+                <span class="shrink-0 text-xs font-semibold text-faint tabular-nums">
+                  {topic.count}
+                </span>
+              </span>
+              <span class="mt-1.5 text-[0.95rem] leading-relaxed text-muted">{topic.detail}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</BaseLayout>

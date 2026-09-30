@@ -225,6 +225,22 @@
     text-decoration-color: var(--color-brand);
   }
 
+  /* ---- Search result match ------------------------------------------- */
+  /*
+    A tinted background vanishes on the highlighted row (its own background is
+    already brand-tint), so a match is marked with the accent underline used by
+    every other link on the site.
+  */
+  .search-hit {
+    background-color: transparent;
+    color: var(--color-brand-ink);
+    font-weight: 600;
+    text-decoration-line: underline;
+    text-decoration-color: var(--color-brand);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
+  }
+
   /* ---- Small caps label ---------------------------------------------- */
   .eyebrow {
     font-family: var(--font-sans);

@@ -7,9 +7,10 @@ import { airports } from '../data/airports';
 
 /**
  * Pages that carry no search value. Keeping them out of the sitemap stops
- * Google from spending crawl budget on boilerplate.
+ * Google from spending crawl budget on boilerplate. `/search/` is here because
+ * it is `noindex`: listing it would contradict the page's own directive.
  */
-const EXCLUDED_PATHS = ['/privacy/', '/terms/'];
+const EXCLUDED_PATHS = ['/privacy/', '/terms/', '/search/'];
 
 /**
  * Content collections mapped to their public URL prefixes, so a page can

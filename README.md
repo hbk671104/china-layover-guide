@@ -29,8 +29,9 @@ token change rather than a class-by-class sweep:
 | `--radius-*`, `--shadow-*`, `--ease-*`, `--z-*` | Tight radii inside, softer on containers; one top-left light source; named z-index scale. |
 | `dot-grid` / `route-arcs` / `ambient-warm` | Texture utilities. Background imagery is drawn in CSS/SVG, so no page depends on a third-party image host. |
 
-Reusable classes (`btn`, `panel`, `index-row`, `field`, `eyebrow`, `link`, `skip-link`) are defined in the
-same file under `@layer components` — prefer them over re-styling the same pattern inline.
+Reusable classes (`btn`, `panel`, `index-row`, `field`, `eyebrow`, `link`, `search-hit`,
+`skip-link`) are defined in the same file under `@layer components` — prefer them over
+re-styling the same pattern inline.
 
 Fraunces swaps in a decorative ampersand above ~22px when optical sizing is automatic, so headings pin
 `font-variation-settings: 'opsz' 20`. Keep that if you change heading styles.
@@ -42,6 +43,30 @@ Fraunces swaps in a decorative ampersand above ~22px when optical sizing is auto
 - Rule data for the interactive widgets: `src/data/visa-rules.ts` and `src/data/payment-matrix.ts`
 
 Every factual page carries a `Last updated` date and `Sources`. **Verify immigration and payment facts against official sources before publishing changes.**
+
+## Search
+
+Two entry points, one island (`src/components/SearchDialog.tsx`):
+
+- the header trigger on every page — a real link to `/search/`, intercepted after
+  hydration to open a modal panel, also reachable with `/` or `⌘/Ctrl+K`;
+- `/search/` (`src/pages/search.astro`), which renders the same panel inline,
+  reads the query from `?q=`, and writes it back with `replaceState`.
+
+Ranking runs in the browser against `/search-index.json`, a static file prerendered
+by `src/pages/search-index.json.ts` — no search service, no function invocation,
+and no third-party request. The index is fetched on first demand, never on page
+load, so it costs nothing on a normal page view.
+
+| Piece | Where |
+|---|---|
+| Documents | `buildSearchDocs()` in `src/lib/search-index.ts`: the `guides` and `cities` collections, `src/data/airports.ts`, plus the hand-listed hub pages. |
+| Ranking | `search()` in `src/lib/search.ts` — word-boundary title/keyword/heading/description/body weights, an IDF-weighted topicality term, and a decaying recency tiebreak. Covered by `src/lib/search.test.ts`. |
+| Match highlighting | `splitHighlights()` + the `.search-hit` class in `global.css`. |
+
+Add a hub page to `SITE_PAGES` in `src/lib/search-index.ts` when a new top-level
+page appears; content pages are picked up automatically. The request is not
+indexed by search engines (`noindex`, and `/search/` is excluded from the sitemap).
 
 ## Deploy to Cloudflare Pages
 

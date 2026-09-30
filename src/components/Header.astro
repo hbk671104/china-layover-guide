@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import SearchDialog from './SearchDialog';
 
 const guideCount = (await getCollection('guides')).length;
 
@@ -71,66 +72,109 @@ const linkClass = (href: string) =>
       </ul>
     </nav>
 
-    <details class="group relative md:hidden" data-mobile-menu>
-      <summary
-        class="flex cursor-pointer list-none items-center gap-2 rounded-sm border border-line-strong bg-surface px-3 py-2 text-sm font-semibold text-ink transition-colors duration-200 hover:border-brand hover:text-brand [&::-webkit-details-marker]:hidden"
-      >
-        <svg viewBox="0 0 20 20" class="h-4 w-4" fill="none" aria-hidden="true">
-          <path
-            d="M3 6h14M3 10h14M3 14h14"
-            stroke="currentColor"
-            stroke-width="1.8"
-            stroke-linecap="round"></path>
-        </svg>
-        Sections
-      </summary>
-      <nav
-        aria-label="Main navigation"
-        class="absolute right-0 z-50 mt-2 w-[min(20rem,calc(100vw-2rem))] rounded-card border border-line bg-surface p-2 shadow-lift"
-      >
-        <ul>
-          {
-            links.map((link) => (
-              <li>
-                <a
-                  href={link.href}
-                  class:list={[
-                    'flex items-baseline justify-between gap-3 rounded-sm px-3 py-2.5 text-[0.95rem] transition-colors duration-200',
-                    isActive(link.href)
-                      ? 'bg-brand-tint font-semibold text-brand-ink'
-                      : 'text-body hover:bg-surface-2 hover:text-brand',
-                  ]}
-                  aria-current={isActive(link.href) ? 'page' : undefined}
-                >
-                  {link.label}
-                  <span class="text-xs text-faint">→</span>
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-        <a
-          href="/guides/"
-          class="mt-1 block rounded-sm bg-ink px-3 py-2.5 text-[0.95rem] font-semibold text-paper transition-colors duration-200 hover:bg-brand"
+    <div class="flex shrink-0 items-center gap-2">
+      {/*
+        A single island: the trigger is server-rendered as a real link to
+        /search/, so it still works before hydration and without JavaScript.
+      */}
+      <div class="hidden sm:block">
+        <SearchDialog client:idle />
+      </div>
+
+      <details class="group relative md:hidden" data-mobile-menu>
+        <summary
+          class="flex cursor-pointer list-none items-center gap-2 rounded-sm border border-line-strong bg-surface px-3 py-2 text-sm font-semibold text-ink transition-colors duration-200 hover:border-brand hover:text-brand [&::-webkit-details-marker]:hidden"
         >
-          All {guideCount} guides
-        </a>
-      </nav>
-    </details>
+          <svg viewBox="0 0 20 20" class="h-4 w-4" fill="none" aria-hidden="true">
+            <path
+              d="M3 6h14M3 10h14M3 14h14"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"></path>
+          </svg>
+          Sections
+        </summary>
+        <nav
+          aria-label="Main navigation"
+          class="absolute right-0 z-50 mt-2 w-[min(20rem,calc(100vw-2rem))] rounded-card border border-line bg-surface p-2 shadow-lift"
+        >
+          {/*
+            The bar's search button starts at `sm`; below that this row is the
+            only way in, so it must not live behind the same breakpoint.
+          */}
+          <a
+            href="/search/"
+            class="mb-1 flex items-center gap-2.5 rounded-sm border border-line-strong px-3 py-2.5 text-[0.95rem] text-body transition-colors duration-200 hover:border-brand hover:text-brand sm:hidden"
+          >
+            <svg viewBox="0 0 20 20" class="h-4 w-4 shrink-0" fill="none" aria-hidden="true">
+              <circle cx="8.6" cy="8.6" r="5.4" stroke="currentColor" stroke-width="1.8"></circle>
+              <path
+                d="M12.7 12.7 17 17"
+                stroke="currentColor"
+                stroke-width="1.8"
+                stroke-linecap="round"></path>
+            </svg>
+            Search the site
+          </a>
+          <ul>
+            {
+              links.map((link) => (
+                <li>
+                  <a
+                    href={link.href}
+                    class:list={[
+                      'flex items-baseline justify-between gap-3 rounded-sm px-3 py-2.5 text-[0.95rem] transition-colors duration-200',
+                      isActive(link.href)
+                        ? 'bg-brand-tint font-semibold text-brand-ink'
+                        : 'text-body hover:bg-surface-2 hover:text-brand',
+                    ]}
+                    aria-current={isActive(link.href) ? 'page' : undefined}
+                  >
+                    {link.label}
+                    <span class="text-xs text-faint">→</span>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+          <a
+            href="/guides/"
+            class="mt-1 block rounded-sm bg-ink px-3 py-2.5 text-[0.95rem] font-semibold text-paper transition-colors duration-200 hover:bg-brand"
+          >
+            All {guideCount} guides
+          </a>
+        </nav>
+      </details>
+    </div>
   </div>
 </header>
 
 <script>
-  // A <details> menu stays open when the reader taps elsewhere or presses Escape.
-  const menu = document.querySelector<HTMLDetailsElement>('[data-mobile-menu]');
-  if (menu) {
+  /*
+    A <details> menu stays open when the reader taps elsewhere or presses Escape.
+
+    With the client router the header is replaced on every navigation, but this
+    script may run again for each swapped page. So the listeners resolve the
+    current menu node when they fire instead of capturing it, and the guard lives
+    on `window` — a module-scoped flag would reset on every re-run.
+  */
+  const state = window as Window & { __headerMenuBound?: boolean };
+
+  if (!state.__headerMenuBound) {
+    state.__headerMenuBound = true;
+
+    const menu = () => document.querySelector<HTMLDetailsElement>('[data-mobile-menu]');
+
     document.addEventListener('click', (event) => {
-      if (menu.open && !menu.contains(event.target as Node)) menu.open = false;
+      const element = menu();
+      if (element?.open && !element.contains(event.target as Node)) element.open = false;
     });
+
     document.addEventListener('keydown', (event) => {
-      if (event.key === 'Escape' && menu.open) {
-        menu.open = false;
-        menu.querySelector('summary')?.focus();
+      const element = menu();
+      if (event.key === 'Escape' && element?.open) {
+        element.open = false;
+        element.querySelector('summary')?.focus();
       }
     });
   }
