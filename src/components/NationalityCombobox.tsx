@@ -123,8 +123,8 @@ export default function NationalityCombobox({
             <li className="px-3.5 py-3">
               <p className="text-sm font-semibold text-ink">No country matches that spelling.</p>
               <p className="mt-1 text-xs leading-relaxed text-muted">
-                Keep typing, or use the closest match. An unrecognized entry still gets checked —
-                we just answer conservatively.
+                Keep typing, or use the closest match. An unrecognized entry still gets checked. We
+                just answer conservatively.
               </p>
             </li>
           )}

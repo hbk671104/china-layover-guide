@@ -2,7 +2,7 @@
 city: Xi'an
 region: Northwest China
 bestFor: "Terracotta Army, city wall, Silk Road history"
-layoverWindow: "10+ hours — the Terracotta Army is an hour outside town"
+layoverWindow: "10+ hours: the Terracotta Army is an hour outside town"
 attractions:
   - "Terracotta Army"
   - "Xi'an City Wall"

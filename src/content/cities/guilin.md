@@ -2,7 +2,7 @@
 city: Guilin
 region: South China
 bestFor: "Karst mountains, Li River scenery, the classic China landscape"
-layoverWindow: "10+ hours — the airport is out of town and the scenery needs time"
+layoverWindow: "10+ hours: the airport is out of town and the scenery needs time"
 attractions:
   - "Li River cruise"
   - "Reed Flute Cave"
@@ -11,7 +11,7 @@ attractions:
   - "Yangshuo (longer layovers)"
 route: "Airport bus or taxi from Liangjiang Airport → Elephant Trunk Hill → Reed Flute Cave → Two Rivers and Four Lakes at night → back to KWL"
 transportTips: "Guilin Liangjiang Airport (KWL) is roughly 30–45 minutes from the city by airport bus or taxi. The classic Li River cruise departs in the morning and takes several hours, so it only fits a long stopover or if you are staying overnight."
-eSimTip: "Activate your eSIM before landing — maps and translation matter more here, where signage is less English-friendly."
+eSimTip: "Activate your eSIM before landing. Maps and translation matter more here, where signage is less English-friendly."
 paymentTip: "Scenic-area vendors and small restaurants are QR-only; set up Alipay or WeChat Pay with a foreign card before you fly."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Guilin"
 updated: 2026-09-16

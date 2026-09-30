@@ -2,7 +2,7 @@
 city: Nanjing
 region: East China
 bestFor: "Ming history, city walls, one hour from Shanghai by rail"
-layoverWindow: "8–10 hours — the airport is about 40–50 minutes out"
+layoverWindow: "8–10 hours: the airport is about 40–50 minutes out"
 attractions:
   - "Sun Yat-sen Mausoleum"
   - "Ming Xiaoling Mausoleum"
@@ -12,7 +12,7 @@ attractions:
 route: "Metro S1 from Lukou Airport to Nanjing South → metro to the city → Ming Xiaoling and Sun Yat-sen Mausoleum → City Wall → Confucius Temple → back to NKG"
 transportTips: "Nanjing Lukou Airport (NKG) connects via Metro S1 to Nanjing South station, about 40–50 minutes, where you can transfer to the city network. Nanjing is also about an hour from Shanghai by high-speed rail, so it works as a day trip from a Shanghai stopover."
 eSimTip: "Install your eSIM before landing; airport Wi-Fi requires SMS verification."
-paymentTip: "Nanjing's food streets and small restaurants are QR-only — set up Alipay or WeChat Pay before you travel."
+paymentTip: "Nanjing's food streets and small restaurants are QR-only. Set up Alipay or WeChat Pay before you travel."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Nanjing"
 updated: 2026-09-16
 ---

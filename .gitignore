@@ -19,3 +19,6 @@ reasonix.toml
 
 # local secrets (IndexNow key source, etc.)
 .secrets/
+
+# Python bytecode from the maintenance scripts in scripts/
+__pycache__/

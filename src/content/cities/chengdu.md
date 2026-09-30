@@ -2,14 +2,14 @@
 city: Chengdu
 region: Southwest China
 bestFor: "Giant pandas, teahouses, Sichuan food"
-layoverWindow: "10+ hours — the panda base is outside the center"
+layoverWindow: "10+ hours: the panda base is outside the center"
 attractions:
   - "Chengdu Panda Base"
   - "People's Park"
   - "Jinli Street"
   - "Kuanzhai Alley"
 route: "Tianfu Airport Metro Line 18/1 → Panda Base (morning) → People's Park teahouse → Jinli Street → back to airport"
-transportTips: "Tianfu Airport (TFU) is far — about an hour to the center. The metro is modern and fast, but a taxi/ride-hail saves time if you're heading straight to the panda base."
+transportTips: "Tianfu Airport (TFU) is far: about an hour to the center. The metro is modern and fast, but a taxi/ride-hail saves time if you're heading straight to the panda base."
 eSimTip: "Set up your eSIM before landing; roaming data keeps Google Maps and WhatsApp working normally."
 paymentTip: "Street food and teahouses are QR-only; Alipay/WeChat Pay with your foreign card is essential."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Chengdu+China"

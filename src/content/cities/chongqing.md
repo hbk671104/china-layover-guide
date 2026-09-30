@@ -2,7 +2,7 @@
 city: Chongqing
 region: Southwest China
 bestFor: "Cyberpunk skyline, dramatic hillside geography, hotpot"
-layoverWindow: "8+ hours — the city center is a straightforward metro ride from CKG"
+layoverWindow: "8+ hours: the city center is a straightforward metro ride from CKG"
 attractions:
   - "Hongyadong"
   - "Liziba monorail viewpoint"
@@ -11,7 +11,7 @@ attractions:
   - "Jiefangbei"
 route: "Metro Line 10 from Jiangbei Airport to Jiefangbei → Liziba monorail viewpoint → Yangtze River Cableway → Hongyadong at night → back to CKG"
 transportTips: "Chongqing Jiangbei Airport (CKG) connects to the center on Metro Line 10, about 40–50 minutes to Jiefangbei. DiDi is affordable and often quicker given the city's hills and traffic."
-eSimTip: "Install and activate your eSIM before landing so maps and translation work immediately — Chongqing's street levels are hard to navigate without them."
+eSimTip: "Install and activate your eSIM before landing so maps and translation work immediately. Chongqing's street levels are hard to navigate without them."
 paymentTip: "Hotpot restaurants and night-market stalls are QR-only; set up Alipay or WeChat Pay with a foreign card before you fly."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Chongqing"
 updated: 2026-09-16

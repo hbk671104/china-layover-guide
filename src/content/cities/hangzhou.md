@@ -1,8 +1,8 @@
 ---
 city: Hangzhou
 region: East China
-bestFor: "West Lake, tea culture, temples — one hour from Shanghai by train"
-layoverWindow: "8–10 hours — West Lake is the draw, and the city is compact"
+bestFor: "West Lake, tea culture, temples: one hour from Shanghai by train"
+layoverWindow: "8–10 hours: West Lake is the draw, and the city is compact"
 attractions:
   - "West Lake"
   - "Lingyin Temple"
@@ -12,7 +12,7 @@ attractions:
 route: "Metro or airport bus from Xiaoshan Airport → West Lake (broken bridge and Su Causeway) → Lingyin Temple → Longjing tea village → back to HGH"
 transportTips: "Hangzhou Xiaoshan Airport (HGH) links to the city by metro and airport buses, roughly 45–60 minutes depending on traffic. High-speed rail from Shanghai Hongqiao takes about an hour, which makes Hangzhou an easy add-on to a Shanghai layover."
 eSimTip: "Set up your eSIM before departure; Hangzhou's airport Wi-Fi needs SMS verification like the rest of China."
-paymentTip: "Tea houses and street vendors are QR-only — have Alipay or WeChat Pay ready with a foreign card linked."
+paymentTip: "Tea houses and street vendors are QR-only. Have Alipay or WeChat Pay ready with a foreign card linked."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Hangzhou"
 updated: 2026-09-16
 ---

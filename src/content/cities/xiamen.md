@@ -2,7 +2,7 @@
 city: Xiamen
 region: Southeast Coast
 bestFor: "Colonial island charm, seafood, relaxed pace"
-layoverWindow: "8+ hours — the island is close to the airport"
+layoverWindow: "8+ hours: the island is close to the airport"
 attractions:
   - "Gulangyu Island"
   - "Nanputuo Temple"
@@ -10,8 +10,8 @@ attractions:
   - "Xiamen University"
   - "Zengcuoan Village"
 route: "Metro Line 1 or taxi from Gaoqi Airport → Zhongshan Road → ferry to Gulangyu Island → Nanputuo Temple → back to XMN"
-transportTips: "Xiamen Gaoqi Airport (XMN) is close to the city — about 20–30 minutes by metro or taxi. The ferry to Gulangyu departs from the Zhongshan Road area; buy tickets in advance and arrive early, as daily visitor numbers are capped."
-eSimTip: "Install and activate your eSIM before landing — airport Wi-Fi needs an SMS code and roaming SMS is unreliable."
+transportTips: "Xiamen Gaoqi Airport (XMN) is close to the city: about 20–30 minutes by metro or taxi. The ferry to Gulangyu departs from the Zhongshan Road area; buy tickets in advance and arrive early, as daily visitor numbers are capped."
+eSimTip: "Install and activate your eSIM before landing. Airport Wi-Fi needs an SMS code and roaming SMS is unreliable."
 paymentTip: "Seafood stalls and island shops are QR-only: set up Alipay or WeChat Pay with a foreign card before you fly."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Xiamen"
 updated: 2026-09-16

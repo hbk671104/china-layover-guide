@@ -42,12 +42,12 @@ const ogImage = new URL(image, site).href;
 <meta property="og:image" content={ogImage} />
 <meta property="og:image:width" content="1500" />
 <meta property="og:image:height" content="788" />
-<meta property="og:image:alt" content={`${siteName} — ${title}`} />
+<meta property="og:image:alt" content={`${siteName}: ${title}`} />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={title} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={ogImage} />
-<meta name="twitter:image:alt" content={`${siteName} — ${title}`} />
+<meta name="twitter:image:alt" content={`${siteName}: ${title}`} />
 {
   jsonLd.map((block) => (
     <script type="application/ld+json" is:inline set:html={JSON.stringify(block)} />

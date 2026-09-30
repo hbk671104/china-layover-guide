@@ -60,7 +60,7 @@ faqs:
 Two different airlines sit behind this question, and they give different answers.
 
 - **China Airlines** (the Taiwanese carrier, IATA code CI) does **not** publish a free transit hotel for an ordinary long connection. At Taipei it gives transit passengers a **free half-day tour** instead, and separately sells a **free stopover hotel** that you book as part of the itinerary.
-- **Air China, China Eastern and China Southern** — the three mainland carriers — all run **free transit hotel** schemes for qualifying connections. They are genuinely free rather than discounted, but stricter than most travelers expect.
+- **Air China, China Eastern and China Southern**, the three mainland carriers, all run **free transit hotel** schemes for qualifying connections. They are genuinely free rather than discounted, but stricter than most travelers expect.
 
 For the mainland three, the single most common reason people get refused is that their connection does not sit on **one through-ticket**. Separate tickets, even on the same airline, disqualify you.
 
@@ -80,7 +80,7 @@ The two names are one word apart and constantly confused, so it is worth being s
 | Main hub | Taipei Taoyuan (TPE) | Beijing Capital (PEK) and Daxing (PKX) |
 | What a long layover gets you | A free half-day tour | A free transit hotel |
 
-If you are flying **into mainland China**, your answer is the Air China, China Eastern or China Southern rules below. If you are **transiting Taipei**, read the China Airlines section next — and note that mainland China's 240-hour visa-free transit does not apply to a Taipei transit, because Taiwan runs its own entry rules.
+If you are flying **into mainland China**, your answer is the Air China, China Eastern or China Southern rules below. If you are **transiting Taipei**, read the China Airlines section next, and note that mainland China's 240-hour visa-free transit does not apply to a Taipei transit, because Taiwan runs its own entry rules.
 
 ## China Airlines (Taiwan): a free tour, not a free hotel
 
@@ -93,7 +93,7 @@ If you are flying **into mainland China**, your answer is the Air China, China E
 
 Registration runs through the [Taiwan Tourism Administration](https://halfdaytour.taiwan.net.tw/) and the terms are on [China Airlines' own tour page](https://flights.china-airlines.com/en-tw/twn_halfday_tour).
 
-**So where is the hotel?** China Airlines publishes a Taipei **stopover** hotel programme, "Discover Taiwan", on its own site. Read that as a stopover product: you build the stopover into the itinerary when you book, rather than collecting a hotel because your connection happens to be long. Terms are on the [China Airlines stopover page](https://taipeistopover.service.china-airlines.com/). Confirm them with the airline before you book — unlike the mainland transit hotels below, stopover promotions have come and gone over the years.
+**So where is the hotel?** China Airlines publishes a Taipei **stopover** hotel programme, "Discover Taiwan", on its own site. Read that as a stopover product: you build the stopover into the itinerary when you book, rather than collecting a hotel because your connection happens to be long. Terms are on the [China Airlines stopover page](https://taipeistopover.service.china-airlines.com/). Confirm them with the airline before you book, unlike the mainland transit hotels below, stopover promotions have come and gone over the years.
 
 **Do not assume the mainland rules transfer.** If your itinerary touches both Taiwan and the mainland, check each side separately. Taiwan's visa-exempt entry and mainland China's [240-hour visa-free transit](/transit-visa/) are unrelated schemes with different country lists.
 
@@ -174,12 +174,12 @@ The three majors are not the only carriers that do this, and on some of the othe
 
 A few details worth knowing:
 
-- **Sichuan Airlines has the widest window** — up to 240 hours if your itinerary touches an international leg — and it states plainly that the hotel was never bundled into your fare and you pay nothing for it. If you are connecting through Chengdu, see the [TFU layover guide](/airports/tfu/). Chengdu's two airports are both covered, and a dual-airport transit can pick a hotel at either.
+- **Sichuan Airlines has the widest window**, up to 240 hours if your itinerary touches an international leg, and it states plainly that the hotel was never bundled into your fare and you pay nothing for it. If you are connecting through Chengdu, see the [TFU layover guide](/airports/tfu/). Chengdu's two airports are both covered, and a dual-airport transit can pick a hotel at either.
 - **Hainan's free night is an airport hotel**: one standard room for two people for one night, with a ¥200 supplement for single occupancy, subject to availability in peak season.
 - **Xiamen's hotel is landside.** International-to-international passengers have to complete temporary entry formalities at the airport before they can reach it, so you cannot stay airside. Xiamen's English-language page still carries a 2023 expiry date; the live rule took effect on 10 January 2025.
 - **A single room usually costs extra.** Xiamen assigns economy passengers two to a standard room, with a supplement of around ¥175–180 for single occupancy. China Southern works the same way.
 
-**And the carriers that do not:** Juneyao and Spring Airlines publish no free transit hotel of their own. Spring's page lists free meals and rooms at several airports, but they are **airport** schemes rather than airline products, each with its own booking channel and deadline — useful if you are flying Spring, but not something the airline will arrange for you.
+**And the carriers that do not:** Juneyao and Spring Airlines publish no free transit hotel of their own. Spring's page lists free meals and rooms at several airports, but they are **airport** schemes rather than airline products, each with its own booking channel and deadline: useful if you are flying Spring, but not something the airline will arrange for you.
 
 ## If you don't qualify
 
@@ -204,7 +204,7 @@ If your layover is short enough that a hotel is overkill but long enough to be t
 
 ## Bottom line
 
-Check which airline you actually booked. **China Airlines** (Taiwan, CI) gives a free half-day tour on a 7–24 hour Taipei layover, not a free hotel. The three mainland carriers — **Air China, China Eastern and China Southern** — do give a free transit hotel, and China Southern is the most generous of the majors in practice because ordinary economy fares qualify. Smaller carriers can be more generous still: Sichuan Airlines covers connections of up to 240 hours out of Chengdu.
+Check which airline you actually booked. **China Airlines** (Taiwan, CI) gives a free half-day tour on a 7–24 hour Taipei layover, not a free hotel. The three mainland carriers (**Air China, China Eastern and China Southern**) do give a free transit hotel, and China Southern is the most generous of the majors in practice because ordinary economy fares qualify. Smaller carriers can be more generous still: Sichuan Airlines covers connections of up to 240 hours out of Chengdu.
 
 The catch is never the hotel. It's the paperwork: one through-ticket, a qualifying booking class, the right transit window, and a booking made before you fly rather than at the counter.
 

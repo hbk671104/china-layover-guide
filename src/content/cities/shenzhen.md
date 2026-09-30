@@ -2,7 +2,7 @@
 city: Shenzhen
 region: South China
 bestFor: "Modern skyline, tech markets, easy Hong Kong border access"
-layoverWindow: "8+ hours — the airport is close to the city by metro"
+layoverWindow: "8+ hours: the airport is close to the city by metro"
 attractions:
   - "Ping An Finance Centre"
   - "OCT Loft Creative Culture Park"
@@ -11,7 +11,7 @@ attractions:
   - "Dongmen pedestrian street"
 route: "Metro Line 11 from Bao'an Airport to Futian → Ping An Finance Centre observation deck → OCT Loft → Shenzhen Bay or Dongmen → back to SZX on Line 11"
 transportTips: "Shenzhen Bao'an Airport (SZX) connects to the city on Metro Line 11, about 30–50 minutes to Futian and Chegongmiao. The metro is modern, cheap, and signed in English. Taxis and DiDi are fine but slower in rush hour."
-eSimTip: "Install an eSIM before landing — China's network blocks Google, WhatsApp, and Instagram, and airport Wi-Fi needs an SMS code."
+eSimTip: "Install an eSIM before landing. China's network blocks Google, WhatsApp, and Instagram, and airport Wi-Fi needs an SMS code."
 paymentTip: "Shenzhen is fully QR-based: set up Alipay and WeChat Pay with a foreign card before you land. Cash works but is rarely convenient."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Shenzhen"
 updated: 2026-09-16

@@ -13,7 +13,7 @@ faqs:
     answer: "Yes, with 8 hours or more and a morning arrival. The Chengdu Panda Base is outside the center and pandas are most active before 10am, so an early landing matters more than total layover length."
   - question: "How far is Chengdu Tianfu Airport from the city?"
     answer: "Tianfu (TFU) is roughly 35–40 minutes from the center on Metro Line 18, costing about ¥7–10. The older Shuangliu (CTU) airport is closer, on Line 10."
-  - question: "What if I land in the afternoon — can I still see pandas?"
+  - question: "What if I land in the afternoon, can I still see pandas?"
     answer: "Realistically no. Pandas sleep through the afternoon. If you land late, swap the panda base for People's Park, Jinli Street, or Kuanzhai Alley and Sichuan food."
   - question: "What food is Chengdu known for?"
     answer: "Sichuan cuisine: hotpot with numbing Sichuan peppercorn, mapo tofu, dan dan noodles, and cold dishes in chilli oil. Chengdu is a UNESCO City of Gastronomy."

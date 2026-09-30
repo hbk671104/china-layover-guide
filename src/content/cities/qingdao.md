@@ -2,7 +2,7 @@
 city: Qingdao
 region: East Coast
 bestFor: "German architecture, beer culture, seaside walks"
-layoverWindow: "8+ hours — the city center is a straightforward metro ride"
+layoverWindow: "8+ hours: the city center is a straightforward metro ride"
 attractions:
   - "Zhanqiao Pier"
   - "St. Michael's Cathedral"
@@ -12,7 +12,7 @@ attractions:
 route: "Metro Line 8 from Jiaodong Airport to the city → Zhanqiao Pier → St. Michael's Cathedral → Badaguan → Tsingtao Brewery Museum → back to TAO"
 transportTips: "Qingdao Jiaodong Airport (TAO) connects to the city by Metro Line 8, roughly 50–60 minutes. The old town (Zhanqiao, the cathedral) and the seaside districts are walkable from each other, which makes a compact layover route easy."
 eSimTip: "Set up your eSIM before departure so maps and translation work the moment you land."
-paymentTip: "Beer halls, seafood stalls and small shops are QR-only — have Alipay or WeChat Pay ready with a foreign card linked."
+paymentTip: "Beer halls, seafood stalls and small shops are QR-only. Have Alipay or WeChat Pay ready with a foreign card linked."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Qingdao"
 updated: 2026-09-16
 ---

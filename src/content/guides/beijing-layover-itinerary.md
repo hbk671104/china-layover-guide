@@ -17,7 +17,7 @@ faqs:
     answer: "From Capital Airport (PEK), the Airport Express takes about 25–35 minutes to Dongzhimen or Sanyuanqiao and costs ¥25. From Daxing (PKX), the Daxing Airport Express reaches Caoqiao in about 30–40 minutes for ¥35."
   - question: "Do I need to book Forbidden City tickets in advance?"
     answer: "Yes. Tickets are passport-linked, sold online in advance, and frequently sell out. Book before you fly, walk-up entry is not reliable."
-  - question: "PEK or PKX — which is better for a layover?"
+  - question: "PEK or PKX, which is better for a layover?"
     answer: "PEK is better for the classic sights (Forbidden City, hutongs, Temple of Heaven). PKX is farther south and adds transfer time. Never plan sightseeing if you arrive at one airport and depart from the other, that cross-city transfer can take 1.5–2 hours."
 ---
 

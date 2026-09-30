@@ -11,7 +11,7 @@ attractions:
   - "French Concession"
 route: "Maglev from Pudong Airport (PVG) → The Bund → Yu Garden → Nanjing Road → back to PVG on Metro Line 2"
 transportTips: "The Maglev is the fastest way in from Pudong (8 minutes to Longyang Road). Metro Line 2 crosses the city and connects both airports. Taxis are affordable but carry your destination in Chinese."
-eSimTip: "Install and activate your eSIM before landing — airport Wi-Fi requires SMS verification and is unreliable."
+eSimTip: "Install and activate your eSIM before landing. Airport Wi-Fi requires SMS verification and is unreliable."
 paymentTip: "Set up Alipay or WeChat Pay with your foreign card before you land; most street vendors and small shops do not take Visa/Mastercard directly."
 mapLink: "https://www.google.com/maps/search/?api=1&query=Shanghai+China"
 updated: 2026-09-03
