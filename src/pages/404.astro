@@ -1,22 +1,77 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const routes = [
+  {
+    href: '/transit-visa/',
+    label: 'Check visa-free eligibility',
+    detail: 'Four questions, one answer: can you leave the airport?',
+  },
+  {
+    href: '/cities/',
+    label: 'Pick a city and a window',
+    detail: '12 cities with routes and minimum layover times.',
+  },
+  {
+    href: '/airports/',
+    label: 'Look up your airport',
+    detail: 'Transfer times, luggage storage, and traps to avoid.',
+  },
+  {
+    href: '/guides/',
+    label: 'Browse every guide',
+    detail: 'Transit rules, eSIM, payments, and logistics.',
+  },
+];
 ---
 
 <BaseLayout
- title="Page not found | China Layover Guide"
+  title="Page not found | China Layover Guide"
   description="The page you are looking for does not exist."
   canonicalPath="/404"
+  noindex
 >
-  <section class="mx-auto max-w-3xl px-4 py-24 text-center">
-    <h1 class="text-6xl font-extrabold tracking-tight text-slate-900">404</h1>
-    <p class="mt-4 text-lg text-slate-600">
-      The page you are looking for doesn&rsquo;t exist or has moved.
+  <section class="relative isolate overflow-hidden border-b border-line ambient-warm">
+    <div aria-hidden="true" class="route-arcs absolute inset-0 opacity-70"></div>
+    <div class="relative mx-auto max-w-6xl px-4 pt-20 pb-16 sm:px-6 sm:pt-28">
+      <p class="eyebrow">Error 404</p>
+      <h1
+        class="mt-5 font-display text-[3.5rem] leading-none font-semibold tracking-[-0.04em] text-ink sm:text-[5rem]"
+      >
+        This gate is closed.
+      </h1>
+      <p class="mt-6 max-w-[36rem] text-lg leading-relaxed text-muted">
+        The page you were looking for doesn&rsquo;t exist or has moved. Unlike a missed connection,
+        this one has a straightforward fix.
+      </p>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    <h2 class="eyebrow text-muted">Try one of these</h2>
+    <ul class="mt-6 max-w-[52rem] border-b border-line">
+      {
+        routes.map((route) => (
+          <li>
+            <a href={route.href} class="index-row md:grid-cols-[1fr_auto] md:items-baseline md:gap-6">
+              <span>
+                <span class="index-title block font-display text-xl font-semibold tracking-[-0.015em] text-ink">
+                  {route.label}
+                </span>
+                <span class="mt-1 block text-sm text-muted">{route.detail}</span>
+              </span>
+              <span aria-hidden="true" class="index-arrow hidden text-brand md:block">
+                →
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="mt-8 text-sm text-muted">
+      Landed here from a link on another site?{' '}
+      <a href="/about/" class="link">Tell us</a> and we&rsquo;ll fix the link.
     </p>
-    <a
-      href="/"
-      class="mt-8 inline-block rounded-lg bg-[var(--color-brand)] px-6 py-3 font-semibold text-white hover:bg-[var(--color-brand-dark)]"
-    >
-      Back to the guide
-    </a>
   </section>
 </BaseLayout>

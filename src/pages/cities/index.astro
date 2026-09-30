@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import HubHeader from '../../components/HubHeader.astro';
 import GuideList from '../../components/GuideList.astro';
 
 const cities = (await getCollection('cities')).sort((a, b) =>
@@ -43,32 +44,46 @@ const jsonLd = [
   canonicalPath="/cities/"
   jsonLd={jsonLd}
 >
-  <header class="mx-auto max-w-5xl px-4 pt-12">
-    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
-      City trips that fit your layover window
-    </h1>
-    <p class="mt-4 max-w-2xl text-lg text-slate-600">
-      Twelve cities where long-haul flights stop, each with a route, a transfer plan, and the minimum
-      layover it needs. For Beijing, Shanghai, Guangzhou, Chengdu, and Xi&rsquo;an there are
-      in-depth plans hour by hour.
-    </p>
-  </header>
+  <HubHeader
+    eyebrow={`${cities.length} cities · minimum windows, not wishlists`}
+    title="City trips that fit your layover window"
+    lead="Twelve cities where long-haul flights stop, each with a route, a transfer plan, and the minimum layover it needs. For Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an there are in-depth plans hour by hour."
+  />
 
-  <section class="mx-auto max-w-5xl px-4 py-10">
-    <ul class="grid gap-4 sm:grid-cols-2">
+  <section class="mx-auto max-w-6xl px-4 py-14 sm:px-6" aria-labelledby="city-index">
+    <h2 id="city-index" class="eyebrow text-muted">Browse by city</h2>
+
+    <ul
+      class="mt-6 grid border-t border-l border-line sm:grid-cols-2 lg:grid-cols-3"
+    >
       {
         cities.map((city) => (
           <li>
             <a
               href={`/cities/${city.id}/`}
-              class="block rounded-xl border border-slate-200 p-6 transition hover:border-[var(--color-brand)]"
+              class="group flex h-full min-h-[11rem] flex-col justify-between border-r border-b border-line bg-paper p-6 transition-colors duration-200 hover:bg-surface"
             >
-              <span class="text-xs font-semibold uppercase tracking-wide text-[var(--color-brand)]">
-                {city.data.region}
-              </span>
-              <h2 class="mt-1 text-xl font-bold text-slate-900">{city.data.city}</h2>
-              <p class="mt-2 text-slate-600">{city.data.bestFor}</p>
-              <p class="mt-2 text-sm text-slate-500">{city.data.layoverWindow}</p>
+              <div>
+                <span class="flex items-baseline justify-between gap-3 text-xs">
+                  <span class="font-semibold tracking-[0.1em] text-brand uppercase">
+                    {city.data.region}
+                  </span>
+                  <span
+                    aria-hidden="true"
+                    class="translate-x-[-4px] text-brand opacity-0 transition-all duration-200 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    →
+                  </span>
+                </span>
+                <h3 class="mt-3 font-display text-2xl font-semibold tracking-[-0.02em] text-ink transition-colors duration-200 group-hover:text-brand">
+                  {city.data.city}
+                </h3>
+                <p class="mt-2 text-sm leading-relaxed text-muted">{city.data.bestFor}</p>
+              </div>
+              <p class="mt-4 border-t border-line pt-3 text-xs text-faint">
+                <span class="font-semibold text-muted">Window:</span>{' '}
+                {city.data.layoverWindow}
+              </p>
             </a>
           </li>
         ))
@@ -76,14 +91,21 @@ const jsonLd = [
     </ul>
   </section>
 
-  <section class="mx-auto max-w-5xl px-4 pb-14">
-    <h2 class="text-2xl font-bold text-slate-900">Layover itineraries by window</h2>
-    <p class="mt-2 max-w-2xl text-slate-600">
-      Detailed 6, 8, 12, and 24-hour plans for Beijing, Shanghai, Guangzhou, Chengdu, and Xi&rsquo;an,
-      each built around the return-to-airport buffer rather than the most sights.
-    </p>
-    <div class="mt-6">
-      <GuideList guides={itineraries} />
+  <section class="border-t border-line" aria-labelledby="itineraries">
+    <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+      <h2
+        id="itineraries"
+        class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink sm:text-3xl"
+      >
+        Layover itineraries by window
+      </h2>
+      <p class="mt-3 max-w-[44rem] text-muted">
+        Detailed 6, 8, 12, and 24-hour plans for Beijing, Shanghai, Guangzhou, Chengdu, and
+        Xi&rsquo;an — each built around the return-to-airport buffer rather than the most sights.
+      </p>
+      <div class="mt-8">
+        <GuideList guides={itineraries} showCategory={false} columns={2} />
+      </div>
     </div>
   </section>
 </BaseLayout>

@@ -17,7 +17,10 @@ const initials = author.name
   .join('');
 ---
 
-<div class="mt-6 flex items-start gap-3 border-t border-slate-200 pt-4">
+<div
+  class="mt-7 flex flex-wrap items-center justify-between gap-x-8 gap-y-3 border-y border-line py-4"
+>
+  <div class="flex items-center gap-4">
   {
     author.avatar ? (
       <img
@@ -27,34 +30,33 @@ const initials = author.name
         height="40"
         loading="lazy"
         decoding="async"
-        class="h-10 w-10 shrink-0 rounded-full object-cover"
+        class="h-10 w-10 shrink-0 rounded-[12px] object-cover"
       />
     ) : (
       <span
         aria-hidden="true"
-        class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-slate-100 text-sm font-bold text-slate-600"
+        class="flex h-10 w-10 shrink-0 items-center justify-center rounded-[12px] bg-surface-2 text-sm font-semibold text-muted"
       >
         {initials}
       </span>
     )
   }
-  <div class="text-sm text-slate-600">
-    <p>
-      By{' '}
+  <div class="text-sm text-muted">
+    <p class="flex flex-wrap items-baseline gap-x-2">
       <a
         href={`/authors/${author.slug}/`}
         rel="author"
-        class="font-semibold text-slate-900 hover:text-[var(--color-brand)] hover:underline"
+        class="font-semibold text-ink transition-colors duration-200 hover:text-brand"
       >
         {author.name}
       </a>
-      <span class="text-slate-500"> · {author.role}</span>
+      <span class="text-faint">· {author.role}</span>
     </p>
     {
       updated && (
-        <p class="mt-0.5 text-slate-500">
+        <p class="mt-0.5 text-xs text-faint">
           Last updated{' '}
-          <time datetime={updated}>
+          <time datetime={updated} class="tabular-nums">
             {new Date(updated).toLocaleDateString('en-US', {
               year: 'numeric',
               month: 'long',
@@ -64,6 +66,7 @@ const initials = author.name
         </p>
       )
     }
-    {note && <p class="mt-1 text-slate-500">{note}</p>}
   </div>
+  </div>
+  {note && <p class="max-w-sm text-xs leading-relaxed text-faint sm:text-right">{note}</p>}
 </div>

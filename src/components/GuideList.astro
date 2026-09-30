@@ -3,38 +3,62 @@ import type { CollectionEntry } from 'astro:content';
 
 interface Props {
   guides: CollectionEntry<'guides'>[];
+  /** Show the category flag (off when the page already groups by category). */
+  showCategory?: boolean;
+  /** Two columns on wide screens; use for long, ungrouped lists. */
+  columns?: 1 | 2;
 }
 
-const { guides } = Astro.props;
+const { guides, showCategory = true, columns = 1 } = Astro.props;
+
+const categoryLabels: Record<string, string> = {
+  'transit-visa': 'Transit visa',
+  esim: 'eSIM',
+  payments: 'Payments',
+  logistics: 'Logistics',
+  cities: 'City trips',
+};
 ---
 
 {
   guides.length === 0 ? (
-  <p class="text-slate-600">Guides are on the way, check back soon.</p>
+    <p class="border-t border-line py-6 text-muted">
+      Nothing here yet. <a href="/guides/" class="link">Browse every guide</a> instead.
+    </p>
   ) : (
-    <ul class="grid gap-4">
-      {
-        guides.map((guide) => (
-          <li>
-            <a
-              href={`/guides/${guide.id}/`}
-              class="block rounded-xl border border-slate-200 p-6 transition hover:border-[var(--color-brand)]"
-            >
-              <span class="text-xs font-semibold uppercase tracking-wide text-[var(--color-brand)]">
-                {
-                  guide.data.updated.toLocaleDateString('en-US', {
-                    year: 'numeric',
-                    month: 'short',
-                    day: 'numeric',
-                  })
-                }
+    <ul
+      class:list={[
+        'border-b border-line',
+        columns === 2 && 'grid gap-x-10 md:grid-cols-2',
+      ]}
+    >
+      {guides.map((guide) => (
+        <li>
+          <a href={`/guides/${guide.id}/`} class="index-row group">
+            <span class="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-xs">
+              {showCategory && (
+                <span class="font-semibold tracking-[0.1em] text-brand uppercase">
+                  {categoryLabels[guide.data.category] ?? guide.data.category}
+                </span>
+              )}
+              <span class="text-faint tabular-nums">
+                Updated{' '}
+                {guide.data.updated.toLocaleDateString('en-US', {
+                  month: 'short',
+                  day: 'numeric',
+                  year: 'numeric',
+                })}
               </span>
-              <h3 class="mt-1 text-xl font-bold text-slate-900">{guide.data.title}</h3>
-              <p class="mt-2 text-slate-600">{guide.data.description}</p>
-            </a>
-          </li>
-        ))
-      }
+            </span>
+            <span class="index-title mt-1 font-display text-xl font-semibold tracking-[-0.015em] text-ink">
+              {guide.data.title}
+            </span>
+            <span class="mt-1.5 max-w-[46rem] text-[0.95rem] leading-relaxed text-muted">
+              {guide.data.description}
+            </span>
+          </a>
+        </li>
+      ))}
     </ul>
   )
 }

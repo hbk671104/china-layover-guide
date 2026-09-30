@@ -9,7 +9,7 @@ const { faqs, title = 'Frequently asked questions' } = Astro.props;
 
 {
   faqs.length > 0 && (
-    <section class="mt-12 border-t border-slate-200 pt-8">
+    <section class="mt-16 border-t border-line pt-8">
       {/*
         The questions render as visible h3s under an h2, so the heading outline
         stays valid and the text is real page content. That matters twice over:
@@ -17,14 +17,16 @@ const { faqs, title = 'Frequently asked questions' } = Astro.props;
         page, and answer engines extract from rendered HTML rather than from a
         JSON-LD script.
       */}
-      <h2 id="faq-heading" class="text-2xl font-bold text-slate-900">
+      <h2 id="faq-heading" class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink">
         {title}
       </h2>
-      <div class="mt-6 space-y-6">
+      <div class="mt-6 border-t border-line">
         {faqs.map((faq) => (
-          <div>
-            <h3 class="text-lg font-semibold text-slate-900">{faq.question}</h3>
-            <p class="mt-2 text-slate-600">{faq.answer}</p>
+          <div class="grid gap-2 border-b border-line py-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.35fr)] md:gap-10">
+            <h3 class="font-display text-[1.05rem] leading-snug font-semibold tracking-[-0.01em] text-ink">
+              {faq.question}
+            </h3>
+            <p class="text-[0.95rem] leading-relaxed text-muted">{faq.answer}</p>
           </div>
         ))}
       </div>

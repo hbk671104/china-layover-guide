@@ -16,7 +16,7 @@ export async function getStaticPaths() {
 }
 
 const { guide } = Astro.props;
-const { Content } = await render(guide);
+const { Content, headings } = await render(guide);
 
 const author = authorForCategory(guide.data.category);
 
@@ -27,6 +27,8 @@ const categoryLabel = {
   cities: 'City trips',
   logistics: 'Layover logistics',
 }[guide.data.category];
+
+const sections = headings.filter((heading) => heading.depth === 2 && heading.text.trim().length > 0);
 
 const siteUrl = 'https://chinalayoverguide.com';
 const canonicalPath = `/guides/${guide.id}/`;
@@ -97,18 +99,23 @@ if (guide.data.faqs.length > 0) {
   canonicalPath={`/guides/${guide.id}/`}
   jsonLd={jsonLd}
 >
-  <article class="mx-auto max-w-3xl px-4 py-12">
-    <header>
+  <div class="mx-auto max-w-6xl px-4 pt-10 pb-4 sm:px-6 sm:pt-14">
+    <nav aria-label="Breadcrumb" class="text-sm">
       <a
         href={`/${guide.data.category}/`}
-        class="text-sm font-semibold text-[var(--color-brand)] hover:underline"
+        class="font-semibold text-muted transition-colors duration-200 hover:text-brand"
       >
-        &larr; {categoryLabel}
+        <span aria-hidden="true">←</span> {categoryLabel}
       </a>
-      <h1 class="mt-4 text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+    </nav>
+
+    <header class="mt-6 max-w-[44rem]">
+      <h1
+        class="font-display text-[2.1rem] leading-[1.05] font-semibold tracking-[-0.03em] text-ink sm:text-[2.75rem]"
+      >
         {guide.data.title}
       </h1>
-      <p class="mt-4 text-lg text-slate-600">{guide.data.description}</p>
+      <p class="mt-5 text-lg leading-relaxed text-muted">{guide.data.description}</p>
       <AuthorByline
         author={author}
         updated={guide.data.updated.toISOString()}
@@ -118,23 +125,68 @@ if (guide.data.faqs.length > 0) {
             : 'Verified against the sources linked at the foot of this page.'
         }
       />
-      {
-        guide.data.heroImage && (
-          <HeroImage
-            src={guide.data.heroImage}
-            alt={guide.data.heroAlt ?? guide.data.title}
-            credit={guide.data.heroCredit}
-            creditUrl={guide.data.heroCreditUrl}
-            class="mt-6"
-            priority
-          />
-        )
-      }
     </header>
-    <div class="prose prose-slate mt-10 max-w-none">
-      <Content />
+  </div>
+
+  {
+    guide.data.heroImage && (
+      <div class="mx-auto mt-8 max-w-6xl px-4 sm:px-6">
+        <HeroImage
+          src={guide.data.heroImage}
+          alt={guide.data.heroAlt ?? guide.data.title}
+          credit={guide.data.heroCredit}
+          creditUrl={guide.data.heroCreditUrl}
+          priority
+        />
+      </div>
+    )
+  }
+
+  <div
+    class="mx-auto grid max-w-6xl gap-x-16 gap-y-12 px-4 py-12 sm:px-6 lg:grid-cols-[minmax(0,44rem)_1fr] lg:py-16"
+  >
+    <div class="min-w-0">
+      <div class="prose max-w-none">
+        <Content />
+      </div>
+
+      <FaqSection faqs={guide.data.faqs} />
+      <SourceList sources={guide.data.sources} />
     </div>
-    <FaqSection faqs={guide.data.faqs} />
-    <SourceList sources={guide.data.sources} />
-  </article>
+
+    {
+      sections.length >= 3 && (
+        <aside class="lg:sticky lg:top-24 lg:self-start">
+          <nav aria-labelledby="on-this-page" class="hidden lg:block">
+            <h2 id="on-this-page" class="eyebrow text-muted">
+              On this page
+            </h2>
+            <ol class="mt-4 space-y-2.5 border-l border-line pl-4 text-sm">
+              {sections.map((heading) => (
+                <li>
+                  <a
+                    href={`#${heading.slug}`}
+                    class="block text-muted transition-colors duration-200 hover:text-brand"
+                  >
+                    {heading.text}
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </nav>
+
+          <div class="mt-8 rounded-card border border-line bg-surface-2 p-4">
+            <p class="text-sm font-semibold text-ink">Going anyway?</p>
+            <p class="mt-1.5 text-xs leading-relaxed text-muted">
+              Check whether your passport and onward ticket qualify for visa-free transit before you
+              book.
+            </p>
+            <a href="/transit-visa/" class="btn btn-primary mt-3 w-full px-4 py-2.5 text-sm">
+              Check eligibility
+            </a>
+          </div>
+        </aside>
+      )
+    }
+  </div>
 </BaseLayout>

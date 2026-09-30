@@ -1,0 +1,47 @@
+---
+interface Props {
+  /** Small caps line above the headline. */
+  eyebrow?: string;
+  title: string;
+  lead: string;
+  /** Optional trailing slot rendered under the lead (badges, CTA). */
+  tone?: 'warm' | 'plain';
+}
+
+const { eyebrow, title, lead, tone = 'warm' } = Astro.props;
+---
+
+<section
+  class:list={[
+    'relative isolate overflow-hidden border-b border-line',
+    tone === 'warm' && 'ambient-warm',
+  ]}
+>
+  {tone === 'warm' && <div aria-hidden="true" class="dot-grid absolute inset-0 opacity-50"></div>}
+  <div class="relative mx-auto max-w-6xl px-4 pt-14 pb-12 sm:px-6 sm:pt-20 sm:pb-14">
+    {
+      eyebrow && (
+        <p class="eyebrow" data-reveal>
+          {eyebrow}
+        </p>
+      )
+    }
+    <h1
+      class="mt-4 max-w-[42rem] font-display text-[2.1rem] leading-[1.05] font-semibold tracking-[-0.03em] text-ink sm:text-[2.75rem]"
+      data-reveal
+      style="--reveal-delay:60ms"
+    >
+      {title}
+    </h1>
+    <p
+      class="mt-5 max-w-[40rem] text-lg leading-relaxed text-muted"
+      data-reveal
+      style="--reveal-delay:120ms"
+    >
+      {lead}
+    </p>
+    <div class="mt-8 empty:hidden">
+      <slot />
+    </div>
+  </div>
+</section>

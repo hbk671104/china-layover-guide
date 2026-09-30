@@ -39,23 +39,23 @@ const jsonLd = [
   canonicalPath="/authors/"
   jsonLd={jsonLd}
 >
-  <article class="mx-auto max-w-3xl px-4 py-12">
+  <article class="mx-auto max-w-[52rem] px-4 py-14 sm:px-6">
     <header>
-      <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
+      <h1 class="font-display text-[2.1rem] leading-[1.05] font-semibold tracking-[-0.03em] text-ink sm:text-[2.75rem]">
         Who writes this
       </h1>
-      <p class="mt-4 text-lg text-slate-600">
+      <p class="mt-5 max-w-[38rem] text-lg leading-relaxed text-muted">
         Two people, both living in Beijing. Everything here is written from China, not researched
         from abroad.
       </p>
     </header>
 
-    <section class="mt-10 space-y-6">
+    <section class="mt-10 space-y-4">
       {
         cards.map(({ author, count }) => (
           <a
             href={`/authors/${author.slug}/`}
-            class="flex items-start gap-4 rounded-xl border border-slate-200 p-6 transition hover:border-[var(--color-brand)]"
+            class="group flex items-start gap-4 rounded-card bg-surface-2 p-5 transition-colors duration-200 hover:bg-brand-tint"
           >
             {author.avatar ? (
               <img
@@ -65,21 +65,23 @@ const jsonLd = [
                 height="64"
                 loading="lazy"
                 decoding="async"
-                class="h-16 w-16 shrink-0 rounded-full object-cover"
+                class="h-16 w-16 shrink-0 rounded-[16px] object-cover"
               />
             ) : (
               <span
                 aria-hidden="true"
-                class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-slate-100 text-lg font-bold text-slate-600"
+                class="flex h-16 w-16 shrink-0 items-center justify-center rounded-[16px] bg-surface text-lg font-semibold text-muted"
               >
                 {author.name.split(' ').map((p) => p[0]).join('')}
               </span>
             )}
             <div>
-              <h2 class="text-xl font-bold text-slate-900">{author.name}</h2>
-              <p class="text-sm font-semibold text-[var(--color-brand)]">{author.role}</p>
-              <p class="mt-2 text-slate-600">{author.tagline}</p>
-              <p class="mt-2 text-sm text-slate-500">
+              <h2 class="font-display text-xl font-semibold tracking-[-0.02em] text-ink">
+                {author.name}
+              </h2>
+              <p class="text-sm font-semibold text-brand">{author.role}</p>
+              <p class="mt-2 leading-relaxed text-muted">{author.tagline}</p>
+              <p class="mt-2 text-sm text-faint tabular-nums">
                 {count} guide{count === 1 ? '' : 's'} · {author.location}
               </p>
             </div>
@@ -88,40 +90,42 @@ const jsonLd = [
       }
     </section>
 
-    <section class="mt-12 rounded-xl border border-slate-200 bg-slate-50 p-6">
-      <h2 class="font-bold text-slate-900">How we check things</h2>
-      <p class="mt-2 text-sm text-slate-600">
+    <section class="mt-12 rounded-panel border border-line bg-surface-2 p-6 sm:p-7">
+      <h2 class="font-display text-xl font-semibold tracking-[-0.02em] text-ink">
+        How we check things
+      </h2>
+      <p class="mt-2 text-sm text-muted">
         Not everything on a travel site can be tested. Some things can be looked up. We try to be
         clear about which is which.
       </p>
-      <ul class="mt-3 space-y-2 text-sm text-slate-600">
+      <ul class="mt-3 space-y-2 text-sm text-muted">
         <li>
-          <strong class="text-slate-900">Payment and connectivity guides</strong> are based on
+          <strong class="text-ink">Payment and connectivity guides</strong> are based on
           first-hand testing. Bokang sets up each app and eSIM plan on a foreign card and confirms
           what actually works.
         </li>
         <li>
-          <strong class="text-slate-900">Visa and transit rules</strong> are checked against
+          <strong class="text-ink">Visa and transit rules</strong> are checked against
           publications from the National Immigration Administration (NIA). No one can self-test a
           visa rule, so we cite the source instead of claiming otherwise.
         </li>
         <li>
-          <strong class="text-slate-900">Airline and airport details</strong> come from the airline
+          <strong class="text-ink">Airline and airport details</strong> come from the airline
           or airport's own published terms, linked at the foot of each page.
         </li>
       </ul>
-      <p class="mt-3 text-sm text-slate-600">
+      <p class="mt-3 text-sm text-muted">
         Every factual page carries a last-updated date and a source list. If something looks wrong,
         the correction address is listed on the{' '}
-        <a href="/about/" class="text-[var(--color-brand)] hover:underline">
+        <a href="/about/" class="text-brand hover:underline">
           about page
         </a>
         .
       </p>
     </section>
 
-    <p class="mt-8 text-sm text-slate-500">
-      <a href="/about/" class="text-[var(--color-brand)] hover:underline">
+    <p class="mt-8 text-sm text-faint">
+      <a href="/about/" class="text-brand hover:underline">
         More about this site &rarr;
       </a>
     </p>

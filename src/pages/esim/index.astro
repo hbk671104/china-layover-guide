@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import HubHeader from '../../components/HubHeader.astro';
 import GuideList from '../../components/GuideList.astro';
 
 const siteUrl = 'https://chinalayoverguide.com';
@@ -8,6 +9,8 @@ const siteUrl = 'https://chinalayoverguide.com';
 const guides = (
   await getCollection('guides', ({ data }) => data.category === 'esim')
 ).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+
+const blocked = ['Google Maps', 'WhatsApp', 'Instagram', 'Gmail', 'Facebook', 'X'];
 
 const jsonLd = [
   {
@@ -32,21 +35,62 @@ const jsonLd = [
   canonicalPath="/esim/"
   jsonLd={jsonLd}
 >
-  <header class="mx-auto max-w-3xl px-4 pt-12">
-    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
-      eSIM setup, before you land
-    </h1>
-    <p class="mt-4 text-lg text-slate-600">
-      China&rsquo;s network blocks Google Maps, WhatsApp, Instagram, and Gmail the moment you
-      connect. A travel eSIM routes your data around the block, so the apps you already use keep
-      working &mdash; but only if you install and test it before you fly.
-    </p>
-  </header>
+  <HubHeader
+    eyebrow="Connectivity · install before departure"
+    title="eSIM setup, before you land"
+    lead="China's network blocks Google Maps, WhatsApp, Instagram, and Gmail the moment you connect. A travel eSIM routes your data around the block, so the apps you already use keep working — but only if you install and test it before you fly."
+  />
 
-  <section class="mx-auto max-w-3xl px-4 py-10">
-    <h2 class="text-2xl font-bold text-slate-900">Guides</h2>
-    <div class="mt-6">
-      <GuideList {guides} />
+  <section class="mx-auto max-w-6xl px-4 py-14 sm:px-6" aria-labelledby="blocked">
+    <div class="grid gap-10 lg:grid-cols-[minmax(0,44rem)_1fr] lg:gap-16">
+      <div>
+        <h2 id="blocked" class="eyebrow text-muted">What stops working on arrival</h2>
+        <ul class="mt-5 flex flex-wrap gap-2">
+          {
+            blocked.map((app) => (
+              <li class="rounded-sm border border-line bg-surface px-3 py-1.5 text-sm text-muted line-through decoration-brand/50 decoration-2">
+                {app}
+              </li>
+            ))
+          }
+        </ul>
+        <p class="mt-5 max-w-[40rem] text-[0.95rem] leading-relaxed text-muted">
+          These are blocked on Chinese networks without a VPN. A travel eSIM with international
+          routing goes around the block, so no VPN is needed on the eSIM line.
+        </p>
+      </div>
+
+      <aside class="rounded-card border border-line bg-surface-2 p-6">
+        <h2 class="font-display text-lg font-semibold text-ink">Before the flight</h2>
+        <ol class="mt-4 space-y-4">
+          <li class="flex gap-3 text-sm leading-relaxed text-muted">
+            <span class="font-mono text-xs font-semibold text-brand tabular-nums">01</span>
+            Buy and install the eSIM while you still have home wifi.
+          </li>
+          <li class="flex gap-3 text-sm leading-relaxed text-muted">
+            <span class="font-mono text-xs font-semibold text-brand tabular-nums">02</span>
+            Name the plan in settings, and keep your home SIM off to avoid roaming charges.
+          </li>
+          <li class="flex gap-3 text-sm leading-relaxed text-muted">
+            <span class="font-mono text-xs font-semibold text-brand tabular-nums">03</span>
+            Enable the eSIM as you land, then test Google Maps and WhatsApp in the terminal.
+          </li>
+        </ol>
+      </aside>
+    </div>
+  </section>
+
+  <section class="border-t border-line" aria-labelledby="esim-guides">
+    <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+      <h2
+        id="esim-guides"
+        class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink sm:text-3xl"
+      >
+        Picking and installing a plan
+      </h2>
+      <div class="mt-8 max-w-[52rem]">
+        <GuideList guides={guides} showCategory={false} />
+      </div>
     </div>
   </section>
 </BaseLayout>

@@ -11,6 +11,7 @@ interface Props {
   type?: 'website' | 'article';
   image?: string;
   jsonLd?: Record<string, unknown>[];
+  noindex?: boolean;
 }
 
 const {
@@ -20,6 +21,7 @@ const {
   type = 'website',
   image = '/og-default.png',
   jsonLd = [],
+  noindex = false,
 } = Astro.props;
 
 const siteName = 'China Layover Guide';
@@ -60,11 +62,18 @@ const allJsonLd = [...siteJsonLd, ...jsonLd];
       {image}
       siteName={siteName}
       jsonLd={allJsonLd}
+      {noindex}
     />
   </head>
-  <body class="flex min-h-screen flex-col bg-white text-slate-800">
+  {/*
+    `id="top"` lives on <body>, not on the sticky <header>. A sticky element is
+    always "in view" at the viewport edge, so the browser refuses to scroll to
+    it and the footer's Back-to-top link only moves by scroll-padding.
+  */}
+  <body id="top" class="flex min-h-screen flex-col bg-paper text-body antialiased">
+    <a class="skip-link" href="#content">Skip to content</a>
     <Header />
-    <main class="flex-1">
+    <main id="content" tabindex="-1" class="flex-1 outline-none">
       <slot />
     </main>
     <Footer />

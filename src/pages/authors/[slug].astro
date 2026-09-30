@@ -76,7 +76,7 @@ const jsonLd = [
   type="article"
   jsonLd={jsonLd}
 >
-  <article class="mx-auto max-w-3xl px-4 py-12">
+  <article class="mx-auto max-w-[52rem] px-4 py-14 sm:px-6">
     <header class="flex items-start gap-5">
       {
         author.avatar ? (
@@ -88,21 +88,23 @@ const jsonLd = [
             loading="eager"
             decoding="sync"
             fetchpriority="high"
-            class="h-24 w-24 shrink-0 rounded-full object-cover"
+            class="h-24 w-24 shrink-0 rounded-[22px] object-cover"
           />
         ) : (
           <span
             aria-hidden="true"
-            class="flex h-24 w-24 shrink-0 items-center justify-center rounded-full bg-slate-100 text-2xl font-bold text-slate-600"
+            class="flex h-24 w-24 shrink-0 items-center justify-center rounded-[22px] bg-surface-2 text-2xl font-semibold text-muted"
           >
             {author.name.split(' ').map((p) => p[0]).join('')}
           </span>
         )
       }
       <div>
-        <h1 class="text-3xl font-extrabold tracking-tight text-slate-900">{author.name}</h1>
-        <p class="mt-1 font-semibold text-[var(--color-brand)]">{author.role}</p>
-        <p class="mt-1 text-sm text-slate-500">{author.location}</p>
+        <h1 class="font-display text-[2.1rem] leading-[1.05] font-semibold tracking-[-0.03em] text-ink">
+          {author.name}
+        </h1>
+        <p class="mt-1 font-semibold text-brand">{author.role}</p>
+        <p class="mt-1 text-sm text-faint">{author.location}</p>
         {
           author.sameAs.length > 0 && (
             <p class="mt-2 text-sm">
@@ -110,7 +112,7 @@ const jsonLd = [
                 <a
                   href={link}
                   rel="me noopener"
-                  class="text-[var(--color-brand)] hover:underline"
+                  class="text-brand hover:underline"
                 >
                   {link.replace(/^https?:\/\//, '')}
                 </a>
@@ -121,31 +123,35 @@ const jsonLd = [
       </div>
     </header>
 
-    <section class="mt-8 space-y-4 text-slate-700">
+    <section class="mt-8 space-y-4 text-body">
       {author.bio.map((paragraph) => <p>{paragraph}</p>)}
     </section>
 
-    <section class="mt-10 rounded-xl border border-slate-200 p-6">
-      <h2 class="font-bold text-slate-900">What {author.name.split(' ')[0]} can vouch for</h2>
-      <p class="mt-2 text-sm text-slate-600">{author.verification}</p>
+    <section class="mt-10 rounded-card bg-surface-2 p-6">
+      <h2 class="font-display text-lg font-semibold text-ink">
+        What {author.name.split(' ')[0]} can vouch for
+      </h2>
+      <p class="mt-2 text-sm leading-relaxed text-muted">{author.verification}</p>
     </section>
 
     <section class="mt-10">
-      <h2 class="text-xl font-bold text-slate-900">Writes about</h2>
+      <h2 class="font-display text-xl font-semibold tracking-[-0.02em] text-ink">Writes about</h2>
       <ul class="mt-3 flex flex-wrap gap-2">
         {
           author.knowsAbout.map((topic) => (
-            <li class="rounded-full bg-slate-100 px-3 py-1 text-sm text-slate-700">{topic}</li>
+            <li class="rounded-sm border border-line bg-surface px-2.5 py-1 text-sm text-body">
+              {topic}
+            </li>
           ))
         }
       </ul>
     </section>
 
     <section class="mt-10">
-      <h2 class="text-xl font-bold text-slate-900">
+      <h2 class="font-display text-xl font-semibold tracking-[-0.02em] text-ink">
         {written.length + writtenCities.length} guides by {author.name}
       </h2>
-      <p class="mt-2 text-sm text-slate-500">
+      <p class="mt-2 text-sm text-faint">
         Covering {categories.join(', ')}.
       </p>
       <div class="mt-4">
@@ -154,7 +160,7 @@ const jsonLd = [
       {
         author.categories.includes('cities') && (
           <p class="mt-4 text-sm">
-            <a href="/cities/" class="text-[var(--color-brand)] hover:underline">
+            <a href="/cities/" class="text-brand hover:underline">
               City layover guides &rarr;
             </a>
           </p>
@@ -162,8 +168,8 @@ const jsonLd = [
       }
     </section>
 
-    <p class="mt-10 text-sm text-slate-500">
-      <a href="/authors/" class="text-[var(--color-brand)] hover:underline">
+    <p class="mt-10 text-sm text-faint">
+      <a href="/authors/" class="text-brand hover:underline">
         &larr; All authors
       </a>
     </p>

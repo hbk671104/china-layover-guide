@@ -1,30 +1,83 @@
 ---
 const year = new Date().getFullYear();
+
+const startHere = [
+  { href: '/transit-visa/', label: 'Check visa-free eligibility' },
+  { href: '/guides/240-hour-visa-free-transit/', label: "How 240-hour transit works" },
+  { href: '/cities/', label: 'Pick a city and a window' },
+  { href: '/payments/', label: 'Set up payments before you fly' },
+];
+
+const site = [
+  { href: '/guides/', label: 'All guides' },
+  { href: '/authors/', label: 'Authors' },
+  { href: '/about/', label: 'About' },
+  { href: '/privacy/', label: 'Privacy' },
+  { href: '/terms/', label: 'Terms' },
+];
 ---
 
-<footer class="border-t border-slate-200 bg-slate-50">
-  <div class="mx-auto max-w-5xl px-4 py-10">
-    <div class="flex flex-col gap-6 sm:flex-row sm:justify-between">
+<footer class="mt-20 border-t border-line bg-surface-2">
+  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    <div class="grid gap-10 md:grid-cols-[1.4fr_1fr_auto] md:gap-8">
       <div>
-        <p class="font-bold text-slate-900">China Layover Guide</p>
-        <p class="mt-1 max-w-md text-sm text-slate-600">
+        <p class="font-display text-xl font-semibold tracking-[-0.02em] text-ink">
+          China <span class="text-brand">Layover</span> Guide
+        </p>
+        <p class="mt-3 max-w-sm text-sm leading-relaxed text-muted">
           Independent guides to China&rsquo;s 240-hour visa-free transit, eSIM setup, payments, and
-          layover city trips.
+          layover city trips. Written from Beijing, dated on every page, and sourced to official
+          documents.
         </p>
       </div>
-      <nav aria-label="Footer navigation" class="text-sm">
-        <ul class="flex flex-col gap-2 sm:items-end">
-          <li><a href="/guides/" class="text-slate-600 hover:text-[var(--color-brand)]">All guides</a></li>
-          <li><a href="/authors/" class="text-slate-600 hover:text-[var(--color-brand)]">Authors</a></li>
-          <li><a href="/about/" class="text-slate-600 hover:text-[var(--color-brand)]">About</a></li>
-          <li><a href="/privacy/" class="text-slate-600 hover:text-[var(--color-brand)]">Privacy</a></li>
-          <li><a href="/terms/" class="text-slate-600 hover:text-[var(--color-brand)]">Terms</a></li>
+
+      <nav aria-label="Start here">
+        <h2 class="eyebrow text-muted">Start here</h2>
+        <ul class="mt-4 space-y-2.5 text-sm">
+          {
+            startHere.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  class="text-body transition-colors duration-200 hover:text-brand"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </nav>
+
+      <nav aria-label="Site">
+        <h2 class="eyebrow text-muted">Site</h2>
+        <ul class="mt-4 space-y-2.5 text-sm">
+          {
+            site.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  class="text-body transition-colors duration-200 hover:text-brand"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))
+          }
         </ul>
       </nav>
     </div>
-    <p class="mt-8 text-xs text-slate-500">
-      Information may change at any time. Always verify with official government and provider
-      sources before you travel. © {year} China Layover Guide.
-    </p>
+
+    <div
+      class="mt-12 flex flex-col gap-4 border-t border-line pt-6 text-xs text-faint sm:flex-row sm:items-center sm:justify-between"
+    >
+      <p class="max-w-xl leading-relaxed">
+        Information may change at any time. Always verify with official government and provider
+        sources before you travel. © {year} China Layover Guide.
+      </p>
+      <a href="#top" class="shrink-0 font-semibold text-muted transition-colors duration-200 hover:text-brand">
+        Back to top ↑
+      </a>
+    </div>
   </div>
 </footer>

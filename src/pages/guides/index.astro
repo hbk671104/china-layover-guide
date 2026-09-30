@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import HubHeader from '../../components/HubHeader.astro';
 import GuideList from '../../components/GuideList.astro';
 
 const categoryMeta = [
@@ -27,7 +28,7 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-  name: 'All guides | China Layover Guide',
+    name: 'All guides | China Layover Guide',
     description:
       'Every China Layover Guide article, grouped by topic: visa-free transit, eSIM, payments, airport transfers, and city layover itineraries.',
     url: `${siteUrl}/guides/`,
@@ -41,28 +42,47 @@ const jsonLd = [
 ---
 
 <BaseLayout
- title="All Guides | China Layover Guide"
+  title="All Guides | China Layover Guide"
   description="Every China Layover Guide article in one place: visa-free transit rules, eSIM setup, payments, airport transfers, and city layover itineraries."
   canonicalPath="/guides/"
   jsonLd={jsonLd}
 >
-  <header class="mx-auto max-w-5xl px-4 pt-12">
-    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
-      All guides
-    </h1>
-    <p class="mt-4 max-w-2xl text-lg text-slate-600">
-      {guides.length} in-depth, independently researched guides for a China layover, grouped by topic.
-      Start with the visa-free transit rules, then pick the city and window that match your stop.
-      Every factual page carries a last-updated date and links to its sources.
-    </p>
-  </header>
+  <HubHeader
+    eyebrow={`${guides.length} guides · updated continuously`}
+    title="All guides"
+    lead="Independently researched guides for a China layover, grouped by topic. Start with the visa-free transit rules, then pick the city and window that match your stop."
+  />
+
+  <div class="mx-auto max-w-6xl px-4 pb-8 sm:px-6">
+    <nav aria-label="Jump to a topic" class="flex flex-wrap gap-2 border-b border-line py-6">
+      {
+        groups.map((group) => (
+          <a
+            href={`#${group.label.toLowerCase().replace(/[^a-z]+/g, '-')}`}
+            class="rounded-sm border border-line bg-surface px-3 py-1.5 text-sm text-muted transition-colors duration-200 hover:border-brand hover:bg-brand-tint hover:text-brand"
+          >
+            {group.label}
+            <span class="ml-2 text-xs text-faint tabular-nums">{group.guides.length}</span>
+          </a>
+        ))
+      }
+    </nav>
+  </div>
 
   {
     groups.map((group) => (
-      <section class="mx-auto max-w-5xl px-4 py-8">
-        <h2 class="text-2xl font-bold text-slate-900">{group.label}</h2>
+      <section
+        class="mx-auto max-w-6xl px-4 py-10 sm:px-6"
+        aria-labelledby={group.label.toLowerCase().replace(/[^a-z]+/g, '-')}
+      >
+        <h2
+          id={group.label.toLowerCase().replace(/[^a-z]+/g, '-')}
+          class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink"
+        >
+          {group.label}
+        </h2>
         <div class="mt-6">
-          <GuideList guides={group.guides} />
+          <GuideList guides={group.guides} showCategory={false} columns={2} />
         </div>
       </section>
     ))

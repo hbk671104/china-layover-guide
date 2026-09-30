@@ -1,17 +1,482 @@
-@import "tailwindcss";
-@plugin "@tailwindcss/typography";
+@import '@fontsource-variable/fraunces/opsz.css';
+@import '@fontsource-variable/geist/index.css';
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
 
+/*
+  China Layover Guide — design tokens.
+
+  One warm neutral ramp (paper/ink) and one accent (Chinese lacquer red).
+  Every gray in the site comes from these tokens: no cool/warm mixing, no
+  second accent colour, no pure black anywhere.
+*/
 @theme {
-  --color-brand: #c2271d;
-  --color-brand-dark: #9a1f16;
-  --color-ink: #1f2937;
+  --font-sans: 'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: 'Fraunces Variable', ui-serif, Georgia, 'Times New Roman', serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+
+  /* Warm neutral ramp. Every text tone clears WCAG AA (>=4.5:1) against the
+     darkest background it is used on (--color-surface-2), not just against
+     paper: body ~9:1, muted ~6.2:1, faint ~4.9:1. Hierarchy above that comes
+     from size, weight, and case rather than from extra-pale greys. */
+  --color-ink: #191311;
+  --color-body: #3b322c;
+  --color-muted: #5e544c;
+  --color-faint: #6f645b;
+  --color-line: #e7dfd4;
+  --color-line-strong: #d5c9ba;
+  --color-paper: #faf7f2;
+  --color-surface: #fffdf9;
+  --color-surface-2: #f3ece2;
+
+  /* Single accent: lacquer red */
+  --color-brand: #b3251b;
+  --color-brand-dark: #8d1a12;
+  --color-brand-tint: #f8e9e6;
+  --color-brand-ink: #6f150f;
+
+  /* Status — desaturated to sit inside the warm palette */
+  --color-ok: #2c6647;
+  --color-ok-bg: #e9f2ec;
+  --color-warn: #7f5210;
+  --color-warn-bg: #f9f0dd;
+  --color-stop: #a02117;
+  --color-stop-bg: #f9e8e5;
+
+  /* Radius scale: tight inside, softer on containers */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-card: 14px;
+  --radius-panel: 22px;
+
+  /* One light source (top-left); shadows carry the paper hue, not black */
+  --shadow-hair: 0 1px 0 0 rgb(25 19 17 / 0.05);
+  --shadow-soft: 0 1px 2px rgb(74 52 38 / 0.05), 0 10px 28px -14px rgb(74 52 38 / 0.2);
+  --shadow-lift: 0 2px 6px rgb(74 52 38 / 0.07), 0 22px 48px -20px rgb(74 52 38 / 0.28);
+
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.4, 0.64, 1);
+
+  /* z-index scale — no arbitrary 9999 */
+  --z-raise: 10;
+  --z-sticky: 40;
+  --z-overlay: 60;
+  --z-top: 90;
 }
 
-html {
-  scroll-behavior: smooth;
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5.5rem;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--color-paper);
+    background-image: var(--noise-tile);
+    color: var(--color-body);
+    font-family: var(--font-sans);
+    /* Never synthesise weight on a variable font. */
+    font-synthesis-weight: none;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    color: var(--color-ink);
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+    /*
+      Fraunces swaps in a decorative, hard-to-read ampersand above ~22px when the
+      optical-size axis is automatic (e.g. "Pay & TenPayGo" reads as "Pay (P) TenPayGo").
+      Pinning the axis keeps the normal glyph; SOFT/WONK stay at their defaults.
+    */
+    font-optical-sizing: none;
+    font-variation-settings:
+      'opsz' 20,
+      'SOFT' 0,
+      'WONK' 0;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  a,
+  button,
+  input,
+  select,
+  summary {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Keyboard-only focus ring, on every interactive element. */
+  :focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 2px;
+    border-radius: var(--radius-xs);
+  }
+
+  ::selection {
+    background: var(--color-brand);
+    color: #fff;
+  }
+
+  table {
+    font-variant-numeric: tabular-nums;
+  }
 }
 
-body {
-  color: var(--color-ink);
-  -webkit-font-smoothing: antialiased;
+:root {
+  /* Warm grain, ~3% opacity, tiled. Self-contained: no network request. */
+  --noise-tile: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0.06 0 0 0 0 0.05 0 0 0 0 0.04 0 0 0 0.055 0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@utility dot-grid {
+  background-image: radial-gradient(circle at 1px 1px, var(--color-line-strong) 1px, transparent 0);
+  background-size: 22px 22px;
+}
+
+/* Flight-route arcs + waypoints, drawn as a tile so it never needs a photo.
+   The tile is deliberately large (320px) and irregular: a tight tile repeats
+   visibly as wallpaper across a full-width section. */
+@utility route-arcs {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='320' height='320' viewBox='0 0 320 320'%3E%3Cg fill='none' stroke='%23b3251b' stroke-opacity='0.15' stroke-width='1.1'%3E%3Cpath d='M18 252 Q92 166 172 238'/%3E%3Cpath d='M198 118 Q256 58 312 106'/%3E%3Cpath d='M64 44 Q118 8 178 34'/%3E%3C/g%3E%3Cg fill='%23b3251b' fill-opacity='0.3'%3E%3Ccircle cx='18' cy='252' r='2.1'/%3E%3Ccircle cx='172' cy='238' r='2.1'/%3E%3Ccircle cx='198' cy='118' r='2.1'/%3E%3Ccircle cx='312' cy='106' r='2.1'/%3E%3Ccircle cx='64' cy='44' r='2.1'/%3E%3Ccircle cx='178' cy='34' r='2.1'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: 320px 320px;
+}
+
+@utility ambient-warm {
+  background-image:
+    radial-gradient(60rem 34rem at 88% -12%, rgb(179 37 27 / 0.09), transparent 62%),
+    radial-gradient(46rem 30rem at 2% 6%, rgb(191 146 74 / 0.12), transparent 58%);
+}
+
+@layer components {
+  /* ---- Buttons -------------------------------------------------------- */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: var(--radius-sm);
+    padding: 0.8rem 1.35rem;
+    font-size: 0.9375rem;
+    font-weight: 550;
+    line-height: 1.1;
+    transition:
+      background-color 0.2s var(--ease-soft),
+      color 0.2s var(--ease-soft),
+      border-color 0.2s var(--ease-soft),
+      box-shadow 0.2s var(--ease-soft),
+      transform 0.15s var(--ease-soft);
+  }
+
+  .btn:active {
+    transform: translateY(1px) scale(0.985);
+  }
+
+  .btn-primary {
+    background-color: var(--color-brand);
+    color: #fff;
+    box-shadow: var(--shadow-soft);
+  }
+
+  .btn-primary:hover {
+    background-color: var(--color-brand-dark);
+    box-shadow: var(--shadow-lift);
+  }
+
+  .btn-secondary {
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-line-strong);
+    color: var(--color-ink);
+  }
+
+  .btn-secondary:hover {
+    border-color: var(--color-brand);
+    color: var(--color-brand);
+    background-color: var(--color-brand-tint);
+  }
+
+  .btn-quiet {
+    color: var(--color-brand);
+    padding-inline: 0.5rem;
+  }
+
+  .btn-quiet:hover {
+    background-color: var(--color-brand-tint);
+  }
+
+  /* ---- Text link with a sliding underline ----------------------------- */
+  .link {
+    color: var(--color-brand);
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    text-decoration-color: color-mix(in srgb, var(--color-brand) 35%, transparent);
+    transition: text-decoration-color 0.2s var(--ease-soft);
+  }
+
+  .link:hover {
+    text-decoration-color: var(--color-brand);
+  }
+
+  /* ---- Small caps label ---------------------------------------------- */
+  .eyebrow {
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-brand);
+  }
+
+  /* ---- Panel: elevation carries meaning, so only tools and dialogs use it */
+  .panel {
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius-panel);
+    box-shadow: var(--shadow-soft);
+  }
+
+  /* ---- Editorial index row (guides, pillars, hubs) -------------------- */
+  .index-row {
+    display: grid;
+    gap: 0.35rem 1.5rem;
+    padding: 1.35rem 0.25rem 1.35rem 0;
+    border-top: 1px solid var(--color-line);
+    transition:
+      background-color 0.2s var(--ease-soft),
+      padding-left 0.25s var(--ease-soft);
+  }
+
+  .index-row:hover {
+    background-color: var(--color-surface);
+    padding-left: 0.85rem;
+  }
+
+  .index-row .index-title {
+    transition: color 0.2s var(--ease-soft);
+  }
+
+  .index-row:hover .index-title {
+    color: var(--color-brand);
+  }
+
+  .index-row .index-arrow {
+    opacity: 0;
+    transform: translateX(-6px);
+    transition:
+      opacity 0.2s var(--ease-soft),
+      transform 0.25s var(--ease-soft);
+  }
+
+  .index-row:hover .index-arrow,
+  .index-row:focus-visible .index-arrow {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  /* ---- Skip link ------------------------------------------------------ */
+  .skip-link {
+    position: fixed;
+    top: 0.75rem;
+    left: 0.75rem;
+    z-index: var(--z-top);
+    transform: translateY(-250%);
+    border-radius: var(--radius-sm);
+    background-color: var(--color-ink);
+    color: #fff;
+    padding: 0.7rem 1rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    transition: transform 0.2s var(--ease-soft);
+  }
+
+  .skip-link:focus {
+    transform: translateY(0);
+  }
+
+  /* ---- Form controls -------------------------------------------------- */
+  .field {
+    width: 100%;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--color-line-strong);
+    background-color: var(--color-surface);
+    color: var(--color-ink);
+    padding: 0.6rem 0.75rem;
+    font-size: 0.9375rem;
+    transition:
+      border-color 0.2s var(--ease-soft),
+      box-shadow 0.2s var(--ease-soft);
+  }
+
+  .field:hover {
+    border-color: var(--color-faint);
+  }
+
+  .field:focus {
+    outline: none;
+    border-color: var(--color-brand);
+    box-shadow: 0 0 0 3px var(--color-brand-tint);
+  }
+
+  .field-label {
+    display: block;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    color: var(--color-ink);
+  }
+}
+
+/* ---- Long-form prose, themed to the paper palette --------------------- */
+.prose {
+  --tw-prose-body: var(--color-body);
+  --tw-prose-headings: var(--color-ink);
+  --tw-prose-lead: var(--color-muted);
+  --tw-prose-links: var(--color-brand);
+  --tw-prose-bold: var(--color-ink);
+  --tw-prose-counters: var(--color-muted);
+  --tw-prose-bullets: var(--color-line-strong);
+  --tw-prose-hr: var(--color-line);
+  --tw-prose-quotes: var(--color-body);
+  --tw-prose-quote-borders: var(--color-brand);
+  --tw-prose-captions: var(--color-faint);
+  --tw-prose-code: var(--color-ink);
+  --tw-prose-pre-code: var(--color-ink);
+  --tw-prose-pre-bg: var(--color-surface-2);
+  --tw-prose-th-borders: var(--color-line-strong);
+  --tw-prose-td-borders: var(--color-line);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+
+.prose :where(h2) {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  letter-spacing: -0.02em;
+  margin-top: 2.75em;
+  margin-bottom: 0.7em;
+}
+
+.prose :where(h3) {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  letter-spacing: -0.015em;
+  margin-top: 2em;
+}
+
+.prose :where(h2 + h3) {
+  margin-top: 1em;
+}
+
+.prose :where(a) {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in srgb, var(--color-brand) 35%, transparent);
+  font-weight: 500;
+}
+
+.prose :where(a:hover) {
+  text-decoration-color: var(--color-brand);
+}
+
+/* Markdown uses `>` for reviewer notes and warnings: render them as calls. */
+.prose :where(blockquote) {
+  font-style: normal;
+  font-weight: 450;
+  background-color: var(--color-brand-tint);
+  border-left: 3px solid var(--color-brand);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: 1rem 1.25rem;
+  color: var(--color-brand-ink);
+}
+
+.prose :where(blockquote p:first-of-type)::before,
+.prose :where(blockquote p:last-of-type)::after {
+  content: none;
+}
+
+.prose :where(blockquote p) {
+  margin-block: 0.35em;
+}
+
+.prose :where(strong) {
+  font-weight: 600;
+}
+
+.prose :where(li) {
+  margin-block: 0.4em;
+}
+
+.prose :where(li)::marker {
+  color: var(--color-line-strong);
+}
+
+.prose :where(table) {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  font-size: 0.9375rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.prose :where(thead th) {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+.prose :where(code):not(:where(pre code)) {
+  background-color: var(--color-surface-2);
+  border-radius: var(--radius-xs);
+  padding: 0.15em 0.4em;
+  font-size: 0.875em;
+}
+
+.prose :where(code):not(:where(pre code))::before,
+.prose :where(code):not(:where(pre code))::after {
+  content: none;
+}
+
+/* ---- Motion preferences ---------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* ---- Entrance motion: staggered, transform + opacity only ------------- */
+@media (prefers-reduced-motion: no-preference) {
+  [data-reveal] {
+    animation: reveal-up 0.6s var(--ease-soft) both;
+    animation-delay: var(--reveal-delay, 0s);
+  }
+
+  @keyframes reveal-up {
+    from {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
 }

@@ -1,25 +1,68 @@
 ---
+import { getCollection } from 'astro:content';
+
+const guideCount = (await getCollection('guides')).length;
+
 const links = [
-  { href: '/transit-visa/', label: 'Transit Visa' },
+  { href: '/transit-visa/', label: 'Transit visa' },
   { href: '/esim/', label: 'eSIM' },
   { href: '/payments/', label: 'Payments' },
-  { href: '/cities/', label: 'City Trips' },
+  { href: '/cities/', label: 'City trips' },
   { href: '/airports/', label: 'Airports' },
   { href: '/logistics/', label: 'Logistics' },
 ];
+
+const path = Astro.url.pathname.replace(/index\.html$/, '');
+
+/** A section stays highlighted for every page underneath it. */
+const isActive = (href: string) => path === href || path.startsWith(href);
+
+const linkClass = (href: string) =>
+  [
+    'relative inline-block py-1 text-sm transition-colors duration-200',
+    'after:absolute after:-bottom-0.5 after:left-0 after:h-px after:w-full after:origin-left after:bg-brand after:transition-transform after:duration-300',
+    isActive(href)
+      ? 'font-semibold text-ink after:scale-x-100'
+      : 'text-muted after:scale-x-0 hover:text-brand hover:after:scale-x-100',
+  ].join(' ');
 ---
 
-<header class="border-b border-slate-200">
-  <div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
-    <a href="/" class="text-lg font-extrabold tracking-tight text-slate-900">
-      China <span class="text-[var(--color-brand)]">Layover</span> Guide
+<header
+  class="sticky top-0 z-40 border-b border-line bg-paper/85 backdrop-blur-md backdrop-saturate-150"
+>
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3.5 sm:px-6">
+    <a href="/" class="group flex items-center gap-2.5">
+      <span
+        aria-hidden="true"
+        class="grid h-8 w-8 shrink-0 place-items-center rounded-[10px] bg-brand transition-transform duration-300 ease-soft group-hover:-rotate-6"
+      >
+        <svg viewBox="0 0 24 24" class="h-4.5 w-4.5" fill="none" aria-hidden="true">
+          <path
+            d="M3 18.5C7.5 15 9.5 8.5 16 6.2"
+            stroke="#fff"
+            stroke-width="1.8"
+            stroke-linecap="round"
+            stroke-dasharray="1.6 3"
+          ></path>
+          <circle cx="18.4" cy="5.4" r="2.4" fill="#fff"></circle>
+          <circle cx="4.2" cy="19" r="1.5" fill="#fff" opacity="0.75"></circle>
+        </svg>
+      </span>
+      <span class="font-display text-lg leading-none font-semibold tracking-[-0.03em] text-ink">
+        China&nbsp;<span class="text-brand">Layover</span>&nbsp;Guide
+      </span>
     </a>
-    <nav aria-label="Main navigation">
-      <ul class="flex items-center gap-4 text-sm font-medium sm:gap-6">
+
+    <nav aria-label="Main navigation" class="hidden md:block">
+      <ul class="flex items-center gap-6">
         {
           links.map((link) => (
             <li>
-              <a href={link.href} class="text-slate-600 hover:text-[var(--color-brand)]">
+              <a
+                href={link.href}
+                class={linkClass(link.href)}
+                aria-current={isActive(link.href) ? 'page' : undefined}
+              >
                 {link.label}
               </a>
             </li>
@@ -27,5 +70,68 @@ const links = [
         }
       </ul>
     </nav>
+
+    <details class="group relative md:hidden" data-mobile-menu>
+      <summary
+        class="flex cursor-pointer list-none items-center gap-2 rounded-sm border border-line-strong bg-surface px-3 py-2 text-sm font-semibold text-ink transition-colors duration-200 hover:border-brand hover:text-brand [&::-webkit-details-marker]:hidden"
+      >
+        <svg viewBox="0 0 20 20" class="h-4 w-4" fill="none" aria-hidden="true">
+          <path
+            d="M3 6h14M3 10h14M3 14h14"
+            stroke="currentColor"
+            stroke-width="1.8"
+            stroke-linecap="round"></path>
+        </svg>
+        Sections
+      </summary>
+      <nav
+        aria-label="Main navigation"
+        class="absolute right-0 z-50 mt-2 w-[min(20rem,calc(100vw-2rem))] rounded-card border border-line bg-surface p-2 shadow-lift"
+      >
+        <ul>
+          {
+            links.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  class:list={[
+                    'flex items-baseline justify-between gap-3 rounded-sm px-3 py-2.5 text-[0.95rem] transition-colors duration-200',
+                    isActive(link.href)
+                      ? 'bg-brand-tint font-semibold text-brand-ink'
+                      : 'text-body hover:bg-surface-2 hover:text-brand',
+                  ]}
+                  aria-current={isActive(link.href) ? 'page' : undefined}
+                >
+                  {link.label}
+                  <span class="text-xs text-faint">→</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+        <a
+          href="/guides/"
+          class="mt-1 block rounded-sm bg-ink px-3 py-2.5 text-[0.95rem] font-semibold text-paper transition-colors duration-200 hover:bg-brand"
+        >
+          All {guideCount} guides
+        </a>
+      </nav>
+    </details>
   </div>
 </header>
+
+<script>
+  // A <details> menu stays open when the reader taps elsewhere or presses Escape.
+  const menu = document.querySelector<HTMLDetailsElement>('[data-mobile-menu]');
+  if (menu) {
+    document.addEventListener('click', (event) => {
+      if (menu.open && !menu.contains(event.target as Node)) menu.open = false;
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && menu.open) {
+        menu.open = false;
+        menu.querySelector('summary')?.focus();
+      }
+    });
+  }
+</script>

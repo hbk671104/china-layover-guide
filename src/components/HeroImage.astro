@@ -26,7 +26,7 @@ const {
 ---
 
 <figure class={`m-0 ${className}`}>
-  <div class="overflow-hidden rounded-2xl bg-slate-100">
+  <div class="overflow-hidden rounded-panel border border-line bg-surface-2">
     <img
       src={src}
       alt={alt}
@@ -40,18 +40,14 @@ const {
   </div>
   {
     credit && (
-      <figcaption class="mt-2 text-xs text-slate-500">
-        Photo:{' '}
+      <figcaption class="mt-2 flex items-baseline gap-1.5 text-xs text-faint">
+        <span class="font-semibold tracking-[0.08em] uppercase">Photo</span>
         {creditUrl ? (
-          <a
-            href={creditUrl}
-            rel="noopener nofollow"
-            class="underline underline-offset-2 hover:text-[var(--color-brand)]"
-          >
+          <a href={creditUrl} rel="noopener nofollow" class="link">
             {credit}
           </a>
         ) : (
-          credit
+          <span>{credit}</span>
         )}
       </figcaption>
     )

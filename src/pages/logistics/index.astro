@@ -1,13 +1,14 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import HubHeader from '../../components/HubHeader.astro';
 import GuideList from '../../components/GuideList.astro';
+
+const siteUrl = 'https://chinalayoverguide.com';
 
 const guides = (
   await getCollection('guides', ({ data }) => data.category === 'logistics')
 ).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
-
-const siteUrl = 'https://chinalayoverguide.com';
 
 const jsonLd = [
   {
@@ -32,21 +33,25 @@ const jsonLd = [
   canonicalPath="/logistics/"
   jsonLd={jsonLd}
 >
-  <header class="mx-auto max-w-3xl px-4 pt-12">
-    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
-      Layover logistics
-    </h1>
-    <p class="mt-4 text-lg text-slate-600">
-      The unglamorous parts that decide whether a layover works: getting in from the airport,
-      dropping your bags, registering your stay, and staying out of trouble. Six guides cover
-      transfers, storage, DiDi, high-speed rail, safety, and the hotel-registration rule.
-    </p>
-  </header>
+  <HubHeader
+    eyebrow={`Layover logistics · ${guides.length} guides`}
+    title="Layover logistics"
+    lead="The unglamorous parts that decide whether a layover works: getting in from the airport, dropping your bags, registering your stay, and staying out of trouble."
+  />
 
-  <section class="mx-auto max-w-3xl px-4 py-10">
-    <h2 class="text-2xl font-bold text-slate-900">Guides</h2>
-    <div class="mt-6">
-      <GuideList guides={guides} />
+  <section class="mx-auto max-w-6xl px-4 py-14 sm:px-6" aria-labelledby="logistics-guides">
+    <h2
+      id="logistics-guides"
+      class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink sm:text-3xl"
+    >
+      Transfers, storage, and rules
+    </h2>
+    <p class="mt-3 max-w-[44rem] text-muted">
+      Start with the return-to-airport buffer, then work backwards through bags, transport, and
+      registration.
+    </p>
+    <div class="mt-8 max-w-[52rem]">
+      <GuideList guides={guides} showCategory={false} />
     </div>
   </section>
 </BaseLayout>
