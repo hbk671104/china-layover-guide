@@ -88,6 +88,12 @@ Before going live, set the production domain in `astro.config.mjs` (`site`) so c
 - The default social preview is `public/og-default.png` (1500×788, ~1.91:1). `public/og-default.svg` is the
   matching source layout; regenerate the PNG if you change the palette or the wordmark.
 - Affiliate links are intentionally absent in v1; the content model (`sources[]`) leaves room to add them with disclosures later.
+- In-site navigation is client-side (`<ClientRouter />` in `BaseLayout.astro`): links swap the body instead of reloading, so
+  the tab never flashes the URL, web fonts are not re-evaluated mid-transition, and scroll is preserved. Two consequences for
+  new code: an inline or component `<script>` runs **once per document**, so bind listeners that resolve their target when
+  they fire (as `Header.astro` does) or re-run them on the `astro:page-load` event; and a link that needs a real reload
+  (a new third-party embed, a different full-page layout) must carry `data-astro-reload`. Hover prefetch is Astro's default,
+  which is why in-site clicks feel instant.
 
 ## AI / agent files
 

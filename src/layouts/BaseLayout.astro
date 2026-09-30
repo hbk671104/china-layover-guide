@@ -1,8 +1,20 @@
 ---
+import { ClientRouter } from 'astro:transitions';
 import '../styles/global.css';
 import Seo from '../components/Seo.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+
+/*
+  Self-hosted variable fonts, preloaded.
+
+  The font CSS uses `font-display: swap`, so without a preload the first paint
+  is the system fallback and the real face swaps in a moment later. Both files
+  are same-origin and immutable, so preloading costs one early request and
+  removes the visible jump.
+*/
+import frauncesOpsz from '@fontsource-variable/fraunces/files/fraunces-latin-opsz-normal.woff2?url';
+import geistWght from '@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url';
 
 interface Props {
   title: string;
@@ -62,6 +74,17 @@ const allJsonLd = [...siteJsonLd, ...jsonLd];
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preload" as="font" type="font/woff2" href={frauncesOpsz} crossorigin="anonymous" />
+    <link rel="preload" as="font" type="font/woff2" href={geistWght} crossorigin="anonymous" />
+    {/*
+      Client-side navigation. Without it every in-site click is a full document
+      load: the tab shows the URL until the next <title> parses, the fonts are
+      re-evaluated into a fallback-then-swap flash, and scroll is lost.
+
+      Scripts in components run once per document, so anything that binds to the
+      DOM must re-bind on the `astro:page-load` event (see Header).
+    */}
+    <ClientRouter />
     <Seo
       {title}
       {description}
