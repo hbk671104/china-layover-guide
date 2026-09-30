@@ -15,6 +15,26 @@ npm run build      # static build into dist/
 npm run preview    # preview the built site locally
 ```
 
+## Design system
+
+All visual tokens live in `src/styles/global.css` (Tailwind v4 `@theme`), so a restyle is a
+token change rather than a class-by-class sweep:
+
+| Token group | Notes |
+|---|---|
+| `--font-display` / `--font-sans` | Fraunces (headings) + Geist (UI/body), self-hosted via `@fontsource-variable`. |
+| `--color-ink` / `--color-body` / `--color-muted` / `--color-faint` | One warm neutral ramp. Every tone clears WCAG AA (≥4.5:1) against the darkest surface it is used on (`--color-surface-2`); hierarchy above that comes from size, weight, and case. |
+| `--color-brand*` | Single accent (lacquer red) plus a tint for callouts. |
+| `--color-ok` / `--color-warn` / `--color-stop` | Status sets used by the eligibility checker and airport callouts. |
+| `--radius-*`, `--shadow-*`, `--ease-*`, `--z-*` | Tight radii inside, softer on containers; one top-left light source; named z-index scale. |
+| `dot-grid` / `route-arcs` / `ambient-warm` | Texture utilities. Background imagery is drawn in CSS/SVG, so no page depends on a third-party image host. |
+
+Reusable classes (`btn`, `panel`, `index-row`, `field`, `eyebrow`, `link`, `skip-link`) are defined in the
+same file under `@layer components` — prefer them over re-styling the same pattern inline.
+
+Fraunces swaps in a decorative ampersand above ~22px when optical sizing is automatic, so headings pin
+`font-variation-settings: 'opsz' 20`. Keep that if you change heading styles.
+
 ## Content
 
 - Articles: `src/content/guides/*.md` (frontmatter: `title`, `description`, `category`, `updated`, `sources[]`)
@@ -40,7 +60,8 @@ Before going live, set the production domain in `astro.config.mjs` (`site`) so c
 ## Notes
 
 - `astro` is pinned to `7.2.10`: `astro@7.3.0` fails static builds with `./_internal/logger is not exported` (package regression). Upgrade once a fixed version is published.
-- The OG image is a generated 1200×630 PNG (`public/og-default.png`), served as the default social preview.
+- The default social preview is `public/og-default.png` (1500×788, ~1.91:1). `public/og-default.svg` is the
+  matching source layout; regenerate the PNG if you change the palette or the wordmark.
 - Affiliate links are intentionally absent in v1; the content model (`sources[]`) leaves room to add them with disclosures later.
 
 ## AI / agent files
