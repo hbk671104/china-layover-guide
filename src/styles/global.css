@@ -514,4 +514,33 @@
       transform: none;
     }
   }
+
+  /*
+    Scroll-driven counterpart for sections below the fold. No JavaScript and no
+    scroll listener: the animation is bound to the element's own progress
+    through the viewport, so it costs nothing on the main thread and cannot
+    desynchronise from the scroll position.
+
+    Browsers without `animation-timeline` never match the @supports query and
+    simply render the content, which is why the hidden state lives inside it
+    rather than on the base rule: a page must never depend on the animation
+    running in order to be readable.
+  */
+  @supports (animation-timeline: view()) {
+    [data-reveal-scroll] {
+      animation: reveal-up 0.7s var(--ease-soft) both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 90%;
+    }
+  }
+}
+
+/* Printing or exporting the page must never capture an unplayed animation. */
+@media print {
+  [data-reveal],
+  [data-reveal-scroll] {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
 }
