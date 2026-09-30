@@ -13,7 +13,8 @@ npm-debug.log*
 .DS_Store
 # agent runtime state
 .reasonix/
-.agents/
+.agents/*
+!.agents/skills/
 reasonix.toml
 
 # local secrets (IndexNow key source, etc.)
