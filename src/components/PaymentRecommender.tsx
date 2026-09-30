@@ -17,19 +17,22 @@ export default function PaymentRecommender() {
   const plan = useMemo(() => buildPaymentPlan({ card, os }), [card, os]);
 
   return (
-    <section className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-      <h2 className="text-xl font-bold text-slate-900">Payment setup recommender</h2>
-      <p className="mt-1 text-sm text-slate-600">
+    <section className="rounded-panel border border-line bg-surface p-6 shadow-soft sm:p-8">
+      <p className="eyebrow">Payment setup</p>
+      <h2 className="mt-2 font-display text-2xl font-semibold tracking-[-0.02em] text-ink">
+        What to install, in order
+      </h2>
+      <p className="mt-2 max-w-[40rem] text-sm leading-relaxed text-muted">
         Tell us what you carry and we&rsquo;ll suggest the setup that works offline in China.
       </p>
 
-      <div className="mt-5 grid gap-4 sm:grid-cols-2">
+      <div className="mt-7 grid gap-5 sm:grid-cols-2">
         <label className="block">
-          <span className="text-sm font-semibold text-slate-700">Card you carry</span>
+          <span className="field-label">Card you carry</span>
           <select
             value={card}
             onChange={(event) => setCard(event.target.value as CardBrand)}
-            className="mt-1 w-full rounded-lg border border-slate-300 bg-white p-2 text-slate-900"
+            className="field mt-1.5"
           >
             {(Object.keys(cardLabels) as CardBrand[]).map((brand) => (
               <option key={brand} value={brand}>
@@ -40,11 +43,11 @@ export default function PaymentRecommender() {
         </label>
 
         <label className="block">
-          <span className="text-sm font-semibold text-slate-700">Phone</span>
+          <span className="field-label">Phone</span>
           <select
             value={os}
             onChange={(event) => setOs(event.target.value as PhoneOS)}
-            className="mt-1 w-full rounded-lg border border-slate-300 bg-white p-2 text-slate-900"
+            className="field mt-1.5"
           >
             <option value="ios">iPhone</option>
             <option value="android">Android</option>
@@ -52,25 +55,35 @@ export default function PaymentRecommender() {
         </label>
       </div>
 
-      <div className="mt-5 rounded-xl border border-slate-200 bg-slate-50 p-4">
-        <p className="font-bold text-slate-900">{plan.headline}</p>
-        <ol className="mt-3 space-y-3">
-          {plan.steps.map((step) => (
-            <li key={step.app} className="text-sm">
-              <span className="font-semibold text-slate-900">
-                {step.app}
-                {': '}
+      <div role="status" aria-live="polite" className="mt-7 rounded-card bg-surface-2 p-5 sm:p-6">
+        <p className="font-display text-lg font-semibold tracking-[-0.01em] text-ink">
+          {plan.headline}
+        </p>
+        <ol className="mt-4 space-y-4">
+          {plan.steps.map((step, index) => (
+            <li key={step.app} className="grid grid-cols-[1.75rem_1fr] gap-x-3">
+              <span className="pt-0.5 font-mono text-xs font-semibold text-brand tabular-nums">
+                {String(index + 1).padStart(2, '0')}
               </span>
-              <span className="text-slate-700">{step.action}</span>
-              <p className="mt-0.5 text-xs text-slate-500">{step.note}</p>
+              <div>
+                <p className="text-sm text-body">
+                  <span className="font-semibold text-ink">{step.app}</span>
+                  {': '}
+                  {step.action}
+                </p>
+                <p className="mt-1 text-xs leading-relaxed text-muted">{step.note}</p>
+              </div>
             </li>
           ))}
         </ol>
       </div>
 
-      <ul className="mt-4 space-y-1 text-xs text-slate-500">
+      <ul className="mt-5 space-y-1.5 border-t border-line pt-4 text-xs leading-relaxed text-faint">
         {plan.warnings.map((warning) => (
-          <li key={warning}>{warning}</li>
+          <li key={warning} className="flex gap-2.5">
+            <span aria-hidden="true" className="mt-[0.45rem] h-1 w-1 shrink-0 rounded-full bg-faint" />
+            {warning}
+          </li>
         ))}
       </ul>
     </section>
