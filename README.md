@@ -84,7 +84,8 @@ Before going live, set the production domain in `astro.config.mjs` (`site`) so c
 
 ## Notes
 
-- `astro` is pinned to `7.2.10`: `astro@7.3.0` fails static builds with `./_internal/logger is not exported` (package regression). Upgrade once a fixed version is published.
+- `astro` is on `7.3.5` (`^7.3.5`). The `./_internal/logger is not exported` regression that broke static builds in `7.3.0` is fixed as of `7.3.1`; `7.3.5` builds this site clean, so the old exact pin is gone.
+- MDX and RSS integrations are not installed. All content is Markdown (`.md`); `@astrojs/mdx` was carrying its own major-versioning churn for zero `.mdx` files, and `@astrojs/rss` was never imported. The `glob()` patterns in `src/content.config.ts` still tolerate `.mdx`, so re-adding `@astrojs/mdx` is a one-line change if an `.mdx` file is ever needed.
 - The default social preview is `public/og-default.png` (1500×788, ~1.91:1). `public/og-default.svg` is the
   matching source layout; regenerate the PNG if you change the palette or the wordmark.
 - Affiliate links are intentionally absent in v1; the content model (`sources[]`) leaves room to add them with disclosures later.
