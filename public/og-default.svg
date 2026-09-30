@@ -1,7 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#c2271d"/>
-  <circle cx="600" cy="300" r="150" fill="#ffffff" opacity="0.15"/>
-  <circle cx="600" cy="300" r="90" fill="#ffffff" opacity="0.25"/>
-  <text x="600" y="330" font-family="Helvetica, Arial, sans-serif" font-size="72" font-weight="bold" fill="#ffffff" text-anchor="middle">China Layover Guide</text>
-  <text x="600" y="400" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#ffffff" text-anchor="middle">visa-free transit · eSIM · payments · city trips</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 788" width="1500" height="788">
+  <!--
+    Source for the default social card. og-default.png is the file that ships
+    (rendered from this layout at the same size), because most crawlers do not
+    render SVG. Keep the two in step: palette and type come from src/styles/global.css.
+  -->
+  <defs>
+    <radialGradient id="glow" cx="88%" cy="-20%" r="62%">
+      <stop offset="0" stop-color="#fffdf9" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#fffdf9" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="arcs" width="400" height="400" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#fffdf9" stroke-opacity="0.22" stroke-width="1.8">
+        <path d="M22 315 Q115 208 215 298" />
+        <path d="M248 148 Q320 72 390 132" />
+        <path d="M80 55 Q148 10 222 42" />
+      </g>
+      <g fill="#fffdf9" fill-opacity="0.4">
+        <circle cx="22" cy="315" r="3" />
+        <circle cx="215" cy="298" r="3" />
+        <circle cx="248" cy="148" r="3" />
+        <circle cx="390" cy="132" r="3" />
+        <circle cx="80" cy="55" r="3" />
+        <circle cx="222" cy="42" r="3" />
+      </g>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="788" fill="#b3251b" />
+  <rect width="1500" height="788" fill="url(#arcs)" opacity="0.5" />
+  <rect width="1500" height="788" fill="url(#glow)" />
+
+  <text
+    x="105"
+    y="140"
+    font-family="Geist Variable, Helvetica, Arial, sans-serif"
+    font-size="24"
+    font-weight="600"
+    letter-spacing="3.8"
+    fill="#fffdf9"
+    fill-opacity="0.82">240-HOUR VISA-FREE TRANSIT</text
+  >
+
+  <text
+    x="105"
+    y="290"
+    font-family="Fraunces Variable, Georgia, serif"
+    font-size="115"
+    font-weight="600"
+    letter-spacing="-4"
+    fill="#fffdf9">China Layover Guide</text
+  >
+
+  <text
+    x="105"
+    y="380"
+    font-family="Geist Variable, Helvetica, Arial, sans-serif"
+    font-size="38"
+    fill="#fffdf9"
+    fill-opacity="0.9">Visa-free transit, eSIM and payments,</text
+  >
+  <text
+    x="105"
+    y="432"
+    font-family="Geist Variable, Helvetica, Arial, sans-serif"
+    font-size="38"
+    fill="#fffdf9"
+    fill-opacity="0.9">decoded for your stopover.</text
+  >
+
+  <rect x="105" y="663" width="1290" height="1" fill="#fffdf9" fill-opacity="0.35" />
+  <circle cx="112" cy="728" r="5.5" fill="#fffdf9" />
+  <text
+    x="135"
+    y="737"
+    font-family="Geist Variable, Helvetica, Arial, sans-serif"
+    font-size="28"
+    fill="#fffdf9"
+    fill-opacity="0.86">chinalayoverguide.com</text
+  >
+  <text
+    x="1395"
+    y="737"
+    text-anchor="end"
+    font-family="Geist Variable, Helvetica, Arial, sans-serif"
+    font-size="28"
+    fill="#fffdf9"
+    fill-opacity="0.86">55 countries · 65 ports · 240 hours</text
+  >
 </svg>

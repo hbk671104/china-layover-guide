@@ -7,6 +7,8 @@ interface Props {
   image?: string;
   siteName: string;
   jsonLd?: Record<string, unknown>[];
+  /** Keep a page out of search results (404s, thank-you pages). */
+  noindex?: boolean;
 }
 
 const {
@@ -17,6 +19,7 @@ const {
   image = '/og-default.png',
   siteName,
   jsonLd = [],
+  noindex = false,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://chinalayoverguide.com');
@@ -26,19 +29,25 @@ const ogImage = new URL(image, site).href;
 
 <meta name="generator" content={Astro.generator} />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<meta name="theme-color" content="#faf7f2" />
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
+{noindex && <meta name="robots" content="noindex, follow" />}
 <meta property="og:type" content={type} />
 <meta property="og:site_name" content={siteName} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonical} />
 <meta property="og:image" content={ogImage} />
+<meta property="og:image:width" content="1500" />
+<meta property="og:image:height" content="788" />
+<meta property="og:image:alt" content={`${siteName} — ${title}`} />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={title} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={ogImage} />
+<meta name="twitter:image:alt" content={`${siteName} — ${title}`} />
 {
   jsonLd.map((block) => (
     <script type="application/ld+json" is:inline set:html={JSON.stringify(block)} />
