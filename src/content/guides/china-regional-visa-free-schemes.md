@@ -2,15 +2,15 @@
 title: "China's Regional Visa-Free Schemes: Hainan, Bilateral Deals & Hainan 30 Days"
 description: "Beyond the national rules, China runs regional and bilateral visa-free schemes: including 30 days in Hainan and mutual agreements with dozens of countries."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "National Immigration Administration (NIA) — Regional visa-free entry policies"
     url: "https://en.nia.gov.cn/n147418/n147463/c180637/content.html"
-  - label: "National Immigration Administration (NIA) — Unilateral visa-free policy list (2026-02-17)"
-    url: "https://en.nia.gov.cn/n147418/n147468/c182992/content.html"
+  - label: "National Immigration Administration (NIA) — List of countries covered by unilateral visa exemption policies (2026-02-17)"
+    url: "https://en.nia.gov.cn/n147418/n147463/c183390/content.html"
 faqs:
   - question: "Can I enter Hainan without a visa?"
-    answer: "Yes. Foreign nationals holding ordinary passports from 59+ countries can enter and stay in Hainan Province for up to 30 days without a visa for tourism, business, family visits, medical treatment, conferences, and sports events. Work and study are excluded."
+    answer: "Yes. Foreign nationals holding ordinary passports from 61 countries can enter and stay in Hainan Province for up to 30 days without a visa for tourism, business, family visits, medical treatment, conferences, and sports events. Work and study are excluded."
   - question: "What are China's bilateral visa-free agreements?"
     answer: "China has mutual visa-exemption agreements with around 29 countries, including Singapore, Malaysia, Thailand, the UAE, Qatar, and several others. Citizens of those countries generally do not need a visa in advance for short stays."
   - question: "Is there a visa-free scheme for the Pearl River Delta?"
@@ -21,15 +21,15 @@ faqs:
 
 ## The short answer
 
-China's visa-free landscape is not just two lists. There are also **regional schemes** (most notably **30 days in Hainan** for 59+ countries) and **bilateral agreements** with around 29 countries. If a scheme applies to you, it can be simpler than the transit rules, but each has its own area, purpose, and stay limits.
+China's visa-free landscape is not just two lists. There are also **regional schemes** (most notably **30 days in Hainan** for 61 countries) and **bilateral agreements** with around 29 countries. If a scheme applies to you, it can be simpler than the transit rules, but each has its own area, purpose, and stay limits.
 
 ## The main schemes
 
 | Scheme | Scope | Stay | Notes |
 |---|---|---|---|
-| **Unilateral 30-day entry** | Nationwide | 30 days | ~50 countries; no third-country rule |
-| **240-hour transit** | 65 ports, 24 provinces | 240 hours | 55 countries; third-country ticket required |
-| **Hainan 30-day** | Hainan Province only | 30 days | 59+ countries; tourism, business, family, medical, conferences, sports |
+| **Unilateral 30-day entry** | Nationwide | 30 days | 50 countries; no third-country rule |
+| **240-hour transit** | 65 ports, 24 provinces | 240 hours | 57 countries; third-country ticket required |
+| **Hainan 30-day** | Hainan Province only | 30 days | 61 countries; tourism, business, family, medical, conferences, sports |
 | **Bilateral agreements** | Nationwide | Typically 30 days per entry, 90 days per 180 | ~29 countries |
 | **Hong Kong / Macao group tours** | Specific routes | Varies | Tourist-group conditions apply |
 
@@ -37,7 +37,7 @@ China's visa-free landscape is not just two lists. There are also **regional sch
 
 Hainan runs its own visa-free policy, separate from the national rules:
 
-- **Who:** ordinary passport holders from 59+ countries
+- **Who:** ordinary passport holders from 61 countries
 - **How long:** up to **30 days**
 - **Purpose:** tourism, business, visits, family, medical treatment, conferences and exhibitions, sports competitions
 - **Not allowed:** work or study
@@ -53,7 +53,7 @@ Where a bilateral agreement exists, **it takes precedence** over the general uni
 
 ## How to check which applies
 
-1. **Find your nationality** on the [NIA unilateral list](https://en.nia.gov.cn/n147418/n147468/c182992/content.html) and the [240-hour transit list](/guides/240-hour-transit-ports-and-permitted-areas/).
+1. **Find your nationality** on the [NIA unilateral list](https://en.nia.gov.cn/n147418/n147463/c183390/content.html) and the [240-hour transit list](/guides/240-hour-transit-ports-and-permitted-areas/).
 2. **Check for a bilateral agreement**. These are usually the most flexible.
 3. **If your destination is Hainan**, check the regional scheme separately.
 4. **Confirm with the airline** before booking non-refundable travel; they check at boarding.

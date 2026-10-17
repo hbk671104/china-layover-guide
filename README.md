@@ -42,7 +42,7 @@ Fraunces swaps in a decorative ampersand above ~22px when optical sizing is auto
 - Cities: `src/content/cities/*.md` (frontmatter per the `cities` schema in `src/content.config.ts`)
 - Rule data for the interactive widgets: `src/data/visa-rules.ts` and `src/data/payment-matrix.ts`
 
-Every factual page carries a `Last updated` date and `Sources`. **Verify immigration and payment facts against official sources before publishing changes.**
+Every guide carries a `Last updated` date and a `Sources` list rendered at the foot of the page; city pages carry a date only, because the `cities` schema has no `sources` field. **Verify immigration and payment facts against official sources before publishing changes.**
 
 ## Search
 

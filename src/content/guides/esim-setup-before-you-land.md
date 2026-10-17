@@ -2,7 +2,7 @@
 title: "China eSIM Setup: Do It Before You Land"
 description: "Why a China travel eSIM keeps your usual apps working, how to choose a plan, and the exact setup steps to finish before your flight lands."
 category: esim
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "Airalo — China eSIM plans (example provider, not an endorsement)"
     url: "https://www.airalo.com/china-esim"
@@ -21,7 +21,7 @@ faqs:
     answer: "Chinese carriers sell local SIMs and eSIMs, but those route through mainland networks, so the apps you need stay blocked without a VPN. For a short layover, a travel eSIM is the simpler choice."
 ---
 
-> Reviewed 2026-09-16. eSIM plans and prices change often: check the provider's current terms before buying.
+> Reviewed 2026-10-16. eSIM plans and prices change often: check the provider's current terms before buying.
 
 ## Why you need this before you land
 
@@ -30,7 +30,7 @@ China's network blocks many apps you use every day, Google services, WhatsApp, I
 1. **A travel eSIM** (recommended): your data is routed through a partner network outside China, so blocked apps keep working without a VPN.
 2. **A local Chinese SIM**: fast and cheap, but blocked apps stay blocked unless you also set up a VPN.
 
-The catch: **airport Wi-Fi in China usually requires an SMS code**, and your home number may not receive it. Set everything up before departure, not in the arrivals hall.
+The catch: **airport Wi-Fi in China needs a login code.** At the main hubs (PEK, PKX, PVG, CAN) a passport is enough and no Chinese number is needed, but getting that code is still one more step between you and a map. Set everything up before departure, not in the arrivals hall.
 
 ## Before you buy
 
@@ -61,6 +61,6 @@ A travel eSIM is the highest-leverage thing you can do before a China layover: i
 - [Best eSIM for China: Airalo, Holafly & Nomad compared](/guides/best-esim-for-china/)
 - [eSIM vs VPN vs roaming in China](/guides/esim-vs-vpn-vs-roaming/)
 - [Does Google Maps work in China?](/guides/does-google-maps-work-in-china/)
-- [China airport Wi-Fi: the SMS catch](/guides/china-airport-wifi/)
+- [China airport Wi-Fi: logging in with a passport](/guides/china-airport-wifi/)
 - [China apps checklist: what to install before you fly](/guides/china-apps-checklist/)
 - [Payments in China for foreigners](/guides/payments-in-china-for-foreigners/)

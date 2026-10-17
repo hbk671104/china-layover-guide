@@ -39,9 +39,9 @@ export function checkEligibility(input: EligibilityInput): EligibilityResult {
     const subject = name && name.toLowerCase() !== 'other' ? name : 'Your nationality';
     return {
       status: 'not-eligible',
-      headline: `${subject} is not on the 55-country list`,
+      headline: `${subject} is not on the 57-country list`,
       reasons: [
-        'The 240-hour visa-free transit policy only covers citizens of 55 listed countries.',
+        'The 240-hour visa-free transit policy only covers citizens of 57 listed countries.',
         'You will likely need a Chinese visa before you travel, unless another visa-free arrangement (for example the 30-day visa-free entry) applies to you.',
       ],
       disclaimers,
@@ -77,7 +77,7 @@ export function checkEligibility(input: EligibilityInput): EligibilityResult {
     status: 'eligible',
   headline: 'Looks eligible | with the usual caveats',
     reasons: [
-      'Your nationality is on the 55-country list.',
+      'Your nationality is on the 57-country list.',
       `${port.label} is a designated transit port.`,
       `Allowed travel area: ${port.allowedArea}.`,
       'You must hold a confirmed onward ticket to a third country or region departing within 240 hours.',

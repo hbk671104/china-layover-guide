@@ -2,7 +2,7 @@
 title: "Do You Need Cash in China? (Yes, Here's How Much)"
 description: "China is nearly cashless, but RMB cash is still worth carrying. How much to bring, what it's actually for, and how ATMs and the law work for tourists."
 category: payments
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "People's Bank of China — English portal"
     url: "https://www.pbc.gov.cn/en/index.html"
@@ -42,7 +42,7 @@ Do not carry large amounts. The point is a fallback, not a wallet.
 
 ## Where to get yuan
 
-- **ATMs at major banks**, Bank of China, ICBC, China Construction Bank, and Agricultural Bank accept many international cards. Withdraw a sensible amount to limit per-withdrawal fees.
+- **ATMs at major banks**, Bank of China, ICBC, China Construction Bank, and Agricultural Bank accept many international cards. Withdraw a sensible amount to limit per-withdrawal fees; overseas cards are generally capped at ¥3,000 per transaction.
 - **Bank counters**, reliable, with a passport.
 - **Avoid** relying on airport currency exchange; rates are usually poor compared with an ATM.
 

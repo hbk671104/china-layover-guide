@@ -12,17 +12,17 @@ Page count: 36 guides, 12 city pages
 ## 24-Hour vs 240-Hour Visa-Free Transit in China: What's the Difference?
 
 Source: https://chinalayoverguide.com/guides/24-hour-vs-240-hour-visa-free-transit/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
-The **24-hour rule** is for any nationality and covers a quick connection, including leaving the airport for a few hours. The **240-hour rule** is for citizens of 55 countries and grants up to **10 days**, but only with a confirmed onward ticket to a third country or region. If you have a long stop and an eligible passport, the 240-hour rule is the one you want.
+The **24-hour rule** is for any nationality and covers a quick connection, including leaving the airport for a few hours. The **240-hour rule** is for citizens of 57 countries and grants up to **10 days**, but only with a confirmed onward ticket to a third country or region. If you have a long stop and an eligible passport, the 240-hour rule is the one you want.
 
 ## Side by side
 
 | | 24-hour visa-free transit | 240-hour visa-free transit |
 |---|---|---|
-| **Who** | Almost all nationalities | Citizens of 55 countries |
+| **Who** | Almost all nationalities | Citizens of 57 countries |
 | **How long** | Under 24 hours | Up to 240 hours (10 days) |
 | **Onward ticket** | Needed onward travel | Confirmed ticket to a *third* country or region |
 | **Clock starts** | From your scheduled arrival | 00:00 the day after entry |
@@ -41,7 +41,7 @@ Important: the 24-hour clock is counted from your **scheduled arrival time**, no
 
 ## How the 240-hour rule works
 
-- Available to citizens of **55 countries**.
+- Available to citizens of **57 countries**.
 - You enter and exit through **65 designated ports** across **24 provinces**.
 - The stay begins at **00:00 the day after entry**, effectively giving you 10 calendar days.
 - You must hold a **confirmed onward ticket to a third country or region**, departing within 240 hours. Hong Kong, Macau, and Taiwan count as separate regions for this purpose.
@@ -62,7 +62,7 @@ Both rules are about transit, not tourism for its own sake. If your stop is shor
 
 ### What is the difference between the 24-hour and 240-hour visa-free transit?
 
-The 24-hour rule lets almost any nationality pass through China for less than 24 hours without a visa. The 240-hour rule covers 55 specific nationalities and allows up to 10 days, but requires a confirmed onward ticket to a third country or region.
+The 24-hour rule lets almost any nationality pass through China for less than 24 hours without a visa. The 240-hour rule covers 57 specific nationalities and allows up to 10 days, but requires a confirmed onward ticket to a third country or region.
 
 ### Can I leave the airport on a 24-hour transit?
 
@@ -74,11 +74,11 @@ No. The 240-hour stay begins at 00:00 on the day after entry, which in practice 
 
 ### Is the 24-hour transit available to every nationality?
 
-Yes: the 24-hour direct transit facility is open to almost all nationalities at most international ports. The 240-hour policy is restricted to 55 listed countries.
+Yes: the 24-hour direct transit facility is open to almost all nationalities at all open ports. The 240-hour policy is restricted to 57 listed countries.
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 - National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
 
 ---
@@ -86,9 +86,9 @@ Yes: the 24-hour direct transit facility is open to almost all nationalities at 
 ## China's 240-Hour Transit: The 65 Ports and Permitted Areas (Reference)
 
 Source: https://chinalayoverguide.com/guides/240-hour-transit-ports-and-permitted-areas/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
-> This reference was last reviewed on 2026-09-16. Port lists and permitted-area rules change: always confirm the current list with the National Immigration Administration (NIA) or the 12367 hotline before booking.
+> This reference was last reviewed on 2026-10-16. Port lists and permitted-area rules change: always confirm the current list with the National Immigration Administration (NIA) or the 12367 hotline before booking.
 
 ## What this page is
 
@@ -186,7 +186,7 @@ The permitted area depends on your port of entry. Many ports cover a whole provi
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 - National Immigration Administration (NIA) — official English portal and 12367 hotline information: https://en.nia.gov.cn/
 
 ---
@@ -194,19 +194,19 @@ The permitted area depends on your port of entry. Many ports cover a whole provi
 ## China's 240-Hour Visa-Free Transit: The Complete Guide
 
 Source: https://chinalayoverguide.com/guides/240-hour-visa-free-transit/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
-> This page was last reviewed on 2026-09-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
+> This page was last reviewed on 2026-10-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
 
 ## What the 240-hour visa-free transit policy is
 
-China allows citizens of **55 countries** to transit through designated mainland China ports **without a visa for up to 240 hours (10 days)**, as long as they are traveling onward to a third country or region. The policy replaced the older 72-hour and 144-hour schemes in December 2024, and was expanded again in 2025 (Indonesia was added as the 55th eligible country in June 2025).
+China allows citizens of **57 countries** to transit through designated mainland China ports **without a visa for up to 240 hours (10 days)**, as long as they are traveling onward to a third country or region. The policy replaced the older 72-hour and 144-hour schemes in December 2024. Indonesia was added in June 2025, and Kyrgyzstan and Vietnam in August 2026, bringing the list from 54 to 57.
 
 For a traveler flying from, say, London to Tokyo with a stopover in Shanghai, this means: enter Shanghai visa-free, explore for up to 10 days, then continue to Tokyo. You do **not** need to stay inside the airport. You can leave and travel within the permitted areas.
 
 ## Who is eligible
 
-- You hold a passport from one of the **55 eligible countries** (including the US, Canada, UK, Australia, New Zealand, Japan, South Korea, Singapore, Indonesia, and most of Europe). The NIA publishes the authoritative list.
+- You hold a passport from one of the **57 eligible countries** (including the US, Canada, UK, Australia, New Zealand, Japan, South Korea, Singapore, Indonesia, Vietnam, Kyrgyzstan, and most of Europe). The NIA publishes the authoritative list.
 - You have a confirmed onward ticket to a **third country or region** departing within 240 hours (10 days) of arrival.
 - You enter and exit through **designated ports** and stay within the permitted areas for those ports.
 - Your passport is valid for at least **3 months** beyond your entry.
@@ -302,7 +302,7 @@ Yes, foreign visitors must register their accommodation within 24 hours of arriv
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 - National Immigration Administration (NIA) — official English portal and 12367 hotline information: https://en.nia.gov.cn/
 
 ---
@@ -310,9 +310,9 @@ Yes, foreign visitors must register their accommodation within 24 hours of arriv
 ## 30-Day Visa-Free Entry vs 240-Hour Transit: Which One Applies to You?
 
 Source: https://chinalayoverguide.com/guides/30-day-visa-free-vs-240-hour-transit/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
-> This page was last reviewed on 2026-09-16. Both policies change often: countries are regularly added and expiry dates shift. Always confirm the current list for your nationality with the National Immigration Administration (NIA) or the 12367 hotline before booking.
+> This page was last reviewed on 2026-10-16. Both policies change often: countries are regularly added and expiry dates shift. Always confirm the current list for your nationality with the National Immigration Administration (NIA) or the 12367 hotline before booking.
 
 ## The short version
 
@@ -321,7 +321,7 @@ China runs **two overlapping visa-free schemes**, and travelers routinely confus
 | | 30-day visa-free entry | 240-hour visa-free transit |
 |---|---|---|
 | **What it is** | A standalone visa waiver for short visits | A transit rule for people passing through to somewhere else |
-| **Who** | Passport holders from ~50 eligible countries | Passport holders from 55 eligible countries |
+| **Who** | Passport holders from 50 eligible countries | Passport holders from 57 eligible countries |
 | **How long** | Up to **30 days** | Up to **240 hours (10 days)** |
 | **Do I need an onward ticket?** | No (round trips are fine | **Yes**) onward to a third country/region |
 | **Where can I go?** | Anywhere in mainland China | Only within the permitted areas (65 ports across 24 provinces) |
@@ -335,7 +335,7 @@ China runs **two overlapping visa-free schemes**, and travelers routinely confus
 
 ## When the 30-day visa-free entry is the better choice
 
-China's unilateral visa-free policy lets citizens of around **50 countries** (including most of the EU, the UK, Australia, New Zealand, Japan, South Korea, several Gulf and Latin American countries) enter for **up to 30 days** for tourism, business, visits, or transit, with **no visa** and **no third-country requirement**.
+China's unilateral visa-free policy lets citizens of **50 countries** (including most of the EU, the UK, Canada, Australia, New Zealand, Japan, South Korea, several Gulf and Latin American countries) enter for **up to 30 days** for tourism, business, visits, or transit, with **no visa** and **no third-country requirement**.
 
 Use it when:
 
@@ -349,9 +349,9 @@ The 30-day entry is almost always the **simpler, more flexible** option when you
 
 ## When the 240-hour transit is the better (or only) choice
 
-The 240-hour visa-free transit covers **55 countries** and is specifically for travelers passing through China to a third country or region. Use it when:
+The 240-hour visa-free transit covers **57 countries** and is specifically for travelers passing through China to a third country or region. Use it when:
 
-- Your nationality is **not** on the 30-day list but **is** on the 55-country transit list (notable example: **US citizens**, who are not on the current 30-day list).
+- Your nationality is **not** on the 30-day list but **is** on the 57-country transit list (notable example: **US citizens**, who are not on the current 30-day list).
 - You genuinely are transiting (e.g. New York → Beijing → Tokyo) and only have a few days.
 
 The trade-off: the transit scheme restricts you to the permitted areas of the provinces involved, and a round trip (London → Shanghai → London) does **not** qualify.
@@ -373,13 +373,13 @@ For most eligible travelers, the 30-day entry makes the 240-hour transit **irrel
    - No → continue.
 
 2. **Are you transiting through China to a third country or region?**
-   - Yes, and your country is on the 55-country transit list → use the **240-hour transit**; stay within the permitted areas, exit within 240 hours.
+   - Yes, and your country is on the 57-country transit list → use the **240-hour transit**; stay within the permitted areas, exit within 240 hours.
    - Yes, but your country isn't on either list → you likely need a Chinese visa.
    - No (round trip or China is your destination) → you likely need a visa.
 
 ## The fine print that trips people up
 
-- **The two lists are not the same.** The 30-day list (~50 countries) and the 240-hour list (55 countries) overlap heavily but differ. The US, for example, is on the transit list but not on the current 30-day list. Brazil and Argentina are on both. Check *your* nationality against *both*.
+- **The two lists are not the same.** The 30-day list (50 countries) and the 240-hour list (57 countries) overlap heavily but differ. The US, for example, is on the transit list but not on the current 30-day list. Brazil and Argentina are on both. Check *your* nationality against *both*.
 - **Expiry dates.** The unilateral 30-day policy is temporary and renewed in waves (most countries through 31 December 2026; Russia's runs on its own schedule). A country on the list today may not be on it next year.
 - **Ordinary passports only.** Both policies apply to holders of ordinary, valid passports.
 - **Purpose limits.** Both allow tourism, business, and visits, neither allows work, study, or journalism without the proper visa.
@@ -409,7 +409,7 @@ Yes. If your nationality is on the 30-day list, you can enter on that instead of
 
 ### What disqualifies me from the 240-hour transit policy?
 
-Three things most often: a passport that is not on the 55-country list, an onward ticket that returns to where you came from rather than a third country or region, and entering at a port that is not designated for transit.
+Three things most often: a passport that is not on the 57-country list, an onward ticket that returns to where you came from rather than a third country or region, and entering at a port that is not designated for transit.
 
 ### Do I need a visa if I qualify for either scheme?
 
@@ -418,21 +418,21 @@ No. Both are visa-free entry routes. The transit policy is a form of visa-free e
 **Sources**
 
 - National Immigration Administration (NIA) — official English portal and 12367 hotline information: https://en.nia.gov.cn/
-- National Immigration Administration (NIA) — Unilateral visa-free policy: latest country list (2026-02-17): https://en.nia.gov.cn/n147418/n147468/c182992/content.html
-- National Immigration Administration (NIA) — Policy interpretation: visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — List of countries covered by unilateral visa exemption policies (2026-02-17): https://en.nia.gov.cn/n147418/n147463/c183390/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
 ## Can I Leave the Airport During a China Layover?
 
 Source: https://chinalayoverguide.com/guides/can-you-leave-the-airport-during-a-china-layover/
-Last updated: 2026-09-24
+Last updated: 2026-10-16
 
-> This page was last reviewed on 2026-09-24. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
+> This page was last reviewed on 2026-10-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
 
 ## The short answer
 
-If you're transiting through mainland China to a third country or region, and your passport is from one of the **55 eligible countries**, you can **leave the airport without a visa for up to 240 hours (10 days)**: no stay inside the terminal required. For most layover travelers, the real question isn't *"am I allowed?"* but *"do I actually have enough hours to make it worthwhile?"*
+If you're transiting through mainland China to a third country or region, and your passport is from one of the **57 eligible countries**, you can **leave the airport without a visa for up to 240 hours (10 days)**: no stay inside the terminal required. For most layover travelers, the real question isn't *"am I allowed?"* but *"do I actually have enough hours to make it worthwhile?"*
 
 ## Do you need a visa to walk out the door?
 
@@ -440,7 +440,7 @@ If you're transiting through mainland China to a third country or region, and yo
 
 You need four things:
 
-1. **An eligible passport**: one of 55 countries, including the US, Canada, UK, Australia, New Zealand, Japan, South Korea, and most of Europe.
+1. **An eligible passport**: one of 57 countries, including the US, Canada, UK, Australia, New Zealand, Japan, South Korea, Vietnam, and most of Europe.
 2. **A confirmed onward ticket to a third country or region**, departing within 240 hours (Hong Kong, Macau, and Taiwan count as separate regions).
 3. **Entry and exit through designated ports.**
 4. **A passport valid for at least 3 months** (some airlines require 6: carry a buffer).
@@ -484,8 +484,8 @@ This is the math that decides everything:
 
 Check the two lists. They overlap but aren't identical:
 
-- **55-country transit list**, includes **US citizens** (notably).
-- **30-day visa-free list**, around 50 countries, including most of the EU, the UK, Australia, New Zealand, Japan, and South Korea.
+- **57-country transit list**, includes **US citizens** (notably).
+- **30-day visa-free list**, 50 countries, including most of the EU, the UK, Canada, Australia, New Zealand, Japan, and South Korea.
 
 If you're on the 30-day list, use that instead. It's simpler and lets you return to your origin country, unlike the transit rule. For the full comparison, see [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
 
@@ -543,7 +543,7 @@ You are responsible for it, and the airline is not obliged to rebook you for fre
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 - National Immigration Administration (NIA) — official English portal and 12367 hotline information: https://en.nia.gov.cn/
 
 ---
@@ -769,17 +769,17 @@ Sometimes. Air China covers domestic-to-domestic connections with a 6–24 hour 
 ## China Layover Statistics & Facts 2026: The Numbers That Matter
 
 Source: https://chinalayoverguide.com/guides/china-layover-statistics-and-facts/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
-China's 240-hour visa-free transit covers **55 countries** through **65 ports** in **24 provinces**, for up to **10 days**. A separate 30-day visa-free entry scheme covers **around 50 countries**. This page collects the numbers so you can cite or check them.
+China's 240-hour visa-free transit covers **57 countries** through **65 ports** in **24 provinces**, for up to **10 days**. A separate 30-day visa-free entry scheme covers **50 countries**. This page collects the numbers so you can cite or check them.
 
 ## Visa-free transit (240-hour)
 
 | Fact | Figure |
 |---|---|
-| Eligible countries | **55** |
+| Eligible countries | **57** |
 | Maximum stay | **240 hours (10 days)** |
 | Designated ports | **65** |
 | Provinces / regions covered | **24** |
@@ -825,23 +825,23 @@ Transfer times and fares change, verify on the airport's own site before relying
 
 - **10 days**: the practical length of the 240-hour transit window.
 - **65 ports, 24 provinces**, where the 240-hour policy applies.
-- **~50 vs 55**: the 30-day entry list and the 240-hour transit list are **not the same**, and they overlap heavily but differ (the US is transit-only).
+- **50 vs 57**: the 30-day entry list and the 240-hour transit list are **not the same**, and they overlap heavily but differ (the US is transit-only).
 - **3 months**: the NIA's minimum passport validity for the transit policy; airlines may ask for six.
 - **2.5–3 hours**: the buffer to be back at the airport before an international departure.
 
 ## How to use this page
 
-If you are writing about China layovers or quoting a figure, the visa-free numbers trace to the NIA (2025-07-04) and the 30-day list to the NIA compilation of 2026-02-17. Everything else (fares, transfer times, opening hours) is indicative and should be re-checked against the operator.
+If you are writing about China layovers or quoting a figure, the visa-free numbers trace to the NIA's Visa-Free Transit Policies page (revised 2026-08-20) and the 30-day list to the NIA compilation of 2026-02-17. Everything else (fares, transfer times, opening hours) is indicative and should be re-checked against the operator.
 
 ## Bottom line
 
-55 countries, 65 ports, 24 provinces, 10 days. Those are the core figures. For how to use them, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/) and [30-day vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
+57 countries, 65 ports, 24 provinces, 10 days. Those are the core figures. For how to use them, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/) and [30-day vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
 
 **Frequently asked questions**
 
 ### How many countries can use China's 240-hour visa-free transit?
 
-55 countries, as of the NIA policy interpretation of 2025-07-04. Indonesia was added in June 2025, bringing the total from 54 to 55.
+57 countries, as of the NIA's Visa-Free Transit Policies page revised 2026-08-20. Kyrgyzstan and Vietnam were added on 20 August 2026, bringing the total from 55 to 57.
 
 ### How many ports allow 240-hour visa-free transit?
 
@@ -857,8 +857,8 @@ Around 50 countries hold ordinary passports eligible for the unilateral 30-day v
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-- National Immigration Administration (NIA) — Unilateral visa-free policy list (2026-02-17): https://en.nia.gov.cn/n147418/n147468/c182992/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — List of countries covered by unilateral visa exemption policies (2026-02-17): https://en.nia.gov.cn/n147418/n147463/c183390/content.html
 - Shanghai Airport — official transport information: https://www.shanghaiairport.com/
 
 ---
@@ -866,19 +866,19 @@ Around 50 countries hold ordinary passports eligible for the unilateral 30-day v
 ## China's Regional Visa-Free Schemes: Hainan, Bilateral Deals & Hainan 30 Days
 
 Source: https://chinalayoverguide.com/guides/china-regional-visa-free-schemes/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
-China's visa-free landscape is not just two lists. There are also **regional schemes** (most notably **30 days in Hainan** for 59+ countries) and **bilateral agreements** with around 29 countries. If a scheme applies to you, it can be simpler than the transit rules, but each has its own area, purpose, and stay limits.
+China's visa-free landscape is not just two lists. There are also **regional schemes** (most notably **30 days in Hainan** for 61 countries) and **bilateral agreements** with around 29 countries. If a scheme applies to you, it can be simpler than the transit rules, but each has its own area, purpose, and stay limits.
 
 ## The main schemes
 
 | Scheme | Scope | Stay | Notes |
 |---|---|---|---|
-| **Unilateral 30-day entry** | Nationwide | 30 days | ~50 countries; no third-country rule |
-| **240-hour transit** | 65 ports, 24 provinces | 240 hours | 55 countries; third-country ticket required |
-| **Hainan 30-day** | Hainan Province only | 30 days | 59+ countries; tourism, business, family, medical, conferences, sports |
+| **Unilateral 30-day entry** | Nationwide | 30 days | 50 countries; no third-country rule |
+| **240-hour transit** | 65 ports, 24 provinces | 240 hours | 57 countries; third-country ticket required |
+| **Hainan 30-day** | Hainan Province only | 30 days | 61 countries; tourism, business, family, medical, conferences, sports |
 | **Bilateral agreements** | Nationwide | Typically 30 days per entry, 90 days per 180 | ~29 countries |
 | **Hong Kong / Macao group tours** | Specific routes | Varies | Tourist-group conditions apply |
 
@@ -886,7 +886,7 @@ China's visa-free landscape is not just two lists. There are also **regional sch
 
 Hainan runs its own visa-free policy, separate from the national rules:
 
-- **Who:** ordinary passport holders from 59+ countries
+- **Who:** ordinary passport holders from 61 countries
 - **How long:** up to **30 days**
 - **Purpose:** tourism, business, visits, family, medical treatment, conferences and exhibitions, sports competitions
 - **Not allowed:** work or study
@@ -902,7 +902,7 @@ Where a bilateral agreement exists, **it takes precedence** over the general uni
 
 ## How to check which applies
 
-1. **Find your nationality** on the [NIA unilateral list](https://en.nia.gov.cn/n147418/n147468/c182992/content.html) and the [240-hour transit list](/guides/240-hour-transit-ports-and-permitted-areas/).
+1. **Find your nationality** on the [NIA unilateral list](https://en.nia.gov.cn/n147418/n147463/c183390/content.html) and the [240-hour transit list](/guides/240-hour-transit-ports-and-permitted-areas/).
 2. **Check for a bilateral agreement**. These are usually the most flexible.
 3. **If your destination is Hainan**, check the regional scheme separately.
 4. **Confirm with the airline** before booking non-refundable travel; they check at boarding.
@@ -922,7 +922,7 @@ Before assuming you need a visa, check three things: the **national 30-day list*
 
 ### Can I enter Hainan without a visa?
 
-Yes. Foreign nationals holding ordinary passports from 59+ countries can enter and stay in Hainan Province for up to 30 days without a visa for tourism, business, family visits, medical treatment, conferences, and sports events. Work and study are excluded.
+Yes. Foreign nationals holding ordinary passports from 61 countries can enter and stay in Hainan Province for up to 30 days without a visa for tourism, business, family visits, medical treatment, conferences, and sports events. Work and study are excluded.
 
 ### What are China's bilateral visa-free agreements?
 
@@ -939,14 +939,14 @@ Regional schemes are tied to a specific province or area and usually have their 
 **Sources**
 
 - National Immigration Administration (NIA) — Regional visa-free entry policies: https://en.nia.gov.cn/n147418/n147463/c180637/content.html
-- National Immigration Administration (NIA) — Unilateral visa-free policy list (2026-02-17): https://en.nia.gov.cn/n147418/n147468/c182992/content.html
+- National Immigration Administration (NIA) — List of countries covered by unilateral visa exemption policies (2026-02-17): https://en.nia.gov.cn/n147418/n147463/c183390/content.html
 
 ---
 
 ## China Transit Mistakes That Get Travelers Denied Boarding or Entry
 
 Source: https://chinalayoverguide.com/guides/china-transit-mistakes-that-get-you-denied/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -1013,7 +1013,7 @@ The NIA requires at least three months' validity for the visa-free transit polic
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 - National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
 
 ---
@@ -1021,9 +1021,9 @@ The NIA requires at least three months' validity for the visa-free transit polic
 ## China Visa-Free Countries: The Full List (2026)
 
 Source: https://chinalayoverguide.com/guides/china-visa-free-countries/
-Last updated: 2026-09-24
+Last updated: 2026-10-16
 
-> This reference was last reviewed on 2026-09-24. Visa-free lists change in waves, and countries are added or lapse several times a year. Always confirm the current list for your nationality with the National Immigration Administration (NIA) or the 12367 hotline before booking.
+> This reference was last reviewed on 2026-10-16. Visa-free lists change in waves, and countries are added or lapse several times a year. Always confirm the current list for your nationality with the National Immigration Administration (NIA) or the 12367 hotline before booking.
 
 ## The short answer
 
@@ -1031,14 +1031,14 @@ Last updated: 2026-09-24
 
 | Scheme | Countries | Stay | Onward ticket needed? |
 |---|---|---|---|
-| **240-hour visa-free transit** | 55 | 10 days | Yes, to a third country or region |
-| **30-day visa-free entry** | ~50 | 30 days | No |
-| **Hainan regional scheme** | 59+ | 30 days | No (Hainan only) |
+| **240-hour visa-free transit** | 57 | 10 days | Yes, to a third country or region |
+| **30-day visa-free entry** | 50 | 30 days | No |
+| **Hainan regional scheme** | 61 | 30 days | No (Hainan only) |
 | **Bilateral agreements** | ~29 | Usually 30 days | No |
 
 The table below is the **240-hour visa-free transit list**, the scheme most relevant to a layover. For a round trip or a longer stay, the 30-day entry list is usually the better fit, and it is a different list.
 
-## The 55 countries eligible for 240-hour visa-free transit
+## The 57 countries eligible for 240-hour visa-free transit
 
 These are the nationalities covered by China's 240-hour visa-free transit policy, grouped by region.
 
@@ -1070,20 +1070,20 @@ These are the nationalities covered by China's 240-hour visa-free transit policy
 |---|---|
 | Australia | New Zealand |
 
-### Asia (7)
+### Asia (9)
 
-Brunei, Indonesia, Japan, Qatar, Singapore, South Korea, and the United Arab Emirates.
+Brunei, Indonesia, Japan, Kyrgyzstan, Qatar, Singapore, South Korea, the United Arab Emirates, and Vietnam.
 
 **Ordinary passports only.** These rules apply to holders of valid ordinary passports, not diplomatic or service passports.
 
 ## The 30-day visa-free entry list is a different list
 
-China's unilateral visa-free entry policy lets citizens of around **50 countries** stay up to **30 days** for tourism, business, family visits, or transit, with **no onward-ticket requirement**. It covers most of the EU, the United Kingdom, Australia, New Zealand, and several Gulf and Latin American countries, and it is renewed in waves (most countries through 31 December 2026).
+China's unilateral visa-free entry policy lets citizens of **50 countries** stay up to **30 days** for tourism, business, family visits, or transit, with **no onward-ticket requirement**. It covers most of the EU, the United Kingdom, Australia, New Zealand, and several Gulf and Latin American countries, and it is renewed in waves (most countries through 31 December 2026).
 
 Two things matter here:
 
 - **It is broader and simpler than transit.** If your nationality is on this list, you can visit anywhere in mainland China and a round trip still qualifies. For most travelers it makes the 240-hour transit policy irrelevant.
-- **The two lists differ.** The United States, for example, is on the 55-country transit list but not on the 30-day list. Check your nationality against both.
+- **The two lists differ.** The United States, for example, is on the 57-country transit list but not on the 30-day list. Check your nationality against both.
 
 Because the 30-day list is revised frequently, this page does not reproduce it country by country. The authoritative list is the NIA's own, linked at the foot of this page.
 
@@ -1091,12 +1091,12 @@ Because the 30-day list is revised frequently, this page does not reproduce it c
 
 Beyond the national rules, two more routes can get you in without a visa:
 
-- **Hainan, 30 days.** Ordinary passport holders from **59 or more countries** can enter Hainan Province visa-free for tourism, business, family visits, medical treatment, conferences, and sports events. Hainan's list is broader than the national 30-day list, so some nationalities that do not qualify nationally still qualify for Hainan.
+- **Hainan, 30 days.** Ordinary passport holders from **61 countries** can enter Hainan Province visa-free for tourism, business, family visits, medical treatment, conferences, and sports events. Hainan's list is broader than the national 30-day list, so some nationalities that do not qualify nationally still qualify for Hainan.
 - **Bilateral agreements.** China has mutual visa-exemption agreements with around **29 countries**, including Singapore, Malaysia, Thailand, the UAE, and Qatar. Where one exists it takes precedence over the general scheme and may be more generous.
 
 ## How to check whether you need a visa
 
-1. **Find your nationality** on the 55-country transit list above.
+1. **Find your nationality** on the 57-country transit list above.
 2. **Check the 30-day entry list** on the NIA site. If you are on it, you almost certainly do not need a visa.
 3. **Check for a bilateral agreement**, which is often the most flexible route.
 4. **If your destination is Hainan**, check that regional scheme separately.
@@ -1124,15 +1124,15 @@ If none of the schemes covers you, see [Do you need a visa for China?](/guides/v
 
 ### Which countries can visit China without a visa?
 
-There is no single list. The 240-hour visa-free transit policy covers 55 countries, the 30-day unilateral visa-free entry policy covers around 50 (and includes most of the EU, the UK, Australia and New Zealand), Hainan's regional scheme covers 59 or more, and China also has bilateral agreements with around 29 countries. Check your nationality against all of them.
+There is no single list. The 240-hour visa-free transit policy covers 57 countries, the 30-day unilateral visa-free entry policy covers 50 (and includes most of the EU, the UK, Canada, Australia and New Zealand), Hainan's regional scheme covers 61, and China also has bilateral agreements with around 29 countries. Check your nationality against all of them.
 
 ### Is the United States on China's visa-free list?
 
-US passport holders are on the 55-country 240-hour visa-free transit list, but not on the current 30-day unilateral visa-free entry list. That means Americans generally qualify only when genuinely transiting to a third country or region, not for a round trip.
+US passport holders are on the 57-country 240-hour visa-free transit list, but not on the current 30-day unilateral visa-free entry list. That means Americans generally qualify only when genuinely transiting to a third country or region, not for a round trip.
 
 ### Do I need a visa if my country is on the transit list?
 
-Not for transit. If your nationality is on the 55-country list and you are passing through China to a third country or region within 240 hours, you enter visa-free. If your trip starts and ends in China, the transit policy does not apply and you may need a visa.
+Not for transit. If your nationality is on the 57-country list and you are passing through China to a third country or region within 240 hours, you enter visa-free. If your trip starts and ends in China, the transit policy does not apply and you may need a visa.
 
 ### Can citizens of visa-free countries travel anywhere in China?
 
@@ -1144,8 +1144,8 @@ No. The unilateral 30-day scheme is temporary and renewed in waves, most countri
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation: visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-- National Immigration Administration (NIA) — Unilateral visa-free policy: latest country list (2026-02-17): https://en.nia.gov.cn/n147418/n147468/c182992/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — List of countries covered by unilateral visa exemption policies (2026-02-17): https://en.nia.gov.cn/n147418/n147463/c183390/content.html
 - National Immigration Administration (NIA) — Regional visa-free entry policies: https://en.nia.gov.cn/n147418/n147463/c180637/content.html
 - National Immigration Administration (NIA) — official English portal and 12367 hotline information: https://en.nia.gov.cn/
 
@@ -1154,9 +1154,9 @@ No. The unilateral 30-day scheme is temporary and renewed in waves, most countri
 ## Can You See the Great Wall on a Beijing Layover?
 
 Source: https://chinalayoverguide.com/guides/great-wall-from-beijing-layover/
-Last updated: 2026-09-10
+Last updated: 2026-10-16
 
-> This page was last reviewed on 2026-09-10. Driving times vary with traffic and road conditions; confirm the current Great Wall ticketing rules with the official site or your tour operator before you book.
+> This page was last reviewed on 2026-10-16. Driving times vary with traffic and road conditions; confirm the current Great Wall ticketing rules with the official site or your tour operator before you book.
 
 ## The honest answer
 
@@ -1244,7 +1244,7 @@ Neither, if you are on a layover. A pre-booked private car or driver for the day
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 - National Immigration Administration (NIA) — official English portal and 12367 hotline information: https://en.nia.gov.cn/
 
 ---
@@ -1252,7 +1252,7 @@ Neither, if you are on a layover. A pre-booked private car or driver for the day
 ## Is a China Layover Worth It? An Honest Look
 
 Source: https://chinalayoverguide.com/guides/is-a-china-layover-worth-it/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -1325,7 +1325,7 @@ Shanghai is the easiest, Hongqiao is close to the center and Pudong is served by
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 - Shanghai Airport — official transport information: https://www.shanghaiairport.com/
 
 ---
@@ -1333,7 +1333,7 @@ Shanghai is the easiest, Hongqiao is close to the center and Pudong is served by
 ## The Third-Country Rule for China Transit: A→B→C Explained
 
 Source: https://chinalayoverguide.com/guides/third-country-rule-for-china-transit/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -1402,7 +1402,7 @@ Yes, and it is common. You need proof of the confirmed onward journey, and airli
 
 **Sources**
 
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 - National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
 
 ---
@@ -1410,7 +1410,7 @@ Yes, and it is common. You need proof of the confirmed onward journey, and airli
 ## Do You Need a Visa for China? Visa-Free Entry vs a Chinese Visa
 
 Source: https://chinalayoverguide.com/guides/visa-free-vs-visa-china/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -1467,7 +1467,7 @@ Visa-free entry covers a lot of travelers, but not everyone. If you need a visa,
 
 ### Do I need a visa to visit China?
 
-It depends on your nationality and itinerary. Citizens of around 50 countries can enter visa-free for up to 30 days, and 55 countries can use 240-hour visa-free transit. If neither applies to you, you need a visa before you travel.
+It depends on your nationality and itinerary. Citizens of 50 countries can enter visa-free for up to 30 days, and 57 countries can use 240-hour visa-free transit. If neither applies to you, you need a visa before you travel.
 
 ### What type of Chinese visa do I need for tourism?
 
@@ -1484,7 +1484,7 @@ Generally no for tourism. China does have a port visa system in limited circumst
 **Sources**
 
 - National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
@@ -1493,7 +1493,7 @@ Generally no for tourism. China does have a port visa system in limited circumst
 ## Alipay in China for Foreigners: Step-by-Step Setup with a Visa or Mastercard
 
 Source: https://chinalayoverguide.com/guides/alipay-for-foreigners/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -1515,11 +1515,11 @@ Alipay is the single most useful app to set up before a China trip. **Link your 
 | Over ¥200 | ~3% platform fee |
 | Any amount, foreign-issued UnionPay card | Usually exempt from the platform fee |
 
-That 3% is separate from your own bank's foreign-transaction fee. Card support covers Visa, Mastercard, JCB, Discover, and Diners Club; American Express works with some issuers but not universally. Foreign-issued **UnionPay** cards are the smoothest option if you have one.
+That 3% is separate from your own bank's foreign-transaction fee. Card support covers Visa, Mastercard, American Express, JCB, Discover, and Diners Club; American Express has been a fully supported network since February 2025. Foreign-issued **UnionPay** cards are the smoothest option if you have one.
 
 ## Limits worth knowing
 
-Once verification clears, the regulatory ceiling is about **US$5,000 per transaction and US$50,000 per year**. Your app, bank, or card may apply lower limits. That is far more than a layover traveler will spend.
+Once verification clears, Alipay's account caps are about **¥3,000 per transaction, ¥50,000 per month, and ¥60,000 per year**. That sits far below the regulatory ceiling of roughly US$5,000 per transaction and US$50,000 per year, and your bank may apply lower limits still. Even so, it is more than a layover traveler will spend.
 
 ## The one failure mode to expect
 
@@ -1541,7 +1541,7 @@ Alipay with a linked foreign card is the default way to pay in China. Verify you
 
 ### Do I need a Chinese bank account to use Alipay as a foreigner?
 
-No. You can register with your home phone number, verify your identity with your passport, and link an international Visa, Mastercard, or JCB card directly. A Chinese bank account is not required.
+No. You can register with your home phone number, verify your identity with your passport, and link an international Visa, Mastercard, American Express, or JCB card directly. A Chinese bank account is not required.
 
 ### What fees does Alipay charge foreign cards?
 
@@ -1549,7 +1549,7 @@ Transactions of ¥200 or less are normally fee-free. Amounts above ¥200 usually
 
 ### What are the Alipay spending limits for foreign cards?
 
-Once your passport verification clears, the regulatory ceiling is roughly US$5,000 per transaction and US$50,000 per year, though your app or bank may set lower limits.
+Once your passport verification clears, Alipay's account caps are about ¥3,000 per transaction, ¥50,000 per month, and ¥60,000 per year. That sits far below the regulatory ceiling of roughly US$5,000 per transaction and US$50,000 per year, and your bank may set lower limits still.
 
 ### Why does my Alipay payment fail at some vendors?
 
@@ -1565,7 +1565,7 @@ Many small vendors show a personal QR code, which cannot accept foreign-linked c
 ## Do Apple Pay and Google Pay Work in China? What Tourists Should Know
 
 Source: https://chinalayoverguide.com/guides/apple-pay-and-google-pay-in-china/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -1578,7 +1578,7 @@ China skipped the card-terminal era for everyday payments. Merchants expect you 
 - **scan their QR code**, or
 - **show your payment QR** for them to scan.
 
-Domestic users pay inside Alipay and WeChat Pay. Foreign cards are bridged into those same apps. There is no widely deployed NFC terminal for a foreign Visa tap, so Apple Pay and Google Pay have nothing to talk to.
+Domestic users pay inside Alipay and WeChat Pay. Foreign cards are bridged into those same apps. Ordinary shops and small venues rarely have an NFC terminal that accepts a foreign card tap, so outside Shanghai's metro and Maglev gates and a few large venues, Apple Pay and Google Pay have nothing to talk to.
 
 ## What does work
 
@@ -1637,7 +1637,7 @@ Install Alipay and WeChat Pay before you travel, verify your passport, and link 
 ## Do You Need Cash in China? (Yes, Here's How Much)
 
 Source: https://chinalayoverguide.com/guides/do-you-need-cash-in-china/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -1662,7 +1662,7 @@ Do not carry large amounts. The point is a fallback, not a wallet.
 
 ## Where to get yuan
 
-- **ATMs at major banks**, Bank of China, ICBC, China Construction Bank, and Agricultural Bank accept many international cards. Withdraw a sensible amount to limit per-withdrawal fees.
+- **ATMs at major banks**, Bank of China, ICBC, China Construction Bank, and Agricultural Bank accept many international cards. Withdraw a sensible amount to limit per-withdrawal fees; overseas cards are generally capped at ¥3,000 per transaction.
 - **Bank counters**, reliable, with a passport.
 - **Avoid** relying on airport currency exchange; rates are usually poor compared with an ATM.
 
@@ -1704,9 +1704,9 @@ No. Personal QR codes cannot accept foreign-linked cards, only merchant or aggre
 ## How to Pay in China: Alipay, WeChat Pay & TenPayGo for Foreigners
 
 Source: https://chinalayoverguide.com/guides/payments-in-china-for-foreigners/
-Last updated: 2026-09-24
+Last updated: 2026-10-16
 
-> Reviewed 2026-09-24. Payment provider terms and fees change: check the apps before you travel.
+> Reviewed 2026-10-16. Payment provider terms and fees change: check the apps before you travel.
 
 ## The situation on the ground
 
@@ -1721,7 +1721,7 @@ The fix is to **link your existing foreign card to a Chinese payment app** befor
 ## Set up Alipay first
 
 1. Download **Alipay** and sign up with your phone number.
-2. Add your **Visa or Mastercard** (Amex works but is less consistent).
+2. Add your **Visa, Mastercard, or American Express** card.
 3. Verify your identity with your passport when prompted.
 4. Pay by showing your QR code or scanning the merchant's code.
 
@@ -1791,7 +1791,7 @@ Alipay. It has the simpler foreign-card flow and broader acceptance at small mer
 ## WeChat Pay in China for Foreigners (and Where TenPayGo Fits In)
 
 Source: https://chinalayoverguide.com/guides/wechat-pay-and-tenpaygo-for-foreigners/
-Last updated: 2026-09-24
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -1801,7 +1801,7 @@ Set up **WeChat Pay as your backup** to Alipay, and set up **WeChat itself** whe
 
 Alipay is the better wallet for foreign cards. WeChat does things Alipay does not:
 
-- **Mini-programs**, many major attractions, including the Palace Museum (Forbidden City), sell tickets through WeChat mini-programs.
+- **Mini-programs**, many attractions sell tickets through WeChat mini-programs, but the Palace Museum (Forbidden City) runs its own multilingual booking site where visitors from outside mainland China register with email and passport and pay by international card, so WeChat is not required for those tickets.
 - **Hotel and driver messaging**: check-in details and pickup pins often arrive over WeChat.
 - **A second payment rail**, when one app fails at a vendor, the other usually works.
 
@@ -1815,7 +1815,7 @@ Alipay is the better wallet for foreign cards. WeChat does things Alipay does no
 
 ## Fees and limits
 
-The structure mirrors Alipay: **¥200 or less is normally fee-free; above ¥200 typically adds ~3%**. Foreign-issued UnionPay cards are usually exempt. Spending is capped by your verification level, your bank, and the regulatory ceiling (roughly US$5,000 per transaction, US$50,000 per year). Tencent has periodically offered new-card promotions, read the in-app prompt rather than relying on any blog.
+The structure mirrors Alipay: **¥200 or less is normally fee-free; above ¥200 typically adds ~3%**. Foreign-issued UnionPay cards are usually exempt. Spending is capped by your verification level, your bank, and the app's own account limits (¥6,500 per transaction, ¥50,000 per month, ¥65,000 per year). Those sit far below the regulatory ceiling of roughly US$5,000 per transaction and US$50,000 per year. Tencent has periodically offered new-card promotions, read the in-app prompt rather than relying on any blog.
 
 ## Where TenPayGo fits in
 
@@ -1824,9 +1824,9 @@ The structure mirrors Alipay: **¥200 or less is normally fee-free; above ¥200 
 - **Sign-up is by email**, so you do not need a Chinese phone number or a Chinese bank account.
 - **It accepts what you already have**: international cards from seven major networks (UnionPay, Visa, Mastercard and others), around 60 overseas digital wallets, and Apple Pay.
 
-Payments run on the **WeChat Pay merchant network**, so the same shops, restaurants and transport operators accept it. Beyond paying, Tencent is adding visitor-specific features: a transit QR code for Shenzhen's metro and buses, a "circle to translate" tool for menus and signs, and in-app tax-refund requests.
+Payments run on the **WeChat Pay merchant network**, so the same shops, restaurants and transport operators accept it. Beyond paying, Tencent is adding visitor-specific features: a transit QR code for Shenzhen's metro and buses, a "circle to explain" tool and a "scan and translate" tool for menus and signs, and in-app tax-refund requests.
 
-Two honest caveats. **These extras are still rolling out**, so treat the transit and tax-refund features as "check inside the app" rather than guaranteed. And **TenPayGo is a payment channel, not a replacement for WeChat itself**: attraction tickets, hotel messages and driver pins still run through WeChat mini-programs, which TenPayGo does not cover.
+Two honest caveats. **These extras are still rolling out**, so treat the transit and tax-refund features as "check inside the app" rather than guaranteed. And **TenPayGo is a payment channel, not a replacement for WeChat itself**: hotel messages, driver pins, and tickets for some attractions still run through WeChat mini-programs, which TenPayGo does not cover.
 
 So: if you can complete passport verification in WeChat or Alipay, do that first, because you will want WeChat installed anyway. If you are stuck on a Chinese phone number, or you want one app dedicated to travel, TenPayGo is now the simplest way in.
 
@@ -1844,11 +1844,11 @@ Install both Alipay and WeChat before you fly, verify your passport in each, and
 
 ### Do I need WeChat Pay if I already have Alipay?
 
-Alipay covers payments, but WeChat is also China's booking and messaging layer, attraction tickets, hotel check-in chats, and driver pickup pins often run through WeChat mini-programs, which have no Alipay equivalent.
+Alipay covers payments, but WeChat is also China's booking and messaging layer, hotel check-in chats and driver pickup pins often run through WeChat mini-programs, which have no Alipay equivalent. Some attractions sell tickets through WeChat mini-programs, but the Palace Museum (Forbidden City) runs its own booking site where visitors from outside mainland China register with email and passport and pay by international card.
 
 ### Can foreigners link an international card to WeChat Pay?
 
-Yes. Register with your home phone number, complete real-name verification with your passport, then add your Visa, Mastercard, JCB, Discover, or Diners Club card. Virtual and prepaid cards are usually rejected.
+Yes. Register with your home phone number, complete real-name verification with your passport, then add your Visa, Mastercard, American Express, JCB, Discover, or Diners Club card, or an overseas-issued UnionPay card. Virtual and prepaid cards are usually rejected.
 
 ### What fees does WeChat Pay charge on foreign cards?
 
@@ -2039,7 +2039,7 @@ Sichuan cuisine: hotpot with numbing Sichuan peppercorn, mapo tofu, dan dan nood
 ## Things to Do in Guangzhou on a Layover: 6, 8, 10, 12 or 24 Hours
 
 Source: https://chinalayoverguide.com/guides/guangzhou-layover-itinerary/
-Last updated: 2026-09-29
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -2207,14 +2207,14 @@ Many Guangzhou operators state clearly that if immigration refuses your transit 
 **Sources**
 
 - Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
 ## Things to Do in Shanghai on a Layover: 6, 8, 12 or 24 Hours
 
 Source: https://chinalayoverguide.com/guides/shanghai-layover-itinerary/
-Last updated: 2026-09-24
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -2347,7 +2347,7 @@ Private layover tours with airport pickup generally run from roughly US$100 to U
 **Sources**
 
 - Shanghai Airport — official transport information: https://www.shanghaiairport.com/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
@@ -2445,9 +2445,9 @@ Roujiamo (a Chinese-style meat sandwich), yangrou paomo (lamb soup with crumbled
 ## eSIM China: Best Plans Compared (Airalo, Holafly & Nomad)
 
 Source: https://chinalayoverguide.com/guides/best-esim-for-china/
-Last updated: 2026-09-10
+Last updated: 2026-10-16
 
-> Reviewed 2026-09-10. eSIM plans, prices, and fair-use policies change often: check each provider's current terms before buying. Providers listed as examples, not endorsements.
+> Reviewed 2026-10-16. eSIM plans, prices, and fair-use policies change often: check each provider's current terms before buying. Providers listed as examples, not endorsements.
 
 ## The quick recommendation
 
@@ -2457,29 +2457,29 @@ The single most important fact first: **China's network blocks Google, WhatsApp,
 
 ## Why the stakes are higher for layovers
 
-A layover traveler has exactly one shot to get this right. Airport Wi-Fi in China usually demands an SMS code your home number may not receive, so if your eSIM isn't installed before you land, you're navigating a strange city with no maps, no translation, and no way to reach anyone. Buy it at home, install it on home Wi-Fi, test it before you take off. That one habit matters more than *which* provider you pick.
+A layover traveler has exactly one shot to get this right. Airport Wi-Fi in China needs a login code; a passport covers you at the main hubs, but if your eSIM isn't installed before you land you are still one queue away from a map, with no translation and no way to reach anyone. Buy it at home, install it on home Wi-Fi, test it before you take off. That one habit matters more than *which* provider you pick.
 
 ## The three providers, compared
 
 | | **Airalo** | **Holafly** | **Nomad** |
 |---|---|---|---|
-| **Best for** | Price + dual-network reliability | Unlimited data + built-in VPN routing | Fixed-data at the lowest starting price |
-| **Plans** | 1–20 GB, 7–30 days | Unlimited, 1–90 days | 1–10+ GB, typically 30 days |
-| **Typical pricing** | ~$5 (1 GB) to ~$40 (20 GB) | ~$19–99 by days | ~$4–35 |
-| **Network** | China Unicom + China Mobile (dual) | China Mobile (single) | Varies by plan |
+| **Best for** | Price + reliability | Unlimited data + built-in VPN routing | Fixed-data at the lowest starting price |
+| **Plans** | 1–20 GB, 50 GB, or unlimited; 3–30 days | Unlimited, 1–90 days | 1–10+ GB, typically 30 days |
+| **Typical pricing** | ~$4 (1 GB) to ~$49 (50 GB) | ~$11.90 (3 days) to ~$76.50 (30 days) | ~$4–35 |
+| **Network** | China Unicom | Not published | China Unicom + China Telecom |
 | **Firewall bypass** | Yes (routes outside mainland China | Yes) marketed as "VPN included" | Yes, routes outside mainland China |
-| **Hotspot** | Generally allowed | Limited (500 MB/day) | Varies |
+| **Hotspot** | Generally allowed | 1 GB/day, shareable | Varies |
 | **Support** | App chat (can be slow) | 24/7 live chat, fast | In-app |
 
 **Prices are indicative and change.** Always compare the *exact plan* you're buying, not the brand name.
 
 ## Which one should you pick?
 
-**Buy Airalo if:** you want the best balance of price and reliability, and you're comfortable managing a data allowance. The dual-network coverage (China Unicom + China Mobile) is genuinely more reliable when you're moving between cities. 3–5 GB is the right size for a layover and will cover maps, messaging, and light media.
+**Buy Airalo if:** you want the best balance of price and reliability, and you're comfortable managing a data allowance. Airalo's China plans run on China Unicom, which is solid across the cities you'll visit. 3–5 GB is the right size for a layover and will cover maps, messaging, and light media.
 
 **Buy Holafly if:** you don't want to think about data caps or VPN setup, and you're willing to pay a premium for peace of mind. Unlimited data plus built-in VPN routing is the simplest possible setup, zero decisions after install. You pay roughly 1.5–2x the cost of equivalent fixed data, but for a short trip the absolute difference is small.
 
-**Buy Nomad if:** you're budget-sensitive and your usage is light and predictable. Nomad's fixed-data plans often start at the lowest price per trip. The trade-off is single-network coverage and fewer hand-holding features.
+**Buy Nomad if:** you're budget-sensitive and your usage is light and predictable. Nomad's fixed-data plans often start at the lowest price per trip. The trade-off is fewer hand-holding features and no built-in VPN routing.
 
 ## How much data do you actually need?
 
@@ -2489,7 +2489,7 @@ For a layover of up to 48 hours, with maps, translation, photos, and video calls
 - A **3 GB plan** covers a full-day layover with room to spare.
 - A **5 GB plan** covers a multi-day stopover or heavy WhatsApp-video use.
 
-Heavy streaming in China on unlimited plans can still hit fair-use throttling (Holafly throttles after ~90 GB/month. You'd have to be streaming constantly to hit it).
+Heavy streaming in China on unlimited plans can still hit fair-use throttling, so check the provider's policy if you plan to stream a lot.
 
 ## Five things to check before you buy
 
@@ -2497,7 +2497,7 @@ Heavy streaming in China on unlimited plans can still hit fair-use throttling (H
 2. **The plan routes outside mainland China.** This is *the* feature that keeps Google and WhatsApp working. All three providers above do this, but not every eSIM on the market does.
 3. **Activation timing.** "Starts on install" vs "starts on first connection" differs by provider. Know which one you're buying.
 4. **Refund policy.** Holafly is generous (6 months, but connection problems must be raised *during* the trip); Nomad is 30 days if never activated. Understand yours before you pay.
-5. **Hotspot limits.** Holafly caps hotspot at 500 MB/day. If you plan to tether a laptop, check first.
+5. **Hotspot limits.** Holafly allows 1 GB per day of shareable hotspot. If you plan to tether a laptop, check first.
 
 ## The step-by-step (works for any provider)
 
@@ -2529,7 +2529,7 @@ Usually not. A travel eSIM that routes data outside mainland China already gets 
 
 ### Can I install a China eSIM after I land?
 
-Technically yes, but it is a bad plan. You need working internet to download the profile, and airport Wi-Fi in China typically requires an SMS code you may not be able to receive. Install and activate it before departure.
+Technically yes, but it is a bad plan. You need working internet to download the profile, and airport Wi-Fi in China requires a login code. A passport works at the main hubs, but you do not want to be solving that on arrival. Install and activate it before departure.
 
 **Sources**
 
@@ -2539,34 +2539,35 @@ Technically yes, but it is a bad plan. You need working internet to download the
 
 ---
 
-## China Airport Wi-Fi: The SMS Catch (and How to Stay Online)
+## China Airport Wi-Fi: Log In with Your Passport
 
 Source: https://chinalayoverguide.com/guides/china-airport-wifi/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
-Chinese airports do offer free Wi-Fi, but it is usually **gated behind an SMS code sent to a Chinese mobile number**. If you are on a foreign SIM, that code often never arrives. **Do not plan on getting online at the airport**: buy a travel eSIM before you fly and activate it on landing.
+Chinese airports do offer free Wi-Fi, and at the four biggest hubs, **PEK, PKX, PVG and CAN, a foreign passport is all you need to log in. No Chinese mobile number required.** SMS verification still exists, but it is one option among several, and for foreign travelers the passport route is the recommended one.
 
-## Why the Wi-Fi gate exists
+## How each hub signs you in
 
-Chinese public networks require real-name registration. In practice that means:
+Chinese public networks require real-name registration, which is why the login is gated. The passport route now covers the main arrival airports:
 
-1. Connect to the airport SSID.
-2. Enter a phone number to receive a verification code.
-3. Enter the code to get online.
+| Airport | How to log in with a passport |
+|---|---|
+| Beijing Capital (PEK) | Passport-scan kiosk prints a username and password, about 5 hours per code, up to 3 print-outs per ID |
+| Beijing Daxing (PKX) | Photograph your passport page on the authorization page (SSID **BDIA-FREE-WIFI**) |
+| Shanghai Pudong (PVG) | Choose **Passport Login** on the portal page, about 4 hours per code |
+| Guangzhou Baiyun (CAN) | Self-service terminal reads your passport or boarding pass, about 5 hours per code |
 
-Step 2 is where foreign travelers get stuck. Some airports accept international numbers; many do not reliably. Roaming SMS can also be delayed or blocked entirely.
-
-Some airports provide a **kiosk that scans your passport** to issue a login code instead. Availability varies by terminal, and there may be a queue.
+Look for the kiosk or terminal near the arrivals exits, or for the passport option on the portal page once you join the SSID. Each code covers a limited window, so on a long connection expect to log in again.
 
 ## What actually works
 
 | Option | Works on arrival? | Notes |
 |---|---|---|
-| **Travel eSIM activated before landing** | ✅ Yes | The reliable answer |
-| Airport Wi-Fi with foreign number | ⚠️ Sometimes | Do not depend on it |
-| Passport-scan kiosk | ⚠️ Sometimes | Queue, terminal-dependent |
+| **Passport login at PEK, PKX, PVG, CAN** | ✅ Yes | No Chinese number needed |
+| **Travel eSIM activated before landing** | ✅ Yes | Works even where the passport route does not |
+| Airport Wi-Fi with an SMS code | ⚠️ Sometimes | Only if a roaming SMS reaches you |
 | Local SIM bought at the airport | ✅ After purchase | Needs a counter visit and passport registration |
 | Roaming on your home SIM | ✅ Yes | Expensive but works |
 
@@ -2579,36 +2580,36 @@ Before you fly:
 3. **Enable it** just before landing.
 4. **Open a map** in the terminal to confirm data is flowing.
 
-This removes the entire problem: you never need the airport Wi-Fi code.
+That way you land with data even if the airport login fails for any reason.
 
-## If you arrive without data
+## If the login fails
 
-1. Look for the airport's **Wi-Fi kiosk** or a staffed information desk.
+1. Look for the airport's **passport-scan kiosk** or a staffed information desk.
 2. Ask airport staff, many terminals have a help desk that can issue a code.
 3. Use a **coffee shop or lounge** network; some are less strictly gated.
 4. As a last resort, **buy a local SIM** at a carrier counter (bring your passport).
 
 ## Bottom line
 
-Airport Wi-Fi in China is a trap for foreign travelers, available, but gated behind a code you may not be able to receive. Buy and install an eSIM before you fly so you land with data. See the [eSIM setup guide](/guides/esim-setup-before-you-land/) and the [apps checklist](/guides/china-apps-checklist/).
+Airport Wi-Fi in China is no longer a trap for foreign travelers: at PEK, PKX, PVG and CAN your passport gets you a code, and an SMS is just one of several options. Still buy and install an eSIM before you fly so you land with data whatever happens. See the [eSIM setup guide](/guides/esim-setup-before-you-land/) and the [apps checklist](/guides/china-apps-checklist/).
 
 **Frequently asked questions**
 
 ### Does airport Wi-Fi in China require a phone number?
 
-Yes, in most Chinese airports. The network typically asks for a Chinese mobile number to send an SMS verification code, which many foreign travelers cannot receive.
+No, not at the main hubs. PEK (Beijing Capital), PKX (Beijing Daxing), PVG (Shanghai Pudong) and CAN (Guangzhou Baiyun) all let foreign passport holders log in without a Chinese mobile number. SMS is only one of several methods.
 
 ### Can I use airport Wi-Fi with a foreign phone number?
 
-Sometimes, but it is unreliable. Some airports accept international numbers and some do not, and roaming SMS often fails. Do not plan your arrival around being able to get online at the airport.
+At PEK, PKX, PVG and CAN you do not need to. Use the passport option instead: it is the recommended route for foreign travelers, and it means you never depend on a roaming SMS arriving.
 
-### What should I do instead of relying on airport Wi-Fi?
+### What if the passport login does not work?
 
-Buy a travel eSIM before you fly and activate it on landing. That gives you working data the moment you clear immigration, without needing a Wi-Fi code or a Chinese phone number.
+Ask the airport information desk; many terminals can issue a code. As a backup, buy a travel eSIM before you fly so you land with data no matter what.
 
 ### Is there free Wi-Fi at Chinese airports at all?
 
-Yes, most major airports offer free Wi-Fi, but it is gated behind SMS verification or a passport scan at a kiosk. The gate is the problem, not the availability.
+Yes. Most major airports offer free Wi-Fi, and at PEK, PKX, PVG and CAN a foreign passport is accepted for login, with no Chinese number required.
 
 **Sources**
 
@@ -2816,9 +2817,9 @@ WhatsApp is restricted in mainland China on local networks. It typically works o
 ## China eSIM Setup: Do It Before You Land
 
 Source: https://chinalayoverguide.com/guides/esim-setup-before-you-land/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
-> Reviewed 2026-09-16. eSIM plans and prices change often: check the provider's current terms before buying.
+> Reviewed 2026-10-16. eSIM plans and prices change often: check the provider's current terms before buying.
 
 ## Why you need this before you land
 
@@ -2827,7 +2828,7 @@ China's network blocks many apps you use every day, Google services, WhatsApp, I
 1. **A travel eSIM** (recommended): your data is routed through a partner network outside China, so blocked apps keep working without a VPN.
 2. **A local Chinese SIM**: fast and cheap, but blocked apps stay blocked unless you also set up a VPN.
 
-The catch: **airport Wi-Fi in China usually requires an SMS code**, and your home number may not receive it. Set everything up before departure, not in the arrivals hall.
+The catch: **airport Wi-Fi in China needs a login code.** At the main hubs (PEK, PKX, PVG, CAN) a passport is enough and no Chinese number is needed, but getting that code is still one more step between you and a map. Set everything up before departure, not in the arrivals hall.
 
 ## Before you buy
 
@@ -2858,7 +2859,7 @@ A travel eSIM is the highest-leverage thing you can do before a China layover: i
 - [Best eSIM for China: Airalo, Holafly & Nomad compared](/guides/best-esim-for-china/)
 - [eSIM vs VPN vs roaming in China](/guides/esim-vs-vpn-vs-roaming/)
 - [Does Google Maps work in China?](/guides/does-google-maps-work-in-china/)
-- [China airport Wi-Fi: the SMS catch](/guides/china-airport-wifi/)
+- [China airport Wi-Fi: logging in with a passport](/guides/china-airport-wifi/)
 - [China apps checklist: what to install before you fly](/guides/china-apps-checklist/)
 - [Payments in China for foreigners](/guides/payments-in-china-for-foreigners/)
 
@@ -2891,7 +2892,7 @@ Chinese carriers sell local SIMs and eSIMs, but those route through mainland net
 ## VPN for China: eSIM vs VPN vs Roaming Compared
 
 Source: https://chinalayoverguide.com/guides/esim-vs-vpn-vs-roaming/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -2928,7 +2929,7 @@ Your home carrier's roaming agreement often routes through a foreign network, so
 
 ## The rule that matters most
 
-**Whatever you choose, set it up at home.** Airport Wi-Fi in China usually requires an SMS code your home number may not receive, and app stores behave differently once you are on a Chinese network. Install before you fly, see [China eSIM setup](/guides/esim-setup-before-you-land/) and the [apps checklist](/guides/china-apps-checklist/).
+**Whatever you choose, set it up at home.** Airport Wi-Fi in China needs a login code; a passport covers you at the main hubs, but app stores behave differently once you are on a Chinese network. Install before you fly, see [China eSIM setup](/guides/esim-setup-before-you-land/) and the [apps checklist](/guides/china-apps-checklist/).
 
 ## Bottom line
 
@@ -2964,7 +2965,7 @@ A travel eSIM is typically the cheapest and simplest option for a short trip. A 
 ## China Airport to City: Transfers Compared for Every Major Layover Hub
 
 Source: https://chinalayoverguide.com/guides/china-airport-to-city-transfers/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -2981,10 +2982,10 @@ Every major Chinese airport connects to its city by **metro or a dedicated expre
 | Beijing Daxing (PKX) | Daxing Airport Express | 30–40 min | ¥35 |
 | Guangzhou Baiyun (CAN) | Metro Line 3 | ~45–55 min | ~¥8 |
 | Chengdu Tianfu (TFU) | Metro Line 18 | 35–40 min | ¥7–10 |
-| Xi'an Xianyang (XIY) | Airport bus Line 1 | ~40–50 min | ~¥25 |
+| Xi'an Xianyang (XIY) | Metro Line 14 (Airport West) | ~40 min+ | ¥2–9 |
 | Chongqing Jiangbei (CKG) | Metro Line 10 | 40–50 min | ~¥6 |
 | Shenzhen Bao'an (SZX) | Metro Line 11 | ~30–50 min | ~¥7–10 |
-| Hangzhou Xiaoshan (HGH) | Metro / Airport bus | ~45–60 min | ~¥20–30 |
+| Hangzhou Xiaoshan (HGH) | Metro Lines 1, 7, 19 | ~45–60 min | Metro under ¥20; ¥20–30 is the coach fare |
 
 Treat fares and journey times as indicative. They change, so check the airport's own transport page or a maps app on arrival.
 
@@ -2993,7 +2994,7 @@ Treat fares and journey times as indicative. They change, so check the airport's
 - **Daytime, light luggage:** metro or express train. Cheapest and traffic-proof.
 - **Heavy bags or a group:** taxi or DiDi, especially from Pudong.
 - **Late arrival:** taxi or DiDi only; the metro has stopped.
-- **A cross-airport connection** (for example Shanghai PVG to SHA, or Beijing PEK to PKX): allow **1.5–2 hours** and do not also plan sightseeing.
+- **A cross-airport connection:** in Shanghai, the **Airport Link Line** links PVG T1/T2 to Hongqiao T2 in about **40 minutes for ¥26** (06:00–22:15), so that transfer no longer needs the 1.5–2 hour buffer it once did. For other pairs, such as Beijing PEK to PKX, still allow **1.5–2 hours** and do not also plan sightseeing.
 
 ## Paying for the ride
 
@@ -3049,11 +3050,11 @@ Metro and Maglev services stop between roughly 21:40 and 22:30. After that, use 
 ## China High-Speed Rail for Tourists: Booking with a Passport
 
 Source: https://chinalayoverguide.com/guides/china-high-speed-rail-for-tourists/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
-China's high-speed rail is fast, punctual, and easy for foreigners. You book with your **passport** as the ID and board by scanning it at the gate. Book through **Trip.com** if you want English and a foreign card, or the official **12306** app if you want the source of truth. Arrive **45–60 minutes early**; stations are big and security is mandatory.
+China's high-speed rail is fast, punctual, and easy for foreigners. You book with your **passport** as the ID. At many stations the auto-gates cannot read a foreign passport, so you board through the staffed lane. Book through **Trip.com** if you want English and a foreign card, or the official **12306** app if you want the source of truth. Arrive **45–60 minutes early**; stations are big and security is mandatory.
 
 ## Why it matters for a layover
 
@@ -3067,7 +3068,7 @@ High-speed rail turns a stopover into a real trip. From Shanghai you can reach *
 | **12306 (official)** | Cheapest, definitive | Clunkier for foreign cards, Chinese-first UX |
 | **Station counter** | Works when nothing else does | Queue, language barrier |
 
-Both online options require **your passport details**. Book a few days ahead for popular routes and holidays: the good departures sell out.
+Both online options require **your passport details**. On 12306, passport identity verification can take **3–5 working days** before you can buy, so start it before you fly. Book a few days ahead for popular routes and holidays: the good departures sell out.
 
 ## Seat classes
 
@@ -3081,7 +3082,7 @@ Both online options require **your passport details**. Book a few days ahead for
 
 1. **Arrive 45–60 minutes early.** Major stations are the size of airports.
 2. **Security screening** is mandatory for all bags.
-3. **Scan your passport** at the gate, e-tickets mean no paper ticket is needed.
+3. **Use the staffed lane** if the auto-gate cannot read your passport; e-tickets mean no paper ticket is needed.
 4. **Find your carriage and seat** on the platform displays.
 5. **Boarding closes shortly before departure**, do not cut it fine.
 
@@ -3100,7 +3101,7 @@ Indicative second-class fares:
 
 | Route | Time | Fare |
 |---|---|---|
-| Shanghai → Hangzhou | ~1 hour | from ~¥73 |
+| Shanghai → Hangzhou | ~1 hour | ¥30–123 (about ¥73 typical) |
 | Beijing → Xi'an | ~4.5 hours | ~¥515+ |
 | Guangzhou → Shenzhen | ~35 min | ~¥75 |
 | Chengdu → Chongqing | ~1.5 hours | ~¥154 |
@@ -3119,7 +3120,7 @@ Yes. You can book through the official 12306 app or through Trip.com, using your
 
 ### Do I need to print a train ticket in China?
 
-Generally no. China moved to e-tickets, you scan your passport at the station gate. Some travelers still print a receipt for expense purposes, but it is not required to board.
+Generally no. E-tickets are the norm, though 12306 still sells both e-tickets and paper tickets. The catch for foreigners: station auto-gates often cannot read a foreign passport, so at many stations you need the staffed lane. Some travelers still print a receipt for expenses, but it is not required to board.
 
 ### How early should I arrive at a Chinese train station?
 
@@ -3127,7 +3128,7 @@ Arrive 45–60 minutes before departure. Stations are large, security screening 
 
 ### Is high-speed rail in China expensive?
 
-Second class is good value, for example, Shanghai to Hangzhou is about an hour and starts around ¥70–75, and Beijing to Xi'an is roughly 4.5 hours. First and business class cost significantly more.
+Second class is good value, for example, Shanghai to Hangzhou is about an hour at roughly ¥30–123 (about ¥73 typical for a G train from Hongqiao to Hangzhou East), and Beijing to Xi'an is roughly 4.5 hours. First and business class cost significantly more.
 
 **Sources**
 
@@ -3229,7 +3230,7 @@ Dial 110 for police, 120 for an ambulance, and 119 for fire. Keep your embassy's
 ## DiDi and Ride-Hailing in China: A Guide for Foreigners
 
 Source: https://chinalayoverguide.com/guides/didi-and-ride-hailing-in-china/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -3237,7 +3238,7 @@ Last updated: 2026-09-16
 
 ## Set it up
 
-1. **Install the right app.** Search for **"DiDi Chuxing" (滴滴出行)**: the domestic China app. The separate international "DiDi Rider" app does **not** work in mainland China.
+1. **Install the right app.** Search for **"DiDi China: Ride Hailing"** in the App Store or Google Play: that is the domestic app. Inside it, the 滴滴出行 name still appears. The separate international "DiDi Rider" app does **not** work in mainland China.
 2. **Switch to English** in *Settings → Language*.
 3. **Register with your phone number** and enter the SMS code. Do this at home on your own network.
 4. **Add a payment method** under *Me → Wallet → Payment Methods*. Add a card, and enable auto-deduct.
@@ -3317,7 +3318,7 @@ Usually yes, and the fare is shown before you confirm. Expect roughly ¥15–30 
 ## Hotel Registration for Foreigners in China: The 24-Hour Rule
 
 Source: https://chinalayoverguide.com/guides/hotel-registration-for-foreigners-in-china/
-Last updated: 2026-09-16
+Last updated: 2026-10-16
 
 ## The short answer
 
@@ -3336,7 +3337,7 @@ Hotels that accept foreign guests handle the paperwork automatically. You simply
 
 ## If you are staying privately
 
-You (or the person hosting you) must go to the **local public security bureau** office and register. Bring your passport and your host's ID. Many areas now offer an **online self-registration system** for foreign nationals, but availability varies by city, so ask locally or check the NIA.
+You (or the person hosting you) must go to the **local public security bureau** office and register. Bring your passport and your host's ID. Since **21 September 2026**, online accommodation registration is available **nationwide** for foreign nationals (it was piloted from 20 March 2026). You can use the **NIA Government Service Platform** website, the **"NIA 12367" app**, the **NIA 12367 WeChat mini-program**, or the **Alipay mini-program**. Online registration has the same legal effect as registering in person.
 
 ## Why it matters for a layover
 
@@ -3372,7 +3373,7 @@ Foreigner-registered hotels complete the registration at check-in. Confirm your 
 
 ### What if I stay with a friend or in an apartment?
 
-You, or the person hosting you, must register with the local police station within 24 hours. Many areas now offer an online self-registration system, but check the local rules.
+You, or the person hosting you, must register with the local police station within 24 hours. Since 21 September 2026 you can also register online, nationwide, which has the same legal effect as registering in person.
 
 ### What happens if I do not register?
 
@@ -3381,27 +3382,27 @@ Failing to register can lead to fines and problems with immigration. It is a leg
 **Sources**
 
 - National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
-- National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
 ## Luggage Storage at China's Airports: What It Costs and Where to Find It
 
 Source: https://chinalayoverguide.com/guides/luggage-storage-at-china-airports/
-Last updated: 2026-09-24
+Last updated: 2026-10-16
 
 ## The short answer
 
-Every major Chinese airport has **left-luggage counters (行李寄存)**, typically **¥15–30 per bag per day**. Bring your passport, keep the receipt, and you are free to explore. If you are taking a private car or DiDi, the best storage is often **the boot of the car**: the driver waits and you skip the queue entirely.
+Every major Chinese airport has **left-luggage counters (行李寄存)**, but prices now vary widely: at Beijing Capital (PEK) expect **¥30–40 per rolling suitcase per 24 hours**, while Beijing Daxing's (PKX) landside manual counters are **free**. Bring your passport, keep the receipt, and you are free to explore. If you are taking a private car or DiDi, the best storage is often **the boot of the car**: the driver waits and you skip the queue entirely.
 
 ## Your options, ranked
 
 | Option | Cost | Best for |
 |---|---|---|
 | **Keep bags in your DiDi / private car** | Free (included in the fare) | Wall trips, multi-stop days |
-| **Airport left-luggage** | ¥15–30 per bag per day | Public-transport layovers |
+| **Airport left-luggage** | Free (PKX landside) to ¥30–40 per item (PEK) | Public-transport layovers |
 | **Hotel storage** | Free if you are a guest | Overnight stopovers |
-| **Station lockers / counters** | Similar to airports | Rail connections |
+| **Station smart lockers** | Hourly, with a daily cap | Rail connections |
 | **Carry a small backpack only** | Free | Short layovers, fastest |
 
 ## How airport left-luggage works
@@ -3411,19 +3412,23 @@ Every major Chinese airport has **left-luggage counters (行李寄存)**, typica
 3. Pay per bag per day and **keep the receipt/tag**. You need it to collect.
 4. Collect with time to spare; queues form before evening departure banks.
 
-Prices vary by airport and by bag size. Treat ¥15–30 as indicative and check the counter's own board.
+Prices vary widely by airport, item and size, so check the counter's own board.
 
 ## The option most travelers miss
 
 If you are hiring a **private driver**, for example for the [Great Wall from Beijing](/guides/great-wall-from-beijing-layover/) or the [Terracotta Army](/guides/xian-layover-itinerary/), the driver waits with the car. Your bags stay in the vehicle, you skip storage entirely, and you save 20–30 minutes at each end.
 
-## PVG and CAN: the airport-specific details
+## PEK, PKX, PVG and CAN: the airport-specific details
 
-The counters work the same way everywhere, but the risk at each airport is different, and it is mostly about the **return leg**.
+Storage works the same way at each airport, but the price and the risk on the **return leg** differ.
 
-**Shanghai Pudong (PVG).** Counters sit in the arrivals and departures halls of both terminals, signed in English as "Left Luggage" or "Baggage Storage". Around **¥15–30 per bag per day**; bring your passport, and sometimes your onward ticket. The trap: the **Maglev stops around 21:40** and Metro Line 2 around **22:30**. If you are returning late, your trip back becomes a taxi or DiDi, which takes longer, so collect your bags earlier than you think you need to. PVG has two terminals connected by a walkway and the inter-terminal train, so confirm which terminal your onward flight departs from before you choose where to store. For the city side, see [things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/).
+**Beijing Capital (PEK).** Left-luggage counters in Terminals 2 and 3 charge **¥30–40 per rolling suitcase per 24 hours**. Cartons and other items run **¥20–60**, and oversized items **¥100**. Bring your passport, and keep the receipt.
 
-**Guangzhou Baiyun (CAN).** Counters operate in the terminal, on the arrivals level. Around **¥15–30 per bag per day**; passport required. The trap: you are coming back on **Metro Line 3**, which takes 45–55 minutes, and with a 2.5-hour departure buffer that is most of your return leg. Budget the storage detour inside that time rather than on top of it. Baiyun operates two terminals, so check which one your flight uses, because the walk between them is not trivial. For the city side, see [things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/).
+**Beijing Daxing (PKX).** The **landside manual counters are free**. Airside lockers cap at **¥18–30 per day**, and lockers in the parking area run **¥20.50–50.50 per day**.
+
+**Shanghai Pudong (PVG).** Counters sit in the arrivals and departures halls of both terminals, signed in English as "Left Luggage" or "Baggage Storage". Prices vary by counter; bring your passport, and sometimes your onward ticket. The trap: the **Maglev stops around 21:40** and Metro Line 2 around **22:30**. If you are returning late, your trip back becomes a taxi or DiDi, which takes longer, so collect your bags earlier than you think you need to. PVG has two terminals connected by a walkway and the inter-terminal train, so confirm which terminal your onward flight departs from before you choose where to store. For the city side, see [things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/).
+
+**Guangzhou Baiyun (CAN).** Counters operate in the terminal, on the arrivals level. Prices vary by counter; passport required. The trap: you are coming back on **Metro Line 3**, which takes 45–55 minutes, and with a 2.5-hour departure buffer that is most of your return leg. Budget the storage detour inside that time rather than on top of it. Baiyun operates two terminals, so check which one your flight uses, because the walk between them is not trivial. For the city side, see [things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/).
 
 ## What to keep with you
 
@@ -3451,7 +3456,7 @@ Luggage never has to stop you leaving the airport. Use a car if you have one, a 
 
 ### Can I store luggage at a Chinese airport during a layover?
 
-Yes. Most major Chinese airports have left-luggage counters (行李寄存), usually costing around ¥15–30 per bag per day. You will need your passport and sometimes a baggage ticket.
+Yes. Most major Chinese airports have left-luggage counters (行李寄存), and prices vary by airport: Beijing Capital charges ¥30–40 per rolling suitcase per 24 hours, while Beijing Daxing's landside counters are free. You will need your passport and sometimes a baggage ticket.
 
 ### What is the easiest way to handle luggage on a layover?
 
@@ -3459,7 +3464,7 @@ If you are taking a private car or DiDi, keep your bags in the vehicle: the driv
 
 ### Do high-speed rail stations in China have luggage storage?
 
-Many do, with staffed counters or lockers, though availability varies by station. Large stations like Shanghai Hongqiao and Beijing South generally have left-luggage services.
+Yes. Station storage is now mostly smart lockers billed by the hour with a daily cap, for example about ¥2–6.50 per hour capped at ¥10–60 per day at Beijing stations. Large stations like Shanghai Hongqiao and Beijing South have them.
 
 ### Is left-luggage safe in China?
 

@@ -2,9 +2,9 @@
 title: "Is a China Layover Worth It? An Honest Look"
 description: "Most travelers assume a China layover is wasted time. Here's the honest case for and against leaving the airport, and when staying put is the smarter call."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "Shanghai Airport — official transport information"
     url: "https://www.shanghaiairport.com/"

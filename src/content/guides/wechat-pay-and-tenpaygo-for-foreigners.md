@@ -2,7 +2,7 @@
 title: "WeChat Pay in China for Foreigners (and Where TenPayGo Fits In)"
 description: "How to set up WeChat Pay with an international card, why you need WeChat even if you use Alipay, and what TenPayGo is for foreign travelers."
 category: payments
-updated: 2026-09-24
+updated: 2026-10-16
 sources:
   - label: "WeChat — official site"
     url: "https://www.wechat.com/en/"
@@ -12,9 +12,9 @@ sources:
     url: "https://www.scmp.com/tech/tech-trends/article/3368544/tencent-rolls-out-payment-app-foreign-travellers-ahead-apec-summit"
 faqs:
   - question: "Do I need WeChat Pay if I already have Alipay?"
-    answer: "Alipay covers payments, but WeChat is also China's booking and messaging layer, attraction tickets, hotel check-in chats, and driver pickup pins often run through WeChat mini-programs, which have no Alipay equivalent."
+    answer: "Alipay covers payments, but WeChat is also China's booking and messaging layer, hotel check-in chats and driver pickup pins often run through WeChat mini-programs, which have no Alipay equivalent. Some attractions sell tickets through WeChat mini-programs, but the Palace Museum (Forbidden City) runs its own booking site where visitors from outside mainland China register with email and passport and pay by international card."
   - question: "Can foreigners link an international card to WeChat Pay?"
-    answer: "Yes. Register with your home phone number, complete real-name verification with your passport, then add your Visa, Mastercard, JCB, Discover, or Diners Club card. Virtual and prepaid cards are usually rejected."
+    answer: "Yes. Register with your home phone number, complete real-name verification with your passport, then add your Visa, Mastercard, American Express, JCB, Discover, or Diners Club card, or an overseas-issued UnionPay card. Virtual and prepaid cards are usually rejected."
   - question: "What fees does WeChat Pay charge on foreign cards?"
     answer: "Like Alipay, single payments of ¥200 or less are typically fee-free and amounts above ¥200 carry about a 3% fee. Tencent has also run limited-time fee waivers for newly linked cards, check the prompt in the app."
   - question: "What is TenPayGo?"
@@ -31,7 +31,7 @@ Set up **WeChat Pay as your backup** to Alipay, and set up **WeChat itself** whe
 
 Alipay is the better wallet for foreign cards. WeChat does things Alipay does not:
 
-- **Mini-programs**, many major attractions, including the Palace Museum (Forbidden City), sell tickets through WeChat mini-programs.
+- **Mini-programs**, many attractions sell tickets through WeChat mini-programs, but the Palace Museum (Forbidden City) runs its own multilingual booking site where visitors from outside mainland China register with email and passport and pay by international card, so WeChat is not required for those tickets.
 - **Hotel and driver messaging**: check-in details and pickup pins often arrive over WeChat.
 - **A second payment rail**, when one app fails at a vendor, the other usually works.
 
@@ -45,7 +45,7 @@ Alipay is the better wallet for foreign cards. WeChat does things Alipay does no
 
 ## Fees and limits
 
-The structure mirrors Alipay: **¥200 or less is normally fee-free; above ¥200 typically adds ~3%**. Foreign-issued UnionPay cards are usually exempt. Spending is capped by your verification level, your bank, and the regulatory ceiling (roughly US$5,000 per transaction, US$50,000 per year). Tencent has periodically offered new-card promotions, read the in-app prompt rather than relying on any blog.
+The structure mirrors Alipay: **¥200 or less is normally fee-free; above ¥200 typically adds ~3%**. Foreign-issued UnionPay cards are usually exempt. Spending is capped by your verification level, your bank, and the app's own account limits (¥6,500 per transaction, ¥50,000 per month, ¥65,000 per year). Those sit far below the regulatory ceiling of roughly US$5,000 per transaction and US$50,000 per year. Tencent has periodically offered new-card promotions, read the in-app prompt rather than relying on any blog.
 
 ## Where TenPayGo fits in
 
@@ -54,9 +54,9 @@ The structure mirrors Alipay: **¥200 or less is normally fee-free; above ¥200 
 - **Sign-up is by email**, so you do not need a Chinese phone number or a Chinese bank account.
 - **It accepts what you already have**: international cards from seven major networks (UnionPay, Visa, Mastercard and others), around 60 overseas digital wallets, and Apple Pay.
 
-Payments run on the **WeChat Pay merchant network**, so the same shops, restaurants and transport operators accept it. Beyond paying, Tencent is adding visitor-specific features: a transit QR code for Shenzhen's metro and buses, a "circle to translate" tool for menus and signs, and in-app tax-refund requests.
+Payments run on the **WeChat Pay merchant network**, so the same shops, restaurants and transport operators accept it. Beyond paying, Tencent is adding visitor-specific features: a transit QR code for Shenzhen's metro and buses, a "circle to explain" tool and a "scan and translate" tool for menus and signs, and in-app tax-refund requests.
 
-Two honest caveats. **These extras are still rolling out**, so treat the transit and tax-refund features as "check inside the app" rather than guaranteed. And **TenPayGo is a payment channel, not a replacement for WeChat itself**: attraction tickets, hotel messages and driver pins still run through WeChat mini-programs, which TenPayGo does not cover.
+Two honest caveats. **These extras are still rolling out**, so treat the transit and tax-refund features as "check inside the app" rather than guaranteed. And **TenPayGo is a payment channel, not a replacement for WeChat itself**: hotel messages, driver pins, and tickets for some attractions still run through WeChat mini-programs, which TenPayGo does not cover.
 
 So: if you can complete passport verification in WeChat or Alipay, do that first, because you will want WeChat installed anyway. If you are stuck on a Chinese phone number, or you want one app dedicated to travel, TenPayGo is now the simplest way in.
 

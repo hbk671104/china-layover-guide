@@ -2,15 +2,15 @@
 title: "Do You Need a Visa for China? Visa-Free Entry vs a Chinese Visa"
 description: "If you don't qualify for visa-free entry or transit, you need a visa. How to tell whether you need a Chinese visa, which type to choose, and what it costs."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "National Immigration Administration (NIA) — official English portal"
     url: "https://en.nia.gov.cn/"
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
 faqs:
   - question: "Do I need a visa to visit China?"
-    answer: "It depends on your nationality and itinerary. Citizens of around 50 countries can enter visa-free for up to 30 days, and 55 countries can use 240-hour visa-free transit. If neither applies to you, you need a visa before you travel."
+    answer: "It depends on your nationality and itinerary. Citizens of 50 countries can enter visa-free for up to 30 days, and 57 countries can use 240-hour visa-free transit. If neither applies to you, you need a visa before you travel."
   - question: "What type of Chinese visa do I need for tourism?"
     answer: "The L visa is the standard tourist visa. The G visa is a transit visa for short stops. If you are transiting but do not qualify for the visa-free scheme, a G visa or an L visa may both work."
   - question: "How long does a Chinese visa take to process?"

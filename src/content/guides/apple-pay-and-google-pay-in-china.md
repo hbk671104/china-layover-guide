@@ -2,7 +2,7 @@
 title: "Do Apple Pay and Google Pay Work in China? What Tourists Should Know"
 description: "Foreign Apple Pay and Google Pay generally do not work at Chinese payment terminals. Here is what works instead, and the few places physical cards are accepted."
 category: payments
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "Alipay — official site"
     url: "https://www.alipay.com/"
@@ -30,7 +30,7 @@ China skipped the card-terminal era for everyday payments. Merchants expect you 
 - **scan their QR code**, or
 - **show your payment QR** for them to scan.
 
-Domestic users pay inside Alipay and WeChat Pay. Foreign cards are bridged into those same apps. There is no widely deployed NFC terminal for a foreign Visa tap, so Apple Pay and Google Pay have nothing to talk to.
+Domestic users pay inside Alipay and WeChat Pay. Foreign cards are bridged into those same apps. Ordinary shops and small venues rarely have an NFC terminal that accepts a foreign card tap, so outside Shanghai's metro and Maglev gates and a few large venues, Apple Pay and Google Pay have nothing to talk to.
 
 ## What does work
 

@@ -2,11 +2,11 @@
 title: "Hotel Registration for Foreigners in China: The 24-Hour Rule"
 description: "Foreign visitors in China must register their accommodation within 24 hours. What hotels handle for you, what to do if you stay privately, and why it matters."
 category: logistics
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "National Immigration Administration (NIA) — official English portal"
     url: "https://en.nia.gov.cn/"
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
 faqs:
   - question: "Do I have to register my accommodation in China as a foreigner?"
@@ -14,7 +14,7 @@ faqs:
   - question: "Do hotels register foreign guests automatically?"
     answer: "Foreigner-registered hotels complete the registration at check-in. Confirm your hotel accepts foreign guests, and keep your passport with you, it is used for registration."
   - question: "What if I stay with a friend or in an apartment?"
-    answer: "You, or the person hosting you, must register with the local police station within 24 hours. Many areas now offer an online self-registration system, but check the local rules."
+    answer: "You, or the person hosting you, must register with the local police station within 24 hours. Since 21 September 2026 you can also register online, nationwide, which has the same legal effect as registering in person."
   - question: "What happens if I do not register?"
     answer: "Failing to register can lead to fines and problems with immigration. It is a legal requirement, not a formality, so make sure it happens within 24 hours."
 ---
@@ -36,7 +36,7 @@ Hotels that accept foreign guests handle the paperwork automatically. You simply
 
 ## If you are staying privately
 
-You (or the person hosting you) must go to the **local public security bureau** office and register. Bring your passport and your host's ID. Many areas now offer an **online self-registration system** for foreign nationals, but availability varies by city, so ask locally or check the NIA.
+You (or the person hosting you) must go to the **local public security bureau** office and register. Bring your passport and your host's ID. Since **21 September 2026**, online accommodation registration is available **nationwide** for foreign nationals (it was piloted from 20 March 2026). You can use the **NIA Government Service Platform** website, the **"NIA 12367" app**, the **NIA 12367 WeChat mini-program**, or the **Alipay mini-program**. Online registration has the same legal effect as registering in person.
 
 ## Why it matters for a layover
 

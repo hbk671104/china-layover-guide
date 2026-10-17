@@ -67,7 +67,7 @@ FAQS: dict[str, list[tuple[str, str]]] = {
         ),
         (
             "What disqualifies me from the 240-hour transit policy?",
-            "Three things most often: a passport that is not on the 55-country list, an onward ticket that returns to where you came from rather than a third country or region, and entering at a port that is not designated for transit.",
+            "Three things most often: a passport that is not on the 57-country list, an onward ticket that returns to where you came from rather than a third country or region, and entering at a port that is not designated for transit.",
         ),
         (
             "Do I need a visa if I qualify for either scheme?",

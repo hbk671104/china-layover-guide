@@ -2,7 +2,7 @@
 title: "Alipay in China for Foreigners: Step-by-Step Setup with a Visa or Mastercard"
 description: "How to set up Alipay in China with a foreign card before you fly, identity verification, fees, spending limits, and why a small test payment matters."
 category: payments
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "Alipay — official site"
     url: "https://www.alipay.com/"
@@ -10,11 +10,11 @@ sources:
     url: "https://www.pbc.gov.cn/en/index.html"
 faqs:
   - question: "Do I need a Chinese bank account to use Alipay as a foreigner?"
-    answer: "No. You can register with your home phone number, verify your identity with your passport, and link an international Visa, Mastercard, or JCB card directly. A Chinese bank account is not required."
+    answer: "No. You can register with your home phone number, verify your identity with your passport, and link an international Visa, Mastercard, American Express, or JCB card directly. A Chinese bank account is not required."
   - question: "What fees does Alipay charge foreign cards?"
     answer: "Transactions of ¥200 or less are normally fee-free. Amounts above ¥200 usually carry about a 3% platform fee, which is on top of any foreign transaction fee your own bank charges."
   - question: "What are the Alipay spending limits for foreign cards?"
-    answer: "Once your passport verification clears, the regulatory ceiling is roughly US$5,000 per transaction and US$50,000 per year, though your app or bank may set lower limits."
+    answer: "Once your passport verification clears, Alipay's account caps are about ¥3,000 per transaction, ¥50,000 per month, and ¥60,000 per year. That sits far below the regulatory ceiling of roughly US$5,000 per transaction and US$50,000 per year, and your bank may set lower limits still."
   - question: "Why does my Alipay payment fail at some vendors?"
     answer: "Many small vendors show a personal QR code, which cannot accept foreign-linked cards. Those with a business or merchant code work. If a payment fails, ask for the merchant payment code, try WeChat Pay, or use cash."
 ---
@@ -39,11 +39,11 @@ Alipay is the single most useful app to set up before a China trip. **Link your 
 | Over ¥200 | ~3% platform fee |
 | Any amount, foreign-issued UnionPay card | Usually exempt from the platform fee |
 
-That 3% is separate from your own bank's foreign-transaction fee. Card support covers Visa, Mastercard, JCB, Discover, and Diners Club; American Express works with some issuers but not universally. Foreign-issued **UnionPay** cards are the smoothest option if you have one.
+That 3% is separate from your own bank's foreign-transaction fee. Card support covers Visa, Mastercard, American Express, JCB, Discover, and Diners Club; American Express has been a fully supported network since February 2025. Foreign-issued **UnionPay** cards are the smoothest option if you have one.
 
 ## Limits worth knowing
 
-Once verification clears, the regulatory ceiling is about **US$5,000 per transaction and US$50,000 per year**. Your app, bank, or card may apply lower limits. That is far more than a layover traveler will spend.
+Once verification clears, Alipay's account caps are about **¥3,000 per transaction, ¥50,000 per month, and ¥60,000 per year**. That sits far below the regulatory ceiling of roughly US$5,000 per transaction and US$50,000 per year, and your bank may apply lower limits still. Even so, it is more than a layover traveler will spend.
 
 ## The one failure mode to expect
 

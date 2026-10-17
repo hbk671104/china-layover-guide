@@ -2,7 +2,7 @@
  * Payment recommendation matrix for foreign travelers in China.
  *
  * This is general guidance, not financial advice. Acceptance varies by
- * merchant and provider terms change. Review date: 2026-09-24.
+ * merchant and provider terms change. Review date: 2026-10-16.
  */
 
 export type CardBrand = 'visa' | 'mastercard' | 'amex' | 'discover' | 'none';
@@ -74,30 +74,45 @@ const baseSteps: Record<CardBrand, PaymentStep[]> = {
   amex: [
     {
       app: 'Alipay',
-      action: 'Try adding your Amex to Alipay.',
-   note: 'Acceptance for Amex is more limited, verify in the app before you travel.',
+      action: 'Download Alipay, sign up with your phone number, and add your Amex card.',
+      note: 'Amex is a fully supported network; works for most QR payments.',
     },
     {
       app: 'WeChat Pay',
-      action: 'Try adding your Amex to WeChat Pay.',
-      note: 'Amex acceptance varies by region.',
+      action: 'Add the same Amex card to WeChat Pay as a backup.',
+      note: 'Some merchants only accept WeChat Pay.',
+    },
+    {
+      app: 'TenPayGo',
+      action: 'Open TenPayGo, register with an email address (no Chinese phone number needed), then link your Amex card.',
+      note: 'Tencent app for visitors, launched September 2026. Pays over the WeChat Pay network; also accepts overseas wallets and Apple Pay.',
     },
     {
       app: 'Cash',
-      action: 'Carry more RMB cash (¥500+) if Amex is your only card.',
-      note: 'Cash is the most reliable fallback for Amex-only travelers.',
+      action: 'Carry a small amount of RMB (¥200–500) as a fallback.',
+      note: 'Cards are often rejected at small vendors; cash is accepted but change can be an issue.',
     },
   ],
   discover: [
     {
       app: 'Alipay',
-      action: 'Try adding your Discover card to Alipay.',
-      note: 'Discover acceptance is limited; verify before you travel.',
+      action: 'Download Alipay, sign up with your phone number, and add your Discover card.',
+      note: 'Discover is a supported network; works for most QR payments.',
+    },
+    {
+      app: 'WeChat Pay',
+      action: 'Add the same Discover card to WeChat Pay as a backup.',
+      note: 'Some merchants only accept WeChat Pay.',
+    },
+    {
+      app: 'TenPayGo',
+      action: 'Open TenPayGo, register with an email address (no Chinese phone number needed), then link your Discover card.',
+      note: 'Tencent app for visitors, launched September 2026. Pays over the WeChat Pay network; also accepts overseas wallets and Apple Pay.',
     },
     {
       app: 'Cash',
-      action: 'Carry RMB cash as your primary fallback.',
-      note: 'Discover is not widely accepted.',
+      action: 'Carry a small amount of RMB (¥200–500) as a fallback.',
+      note: 'Cards are often rejected at small vendors; cash is accepted but change can be an issue.',
     },
   ],
   none: [
@@ -120,7 +135,7 @@ const androidNote =
  'Google Pay itself is not widely accepted offline in China. Use the Alipay/WeChat Pay apps instead, your linked card does the paying.';
 
 export const paymentMatrix: PaymentMatrix = {
-  lastReviewed: '2026-09-24',
+  lastReviewed: '2026-10-16',
   sourceUrl: 'https://www.tenpayglobal.com/',
   recommendations: {
     visa: {
@@ -140,14 +155,14 @@ export const paymentMatrix: PaymentMatrix = {
       ],
     },
     amex: {
-      headline: 'Amex works in the apps but acceptance is more limited.',
+      headline: 'Amex is a fully supported network: link it to Alipay and WeChat Pay.',
       steps: baseSteps.amex,
-      warnings: ['Verify Amex support in Alipay/WeChat Pay before you travel.', 'Carry more cash than a Visa/Mastercard traveler would.'],
+      warnings: ['Apple Pay / Google Pay tap-to-pay is not the norm; QR codes are.', 'What decides success is the merchant QR type, not your network: personal codes reject every foreign card.'],
     },
     discover: {
-      headline: 'Discover is the hardest major card to use in China.',
+      headline: 'Discover is a fully supported network: link it to Alipay and WeChat Pay.',
       steps: baseSteps.discover,
-      warnings: ['Do not rely on Discover.', 'Carry RMB cash as your primary method.'],
+      warnings: ['Apple Pay / Google Pay tap-to-pay is not the norm; QR codes are.', 'What decides success is the merchant QR type, not your network: personal codes reject every foreign card.'],
     },
     none: {
       headline: 'Without a foreign card, plan around cash.',

@@ -2,9 +2,9 @@
 title: "Can You See the Great Wall on a Beijing Layover?"
 description: "Yes, with 10+ hours and a plan. How to visit Mutianyu Great Wall from Beijing PEK or PKX airport during a layover, with the honest timing math."
 category: transit-visa
-updated: 2026-09-10
+updated: 2026-10-16
 sources:
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "National Immigration Administration (NIA) — official English portal and 12367 hotline information"
     url: "https://en.nia.gov.cn/"
@@ -19,7 +19,7 @@ faqs:
     answer: "Neither, if you are on a layover. A pre-booked private car or driver for the day is the only realistic option, because you need someone waiting at the wall for the return leg rather than you hunting for a ride."
 ---
 
-> This page was last reviewed on 2026-09-10. Driving times vary with traffic and road conditions; confirm the current Great Wall ticketing rules with the official site or your tour operator before you book.
+> This page was last reviewed on 2026-10-16. Driving times vary with traffic and road conditions; confirm the current Great Wall ticketing rules with the official site or your tour operator before you book.
 
 ## The honest answer
 

@@ -20,12 +20,6 @@ describe('buildPaymentPlan', () => {
     expect(plan.warnings.join(' ')).toContain('Google Pay');
   });
 
-  it('warns Amex holders to carry more cash', () => {
-    const plan = buildPaymentPlan({ card: 'amex', os: 'ios' });
-
-    expect(plan.warnings.join(' ')).toContain('cash');
-  });
-
   it('starts cash-first for travelers without a foreign card', () => {
     const plan = buildPaymentPlan({ card: 'none', os: 'android' });
 

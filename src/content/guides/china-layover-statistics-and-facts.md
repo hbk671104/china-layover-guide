@@ -2,17 +2,17 @@
 title: "China Layover Statistics & Facts 2026: The Numbers That Matter"
 description: "A citable reference of China layover and visa-free transit figures, countries, ports, time limits, transfer times, and airport data for 2026."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
-  - label: "National Immigration Administration (NIA) — Unilateral visa-free policy list (2026-02-17)"
-    url: "https://en.nia.gov.cn/n147418/n147468/c182992/content.html"
+  - label: "National Immigration Administration (NIA) — List of countries covered by unilateral visa exemption policies (2026-02-17)"
+    url: "https://en.nia.gov.cn/n147418/n147463/c183390/content.html"
   - label: "Shanghai Airport — official transport information"
     url: "https://www.shanghaiairport.com/"
 faqs:
   - question: "How many countries can use China's 240-hour visa-free transit?"
-    answer: "55 countries, as of the NIA policy interpretation of 2025-07-04. Indonesia was added in June 2025, bringing the total from 54 to 55."
+    answer: "57 countries, as of the NIA's Visa-Free Transit Policies page revised 2026-08-20. Kyrgyzstan and Vietnam were added on 20 August 2026, bringing the total from 55 to 57."
   - question: "How many ports allow 240-hour visa-free transit?"
     answer: "65 designated ports across 24 provinces, autonomous regions, and municipalities."
   - question: "How long is 240 hours in days?"
@@ -23,13 +23,13 @@ faqs:
 
 ## The short answer
 
-China's 240-hour visa-free transit covers **55 countries** through **65 ports** in **24 provinces**, for up to **10 days**. A separate 30-day visa-free entry scheme covers **around 50 countries**. This page collects the numbers so you can cite or check them.
+China's 240-hour visa-free transit covers **57 countries** through **65 ports** in **24 provinces**, for up to **10 days**. A separate 30-day visa-free entry scheme covers **50 countries**. This page collects the numbers so you can cite or check them.
 
 ## Visa-free transit (240-hour)
 
 | Fact | Figure |
 |---|---|
-| Eligible countries | **55** |
+| Eligible countries | **57** |
 | Maximum stay | **240 hours (10 days)** |
 | Designated ports | **65** |
 | Provinces / regions covered | **24** |
@@ -75,14 +75,14 @@ Transfer times and fares change, verify on the airport's own site before relying
 
 - **10 days**: the practical length of the 240-hour transit window.
 - **65 ports, 24 provinces**, where the 240-hour policy applies.
-- **~50 vs 55**: the 30-day entry list and the 240-hour transit list are **not the same**, and they overlap heavily but differ (the US is transit-only).
+- **50 vs 57**: the 30-day entry list and the 240-hour transit list are **not the same**, and they overlap heavily but differ (the US is transit-only).
 - **3 months**: the NIA's minimum passport validity for the transit policy; airlines may ask for six.
 - **2.5–3 hours**: the buffer to be back at the airport before an international departure.
 
 ## How to use this page
 
-If you are writing about China layovers or quoting a figure, the visa-free numbers trace to the NIA (2025-07-04) and the 30-day list to the NIA compilation of 2026-02-17. Everything else (fares, transfer times, opening hours) is indicative and should be re-checked against the operator.
+If you are writing about China layovers or quoting a figure, the visa-free numbers trace to the NIA's Visa-Free Transit Policies page (revised 2026-08-20) and the 30-day list to the NIA compilation of 2026-02-17. Everything else (fares, transfer times, opening hours) is indicative and should be re-checked against the operator.
 
 ## Bottom line
 
-55 countries, 65 ports, 24 provinces, 10 days. Those are the core figures. For how to use them, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/) and [30-day vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
+57 countries, 65 ports, 24 provinces, 10 days. Those are the core figures. For how to use them, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/) and [30-day vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).

@@ -2,9 +2,9 @@
 title: "China Transit Mistakes That Get Travelers Denied Boarding or Entry"
 description: "The most common reasons visa-free transit travelers are refused at check-in or immigration in China, and how to avoid each one before you fly."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "National Immigration Administration (NIA) — official English portal"
     url: "https://en.nia.gov.cn/"

@@ -2,7 +2,7 @@
 title: "VPN for China: eSIM vs VPN vs Roaming Compared"
 description: "Do you need a VPN for China? How a travel eSIM, a VPN, and home-carrier roaming compare on blocked apps, cost, and setup, and which to use on a layover."
 category: esim
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "Airalo — China eSIM plans (example provider, not an endorsement)"
     url: "https://www.airalo.com/china-esim"
@@ -54,7 +54,7 @@ Your home carrier's roaming agreement often routes through a foreign network, so
 
 ## The rule that matters most
 
-**Whatever you choose, set it up at home.** Airport Wi-Fi in China usually requires an SMS code your home number may not receive, and app stores behave differently once you are on a Chinese network. Install before you fly, see [China eSIM setup](/guides/esim-setup-before-you-land/) and the [apps checklist](/guides/china-apps-checklist/).
+**Whatever you choose, set it up at home.** Airport Wi-Fi in China needs a login code; a passport covers you at the main hubs, but app stores behave differently once you are on a Chinese network. Install before you fly, see [China eSIM setup](/guides/esim-setup-before-you-land/) and the [apps checklist](/guides/china-apps-checklist/).
 
 ## Bottom line
 

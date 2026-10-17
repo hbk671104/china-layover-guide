@@ -2,13 +2,13 @@
 title: "30-Day Visa-Free Entry vs 240-Hour Transit: Which One Applies to You?"
 description: "China has two different visa-free schemes for short stays. Here's how the 30-day visa-free entry and the 240-hour transit policy differ, and which one to use for your trip."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "National Immigration Administration (NIA) — official English portal and 12367 hotline information"
     url: "https://en.nia.gov.cn/"
-  - label: "National Immigration Administration (NIA) — Unilateral visa-free policy: latest country list (2026-02-17)"
-    url: "https://en.nia.gov.cn/n147418/n147468/c182992/content.html"
-  - label: "National Immigration Administration (NIA) — Policy interpretation: visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — List of countries covered by unilateral visa exemption policies (2026-02-17)"
+    url: "https://en.nia.gov.cn/n147418/n147463/c183390/content.html"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
 faqs:
   - question: "Is the 30-day visa-free entry better than 240-hour transit?"
@@ -16,12 +16,12 @@ faqs:
   - question: "Can I use the 30-day visa-free entry for a transit stop?"
     answer: "Yes. If your nationality is on the 30-day list, you can enter on that instead of the transit policy, and the onward-ticket rule no longer applies to you."
   - question: "What disqualifies me from the 240-hour transit policy?"
-    answer: "Three things most often: a passport that is not on the 55-country list, an onward ticket that returns to where you came from rather than a third country or region, and entering at a port that is not designated for transit."
+    answer: "Three things most often: a passport that is not on the 57-country list, an onward ticket that returns to where you came from rather than a third country or region, and entering at a port that is not designated for transit."
   - question: "Do I need a visa if I qualify for either scheme?"
     answer: "No. Both are visa-free entry routes. The transit policy is a form of visa-free entry, not a visa, so you do not need a separate visa as long as you meet its conditions."
 ---
 
-> This page was last reviewed on 2026-09-16. Both policies change often: countries are regularly added and expiry dates shift. Always confirm the current list for your nationality with the National Immigration Administration (NIA) or the 12367 hotline before booking.
+> This page was last reviewed on 2026-10-16. Both policies change often: countries are regularly added and expiry dates shift. Always confirm the current list for your nationality with the National Immigration Administration (NIA) or the 12367 hotline before booking.
 
 ## The short version
 
@@ -30,7 +30,7 @@ China runs **two overlapping visa-free schemes**, and travelers routinely confus
 | | 30-day visa-free entry | 240-hour visa-free transit |
 |---|---|---|
 | **What it is** | A standalone visa waiver for short visits | A transit rule for people passing through to somewhere else |
-| **Who** | Passport holders from ~50 eligible countries | Passport holders from 55 eligible countries |
+| **Who** | Passport holders from 50 eligible countries | Passport holders from 57 eligible countries |
 | **How long** | Up to **30 days** | Up to **240 hours (10 days)** |
 | **Do I need an onward ticket?** | No (round trips are fine | **Yes**) onward to a third country/region |
 | **Where can I go?** | Anywhere in mainland China | Only within the permitted areas (65 ports across 24 provinces) |
@@ -44,7 +44,7 @@ China runs **two overlapping visa-free schemes**, and travelers routinely confus
 
 ## When the 30-day visa-free entry is the better choice
 
-China's unilateral visa-free policy lets citizens of around **50 countries** (including most of the EU, the UK, Australia, New Zealand, Japan, South Korea, several Gulf and Latin American countries) enter for **up to 30 days** for tourism, business, visits, or transit, with **no visa** and **no third-country requirement**.
+China's unilateral visa-free policy lets citizens of **50 countries** (including most of the EU, the UK, Canada, Australia, New Zealand, Japan, South Korea, several Gulf and Latin American countries) enter for **up to 30 days** for tourism, business, visits, or transit, with **no visa** and **no third-country requirement**.
 
 Use it when:
 
@@ -58,9 +58,9 @@ The 30-day entry is almost always the **simpler, more flexible** option when you
 
 ## When the 240-hour transit is the better (or only) choice
 
-The 240-hour visa-free transit covers **55 countries** and is specifically for travelers passing through China to a third country or region. Use it when:
+The 240-hour visa-free transit covers **57 countries** and is specifically for travelers passing through China to a third country or region. Use it when:
 
-- Your nationality is **not** on the 30-day list but **is** on the 55-country transit list (notable example: **US citizens**, who are not on the current 30-day list).
+- Your nationality is **not** on the 30-day list but **is** on the 57-country transit list (notable example: **US citizens**, who are not on the current 30-day list).
 - You genuinely are transiting (e.g. New York → Beijing → Tokyo) and only have a few days.
 
 The trade-off: the transit scheme restricts you to the permitted areas of the provinces involved, and a round trip (London → Shanghai → London) does **not** qualify.
@@ -82,13 +82,13 @@ For most eligible travelers, the 30-day entry makes the 240-hour transit **irrel
    - No → continue.
 
 2. **Are you transiting through China to a third country or region?**
-   - Yes, and your country is on the 55-country transit list → use the **240-hour transit**; stay within the permitted areas, exit within 240 hours.
+   - Yes, and your country is on the 57-country transit list → use the **240-hour transit**; stay within the permitted areas, exit within 240 hours.
    - Yes, but your country isn't on either list → you likely need a Chinese visa.
    - No (round trip or China is your destination) → you likely need a visa.
 
 ## The fine print that trips people up
 
-- **The two lists are not the same.** The 30-day list (~50 countries) and the 240-hour list (55 countries) overlap heavily but differ. The US, for example, is on the transit list but not on the current 30-day list. Brazil and Argentina are on both. Check *your* nationality against *both*.
+- **The two lists are not the same.** The 30-day list (50 countries) and the 240-hour list (57 countries) overlap heavily but differ. The US, for example, is on the transit list but not on the current 30-day list. Brazil and Argentina are on both. Check *your* nationality against *both*.
 - **Expiry dates.** The unilateral 30-day policy is temporary and renewed in waves (most countries through 31 December 2026; Russia's runs on its own schedule). A country on the list today may not be on it next year.
 - **Ordinary passports only.** Both policies apply to holders of ordinary, valid passports.
 - **Purpose limits.** Both allow tourism, business, and visits, neither allows work, study, or journalism without the proper visa.

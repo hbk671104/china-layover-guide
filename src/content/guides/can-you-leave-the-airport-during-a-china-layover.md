@@ -2,9 +2,9 @@
 title: "Can I Leave the Airport During a China Layover?"
 description: "The honest answer to whether you can leave the airport on a China layover, visa rules, how long you need, and the golden rule for making it back to your flight."
 category: transit-visa
-updated: 2026-09-24
+updated: 2026-10-16
 sources:
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "National Immigration Administration (NIA) — official English portal and 12367 hotline information"
     url: "https://en.nia.gov.cn/"
@@ -19,11 +19,11 @@ faqs:
     answer: "You are responsible for it, and the airline is not obliged to rebook you for free. That is why the return buffer matters more than maximizing city time. Build in 2.5 hours before an international departure, and longer if you have bags to check."
 ---
 
-> This page was last reviewed on 2026-09-24. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
+> This page was last reviewed on 2026-10-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
 
 ## The short answer
 
-If you're transiting through mainland China to a third country or region, and your passport is from one of the **55 eligible countries**, you can **leave the airport without a visa for up to 240 hours (10 days)**: no stay inside the terminal required. For most layover travelers, the real question isn't *"am I allowed?"* but *"do I actually have enough hours to make it worthwhile?"*
+If you're transiting through mainland China to a third country or region, and your passport is from one of the **57 eligible countries**, you can **leave the airport without a visa for up to 240 hours (10 days)**: no stay inside the terminal required. For most layover travelers, the real question isn't *"am I allowed?"* but *"do I actually have enough hours to make it worthwhile?"*
 
 ## Do you need a visa to walk out the door?
 
@@ -31,7 +31,7 @@ If you're transiting through mainland China to a third country or region, and yo
 
 You need four things:
 
-1. **An eligible passport**: one of 55 countries, including the US, Canada, UK, Australia, New Zealand, Japan, South Korea, and most of Europe.
+1. **An eligible passport**: one of 57 countries, including the US, Canada, UK, Australia, New Zealand, Japan, South Korea, Vietnam, and most of Europe.
 2. **A confirmed onward ticket to a third country or region**, departing within 240 hours (Hong Kong, Macau, and Taiwan count as separate regions).
 3. **Entry and exit through designated ports.**
 4. **A passport valid for at least 3 months** (some airlines require 6: carry a buffer).
@@ -75,8 +75,8 @@ This is the math that decides everything:
 
 Check the two lists. They overlap but aren't identical:
 
-- **55-country transit list**, includes **US citizens** (notably).
-- **30-day visa-free list**, around 50 countries, including most of the EU, the UK, Australia, New Zealand, Japan, and South Korea.
+- **57-country transit list**, includes **US citizens** (notably).
+- **30-day visa-free list**, 50 countries, including most of the EU, the UK, Canada, Australia, New Zealand, Japan, and South Korea.
 
 If you're on the 30-day list, use that instead. It's simpler and lets you return to your origin country, unlike the transit rule. For the full comparison, see [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/).
 

@@ -3,8 +3,8 @@ import { visaRules } from './visa-rules';
 import { allCountries } from './countries';
 
 describe('visaRules', () => {
-  it('lists 55 eligible countries', () => {
-    expect(visaRules.eligibleCountries).toHaveLength(55);
+  it('lists 57 eligible countries', () => {
+    expect(visaRules.eligibleCountries).toHaveLength(57);
   });
 
   it('covers every eligible country in the full nationality list', () => {

@@ -2,7 +2,7 @@
  * 240-hour visa-free transit rules.
  *
  * IMPORTANT: immigration rules change. This data is a best-effort snapshot
- * reviewed 2026-09-17 and MUST be verified against the National Immigration
+ * reviewed 2026-10-16 and MUST be verified against the National Immigration
  * Administration (NIA) before relying on it. The eligibility checker always
  * tells users to confirm with official sources.
  */
@@ -17,7 +17,10 @@ export interface TransitPort {
 export interface VisaRules {
   lastReviewed: string;
   sourceUrl: string;
-  /** 55-country list per the NIA announcement of 2025-07-04 (Indonesia added 2025-06-12). */
+  /**
+   * 57-country list per the NIA Visa-Free Transit Policies page, revised
+   * 2026-08-20 (Kyrgyzstan and Vietnam added 2026-08-20, Indonesia 2025-06-12).
+   */
   eligibleCountries: string[];
   ports: TransitPort[];
   /** Minimum passport validity required, in months (NIA: at least 3 months validity). */
@@ -27,10 +30,10 @@ export interface VisaRules {
 }
 
 export const visaRules: VisaRules = {
-  lastReviewed: '2026-09-17',
-  sourceUrl: 'https://en.nia.gov.cn/',
-  // Verify against the official NIA list. This is the 55-country list
-  // published by the NIA on 2025-07-04 (Indonesia added 2025-06-12).
+  lastReviewed: '2026-10-16',
+  sourceUrl: 'https://en.nia.gov.cn/n147418/n147463/c183412/content.html',
+  // Verify against the official NIA list. This is the 57-country list
+  // on the NIA's Visa-Free Transit Policies page, revised 2026-08-20.
   eligibleCountries: [
     // Europe (40)
     'Albania',
@@ -83,17 +86,19 @@ export const visaRules: VisaRules = {
     // Oceania (2)
     'Australia',
     'New Zealand',
-    // Asia (7)
+    // Asia (9)
     'Brunei',
     'Indonesia',
     'Japan',
+    'Kyrgyzstan',
     'Qatar',
     'Singapore',
     'South Korea',
     'United Arab Emirates',
+    'Vietnam',
   ],
   // 65 designated ports across 24 provinces, autonomous regions, and
-  // municipalities per the NIA policy interpretation (2025-07-04).
+  // municipalities per the NIA Visa-Free Transit Policies page (2026-08-20).
   // Verify the complete list against the NIA before publishing.
   ports: [
     // Beijing (2)

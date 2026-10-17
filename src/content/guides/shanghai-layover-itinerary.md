@@ -2,11 +2,11 @@
 title: "Things to Do in Shanghai on a Layover: 6, 8, 12 or 24 Hours"
 description: "The best things to do in Shanghai on a layover, by window: how much city time a 6, 8, 12 or 24-hour stop really gives you from PVG or SHA, the Maglev timings, and when a layover tour is worth it."
 category: cities
-updated: 2026-09-24
+updated: 2026-10-16
 sources:
   - label: "Shanghai Airport — official transport information"
     url: "https://www.shanghaiairport.com/"
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
 faqs:
   - question: "Is an 8-hour layover in Shanghai enough to leave the airport?"

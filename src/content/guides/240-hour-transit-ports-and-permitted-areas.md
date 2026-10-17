@@ -2,9 +2,9 @@
 title: "China's 240-Hour Transit: The 65 Ports and Permitted Areas (Reference)"
 description: "The complete reference to the 65 designated ports and the permitted areas for China's 240-hour visa-free transit policy, organized by province."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "National Immigration Administration (NIA) — official English portal and 12367 hotline information"
     url: "https://en.nia.gov.cn/"
@@ -19,7 +19,7 @@ faqs:
     answer: "The permitted area depends on your port of entry. Many ports cover a whole province or region, while others are restricted to specific cities. Check the entry for your arrival port before planning any travel beyond the city."
 ---
 
-> This reference was last reviewed on 2026-09-16. Port lists and permitted-area rules change: always confirm the current list with the National Immigration Administration (NIA) or the 12367 hotline before booking.
+> This reference was last reviewed on 2026-10-16. Port lists and permitted-area rules change: always confirm the current list with the National Immigration Administration (NIA) or the 12367 hotline before booking.
 
 ## What this page is
 

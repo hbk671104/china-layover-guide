@@ -2,7 +2,7 @@
 title: "China Airport to City: Transfers Compared for Every Major Layover Hub"
 description: "How to get from China's main airports to the city center, costs, times, and the best option for PEK, PKX, PVG, SHA, CAN, TFU, XIY, and more."
 category: logistics
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "Shanghai Airport — official transport information"
     url: "https://www.shanghaiairport.com/"
@@ -36,10 +36,10 @@ Every major Chinese airport connects to its city by **metro or a dedicated expre
 | Beijing Daxing (PKX) | Daxing Airport Express | 30–40 min | ¥35 |
 | Guangzhou Baiyun (CAN) | Metro Line 3 | ~45–55 min | ~¥8 |
 | Chengdu Tianfu (TFU) | Metro Line 18 | 35–40 min | ¥7–10 |
-| Xi'an Xianyang (XIY) | Airport bus Line 1 | ~40–50 min | ~¥25 |
+| Xi'an Xianyang (XIY) | Metro Line 14 (Airport West) | ~40 min+ | ¥2–9 |
 | Chongqing Jiangbei (CKG) | Metro Line 10 | 40–50 min | ~¥6 |
 | Shenzhen Bao'an (SZX) | Metro Line 11 | ~30–50 min | ~¥7–10 |
-| Hangzhou Xiaoshan (HGH) | Metro / Airport bus | ~45–60 min | ~¥20–30 |
+| Hangzhou Xiaoshan (HGH) | Metro Lines 1, 7, 19 | ~45–60 min | Metro under ¥20; ¥20–30 is the coach fare |
 
 Treat fares and journey times as indicative. They change, so check the airport's own transport page or a maps app on arrival.
 
@@ -48,7 +48,7 @@ Treat fares and journey times as indicative. They change, so check the airport's
 - **Daytime, light luggage:** metro or express train. Cheapest and traffic-proof.
 - **Heavy bags or a group:** taxi or DiDi, especially from Pudong.
 - **Late arrival:** taxi or DiDi only; the metro has stopped.
-- **A cross-airport connection** (for example Shanghai PVG to SHA, or Beijing PEK to PKX): allow **1.5–2 hours** and do not also plan sightseeing.
+- **A cross-airport connection:** in Shanghai, the **Airport Link Line** links PVG T1/T2 to Hongqiao T2 in about **40 minutes for ¥26** (06:00–22:15), so that transfer no longer needs the 1.5–2 hour buffer it once did. For other pairs, such as Beijing PEK to PKX, still allow **1.5–2 hours** and do not also plan sightseeing.
 
 ## Paying for the ride
 

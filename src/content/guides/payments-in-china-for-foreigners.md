@@ -2,7 +2,7 @@
 title: "How to Pay in China: Alipay, WeChat Pay & TenPayGo for Foreigners"
 description: "Visa and Mastercard acceptance is limited in China. Here's how to link your foreign card to Alipay, WeChat Pay, and TenPayGo so you can pay like a local."
 category: payments
-updated: 2026-09-24
+updated: 2026-10-16
 sources:
   - label: "Alipay — international travelers"
     url: "https://www.alipay.com/"
@@ -23,7 +23,7 @@ faqs:
     answer: "Alipay. It has the simpler foreign-card flow and broader acceptance at small merchants. Add WeChat Pay afterwards as a second option in case one has an issue with your card."
 ---
 
-> Reviewed 2026-09-24. Payment provider terms and fees change: check the apps before you travel.
+> Reviewed 2026-10-16. Payment provider terms and fees change: check the apps before you travel.
 
 ## The situation on the ground
 
@@ -38,7 +38,7 @@ The fix is to **link your existing foreign card to a Chinese payment app** befor
 ## Set up Alipay first
 
 1. Download **Alipay** and sign up with your phone number.
-2. Add your **Visa or Mastercard** (Amex works but is less consistent).
+2. Add your **Visa, Mastercard, or American Express** card.
 3. Verify your identity with your passport when prompted.
 4. Pay by showing your QR code or scanning the merchant's code.
 

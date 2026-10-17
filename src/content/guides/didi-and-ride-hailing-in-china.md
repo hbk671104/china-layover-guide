@@ -2,7 +2,7 @@
 title: "DiDi and Ride-Hailing in China: A Guide for Foreigners"
 description: "How to set up and use DiDi in China with a foreign phone number and card, plus the taxi alternative, price expectations, and the safety checks that matter."
 category: logistics
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
   - label: "DiDi — official international rider information"
     url: "https://www.didiglobal.com/"
@@ -25,7 +25,7 @@ faqs:
 
 ## Set it up
 
-1. **Install the right app.** Search for **"DiDi Chuxing" (滴滴出行)**: the domestic China app. The separate international "DiDi Rider" app does **not** work in mainland China.
+1. **Install the right app.** Search for **"DiDi China: Ride Hailing"** in the App Store or Google Play: that is the domestic app. Inside it, the 滴滴出行 name still appears. The separate international "DiDi Rider" app does **not** work in mainland China.
 2. **Switch to English** in *Settings → Language*.
 3. **Register with your phone number** and enter the SMS code. Do this at home on your own network.
 4. **Add a payment method** under *Me → Wallet → Payment Methods*. Add a card, and enable auto-deduct.

@@ -2,9 +2,9 @@
 title: "China's 240-Hour Visa-Free Transit: The Complete Guide"
 description: "Who can use China's 240-hour visa-free transit policy, what the rules are, and how to plan a layover trip without a visa."
 category: transit-visa
-updated: 2026-09-16
+updated: 2026-10-16
 sources:
-  - label: "National Immigration Administration (NIA) — Policy interpretation of visa-free transit policies (2025-07-04)"
+  - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
   - label: "National Immigration Administration (NIA) — official English portal and 12367 hotline information"
     url: "https://en.nia.gov.cn/"
@@ -23,17 +23,17 @@ faqs:
     answer: "Yes, foreign visitors must register their accommodation within 24 hours of arrival. Hotels do this automatically at check-in; if you stay privately, you register with the local police station (many areas now allow online self-registration)."
 ---
 
-> This page was last reviewed on 2026-09-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
+> This page was last reviewed on 2026-10-16. Immigration rules change: always confirm with the official National Immigration Administration (NIA) or the 12367 hotline before you book.
 
 ## What the 240-hour visa-free transit policy is
 
-China allows citizens of **55 countries** to transit through designated mainland China ports **without a visa for up to 240 hours (10 days)**, as long as they are traveling onward to a third country or region. The policy replaced the older 72-hour and 144-hour schemes in December 2024, and was expanded again in 2025 (Indonesia was added as the 55th eligible country in June 2025).
+China allows citizens of **57 countries** to transit through designated mainland China ports **without a visa for up to 240 hours (10 days)**, as long as they are traveling onward to a third country or region. The policy replaced the older 72-hour and 144-hour schemes in December 2024. Indonesia was added in June 2025, and Kyrgyzstan and Vietnam in August 2026, bringing the list from 54 to 57.
 
 For a traveler flying from, say, London to Tokyo with a stopover in Shanghai, this means: enter Shanghai visa-free, explore for up to 10 days, then continue to Tokyo. You do **not** need to stay inside the airport. You can leave and travel within the permitted areas.
 
 ## Who is eligible
 
-- You hold a passport from one of the **55 eligible countries** (including the US, Canada, UK, Australia, New Zealand, Japan, South Korea, Singapore, Indonesia, and most of Europe). The NIA publishes the authoritative list.
+- You hold a passport from one of the **57 eligible countries** (including the US, Canada, UK, Australia, New Zealand, Japan, South Korea, Singapore, Indonesia, Vietnam, Kyrgyzstan, and most of Europe). The NIA publishes the authoritative list.
 - You have a confirmed onward ticket to a **third country or region** departing within 240 hours (10 days) of arrival.
 - You enter and exit through **designated ports** and stay within the permitted areas for those ports.
 - Your passport is valid for at least **3 months** beyond your entry.
