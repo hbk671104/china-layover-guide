@@ -1,7 +1,7 @@
 # Shopping pillar: giving the Taobao guide a home
 
 **Date:** 2026-10-23
-**Status:** awaiting approval
+**Status:** approved 2026-10-23, built
 **Size:** small. One new hub, one new category wired through existing patterns, one guide, plus copy fixes.
 
 ## Intent
@@ -80,9 +80,16 @@ The play stays inside the layover window: shopping as something a 48-hour-plus s
 
 - URL and label: `/shopping/`, "Shopping".
 - Leave the three existing label maps' other strings alone for now; only the new entry is added.
-- Byline: Bokang Huang, who owns payments, eSIM and logistics. The draft credits @Nuoya Li, who is not in `authors.ts`.
+- Byline: **Nora Li** (the draft's @Nuoya Li is her handle). `shopping` added to her categories, role and bio rather than to a second author.
+- Title follows the revised draft, "How to Shop on Taobao While Traveling in China". The slug keeps the head term at `/guides/taobao-for-foreigners/`, and the description carries the layover framing.
 - Nav order: after Payments, before City trips.
-- Sample plan: becomes a table, matching the itinerary style used on the city guides.
+
+## Amendments made during the build
+
+- **Nav breakpoint moved from `md` to `lg`.** Seven links overflowed the bar at 800px (header scrolled to 840px and the Search button clipped). The `Sections` menu moved with it, and 360–1280px now renders without horizontal overflow.
+- **Homepage heading no longer counts the pillars.** "The five things a layover depends on" became "What a layover depends on", because the list now has six entries.
+- **External links resolved as instructed:** travel-site links (trip.com, traveltochina.net, chinaneighbor, fishgoo, the substack, realchinaguide, Wikipedia) are gone. Visa rules point at the internal 240-hour guide, Alipay fees at the internal Alipay guide, and the National Immigration Administration link is kept in both the body and the sources. The power-bank claim now cites CAAC and the US customs figure cites CBP.
+- **Sample plan** is a table, matching the city-guide style.
 
 ## Verification
 

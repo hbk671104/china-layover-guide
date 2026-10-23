@@ -118,6 +118,9 @@ The biggest content moat and most searchable long tail.
 ### Pillar 5 (later) — Layover logistics
 Airport transfers, luggage storage, DiDi ride-hailing, intercity trains, safety/scams. Only after Pillars 1–4 are strong.
 
+### Pillar 6 — Shopping & deliveries (`/shopping/`)
+Layover-window shopping, added 2026-10-23. The window, not the trip length, is what makes it work: order from Taobao before you fly, collect the parcels at your hotel, and carry them home. First spoke is the Taobao guide; likely next spokes are markets, duty-free, and shipping a haul home.
+
 ## Priority topics (scored)
 
 Weighting: Customer Impact 40%, Content-Market Fit 30%, Search Potential 20%, Resources 10%.
@@ -148,6 +151,7 @@ Weighting: Customer Impact 40%, Content-Market Fit 30%, Search Potential 20%, Re
                       "do my apps work?"
 /payments/       ───  hub · Alipay setup · WeChat Pay/TenPayGo · cash FAQ ·
                       Apple/Google Pay · apps checklist
+/shopping/       ───  Taobao guide · (next) markets · duty-free · shipping a haul home
 /cities/         ───  Beijing ── 6h / 8h / 12h / 24h · Great Wall run · PEK transfer · luggage
                       Shanghai ─ 6h / 8h / 12h / 24h · Maglev · PVG/SHA transfer · luggage
                       Guangzhou ─ ... · Chengdu ─ ... · Xi'an ─ ...

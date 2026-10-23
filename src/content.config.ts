@@ -22,7 +22,7 @@ const guides = defineCollection({
   schema: z.object({
     title: displayText,
     description: displayText,
-    category: z.enum(['transit-visa', 'esim', 'payments', 'cities', 'logistics']),
+    category: z.enum(['transit-visa', 'esim', 'payments', 'shopping', 'cities', 'logistics']),
     updated: z.coerce.date(),
     sources: z
       .array(

@@ -47,6 +47,7 @@ const CATEGORY_LABELS: Record<string, string> = {
   'transit-visa': 'Transit visa',
   esim: 'eSIM',
   payments: 'Payments',
+  shopping: 'Shopping',
   logistics: 'Layover logistics',
   cities: 'City trips',
 };
@@ -65,9 +66,16 @@ export const SITE_PAGES: SearchDoc[] = [
     category: 'Start here',
     description:
       'Leave the airport on your China layover. Check 240-hour visa-free transit eligibility, set up an eSIM, and get hour-by-hour plans for 12 cities.',
-    headings: ['Visa-free transit', 'eSIM and connectivity', 'Payments', 'City trips', 'Layover logistics'],
+    headings: [
+      'Visa-free transit',
+      'eSIM and connectivity',
+      'Payments',
+      'Shopping',
+      'City trips',
+      'Layover logistics',
+    ],
     body:
-      'Start here. Four things decide whether a China layover works: whether you qualify for 240-hour visa-free transit, whether your phone connects, whether you can pay, and how much of your window survives the airport transfer. The eligibility checker answers the first in four questions.',
+      'Start here. Four things decide whether a China layover works: whether you qualify for 240-hour visa-free transit, whether your phone connects, whether you can pay, and how much of your window survives the airport transfer. The eligibility checker answers the first in four questions. That same window is what makes a Taobao order possible: for a few days, you have a Chinese address.',
     keywords: ['home', 'start here', 'checklist', 'planning'],
   },
   {
@@ -108,6 +116,19 @@ export const SITE_PAGES: SearchDoc[] = [
     body:
       'China runs on QR codes. Hotels and big stores take a Visa or Mastercard; small shops, restaurants, and taxis mostly do not. Linking your card to Alipay or WeChat Pay covers almost everything, and a little cash is still worth carrying as backup. The recommender picks an app based on your card and phone.',
     keywords: ['alipay', 'wechat pay', 'tenpaygo', 'qr code', 'cash', 'atm', 'credit card', 'apple pay', 'google pay'],
+  },
+  {
+    id: 'page:shopping',
+    url: '/shopping/',
+    title: 'Shopping that fits your layover',
+    kind: 'Page',
+    category: 'Shopping',
+    description:
+      'How to buy from Taobao and other Chinese shops during a layover: order before you fly, collect at your hotel, and carry it home.',
+    headings: ['Order', 'Collect', 'Fly out'],
+    body:
+      'A layover gives you the one thing an online shopper abroad never has: a Chinese address. Order before you fly, collect the parcels at your hotel front desk, and carry them home. Covers the account setup, the Alipay card link, the Chinese delivery address, and the power bank and customs rules for the flight home.',
+    keywords: ['taobao', 'shopping', 'delivery', 'parcel', 'tmall', 'shipping', 'power bank'],
   },
   {
     id: 'page:cities',

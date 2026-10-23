@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HubHeader from '../../components/HubHeader.astro';
+import GuideList from '../../components/GuideList.astro';
+
+const siteUrl = 'https://chinalayoverguide.com';
+
+const guides = (
+  await getCollection('guides', ({ data }) => data.category === 'shopping')
+).sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Shopping in China on a Layover | China Layover Guide',
+    description:
+      'How to buy from Taobao and other Chinese shops during a layover: order before you fly, collect at your hotel, and carry it home.',
+    url: `${siteUrl}/shopping/`,
+    hasPart: guides.map((guide) => ({
+      '@type': 'Article',
+      headline: guide.data.title,
+      url: `${siteUrl}/guides/${guide.id}/`,
+    })),
+  },
+];
+---
+
+<BaseLayout
+  title="Shopping in China on a Layover: Order, Collect, Fly Home"
+  description="How to buy from Taobao and other Chinese shops during a layover: order before you fly, collect at your hotel, and carry it home."
+  canonicalPath="/shopping/"
+  jsonLd={jsonLd}
+>
+  <HubHeader
+    eyebrow={`Shopping · ${guides.length} ${guides.length === 1 ? 'guide' : 'guides'}`}
+    title="Shopping that fits your layover"
+    lead="A layover gives you the one thing an online shopper abroad never has: a Chinese address. Order before you fly, collect the parcels at your hotel, and carry them home in your suitcase."
+  />
+
+  <section class="mx-auto max-w-6xl px-4 py-14 sm:px-6" aria-labelledby="shopping-guides">
+    <h2
+      id="shopping-guides"
+      class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink sm:text-3xl"
+    >
+      Order, collect, and fly out
+    </h2>
+    <p class="mt-3 max-w-[44rem] text-muted">
+      The window that makes this work is time in one city, not the length of your whole trip. Start
+      with the setup you do at home, then work forward through delivery and packing.
+    </p>
+    <div class="mt-8 max-w-[52rem]">
+      <GuideList guides={guides} showCategory={false} />
+    </div>
+  </section>
+</BaseLayout>

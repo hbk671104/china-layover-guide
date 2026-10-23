@@ -8,6 +8,7 @@ const links = [
   { href: '/transit-visa/', label: 'Transit visa' },
   { href: '/esim/', label: 'eSIM' },
   { href: '/payments/', label: 'Payments' },
+  { href: '/shopping/', label: 'Shopping' },
   { href: '/cities/', label: 'City trips' },
   { href: '/airports/', label: 'Airports' },
   { href: '/logistics/', label: 'Logistics' },
@@ -54,7 +55,7 @@ const linkClass = (href: string) =>
       </span>
     </a>
 
-    <nav aria-label="Main navigation" class="hidden md:block">
+    <nav aria-label="Main navigation" class="hidden lg:block">
       <ul class="flex items-center gap-6">
         {
           links.map((link) => (
@@ -81,7 +82,7 @@ const linkClass = (href: string) =>
         <SearchDialog client:idle />
       </div>
 
-      <details class="group relative md:hidden" data-mobile-menu>
+      <details class="group relative lg:hidden" data-mobile-menu>
         <summary
           class="flex cursor-pointer list-none items-center gap-2 rounded-sm border border-line-strong bg-surface px-3 py-2 text-sm font-semibold text-ink transition-colors duration-200 hover:border-brand hover:text-brand [&::-webkit-details-marker]:hidden"
         >

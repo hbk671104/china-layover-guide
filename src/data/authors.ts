@@ -72,14 +72,14 @@ const authorData: AuthorInput[] = [
   {
     slug: 'nora-li',
     name: 'Nora Li',
-    role: 'Transit visas, city trips and planning',
+    role: 'Transit visas, city trips and shopping',
     tagline:
       'American who grew up in Beijing, moved back as an adult, and has used China’s visa-free transit as a foreigner.',
     bio: [
       'Nora grew up in Beijing and moved to New Jersey for high school. She studied economics at UC Berkeley, then spent a year in Chile before settling in North America.',
       'She now lives in Beijing again, this time on a US passport. That combination, someone who knows how China works from the inside but travels it on foreign documents, is exactly the vantage point these guides are written from.',
       'She has used China’s visa-free transit entry herself, which is why the transit guides focus on the parts that actually trip people up: the onward-ticket rule, the transit lane at immigration, and how much of a layover is genuinely usable once you subtract the airport.',
-      'She writes our transit-visa, city and planning guides. When a rule changes, she is the one who re-reads the National Immigration Administration publication and updates the page.',
+      'She writes our transit-visa, city, planning and shopping guides. When a rule changes, she is the one who re-reads the National Immigration Administration publication and updates the page.',
     ],
     knowsAbout: [
       '240-hour visa-free transit',
@@ -96,7 +96,7 @@ const authorData: AuthorInput[] = [
     avatar: '/images/authors/nora-li.jpg',
     verification:
       'Transit and visa pages are checked line by line against publications from the National Immigration Administration (NIA). Nora has used the visa-free transit entry herself.',
-    categories: ['transit-visa', 'cities'],
+    categories: ['transit-visa', 'cities', 'shopping'],
   },
   {
     slug: 'bokang-huang',

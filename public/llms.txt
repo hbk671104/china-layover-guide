@@ -1,6 +1,6 @@
 # China Layover Guide
 
-> Independent guides for foreign travelers on a China layover: 240-hour visa-free transit rules for 57 countries, eSIM setup before you land, payments that work with a foreign card, and city trips by layover window. Facts are reviewed against official sources and every page carries a last-updated date.
+> Independent guides for foreign travelers on a China layover: 240-hour visa-free transit rules for 57 countries, eSIM setup before you land, payments that work with a foreign card, shopping collected at your hotel, and city trips by layover window. Facts are reviewed against official sources and every page carries a last-updated date.
 
 ## Start here
 
@@ -32,7 +32,7 @@
 - [eSIM China: best plans compared (Airalo, Holafly & Nomad)](https://chinalayoverguide.com/guides/best-esim-for-china/)
 - [VPN for China: eSIM vs VPN vs roaming compared](https://chinalayoverguide.com/guides/esim-vs-vpn-vs-roaming/)
 - [Does Google Maps work in China?](https://chinalayoverguide.com/guides/does-google-maps-work-in-china/)
-- [China airport Wi-Fi: the SMS catch](https://chinalayoverguide.com/guides/china-airport-wifi/)
+- [China airport Wi-Fi: log in with your passport](https://chinalayoverguide.com/guides/china-airport-wifi/)
 - [China apps checklist: what to install before you fly](https://chinalayoverguide.com/guides/china-apps-checklist/)
 - [eSIM hub](https://chinalayoverguide.com/esim/)
 
@@ -44,6 +44,11 @@
 - [Do you need cash in China?](https://chinalayoverguide.com/guides/do-you-need-cash-in-china/)
 - [Do Apple Pay and Google Pay work in China?](https://chinalayoverguide.com/guides/apple-pay-and-google-pay-in-china/)
 - [Payments hub](https://chinalayoverguide.com/payments/)
+
+## Shopping & deliveries
+
+- [How to shop on Taobao while traveling in China](https://chinalayoverguide.com/guides/taobao-for-foreigners/)
+- [Shopping hub](https://chinalayoverguide.com/shopping/)
 
 ## Airport transfer guides (by airport)
 
