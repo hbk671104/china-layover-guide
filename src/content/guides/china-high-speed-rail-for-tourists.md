@@ -1,6 +1,6 @@
 ---
 title: "China High-Speed Rail for Tourists: Booking with a Passport"
-description: "How to book and ride China's high-speed trains as a foreigner, passport ticketing, 12306 vs Trip.com, station procedures, and what it costs."
+description: "Book on Trip.com or 12306 with your passport, and start 12306’s ID check days before you fly. Which gate to use at the station, and how early to arrive."
 category: logistics
 updated: 2026-10-16
 sources:

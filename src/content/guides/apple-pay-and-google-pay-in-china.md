@@ -1,6 +1,6 @@
 ---
 title: "Do Apple Pay and Google Pay Work in China? What Tourists Should Know"
-description: "Foreign Apple Pay and Google Pay generally do not work at Chinese payment terminals. Here is what works instead, and the few places physical cards are accepted."
+description: "Mostly no: China pays by QR code, so tap-to-pay has little to talk to. Where a foreign Apple Pay or Google Pay tap still works, and what to set up instead."
 category: payments
 updated: 2026-10-16
 sources:

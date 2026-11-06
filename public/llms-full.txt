@@ -548,10 +548,10 @@ You are responsible for it, and the airline is not obliged to rebook you for fre
 
 ---
 
-## Does China Airlines Give a Free Hotel on a Long Layover?
+## Free Hotel on a Long Layover? China Airlines vs China Eastern
 
 Source: https://chinalayoverguide.com/guides/china-airline-layover-hotel/
-Last updated: 2026-09-29
+Last updated: 2026-11-06
 
 ## The short answer
 
@@ -623,7 +623,16 @@ China Eastern calls this the **Overnight Transit Hotel Service**, and you will a
 
 **The same-day rule is the one that surprises people.** Free accommodation on a same-day transit is only offered if your inbound flight arrives **before 03:00**. A 05:10 arrival connecting to a 13:55 departure the same day does *not* qualify.
 
-One honest warning: China Eastern's terms are the least readable of the three. The application page loads its conditions behind a script that redirects ordinary browsers, and travelers report the online form failing and phone agents redirecting them back to the site. You must also be **logged into the China Eastern mileage programme** for the application option to appear at all. Call **+86-21-95530** if the form won't cooperate.
+## How to apply for China Eastern's transit hotel
+
+China Eastern only takes applications in advance, and its terms are the least readable of the three. The application page loads its conditions behind a script that redirects ordinary browsers, and travelers report the online form failing. Work through it in this order:
+
+1. **Check the ticket before you apply.** It needs a number starting **781**, one booking for both flights, a 6–24 hour transit, a fare above the hub's threshold, and a booking class other than A, O, X or domestic H.
+2. **Log in to Eastern Miles**, China Eastern's mileage programme. The application option does not appear at all unless you are logged in, so create an account first if you don't have one.
+3. **Open the [Overnight Transit Hotel Service page](https://us.ceair.com/en/transit-hotel-application.html)**, agree to the terms, and submit the request for your booking.
+4. **Apply days ahead, not hours.** The cutoff is reported at **12 hours before your first flight's departure**, but rooms are capped, so a request made at booking time has the best chance.
+5. **Track it and save the confirmation.** The application page links to a transit hotel enquiry page where you can check progress. Screenshot the confirmation before you fly.
+6. **If the form won't cooperate, call.** China Eastern's English site lists **+86-21-20695530** for customer service, or **95530** from a Chinese number. Travelers report phone agents sending them back to the website, so treat the call as a fallback rather than the main route.
 
 ## China Southern: the free transit hotel
 

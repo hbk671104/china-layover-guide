@@ -1,6 +1,6 @@
 ---
 title: "Can I Leave the Airport During a China Layover?"
-description: "The honest answer to whether you can leave the airport on a China layover, visa rules, how long you need, and the golden rule for making it back to your flight."
+description: "Usually yes, visa-free, at Shanghai Pudong, Beijing, Guangzhou and 60-plus other ports. What you need, and how many hours make leaving worth it."
 category: transit-visa
 updated: 2026-10-16
 sources:
