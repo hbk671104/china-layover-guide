@@ -1,6 +1,6 @@
 ---
 title: "Can I Leave the Airport During a China Layover?"
-description: "The honest answer to whether you can leave the airport on a China layover, visa rules, how long you need, and the golden rule for making it back to your flight."
+description: "Usually yes, visa-free, at Shanghai Pudong, Beijing, Guangzhou and 60-plus other ports. What you need, and how many hours make leaving worth it."
 category: transit-visa
 updated: 2026-10-16
 sources:
@@ -84,7 +84,7 @@ If you're on the 30-day list, use that instead. It's simpler and lets you return
 
 The rules are national, but the timing math is airport-specific. Two of the busiest layover gateways:
 
-**Shanghai Pudong (PVG).** A designated port covering the **Shanghai municipality**. Immigration here is among the slowest of China's big gateways: an evening bank of long-haul arrivals can mean 60–90 minutes, and the visa-free transit lane is slower than the regular queue because officers check your itinerary by hand. The practical minimum to leave is about **7 hours**, and **8+** is comfortable. Two hard limits: the **Maglev stops around 21:40** and **Metro Line 2 around 22:30**, after which your return becomes a taxi or DiDi. PVG and Hongqiao (SHA) are about **70 km apart**, so a connection using both airports is a 1.5–2 hour transfer, not a sightseeing opportunity.
+**Shanghai Pudong (PVG).** A designated port covering the **Shanghai municipality**. Getting through arrivals here takes about 30 minutes when it is quiet, and at least 45 with checked bags, but an evening bank of long-haul arrivals can push it past an hour. The visa-free transit lane is slower than the regular queue because officers check your itinerary by hand. The practical minimum to leave is about **7 hours**, and **8+** is comfortable. Two hard limits: the **Maglev stops around 21:40** and **Metro Line 2 around 22:30**, after which your return becomes a taxi or DiDi. PVG and Hongqiao (SHA) are about **70 km apart**: the Airport Link Line takes about 40 minutes, but a connection using both airports is still a transfer, not a sightseeing opportunity. Terminals, timetables and fares are in the [Pudong airport guide](/airports/pvg/).
 
 **Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**.
 

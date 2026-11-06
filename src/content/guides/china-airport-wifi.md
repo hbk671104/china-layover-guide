@@ -1,6 +1,6 @@
 ---
 title: "China Airport Wi-Fi: Log In with Your Passport"
-description: "Airport Wi-Fi in China no longer needs a Chinese phone number: PEK, PKX, PVG and CAN all let foreign passports log in. Here is how each hub works, plus what to arrange before you land."
+description: "Free, and no Chinese phone number needed: PEK, PKX, PVG and CAN log you in with your passport. Each hub's login, and the backup to set up before you land."
 category: esim
 updated: 2026-10-16
 sources:

@@ -1,6 +1,6 @@
 ---
 title: "China Apps Checklist: What to Install Before You Fly"
-description: "The apps you actually need for a China layover (payments, maps, ride-hailing, translation, and trains) plus what to set up at home versus on arrival."
+description: "Google Play is blocked in China, so install before you fly. The five kinds of app a layover needs, and which ones to set up at home."
 category: esim
 updated: 2026-09-16
 sources:

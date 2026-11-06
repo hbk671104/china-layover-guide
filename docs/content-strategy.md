@@ -71,6 +71,41 @@ Search Console impressions, by cluster. The important finding is that most of th
 
 **Open questions for the next pull:** whether `shanghai layover tour` deserves its own URL (only if the city guide's section fails to rank after 4–6 weeks), and whether the third-party carrier list (Hainan, Xiamen, Sichuan) is worth adding to the airline hotel guide.
 
+### GSC signal review (2026-11-06)
+
+Window 2026-09-15 to 11-03: **56 clicks, 4.88K impressions, CTR 1.1%, avg position 12.3**, flat at 7–11 clicks a week. GSC shows **0 external links**, and **20 URLs are "Discovered – currently not indexed"** (never crawled), including `/airports/pvg/`, `best-esim-for-china`, `payments-in-china-for-foreigners` and `beijing-layover-itinerary`. `taobao-for-foreigners` and `/shopping/` are "Crawled – currently not indexed". The bottleneck is domain authority and crawl demand, not missing content: `payments-in-china-for-foreigners` has 12 internal links and still has not been crawled.
+
+| Signal | Action taken |
+|---|---|
+| `china-airline-layover-hotel` holds 38% of impressions (1,855, pos 8.1) at **0.7% CTR**. The 9-29 retitle lifted it from ~21 to ~45 impressions a day and from 0.34% to 0.75% CTR, but the description gave the answer away and the title omitted China Eastern, which drives half the visible queries | Retitled "Free Hotel on a Long Layover? China Airlines vs China Eastern", teaser description, new "How to apply for China Eastern's transit hotel" section (query `china eastern transit hotel application`) |
+| Six guides at pos 5–8 with 0–1.2% CTR: can-you-leave-the-airport, great-wall, apple-pay, airport-wifi, high-speed-rail, apps-checklist | Descriptions rewritten to half-answer plus a hook; the leave-the-airport one now names Shanghai Pudong, which most of its queries ask about |
+| Guides carried 1–3 in-body links each; uncrawled pages had few routes in | Guide template now ends with a "Related guides" block (`src/lib/related-guides.ts`): same-category guides in rotation, skipping ones the body already links |
+| Visa head terms (`china transit visa` and ~60 variants) sit at pos 70–95 | No on-page action: needs external links first |
+
+**Measure on the next pull (~2026-12-04):** CTR on the seven retitled/redescribed pages against the figures above, and whether the 20 discovered URLs move to crawled. Do not add new pages until they do. Unresolved: China Eastern's hub list disagrees inside the airline guide (body: Shanghai, Beijing, Kunming, Nanjing, Wuxi; table and FAQ: Shanghai, Beijing, Kunming, Xi'an), and the official page could not be read to settle it.
+
+### Keyword demand refresh (2026-11-06)
+
+71 candidate keywords measured through the Semrush MCP server (`phrase_these`) in the US, UK, AU, CA and NZ databases. The full export (`docs/research/semrush-keywords-2026-11-06.csv`) is kept locally and not committed, since this repo is public and raw Semrush data should not be republished. Volumes are monthly and summed across the five markets; KD is the US figure unless noted. Most guides run 370–550 words and the city and airport pages 330–470 visible words, so most of this plan is depth, not new URLs.
+
+| Rank | Cluster | Key terms (5-market volume, KD) | Coverage now | Plan |
+|---|---|---|---|---|
+| 1 | Shanghai airports | shanghai airport 21,600 (54); shanghai maglev 5,110 (38); shanghai pudong airport 3,880 (45); pudong airport 2,800 (35); pudong airport hotel 1,530 (34) | `/airports/pvg/`, 471 words, never crawled | The largest cluster measured, ~35,000 a month. Rebuild PVG as the full airport guide, with Maglev and airport-hotel sections strong enough to split out later |
+| 2 | Things to do in {city} | shanghai 11,780 (26); beijing 5,940 (21); guangzhou 4,820 (31); shenzhen 3,500 (30); chengdu 2,570 (15); chongqing 2,170 (22); hangzhou 1,100 (25); xiamen 490 (17) | Five itinerary guides (410–1,682 words) plus duplicate 330–450-word city pages; no guide for Shenzhen, Chongqing, Hangzhou or Xiamen | Lowest KD for the volume. Deepen the five guides with a full attraction list that gives each stop's time from the airport, merge each duplicate city page into its guide, then build Shenzhen, Chongqing and Hangzhou. Xi'an was not measured |
+| 3 | Other hub airports | beijing daxing airport 4,810 (25); guangzhou baiyun airport 2,870 (37); chengdu tianfu airport 1,110 (37); beijing capital airport 680 (44) | Templated airport pages | Same rebuild as PVG; PKX has the lowest KD of any airport term |
+| 4 | Visa by nationality | china visa for us citizens 6,710 (53); australians 900; uk citizens 780; indians 560 (41); canadians 510 | `visa-free-vs-visa-china` (498 words) | New pages built on the rule data in `src/data/`. The AU, UK and CA terms each sit almost entirely in their own market at KD 28 or below |
+| 5 | Attractions | mutianyu great wall 10,900 (53, navigational); chengdu panda base 8,870 (41) | `great-wall-from-beijing-layover` (808 words); the Chengdu guide (410 words) | Expand the existing guides first; dedicated pages only if they rank |
+| 6 | eSIM | esim china 6,190 (56); best esim for china 3,750 (36) | `best-esim-for-china` (882 words, never crawled) | Deepen with first-hand tests; this is the affiliate page |
+| 7 | VPN | vpn for china 12,550 (50); best vpn for china 8,640 (52); US CPC $3.87–4.93 | `esim-vs-vpn-vs-roaming` (472 words) | The biggest commercial pool, but only worth doing with real testing and an affiliate decision |
+| — | Transit visa | china visa free countries 2,490 (57); china transit visa 2,230 (40); 240 hour visa free china 490 (21) | Hub and guides at position 34–90 | Authority-limited: no new pages |
+| — | Payments and maps | google maps in china 1,020; alipay for foreigners 520; wechat pay for foreigners 380; how to use alipay in china 320; amap english 310 | Existing guides | Deepen when convenient |
+
+**Dropped by the data:** separate airline-transit pages (china eastern / air china / china southern transit hotel 140–180 a month each, other "transit" variants 40 or less; keep them as sections of the airport and airline-hotel pages), the legacy 72- and 144-hour names (100 or less), and layover phrasing (shanghai, guangzhou and beijing layover 70–120, layover in china 90), which confirms the September finding. `china transit hotel` and `24 hour transit china` measured zero.
+
+**Runs in parallel, unranked:** link-earning assets, namely the statistics page with a policy-change timeline and an airline free-hotel checker. With zero external links, the KD 35–57 terms above will not move on content alone.
+
+This refines the 11-06 rule against new pages: rebuild existing pages first, and add new URLs only for ranks 2 and 4. Each new page must be a full guide, linked from strong pages and submitted in URL inspection when it ships.
+
 ## Content pillars
 
 ### Pillar 1 — Visa-free transit & entry rules (`/transit-visa/`)

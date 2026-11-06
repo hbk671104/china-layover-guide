@@ -5,17 +5,19 @@ import SourceList from '../../components/SourceList.astro';
 import HeroImage from '../../components/HeroImage.astro';
 import FaqSection from '../../components/FaqSection.astro';
 import AuthorByline from '../../components/AuthorByline.astro';
+import GuideList from '../../components/GuideList.astro';
 import { authorForCategory } from '../../data/authors';
+import { pickRelatedGuides } from '../../lib/related-guides';
 
 export async function getStaticPaths() {
   const guides = await getCollection('guides');
   return guides.map((guide) => ({
     params: { slug: guide.id },
-    props: { guide },
+    props: { guide, related: pickRelatedGuides(guide, guides) },
   }));
 }
 
-const { guide } = Astro.props;
+const { guide, related } = Astro.props;
 const { Content, headings } = await render(guide);
 
 const author = authorForCategory(guide.data.category);
@@ -24,6 +26,7 @@ const categoryLabel = {
   'transit-visa': 'Transit visa',
   esim: 'eSIM',
   payments: 'Payments',
+  shopping: 'Shopping',
   cities: 'City trips',
   logistics: 'Layover logistics',
 }[guide.data.category];
@@ -151,6 +154,23 @@ if (guide.data.faqs.length > 0) {
       </div>
 
       <FaqSection faqs={guide.data.faqs} />
+
+      {
+        related.length > 0 && (
+          <nav aria-labelledby="related-guides" class="mt-16 border-t border-line pt-8">
+            <h2
+              id="related-guides"
+              class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink"
+            >
+              Related guides
+            </h2>
+            <div class="mt-6">
+              <GuideList guides={related} />
+            </div>
+          </nav>
+        )
+      }
+
       <SourceList sources={guide.data.sources} />
     </div>
 

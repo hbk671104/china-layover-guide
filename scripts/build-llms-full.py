@@ -22,6 +22,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 GUIDES = ROOT / "src" / "content" / "guides"
 CITIES = ROOT / "src" / "content" / "cities"
+# Long-form airport guides; the file name is the IATA code and the page lives
+# at /airports/<code>/. Airports without one are data-only and not listed here.
+AIRPORTS = ROOT / "src" / "content" / "airports"
 OUT = ROOT / "public" / "llms-full.txt"
 
 SITE = "https://chinalayoverguide.com"
@@ -114,6 +117,7 @@ def entry_block(path: Path, url: str) -> str:
 def main() -> int:
     guides = sorted(GUIDES.glob("*.md"))
     cities = sorted(CITIES.glob("*.md"))
+    airport_guides = sorted(AIRPORTS.glob("*.md"))
 
     if not guides:
         print("no guides found", file=sys.stderr)
@@ -135,7 +139,8 @@ def main() -> int:
         "Facts are checked against official sources; each page carries a last-updated date.",
         "",
         f"Canonical index: {SITE}/llms.txt",
-        f"Page count: {len(guides)} guides, {len(cities)} city pages",
+        f"Page count: {len(guides)} guides, {len(airport_guides)} airport guides, "
+        f"{len(cities)} city pages",
         "",
         "---",
         "",
@@ -168,6 +173,15 @@ def main() -> int:
         chunks.append("")
         chunks.append("---")
         chunks.append("")
+
+    if airport_guides:
+        chunks.append("# Airport guides")
+        chunks.append("")
+        for path in airport_guides:
+            chunks.append(entry_block(path, f"{SITE}/airports/{path.stem}/"))
+            chunks.append("")
+            chunks.append("---")
+            chunks.append("")
 
     text = "\n".join(chunks).rstrip() + "\n"
     OUT.write_text(text, encoding="utf-8")

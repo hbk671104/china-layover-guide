@@ -68,4 +68,37 @@ const cities = defineCollection({
   }),
 });
 
-export const collections = { guides, cities };
+/*
+  Long-form airport guides, optional per airport. The file name is the IATA
+  code (`pvg.md`). An airport with an entry takes its title, heading, lead, FAQ
+  and sources from here and renders the Markdown body after the quick-reference
+  sections; transfers, windows, luggage and traps still come from
+  src/data/airports.ts, so other pages that read that module stay in step.
+*/
+const airports = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/airports' }),
+  schema: z.object({
+    title: displayText,
+    heading: displayText,
+    description: displayText,
+    updated: z.coerce.date(),
+    sources: z
+      .array(
+        z.object({
+          label: displayText,
+          url: z.string().url(),
+        }),
+      )
+      .default([]),
+    faqs: z
+      .array(
+        z.object({
+          question: displayText,
+          answer: displayText,
+        }),
+      )
+      .default([]),
+  }),
+});
+
+export const collections = { guides, cities, airports };

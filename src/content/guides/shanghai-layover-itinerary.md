@@ -16,7 +16,7 @@ faqs:
   - question: "How long does the Maglev take from Pudong Airport?"
     answer: "About 8 minutes from PVG to Longyang Road, then 20–30 minutes on Metro Line 2 into the center. Door to door it is roughly 40–55 minutes."
   - question: "What time does the Shanghai Maglev stop running?"
-    answer: "The Maglev runs from roughly 06:45 to 21:40, and Metro Line 2 stops around 22:30. Land later than that and your trip back becomes a taxi or DiDi."
+    answer: "From the airport the Maglev runs from 07:02 to 21:42, every 20 minutes; from Longyang Road it runs from 06:45 to 21:40. Metro Line 2 stops around 22:30. Land later than that and your trip back becomes a taxi or DiDi."
   - question: "Are Shanghai layover tours worth it?"
     answer: "Worth it if you have 8+ hours and would rather not plan, especially with family or heavy bags. Not worth it under 6 hours, and unnecessary if you are happy taking the Maglev and following a route yourself."
   - question: "How much does a Shanghai layover tour cost?"
@@ -31,13 +31,13 @@ The window you have decides what Shanghai you get. **6 hours is a taste; 8 hours
 
 | Airport | To the center | Cost | Best for |
 |---|---|---|---|
-| Pudong (PVG), Maglev + Metro Line 2 | ~40–55 min | ¥50 + ¥4 (¥40 with same-day boarding pass) | The fastest route in |
+| Pudong (PVG), Maglev + Metro Line 2 | ~40–55 min | ¥50 + ¥4 (¥40 with a same-day air ticket) | The fastest route in |
 | Pudong (PVG), Metro Line 2 direct | 60–90 min | ¥7–9 | Cheapest, or if your hotel is in Pudong |
 | Hongqiao (SHA), Metro Lines 2 / 10 | 30–50 min | ¥3–7 | The easiest option by far |
 
-**A hard limit to plan around:** the Maglev stops running around 21:40 and Metro Line 2 around 22:30. Late arrivals are taxi or DiDi territory.
+**A hard limit to plan around:** the last Maglev leaves the airport at 21:42 and Metro Line 2 stops around 22:30. Late arrivals are taxi or DiDi territory.
 
-PVG and SHA are about 70 km apart. If your connection uses both airports, treat it as a 1.5–2 hour transfer and do not add sightseeing under 12 hours.
+PVG and SHA are about 70 km apart. The Airport Link Line connects them in about 40 minutes (last train from Pudong 22:15), but a two-airport connection still means immigration, the train and a second check-in, so do not add sightseeing under 12 hours. The [Pudong airport guide](/airports/pvg/) has the timetables.
 
 ## Getting in from Pudong: the Maglev in detail
 
@@ -75,7 +75,7 @@ Book a hotel in Puxi (People's Square, Jing'an, or the French Concession), see t
 | Check-in, security, exit immigration | 2.5 hours |
 | **Total** | **~8 hours** |
 
-Immigration at PVG is among the slowest of China's big gateways. An evening bank of long-haul arrivals can mean 60–90 minutes, and the visa-free transit lane is slower than the regular queue because officers check your itinerary manually.
+Getting through arrivals at PVG takes about 30 minutes when it is quiet, and at least 45 with checked bags, but an evening bank of long-haul arrivals can push it past an hour. The visa-free transit lane is slower than the regular queue because officers check your itinerary manually.
 
 ## The route that works
 
