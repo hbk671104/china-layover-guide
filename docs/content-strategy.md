@@ -71,6 +71,19 @@ Search Console impressions, by cluster. The important finding is that most of th
 
 **Open questions for the next pull:** whether `shanghai layover tour` deserves its own URL (only if the city guide's section fails to rank after 4–6 weeks), and whether the third-party carrier list (Hainan, Xiamen, Sichuan) is worth adding to the airline hotel guide.
 
+### GSC signal review (2026-11-06)
+
+Window 2026-09-15 to 11-03: **56 clicks, 4.88K impressions, CTR 1.1%, avg position 12.3**, flat at 7–11 clicks a week. GSC shows **0 external links**, and **20 URLs are "Discovered – currently not indexed"** (never crawled), including `/airports/pvg/`, `best-esim-for-china`, `payments-in-china-for-foreigners` and `beijing-layover-itinerary`. `taobao-for-foreigners` and `/shopping/` are "Crawled – currently not indexed". The bottleneck is domain authority and crawl demand, not missing content: `payments-in-china-for-foreigners` has 12 internal links and still has not been crawled.
+
+| Signal | Action taken |
+|---|---|
+| `china-airline-layover-hotel` holds 38% of impressions (1,855, pos 8.1) at **0.7% CTR**. The 9-29 retitle lifted it from ~21 to ~45 impressions a day and from 0.34% to 0.75% CTR, but the description gave the answer away and the title omitted China Eastern, which drives half the visible queries | Retitled "Free Hotel on a Long Layover? China Airlines vs China Eastern", teaser description, new "How to apply for China Eastern's transit hotel" section (query `china eastern transit hotel application`) |
+| Six guides at pos 5–8 with 0–1.2% CTR: can-you-leave-the-airport, great-wall, apple-pay, airport-wifi, high-speed-rail, apps-checklist | Descriptions rewritten to half-answer plus a hook; the leave-the-airport one now names Shanghai Pudong, which most of its queries ask about |
+| Guides carried 1–3 in-body links each; uncrawled pages had few routes in | Guide template now ends with a "Related guides" block (`src/lib/related-guides.ts`): same-category guides in rotation, skipping ones the body already links |
+| Visa head terms (`china transit visa` and ~60 variants) sit at pos 70–95 | No on-page action: needs external links first |
+
+**Measure on the next pull (~2026-12-04):** CTR on the seven retitled/redescribed pages against the figures above, and whether the 20 discovered URLs move to crawled. Do not add new pages until they do. Unresolved: China Eastern's hub list disagrees inside the airline guide (body: Shanghai, Beijing, Kunming, Nanjing, Wuxi; table and FAQ: Shanghai, Beijing, Kunming, Xi'an), and the official page could not be read to settle it.
+
 ## Content pillars
 
 ### Pillar 1 — Visa-free transit & entry rules (`/transit-visa/`)
