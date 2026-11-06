@@ -47,6 +47,14 @@ export interface Airport {
     available: boolean;
     cost: string;
     location: string;
+    /** Optional first-hand photo of the counter, served from public/. */
+    photo?: {
+      src: string;
+      width: number;
+      height: number;
+      alt: string;
+      caption: string;
+    };
   };
   /** ISO date this airport's data was last reviewed. Stamped into the sitemap. */
   updated: string;
@@ -57,7 +65,7 @@ export interface Airport {
 export const airports: Airport[] = [
   {
     code: 'pvg',
-    updated: '2026-09-17',
+    updated: '2026-11-06',
     name: 'Shanghai Pudong International Airport',
     city: 'Shanghai',
     citySlug: 'shanghai',
@@ -70,9 +78,9 @@ export const airports: Airport[] = [
       {
         mode: 'Maglev + Metro Line 2',
         time: '~40–55 min',
-        cost: '¥50 + ¥4 (¥40 Maglev with same-day boarding pass)',
+        cost: '¥50 + ¥4 (¥40 Maglev with a same-day air ticket)',
         notes:
-          'The fastest route in. The Maglev covers 30 km to Longyang Road in about 8 minutes, then you transfer to Metro Line 2.',
+          'The fastest route in. The Maglev covers 30 km to Longyang Road in about 8 minutes, then you transfer to Metro Line 2. From the airport it runs 07:02–21:42, every 20 minutes.',
         trafficProof: true,
       },
       {
@@ -88,7 +96,7 @@ export const airports: Airport[] = [
         time: '45–70 min',
         cost: '¥150–250',
         notes:
-          'Door-to-door and best with heavy bags, but traffic-dependent. Metered fare plus any highway tolls.',
+          'Door-to-door and best with heavy bags, but traffic-dependent. Metered: ¥14 for the first 3 km, ¥2.7/km to 15 km and ¥4.05/km beyond, 30% more from 23:00 to 05:00, plus any tolls.',
         trafficProof: false,
       },
       {
@@ -105,7 +113,7 @@ export const airports: Airport[] = [
         label: 'Under 6 hours',
         verdict: 'Stay airside',
         detail:
-          'PVG immigration alone can take 60–90 minutes at a peak evening arrival bank. You would reach Longyang Road and turn straight around.',
+          'Getting through arrivals takes about 30 minutes when it is quiet, at least 45 with checked bags, and over an hour when evening long-haul flights bunch up. You would reach Longyang Road and turn straight around.',
       },
       {
         label: '6–8 hours',
@@ -130,11 +138,18 @@ export const airports: Airport[] = [
       available: true,
       cost: '¥15–30 per bag per day (indicative)',
       location:
-        'Left-luggage counters (行李寄存) in the arrivals and departures halls; confirm the current location and hours at the airport.',
+        'Left-luggage counters (行李寄存) in the arrivals and departures halls, under a yellow "Baggage Storage" sign. Bags go through an X-ray scanner before they are stored. Confirm the current location and hours at the airport.',
+      photo: {
+        src: '/images/airports/pvg/baggage-storage.jpg',
+        width: 800,
+        height: 784,
+        alt: 'A baggage storage counter at Pudong airport under a yellow Baggage Storage sign, with an X-ray scanner beside it.',
+        caption: 'A left-luggage counter at Pudong, with its X-ray scanner. Photo: China Layover Guide.',
+      },
     },
     gotchas: [
-   'PVG and Hongqiao (SHA) are about 70 km apart. A cross-airport connection eats 1.5–2 hours by road, never combine one with sightseeing.',
-      'The Maglev stops running around 21:40, and Metro Line 2 around 22:30. Late arrivals are taxi or DiDi only.',
+      'PVG and Hongqiao (SHA) are about 70 km apart. Take the Airport Link Line (about 40 minutes, last train from Pudong 22:15), and never combine a cross-airport connection with sightseeing.',
+      'The last Maglev leaves the airport at 21:42, and trains run only every 20 minutes. Metro Line 2 runs until about 22:30; after that it is taxi or DiDi.',
       'The Maglev only reaches Longyang Road, which is not the city centre. You still need a metro transfer.',
     ],
   },

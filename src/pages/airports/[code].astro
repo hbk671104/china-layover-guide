@@ -1,28 +1,71 @@
 ---
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import FaqSection from '../../components/FaqSection.astro';
+import SourceList from '../../components/SourceList.astro';
 import { airports } from '../../data/airports';
 
 export async function getStaticPaths() {
+  const entries = await getCollection('airports');
   return airports.map((airport) => ({
     params: { code: airport.code },
-    props: { airport },
+    props: { airport, entry: entries.find((entry) => entry.id === airport.code) },
   }));
 }
 
-const { airport } = Astro.props;
+const { airport, entry } = Astro.props;
 const code = airport.code.toUpperCase();
 const siteUrl = 'https://chinalayoverguide.com';
 const canonicalPath = `/airports/${airport.code}/`;
+
+// Airports with a long-form entry (src/content/airports/<code>.md) get its
+// title, heading, lead, FAQ and body; the rest keep the generated defaults.
+const Content = entry ? (await render(entry)).Content : undefined;
+const pageTitle = entry?.data.title ?? `${code} Layover Guide | ${airport.name}`;
+const pageDescription =
+  entry?.data.description ??
+  `How to use a layover at ${code} (${airport.name}): transfer times to ${airport.city}, what fits in 6, 8, 12, and 24 hours, luggage storage, and whether you can leave the airport.`;
+const dataReviewed = new Date(airport.updated);
+const reviewed =
+  entry && entry.data.updated > dataReviewed ? entry.data.updated : dataReviewed;
+
+const generatedFaqs = [
+  {
+    question: `Can I leave ${code} airport on a layover?`,
+    answer: airport.transitEligible
+      ? `Yes, if you qualify for China's visa-free entry or 240-hour visa-free transit. ${code} is a designated transit port, so eligible travelers can enter and travel within ${airport.permittedArea}.`
+      : `${code} is not a designated port for the 240-hour visa-free transit policy. Check whether the 30-day visa-free entry or a visa applies to you.`,
+  },
+  {
+    question: `How long does it take to get from ${code} to ${airport.city}?`,
+    answer: `${airport.transfers[0].mode} takes about ${airport.transfers[0].time}. Expect to pay around ${airport.transfers[0].cost}.`,
+  },
+  {
+    question: `What is the minimum layover to leave ${code}?`,
+    answer: `Roughly ${airport.minViableHours} hours at the airport before leaving is worthwhile, and ${airport.comfortableHours}+ hours is comfortable. Below ${airport.minViableHours} hours, stay airside.`,
+  },
+  {
+    question: `Is there luggage storage at ${code}?`,
+    answer: airport.luggage.available
+      ? `Yes. ${airport.luggage.location} Expect around ${airport.luggage.cost}.`
+      : `Confirm current luggage storage options with the airport before you travel.`,
+  },
+];
+// The FAQ renders as visible page content on every airport page, so the
+// FAQPage markup always matches text a reader can see.
+const faqs = entry && entry.data.faqs.length > 0 ? entry.data.faqs : generatedFaqs;
 
 const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'Article',
     mainEntityOfPage: `${siteUrl}${canonicalPath}`,
-    headline: `${airport.name} (${code}) layover guide`,
-    description: `How to use a layover at ${code}: transfer times to ${airport.city}, what fits in each window, luggage storage, and visa-free transit eligibility.`,
+    headline: entry?.data.title ?? `${airport.name} (${code}) layover guide`,
+    description:
+      entry?.data.description ??
+      `How to use a layover at ${code}: transfer times to ${airport.city}, what fits in each window, luggage storage, and visa-free transit eligibility.`,
     image: `${siteUrl}/og-default.png`,
-    dateModified: new Date(airport.updated).toISOString(),
+    dateModified: reviewed.toISOString(),
     author: {
       '@type': 'Organization',
       name: 'China Layover Guide',
@@ -47,32 +90,11 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: [
-      {
-        '@type': 'Question',
-        name: `Can I leave ${code} airport on a layover?`,
-        answer: airport.transitEligible
-          ? `Yes, if you qualify for China's visa-free entry or 240-hour visa-free transit. ${code} is a designated transit port, so eligible travelers can enter and travel within ${airport.permittedArea}.`
-          : `${code} is not a designated port for the 240-hour visa-free transit policy. Check whether the 30-day visa-free entry or a visa applies to you.`,
-      },
-      {
-        '@type': 'Question',
-        name: `How long does it take to get from ${code} to ${airport.city}?`,
-        answer: `${airport.transfers[0].mode} takes about ${airport.transfers[0].time}. Expect to pay around ${airport.transfers[0].cost}.`,
-      },
-      {
-        '@type': 'Question',
-        name: `What is the minimum layover to leave ${code}?`,
-        answer: `Roughly ${airport.minViableHours} hours at the airport before leaving is worthwhile, and ${airport.comfortableHours}+ hours is comfortable. Below ${airport.minViableHours} hours, stay airside.`,
-      },
-      {
-        '@type': 'Question',
-        name: `Is there luggage storage at ${code}?`,
-        answer: airport.luggage.available
-          ? `Yes. ${airport.luggage.location} Expect around ${airport.luggage.cost}.`
-          : `Confirm current luggage storage options with the airport before you travel.`,
-      },
-    ],
+    mainEntity: faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+    })),
   },
 ];
 
@@ -90,8 +112,8 @@ const atAGlance = [
 ---
 
 <BaseLayout
-  title={`${code} Layover Guide | ${airport.name}`}
-  description={`How to use a layover at ${code} (${airport.name}): transfer times to ${airport.city}, what fits in 6, 8, 12, and 24 hours, luggage storage, and whether you can leave the airport.`}
+  title={pageTitle}
+  description={pageDescription}
   canonicalPath={canonicalPath}
   type="article"
   jsonLd={jsonLd}
@@ -113,14 +135,20 @@ const atAGlance = [
           <p class="eyebrow">
             {airport.city} · leave the airport from ~{airport.minViableHours}h
           </p>
-          <h1
-            class="mt-4 flex items-baseline gap-4 font-display text-[2.1rem] leading-none font-semibold tracking-[-0.03em] text-ink sm:text-[2.75rem]"
-          >
-            <span class="tabular-nums">{code}</span>
-            <span class="text-faint">Layover guide</span>
-          </h1>
+          {
+            entry ? (
+              <h1 class="mt-4 font-display text-[2.1rem] leading-[1.05] font-semibold tracking-[-0.03em] text-ink sm:text-[2.75rem]">
+                {entry.data.heading}
+              </h1>
+            ) : (
+              <h1 class="mt-4 flex items-baseline gap-4 font-display text-[2.1rem] leading-none font-semibold tracking-[-0.03em] text-ink sm:text-[2.75rem]">
+                <span class="tabular-nums">{code}</span>
+                <span class="text-faint">Layover guide</span>
+              </h1>
+            )
+          }
           <p class="mt-5 text-lg leading-relaxed text-muted">
-            {airport.name} · {airport.distance}
+            {entry ? entry.data.description : `${airport.name} · ${airport.distance}`}
           </p>
         </header>
 
@@ -131,8 +159,8 @@ const atAGlance = [
           </p>
           <p class="mt-1">
             Last reviewed{' '}
-            <time datetime={new Date(airport.updated).toISOString()} class="tabular-nums">
-              {new Date(airport.updated).toLocaleDateString('en-US', {
+            <time datetime={reviewed.toISOString()} class="tabular-nums">
+              {reviewed.toLocaleDateString('en-US', {
                 year: 'numeric',
                 month: 'long',
                 day: 'numeric',
@@ -231,6 +259,14 @@ const atAGlance = [
         </ol>
       </section>
 
+      {
+        Content && (
+          <div class="prose mt-14 max-w-none">
+            <Content />
+          </div>
+        )
+      }
+
       <section class="mt-14">
         <h2 class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink">
           Luggage storage
@@ -240,6 +276,24 @@ const atAGlance = [
           <span class="font-semibold text-ink">Cost:</span>
           <span class="tabular-nums"> {airport.luggage.cost}</span>
         </p>
+        {
+          airport.luggage.photo && (
+            <figure class="mt-6">
+              <img
+                src={airport.luggage.photo.src}
+                width={airport.luggage.photo.width}
+                height={airport.luggage.photo.height}
+                alt={airport.luggage.photo.alt}
+                loading="lazy"
+                decoding="async"
+                class="h-auto w-full max-w-[32rem] rounded-card border border-line"
+              />
+              <figcaption class="mt-2 text-xs leading-relaxed text-faint">
+                {airport.luggage.photo.caption}
+              </figcaption>
+            </figure>
+          )
+        }
       </section>
 
       <section class="mt-14 rounded-card border border-warn/25 bg-warn-bg p-6">
@@ -257,6 +311,9 @@ const atAGlance = [
           }
         </ul>
       </section>
+
+      <FaqSection faqs={faqs} />
+      {entry && <SourceList sources={entry.data.sources} />}
 
       <p class="mt-12 border-t border-line pt-6 text-xs leading-relaxed text-faint">
         Transfer times, fares, and operating hours change. Verify against the airport&rsquo;s own

@@ -19,6 +19,7 @@ const EXCLUDED_PATHS = ['/privacy/', '/terms/', '/search/'];
 const CONTENT_PREFIXES: Record<string, string> = {
   guides: '/guides/',
   cities: '/cities/',
+  airports: '/airports/',
 };
 
 /**
@@ -97,10 +98,15 @@ async function stampLastmod(options: {
 
   // Data-driven pages carry no frontmatter, so their dates come from the
   // module that renders them. Add a source here when a new one appears.
+  // An airport page can also have a long-form entry in src/content/airports/;
+  // keep whichever date is newer, since both render on the same URL.
   for (const airport of airports) {
     const parsed = new Date(airport.updated);
     if (Number.isNaN(parsed.getTime())) continue;
-    dates.set(`/airports/${airport.code}/`, parsed.toISOString());
+    const key = `/airports/${airport.code}/`;
+    const iso = parsed.toISOString();
+    const existing = dates.get(key);
+    if (!existing || existing < iso) dates.set(key, iso);
   }
 
   const sitemapDir = path.join(outDir, 'sitemap-0.xml');
