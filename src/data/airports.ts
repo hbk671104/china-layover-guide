@@ -290,7 +290,7 @@ export const airports: Airport[] = [
   },
   {
     code: 'pkx',
-    updated: '2026-09-17',
+    updated: '2026-11-06',
     name: 'Beijing Daxing International Airport',
     city: 'Beijing',
     citySlug: 'beijing',
@@ -302,16 +302,18 @@ export const airports: Airport[] = [
     transfers: [
       {
         mode: 'Daxing Airport Express',
-        time: '30–40 min to Caoqiao (Line 10)',
-        cost: '¥35',
-        notes: 'Then Metro Line 10, 14, or 16 onward. Fast and traffic-proof.',
+        time: '~20 min to Caoqiao',
+        cost: '¥35 (business class ¥50)',
+        notes:
+          'Leaves from B1. Change at Caoqiao to Metro Line 10 or 19. From the airport it runs 06:00–23:00 (to 23:30 on Sundays), at least every 9–10 minutes.',
         trafficProof: true,
       },
       {
         mode: 'Taxi / DiDi',
         time: '50–80 min',
         cost: '¥150–250',
-        notes: 'The airport is far south, so road transfers are long and traffic-dependent.',
+        notes:
+          'Taxis from outside Gate 18 on level 1; DiDi from Gate 14 on level 2 (zone A). The airport is far south, so road transfers are long and traffic-dependent.',
         trafficProof: false,
       },
     ],
@@ -341,12 +343,14 @@ export const airports: Airport[] = [
     ],
     luggage: {
       available: true,
-      cost: '¥15–30 per bag per day (indicative)',
-      location: 'Left-luggage counters in the terminal; confirm the current location and hours at the airport.',
+      cost: 'Free at the landside counters; lockers ¥18–30 a day',
+      location:
+        'The manual left-luggage counters on the landside are free. Airside lockers cost ¥18–30 a day, and lockers in the parking area ¥20.50–50.50 a day.',
     },
     gotchas: [
       'Daxing is roughly twice as far from the centre as Capital Airport. Everything takes longer.',
-   'A PEK↔PKX connection is a 1.5–2 hour transfer across the city, do not add sightseeing to one.',
+      'The Airport Express ends at Caoqiao, on the south side of the city, so the centre is always a Metro change away.',
+      'A PEK↔PKX connection takes 1.5–2 hours across the city, by airport bus or by rail with two changes. Never add sightseeing to one.',
       'Allow 2.5 hours at the airport before an international departure.',
     ],
   },

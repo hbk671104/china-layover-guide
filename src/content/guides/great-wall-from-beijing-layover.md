@@ -51,7 +51,7 @@ Straightforward rules of thumb, from PEK:
 | 10 hours | **The minimum that's genuinely worth it.** Morning arrival, private transfer, short visit. |
 | 12+ hours | **Comfortable.** Longer on the Wall, maybe a meal on the way back. |
 
-From **PKX (Daxing)**, add 2–4 hours to every threshold. It's on the far side of Beijing, so the same trip needs a ~12–14 hour layover to be comfortable.
+From **PKX (Daxing)**, add 2–4 hours to every threshold. It's on the far side of Beijing, so the same trip needs a ~12–14 hour layover to be comfortable. The [Daxing airport guide](/airports/pkx/) covers getting out of PKX.
 
 ## Which Great Wall section from the airport?
 

@@ -61,7 +61,7 @@ This is the math that decides everything:
 
 **12+ hours: a genuine city day.** Multiple sights, a proper meal, even a Great Wall run from Beijing.
 
-> **Cross-airport transfers eat everything.** If your inbound and outbound are at different airports (Shanghai PVG vs SHA, or Beijing PEK vs PKX) treat that as a commute across the city, and don't add sightseeing unless you have 12+ hours.
+> **Cross-airport transfers eat everything.** If your inbound and outbound are at different airports (Shanghai PVG vs SHA, or Beijing PEK vs PKX) treat that as a commute across the city, and don't add sightseeing unless you have 12+ hours. The [Pudong](/airports/pvg/) and [Daxing](/airports/pkx/) guides give the routes between each pair.
 
 ## The step-by-step way out
 

@@ -2,7 +2,7 @@
 title: "The Third-Country Rule for China Transit: A→B→C Explained"
 description: "China's visa-free transit requires an onward ticket to a third country or region. Here's the A→B→C rule, when Hong Kong, Macau, and Taiwan count, and what gets rejected."
 category: transit-visa
-updated: 2026-10-16
+updated: 2026-11-06
 sources:
   - label: "National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20)"
     url: "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
@@ -13,8 +13,12 @@ faqs:
     answer: "You must travel from country A, through China (B), to a different country or region (C). The place you fly on to must differ from the place you arrived from, and you need a confirmed onward ticket."
   - question: "Does a round trip qualify for China's visa-free transit?"
     answer: "No. London → Shanghai → London does not qualify, because you would be returning to the country you came from. The onward destination must be a third country or region."
-  - question: "Do Hong Kong, Macau, and Taiwan count as a third region?"
-    answer: "For transit purposes, generally yes. A route such as London → Shanghai → Hong Kong is generally treated as transiting to a separate region, and Hong Kong, Macau, and Taiwan each count separately. Confirm your specific itinerary with the airline and the NIA."
+  - question: "Does Taiwan count as a third country for China transit?"
+    answer: "Generally yes. The rule covers onward travel to a third country or region, and Taiwan is treated as a separate region. Tokyo → Shanghai → Taipei generally qualifies; Taipei → Shanghai → Taipei does not, because you would return to where you came from. Confirm your itinerary with your airline before you rely on it."
+  - question: "Does Hong Kong count as a third country for China transit?"
+    answer: "Generally yes. Hong Kong is treated as a separate region, so London → Shanghai → Hong Kong generally qualifies, even if you fly home from Hong Kong afterwards. Hong Kong → Shanghai → Hong Kong does not qualify."
+  - question: "Does Macau count as a third region for China transit?"
+    answer: "Generally yes. Macau counts as a separate region, independently of Hong Kong and Taiwan, so an onward flight to Macau generally satisfies the rule as long as you did not arrive from Macau."
   - question: "Can I use separate tickets for the transit rule?"
     answer: "Yes, and it is common. You need proof of the confirmed onward journey, and airlines may check your documents at check-in because they are fined if they board an ineligible passenger."
 ---
@@ -43,10 +47,23 @@ The point is that you are genuinely in transit. The onward destination must not 
 | London → Shanghai → London | **No** | Round trip, C equals A |
 | New York → Beijing → Chicago | **No** | Return to the same country |
 | Paris → Beijing → Shanghai → Tokyo | Usually yes, with care | Domestic legs are allowed within the permitted areas; your onward international ticket must be to a third country |
+| Tokyo → Shanghai → Taipei | Generally yes | Taiwan is a separate region |
+| Taipei → Beijing → Taipei | **No** | You return to where you came from |
+| London → Shanghai → Hong Kong, then Hong Kong → London | Generally yes | The leg out of China goes to Hong Kong; where you fly after that does not change it |
+| Hong Kong → Shanghai → Hong Kong | **No** | C equals A |
+| Seoul → Beijing → Macau | Generally yes | Macau counts separately from Hong Kong and Taiwan |
+
+The test is always the same pair of places: **where you flew in from** and **where your ticket out of China goes**. A stop somewhere else afterwards, such as Hong Kong on the way home to London, does not turn the trip into a round trip.
 
 ## Do Hong Kong, Macau, and Taiwan count?
 
-**Generally yes, each as a separate region.** Routes like Shanghai → Hong Kong or Beijing → Macau are commonly used to satisfy the onward-leg requirement, and Hong Kong, Macau, and Taiwan each count independently. Because this is decided by border officers and airline check-in staff, **confirm your exact itinerary with your airline and the NIA** before you rely on it.
+**Generally yes, each as a separate region.** The NIA's own wording is transit "to third countries or regions", and Hong Kong, Macau, and Taiwan each count independently. Routes like Shanghai → Hong Kong or Beijing → Macau are commonly used to satisfy the onward-leg requirement.
+
+- **Taiwan:** Tokyo → Shanghai → Taipei generally qualifies. Taipei → Shanghai → Taipei does not.
+- **Hong Kong:** London → Shanghai → Hong Kong generally qualifies, even if Hong Kong is a stop on your way home. Hong Kong → Shanghai → Hong Kong does not.
+- **Macau:** an onward flight to Macau generally qualifies, unless Macau is where you flew in from.
+
+Because this is decided by border officers and airline check-in staff, **confirm your exact itinerary with your airline and the NIA** before you rely on it.
 
 ## Separate tickets are fine
 
