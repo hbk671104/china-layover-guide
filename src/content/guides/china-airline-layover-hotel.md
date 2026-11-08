@@ -196,7 +196,7 @@ Plenty of travelers won't. The usual reasons are a separate ticket, a fare below
 
 **When the airline says no, you have three options:**
 
-1. **Book an airport hotel yourself in advance.** Several Chinese airports have hotels in or beside the terminal that sell short blocks of 4–6 hours: often cheaper and better located than a full-night booking. See [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/) if you'd rather not drag bags.
+1. **Book an airport hotel yourself in advance.** Several Chinese airports have hotels in or beside the terminal that sell short blocks of 4–6 hours: often cheaper and better located than a full-night booking. For the two biggest hubs, the [Shanghai Pudong](/airports/pvg/) and [Beijing Daxing](/airports/pkx/) guides list each airport's own hotels and hourly rest rooms. See [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/) if you'd rather not drag bags.
 2. **Stay in the city instead.** If you qualify for [240-hour visa-free transit](/transit-visa/), you can leave the airport entirely. Check that first. It may be a better night than an airport hotel. Note that [foreign visitors must register their accommodation](/guides/hotel-registration-for-foreigners-in-china/), which hotels handle automatically at check-in.
 3. **Use a lounge.** Cheaper than a room and airside, so no immigration needed.
 
