@@ -14,7 +14,7 @@ faqs:
   - question: "Can I see the Great Wall on a Beijing layover?"
     answer: "Only with 10 or more hours and a morning arrival. Mutianyu is roughly 1.5–2 hours from the city each way, so a wall trip is a full-day commitment that leaves no time for the Forbidden City. Below 10 hours, stay in the city."
   - question: "How long does it take to get from Beijing airport to the city?"
-    answer: "From Capital Airport (PEK), the Airport Express takes about 25–35 minutes to Dongzhimen or Sanyuanqiao and costs ¥25. From Daxing (PKX), the Daxing Airport Express reaches Caoqiao in about 30–40 minutes for ¥35."
+    answer: "From Capital Airport (PEK), the Airport Express takes about 25–35 minutes to Dongzhimen or Sanyuanqiao and costs ¥25. From Daxing (PKX), the Daxing Airport Express reaches Caoqiao in about 20 minutes for ¥35, and you change there to Metro Line 10 or 19."
   - question: "Do I need to book Forbidden City tickets in advance?"
     answer: "Yes. Tickets are passport-linked, sold online in advance, and frequently sell out. Book before you fly, walk-up entry is not reliable."
   - question: "PEK or PKX, which is better for a layover?"
@@ -30,7 +30,7 @@ Beijing is the classic first stop in China, but it is **not the easiest layover*
 | Airport | To the city | Cost | Notes |
 |---|---|---|---|
 | Capital (PEK), Airport Express | 25–35 min to Dongzhimen / Sanyuanqiao | ¥25 | Runs ~06:00–23:00, every ~10 min |
-| Daxing (PKX), Daxing Airport Express | 30–40 min to Caoqiao (Line 10) | ¥35 | Then Metro Line 10/14/16 onward |
+| Daxing (PKX), Daxing Airport Express | ~20 min to Caoqiao | ¥35 | Then Metro Line 10 or 19 onward |
 | Taxi / DiDi | 40–70 min | ¥100–200 | Best for late arrivals or heavy bags |
 
 Budget 45–90 minutes for immigration on arrival, more if a bank of long-haul flights lands at once. On the way out, be back at the airport **2.5 hours before an international departure**.
@@ -60,7 +60,7 @@ Overnight in the city and use the morning for **Mutianyu**, roughly 1.5–2 hour
 ## Beijing-specific traps
 
 - **Forbidden City tickets are passport-linked and sell out.** Book online before you travel.
-- **PEK and PKX are on opposite sides of the city**, roughly 80 km apart. A cross-airport connection is 1.5–2 hours by road: never combine it with sightseeing.
+- **PEK and PKX are on opposite sides of the city**, roughly 80 km apart. A cross-airport connection is 1.5–2 hours by airport bus or by rail with two changes: never combine it with sightseeing. The [Daxing airport guide](/airports/pkx/) has the routes.
 - **The Airport Express stops running just after 23:00.** Late arrivals need a taxi or DiDi.
 - **Winter air can be harsh** and summer is hot; build in indoor stops.
 

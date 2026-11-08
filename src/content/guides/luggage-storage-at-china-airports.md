@@ -54,7 +54,7 @@ Storage works the same way at each airport, but the price and the risk on the **
 
 **Beijing Capital (PEK).** Left-luggage counters in Terminals 2 and 3 charge **¥30–40 per rolling suitcase per 24 hours**. Cartons and other items run **¥20–60**, and oversized items **¥100**. Bring your passport, and keep the receipt.
 
-**Beijing Daxing (PKX).** The **landside manual counters are free**. Airside lockers cap at **¥18–30 per day**, and lockers in the parking area run **¥20.50–50.50 per day**.
+**Beijing Daxing (PKX).** The **landside manual counters are free**. Airside lockers cap at **¥18–30 per day**, and lockers in the parking area run **¥20.50–50.50 per day**. For trains, taxis and where to sleep, see the [Daxing airport guide](/airports/pkx/).
 
 **Shanghai Pudong (PVG).** Counters sit in the arrivals and departures halls of both terminals, signed in English as "Left Luggage" or "Baggage Storage". Prices vary by counter; bring your passport, and sometimes your onward ticket. The trap: the **Maglev stops around 21:40** and Metro Line 2 around **22:30**. If you are returning late, your trip back becomes a taxi or DiDi, which takes longer, so collect your bags earlier than you think you need to. PVG has two terminals connected by a walkway and the inter-terminal train, so confirm which terminal your onward flight departs from before you choose where to store. For terminals and transport, see the [Pudong airport guide](/airports/pvg/); for the city side, [things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/).
 
