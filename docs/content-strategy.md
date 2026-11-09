@@ -195,35 +195,60 @@ Weighting: Customer Impact 40%, Content-Market Fit 30%, Search Potential 20%, Re
 
 Every city page links to `/transit-visa/`, `/esim/`, `/payments/` at the relevant moment, and every setup guide links back to a city route. Internal linking between hubs and spokes is the main ranking lever not yet used at scale.
 
-## Editorial calendar (90 days, 60/30/10)
+## Operating plan (from 2026-11-09)
 
-**60% searchable — 13 pieces**
+Replaces the September 90-day calendar, most of which has shipped. Roughly 5–6 hours a week.
 
-- Weeks 1–2: correctness sprint + rewrite 240h guide; 30-day vs 240h comparison; ports/areas reference (also fixes `visa-rules.ts`).
-- Weeks 3–4: Shanghai 6/8/12/24h itinerary series; PVG/SHA transfer guide.
-- Weeks 5–6: Beijing 6/8/12/24h series; Great Wall layover guide; PEK/PKX transfer.
-- Weeks 7–8: Alipay setup; WeChat Pay + TenPayGo; apps checklist.
-- Weeks 9–10: Guangzhou + Chengdu window itineraries (8/12/24h each); CAN/TFU transfer.
-- Weeks 11–13: best eSIM comparison; airport Wi-Fi; luggage storage (PVG/PEK).
+### Rhythm
 
-**30% shareable — 6 pieces**
+| How often | What | Time |
+|---|---|---|
+| Daily | Answer 2 Reddit questions (r/chinatravel and similar); keep a list of good questions as topic ideas | 20 min |
+| Weekly | One deep piece, alternating a new page and an upgrade of an existing one. Verify against official sources, add first-hand photos where possible, link from 2–3 strong pages, request indexing on launch | 2–3 h |
+| Weekly | GSC check: new queries with impressions, pages entering the top 10 | 15 min |
+| Monthly | GSC review like the 11-06 one: CTR, positions, indexing via URL inspection | 1 h |
+| Monthly | Outreach with the statistics page to 5–10 writers; check GSC Links for new referring domains | 1 h |
+| Monthly | Check the NIA policy pages for list or port changes | 10 min |
+| Quarterly | Update the statistics page after each NIA release (mid January, April, July, October; full-year figures late January) | 30 min |
+| Quarterly | Re-verify rules pages (visa, airline hotels, payments) | 2 h |
+| Quarterly | Semrush keyword refresh through the MCP server (~3,000 units) | 30 min |
 
-- 240h mistakes that get you denied
-- China layover statistics & facts 2026 (keep fresh)
-- "Is a China layover the best stopover deal in travel?" (counterintuitive take)
-- First-person case studies: "Shanghai in 8 hours: what we actually saw"
-- 30-day visa-free: the rule most travelers don't know they have
-- Xi'an window itineraries (Terracotta Army sprint — highly shareable on Reddit/forums)
+### Next 8 weeks
 
-**10% experimental — 2 bets**
+| Week of | Main task | Why |
+|---|---|---|
+| 2026-11-09 | Shanghai "things to do" long-form, merging `/cities/shanghai/`; turn on Cloudflare Web Analytics | 11,780 searches a month, KD 26 |
+| 2026-11-16 | Guangzhou Baiyun (CAN) airport guide | Australian traffic; China Southern hub |
+| 2026-11-23 | Beijing "things to do" long-form, with a shopping section and first-hand photos | 5,940, KD 21; shopping terms add ~4,250 |
+| 2026-11-30 | CTR review (counted from each page's recrawl, not 11-06); Beijing Capital (PEK) airport guide | PEK pairs with PKX for "beijing airport" (9,580, KD 26) |
+| December, first half | Nationality visa pages: Australia, UK, Canada | KD 28 or below |
+| December, second half | US citizens visa page | 6,710, KD 53 |
+| Late January 2027 | Statistics page update with full-year 2026 NIA figures, then outreach | Fresh data is the best pitch |
 
-- **Layover window calculator** ("Is my layover long enough?") — input airport + layover hours → recommended plan. Calculators are a 1.38x link format and no competitor has a clean one.
-- **Email lead magnet**: "China Layover Cheat Sheet" (visa rules + app checklist + city maps) — captures owned audience for later affiliate launches.
+Measure leading indicators first: impressions trend, pages in the top 10, referring domains. Clicks will lag by months.
+
+### Later keyword data (2026-11-06 and 11-09)
+
+- **Daxing:** "beijing airport" 9,580 (KD 26), "beijing daxing international airport" 5,640, "daxing airport" 5,500, "beijing daxing airport" 4,810 (KD 25), "pkx airport" 2,220. Long-tail terms such as "daxing airport express" (190) are sections, not pages.
+- **Shopping (US+UK+AU):** "taobao for foreigners" is ~60 a month, so the Taobao guide ranks around position 6 but gets ~3 impressions a day. Travel-shopping terms run in the hundreds: Silk Market 950, shopping in Shanghai 600, China souvenirs 440, how to use Taobao 420, shopping in Beijing 400. Decision: no standalone shopping pillar; shopping becomes sections in the Shanghai and Beijing guides. "taobao english" (14,700) is mostly overseas shoppers; only add an English-interface section to the Taobao guide once verified.
+
+### Monetization
+
+- **Now:** Cloudflare Web Analytics; 2–3 affiliate programs matched to the strongest pages (Trip.com for hotels and trains, one eSIM provider actually tested, Klook or GetYourGuide for tours); a disclosure policy first. The About page ("no sponsored rankings") and privacy page ("no advertising trackers") must be updated before any affiliate link goes live, and links carry `rel="sponsored nofollow"`.
+- **Not now:** display ads, paid placements, and affiliate links on rules pages (visa, transit, third-country), whose value is trust.
+- **At ~1,000 visits a month:** a "policy change alerts" email list; placement tuning from analytics; evaluate a VPN page only with real testing.
+
+### Reddit guidelines
+
+- Answer fully in the comment; a link is extra detail, not the answer. Roughly nine in ten replies carry no link.
+- Disclose when linking the site ("my site"), and pair it with the official source (NIA) on rules questions.
+- Check each subreddit's rules first; no link-only replies, no new-account links, no vote manipulation, no shorteners or UTM tags.
+- Reddit links are nofollow: the value is referrals, brand, forum and AI visibility, and topic ideas, not link equity.
 
 ## Distribution (Create Once, Distribute Twice)
 
 - **Flagships:** each city's window-itinerary guide is the flagship. Build it with standalone subheads, lift-out quote boxes (transfer times, minimum windows), and a table of contents. Atomize: 3–5 social posts, one thread/carousel, one checklist graphic per guide.
-- **Borrowed (discovery):** answer genuinely useful questions on r/travel, r/Chinavisa, TripAdvisor Beijing/Shanghai forums, and FlyerTalk — linking only when it directly answers the question.
+- **Borrowed (discovery):** answer genuinely useful questions on r/chinatravel, r/travel, TripAdvisor Beijing/Shanghai forums, and FlyerTalk, following the Reddit guidelines above.
 - **Rented (engagement):** Pinterest (travel planning), X/LinkedIn threads for shareable pieces.
 - **Owned (conversion):** the cheat-sheet email signup is the destination; every hub page should offer it.
 
