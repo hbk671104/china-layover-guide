@@ -1,6 +1,6 @@
 ---
 title: "The Third-Country Rule for China Transit: A→B→C Explained"
-description: "China's visa-free transit requires an onward ticket to a third country or region. Here's the A→B→C rule, when Hong Kong, Macau, and Taiwan count, and what gets rejected."
+description: "China's 240-hour visa-free transit requires an onward ticket to a third country or region. See the A→B→C rule, Hong Kong/Macau/Taiwan rules, and traps."
 category: transit-visa
 updated: 2026-11-06
 sources:

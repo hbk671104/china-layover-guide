@@ -85,7 +85,7 @@ export const SITE_PAGES: SearchDoc[] = [
     kind: 'Page',
     category: 'Transit visa',
     description:
-      "How China's 240-hour visa-free transit policy works, who qualifies, and how to use it on your layover.",
+      "Check if you qualify for China's 240-hour visa-free transit in 30 seconds. Covers 57 nationalities, 65 entry ports, onward ticket rules, and transit visas.",
     headings: ['Eligibility checker', 'Eligible countries', 'Permitted areas', 'Ports'],
     body:
       'Most layover travelers do not need a transit visa. If your passport is from one of 57 eligible countries and your onward flight goes to a third country, you can stay up to 240 hours and leave the airport. TWOV, the 24-hour rule, and the difference between 144 and 240 hours are covered here, along with the ports and permitted areas that accept visa-free transit.',

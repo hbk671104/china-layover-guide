@@ -1,6 +1,6 @@
 ---
-title: "Free Hotel on a Long Layover? China Airlines vs China Eastern"
-description: "China Eastern, Air China and China Southern give a free layover hotel if your ticket qualifies. China Airlines (Taiwan) works differently. How to apply."
+title: "Free Layover Hotels: China Eastern, Southern & Air China"
+description: "China Eastern, China Southern & Air China give free transit hotels on qualifying tickets. See eligibility, how to apply, and the Taiwan China Airlines rule."
 category: transit-visa
 updated: 2026-11-06
 sources:

@@ -1,6 +1,6 @@
 ---
-title: "Things to Do in Shanghai on a Layover: 6, 8, 12 or 24 Hours"
-description: "The best things to do in Shanghai on a layover, by window: how much city time a 6, 8, 12 or 24-hour stop really gives you from PVG or SHA, the Maglev timings, and when a layover tour is worth it."
+title: "Shanghai Layover Guide (PVG/SHA): 6, 8, 12 & 24-Hour Plans"
+description: "Real city time from Pudong (PVG) or Hongqiao (SHA): Maglev timings, realistic 6, 8, 12 & 24-hour Shanghai layover plans, and when a tour is worth it."
 category: cities
 updated: 2026-10-16
 sources:

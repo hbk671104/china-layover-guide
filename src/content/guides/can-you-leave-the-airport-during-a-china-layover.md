@@ -1,6 +1,6 @@
 ---
-title: "Can I Leave the Airport During a China Layover?"
-description: "Usually yes, visa-free, at Shanghai Pudong, Beijing, Guangzhou and 60-plus other ports. What you need, and how many hours make leaving worth it."
+title: "Can You Leave the Airport on a China Layover? (2026 Rules)"
+description: "Yes: 57 nationalities can leave PVG, PEK, PKX, CAN & 60+ ports visa-free for up to 240 hours. Minimum layover hours needed, step-by-step exit, and traps."
 category: transit-visa
 updated: 2026-10-16
 sources:
@@ -88,7 +88,7 @@ The rules are national, but the timing math is airport-specific. Two of the busi
 
 **Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**.
 
-For what to actually do with your window once you are out, see the city guides in Related guides below.
+For what to actually do with your window once you are out, see the city guides in City and airport guides below.
 
 ## The three mistakes that ruin a city-visit layover
 
@@ -102,7 +102,7 @@ Yes, for most eligible travelers on a China layover, you can absolutely leave th
 
 **Your next step:** [Check your eligibility](/transit-visa/), then pick a [city quick trip](/cities/).
 
-## Related guides
+## City and airport guides
 
 - [Things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/)
 - [Things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/)
