@@ -37,7 +37,7 @@ The window you have decides what Shanghai you get. **6 hours is a taste; 8 hours
 
 **A hard limit to plan around:** the last Maglev leaves the airport at 21:42 and Metro Line 2 stops around 22:30. Late arrivals are taxi or DiDi territory.
 
-PVG and SHA are about 70 km apart. The Airport Link Line connects them in about 40 minutes (last train from Pudong 22:15), but a two-airport connection still means immigration, the train and a second check-in, so do not add sightseeing under 12 hours. The [Pudong airport guide](/airports/pvg/) has the timetables.
+PVG and SHA are about 70 km apart. The Airport Link Line connects them in about 40 minutes (last train from Pudong 22:15), but a two-airport connection still means immigration, the train and a second check-in, so do not add sightseeing under 12 hours. The [Pudong (PVG)](/airports/pvg/) and [Hongqiao (SHA)](/airports/sha/) airport guides have the timetables, and the [Shanghai layover hub](/cities/shanghai/) compares both hubs side by side.
 
 ## Getting in from Pudong: the Maglev in detail
 
@@ -107,9 +107,9 @@ Prices are indicative and move with season and group size. Check what is **exclu
 
 ## Before you go
 
-- **Set up Alipay or WeChat Pay before you fly**: most small vendors and street stalls are QR-only. See [how to pay in China](/guides/payments-in-china-for-foreigners/).
-- **Install an eSIM before you land**: airport Wi-Fi in China usually needs an SMS code you may not receive. See [eSIM setup](/guides/esim-setup-before-you-land/).
-- **Have your hotel address in Chinese characters** saved on your phone if you plan to take a taxi.
+- **Set up Alipay or WeChat Pay before you fly**: most small vendors and street stalls are QR-only. See [WeChat Pay and TenPayGo](/guides/wechat-pay-and-tenpaygo-for-foreigners/) and [how to pay in China](/guides/payments-in-china-for-foreigners/).
+- **Install an eSIM before you land**: see [eSIM setup](/guides/esim-setup-before-you-land/) (and [China airport Wi-Fi](/guides/china-airport-wifi/) for passport login at PVG).
+- **Set up [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/)** and save your hotel address in Chinese characters if you land after 22:30 when the metro stops.
 - **Confirm your transit eligibility** first: see [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
 - **Know where to leave your bags**: see [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
 

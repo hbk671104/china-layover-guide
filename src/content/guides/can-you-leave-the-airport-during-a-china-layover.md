@@ -61,7 +61,7 @@ This is the math that decides everything:
 
 **12+ hours: a genuine city day.** Multiple sights, a proper meal, even a Great Wall run from Beijing.
 
-> **Cross-airport transfers eat everything.** If your inbound and outbound are at different airports (Shanghai PVG vs SHA, or Beijing PEK vs PKX) treat that as a commute across the city, and don't add sightseeing unless you have 12+ hours. The [Pudong](/airports/pvg/) and [Daxing](/airports/pkx/) guides give the routes between each pair.
+> **Cross-airport transfers eat everything.** If your inbound and outbound are at different airports (Shanghai [PVG](/airports/pvg/) vs [SHA](/airports/sha/), or Beijing [PEK](/airports/pek/) vs [PKX](/airports/pkx/)) treat that as a commute across the city, and don't add sightseeing unless you have 12+ hours. The [Pudong](/airports/pvg/), [Hongqiao](/airports/sha/), [Capital](/airports/pek/), and [Daxing](/airports/pkx/) guides give the routes between each pair.
 
 ## The step-by-step way out
 
@@ -86,9 +86,9 @@ The rules are national, but the timing math is airport-specific. Two of the busi
 
 **Shanghai Pudong (PVG).** A designated port covering the **Shanghai municipality**. Getting through arrivals here takes about 30 minutes when it is quiet, and at least 45 with checked bags, but an evening bank of long-haul arrivals can push it past an hour. The visa-free transit lane is slower than the regular queue because officers check your itinerary by hand. The practical minimum to leave is about **7 hours**, and **8+** is comfortable. Two hard limits: the **Maglev stops around 21:40** and **Metro Line 2 around 22:30**, after which your return becomes a taxi or DiDi. PVG and Hongqiao (SHA) are about **70 km apart**: the Airport Link Line takes about 40 minutes, but a connection using both airports is still a transfer, not a sightseeing opportunity. Terminals, timetables and fares are in the [Pudong airport guide](/airports/pvg/).
 
-**Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**.
+**Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**, after which you will need a taxi or [DiDi](/guides/didi-and-ride-hailing-in-china/). See the [Guangzhou Baiyun (CAN) airport guide](/airports/can/) for full transfer details.
 
-For what to actually do with your window once you are out, see the city guides in City and airport guides below.
+For what to actually do with your window once you are out, set up [Alipay](/guides/alipay-for-foreigners/) and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) before you land, then see the city guides in City and airport guides below.
 
 ## The three mistakes that ruin a city-visit layover
 

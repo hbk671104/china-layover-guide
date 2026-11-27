@@ -470,7 +470,7 @@ This is the math that decides everything:
 
 **12+ hours: a genuine city day.** Multiple sights, a proper meal, even a Great Wall run from Beijing.
 
-> **Cross-airport transfers eat everything.** If your inbound and outbound are at different airports (Shanghai PVG vs SHA, or Beijing PEK vs PKX) treat that as a commute across the city, and don't add sightseeing unless you have 12+ hours. The [Pudong](/airports/pvg/) and [Daxing](/airports/pkx/) guides give the routes between each pair.
+> **Cross-airport transfers eat everything.** If your inbound and outbound are at different airports (Shanghai [PVG](/airports/pvg/) vs [SHA](/airports/sha/), or Beijing [PEK](/airports/pek/) vs [PKX](/airports/pkx/)) treat that as a commute across the city, and don't add sightseeing unless you have 12+ hours. The [Pudong](/airports/pvg/), [Hongqiao](/airports/sha/), [Capital](/airports/pek/), and [Daxing](/airports/pkx/) guides give the routes between each pair.
 
 ## The step-by-step way out
 
@@ -495,9 +495,9 @@ The rules are national, but the timing math is airport-specific. Two of the busi
 
 **Shanghai Pudong (PVG).** A designated port covering the **Shanghai municipality**. Getting through arrivals here takes about 30 minutes when it is quiet, and at least 45 with checked bags, but an evening bank of long-haul arrivals can push it past an hour. The visa-free transit lane is slower than the regular queue because officers check your itinerary by hand. The practical minimum to leave is about **7 hours**, and **8+** is comfortable. Two hard limits: the **Maglev stops around 21:40** and **Metro Line 2 around 22:30**, after which your return becomes a taxi or DiDi. PVG and Hongqiao (SHA) are about **70 km apart**: the Airport Link Line takes about 40 minutes, but a connection using both airports is still a transfer, not a sightseeing opportunity. Terminals, timetables and fares are in the [Pudong airport guide](/airports/pvg/).
 
-**Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**.
+**Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**, after which you will need a taxi or [DiDi](/guides/didi-and-ride-hailing-in-china/). See the [Guangzhou Baiyun (CAN) airport guide](/airports/can/) for full transfer details.
 
-For what to actually do with your window once you are out, see the city guides in City and airport guides below.
+For what to actually do with your window once you are out, set up [Alipay](/guides/alipay-for-foreigners/) and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) before you land, then see the city guides in City and airport guides below.
 
 ## The three mistakes that ruin a city-visit layover
 
@@ -648,7 +648,7 @@ China Southern publishes clearer rules than China Eastern, and its scheme is the
 
 The counter-example worth knowing: a Guangzhou–Beijing domestic connection after an international flight does **not** qualify, even on one ticket. If the onward leg is domestic, check before you count on the hotel.
 
-**To claim it:** book through the China Southern website (Home → Service Center → Transit Hotel Booking), the app, or the WeChat mini program. At Guangzhou, the transit accommodation counter is at **Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit: staff there confirm your booking and arrange the free shuttle. If you didn't book online, you can still apply at the counter, subject to availability.
+**To claim it:** book through the China Southern website (Home → Service Center → Transit Hotel Booking), the app, or the WeChat mini program (if you are setting up WeChat for your trip anyway, see [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)). At [Guangzhou Baiyun (CAN)](/airports/can/), the transit accommodation counter is at **Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit: staff there confirm your booking and arrange the free shuttle. If you didn't book online, you can still apply at the counter, subject to availability.
 
 ## Air China: the free transit hotel
 
@@ -666,7 +666,7 @@ Air China's product is called **Transit Accommodation**, and it splits into two 
 - Booking deadline: **24 hours** before the inbound flight's arrival for Standard, **50 hours** for Deluxe, Beijing time
 - Excluded: booking classes **O, I, X, N**, mileage and award tickets, and infants
 
-Air China states plainly that **on-site bookings are not accepted**, and that partner hotels have limited rooms, qualifying does not guarantee you one. It also notes that where a shuttle exists it may only serve one airport, so a PEK-to-PKX or PVG-to-SHA connection can leave you arranging and paying for your own transfer.
+Air China states plainly that **on-site bookings are not accepted**, and that partner hotels have limited rooms, qualifying does not guarantee you one. It also notes that where a shuttle exists it may only serve one airport, so a [PEK](/airports/pek/)-to-[PKX](/airports/pkx/) or [PVG](/airports/pvg/)-to-[SHA](/airports/sha/) connection can leave you arranging and paying for your own transfer via rail or [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/).
 
 ## Other mainland carriers with free transit hotels
 
@@ -677,7 +677,7 @@ The three majors are not the only carriers that do this, and on some of the othe
 | **Hainan Airlines** (HU) | Haikou (HAK), Chongqing (CKG) | Over 4 and up to 72 hours at Haikou; over 6 and up to 48 hours at Chongqing | The ticket has to be **bought in the Hainan Airlines app**. At Chongqing the free hotel and the free tour are **either/or**. Beijing offers a hotel discount, not a free night. |
 | **Xiamen Airlines** (MF) | Xiamen, Fuzhou, Quanzhou, Hangzhou | 6–24 hours, **and** the two flights must not depart on the same calendar day | Both segments on **one ticket** operated by Xiamen, Hebei or Jiangxi Airlines, and the international leg must be Xiamen-operated. Award and privilege-redemption classes (X, O, E) are excluded. |
 | **Sichuan Airlines** (3U) | Chengdu Shuangliu (CTU) and Tianfu (TFU) | 6–48 hours domestic; **6–240 hours** if any leg is international | Ticket number starting **876**. Book from 30 days out until 4 hours before the onward flight departs. |
-| **Shenzhen Airlines** (ZH) | Shenzhen Bao'an (SZX) only | 6–36 hours with an international leg; 6–24 hours domestic | Both segments must be operated by Shenzhen Airlines. |
+| **Shenzhen Airlines** (ZH) | [Shenzhen Bao'an (SZX)](/airports/szx/) only | 6–36 hours with an international leg; 6–24 hours domestic | Both segments must be operated by Shenzhen Airlines. |
 
 A few details worth knowing:
 
@@ -1237,7 +1237,7 @@ Last updated: 2026-10-16
 
 ## The honest answer
 
-**Yes. It's possible, but only if your layover is 10+ hours, arrives in the morning, and you accept that the Great Wall is the *only* thing you'll do.** Mutianyu, the closest practical section, is a 1.5-hour drive from Beijing Capital Airport (PEK) and 2.5 hours from Daxing (PKX). Add immigration, the drive back, and your airport buffer, and a "day" collapses to roughly 2–3 hours actually on the Wall.
+**Yes. It's possible, but only if your layover is 10+ hours, arrives in the morning, and you accept that the Great Wall is the *only* thing you'll do.** Mutianyu, the closest practical section, is a 1.5-hour drive from [Beijing Capital Airport (PEK)](/airports/pek/) and 2.5 hours from [Daxing (PKX)](/airports/pkx/). Add immigration, the drive back, and your airport buffer, and a "day" collapses to roughly 2–3 hours actually on the Wall.
 
 ## The timing math, laid bare
 
@@ -2014,14 +2014,15 @@ Overnight in the city and use the morning for **Mutianyu**, roughly 1.5–2 hour
 ## Beijing-specific traps
 
 - **Forbidden City tickets are passport-linked and sell out.** Book online before you travel.
-- **PEK and PKX are on opposite sides of the city**, roughly 80 km apart. A cross-airport connection is 1.5–2 hours by airport bus or by rail with two changes: never combine it with sightseeing. The [Daxing airport guide](/airports/pkx/) has the routes.
-- **The Airport Express stops running just after 23:00.** Late arrivals need a taxi or DiDi.
+- **PEK and PKX are on opposite sides of the city**, roughly 80 km apart. A cross-airport connection is 1.5–2 hours by airport bus or by rail with two changes: never combine it with sightseeing. See the [Beijing Capital (PEK)](/airports/pek/) and [Beijing Daxing (PKX)](/airports/pkx/) airport guides, or our [Beijing layover hub](/cities/beijing/) for airport comparisons.
+- **The Airport Express stops running just after 23:00.** Late arrivals need a taxi or [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/).
 - **Winter air can be harsh** and summer is hot; build in indoor stops.
 
 ## Before you go
 
-- [Set up Alipay or WeChat Pay](/guides/payments-in-china-for-foreigners/): the metro now accepts QR codes, and most vendors are QR-only.
+- Set up [Alipay](/guides/alipay-for-foreigners/) or [WeChat Pay and TenPayGo](/guides/wechat-pay-and-tenpaygo-for-foreigners/) (see [payments in China for foreigners](/guides/payments-in-china-for-foreigners/)): the metro now accepts QR codes, and most vendors are QR-only.
 - [Install an eSIM before you land](/guides/esim-setup-before-you-land/).
+- Planning a Wall run? Check [whether you can see the Great Wall on a Beijing layover](/guides/great-wall-from-beijing-layover/).
 - Confirm you can enter, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/) or [can you leave the airport?](/guides/can-you-leave-the-airport-during-a-china-layover/).
 
 ## Bottom line
@@ -2328,7 +2329,7 @@ The window you have decides what Shanghai you get. **6 hours is a taste; 8 hours
 
 **A hard limit to plan around:** the last Maglev leaves the airport at 21:42 and Metro Line 2 stops around 22:30. Late arrivals are taxi or DiDi territory.
 
-PVG and SHA are about 70 km apart. The Airport Link Line connects them in about 40 minutes (last train from Pudong 22:15), but a two-airport connection still means immigration, the train and a second check-in, so do not add sightseeing under 12 hours. The [Pudong airport guide](/airports/pvg/) has the timetables.
+PVG and SHA are about 70 km apart. The Airport Link Line connects them in about 40 minutes (last train from Pudong 22:15), but a two-airport connection still means immigration, the train and a second check-in, so do not add sightseeing under 12 hours. The [Pudong (PVG)](/airports/pvg/) and [Hongqiao (SHA)](/airports/sha/) airport guides have the timetables, and the [Shanghai layover hub](/cities/shanghai/) compares both hubs side by side.
 
 ## Getting in from Pudong: the Maglev in detail
 
@@ -2398,9 +2399,9 @@ Prices are indicative and move with season and group size. Check what is **exclu
 
 ## Before you go
 
-- **Set up Alipay or WeChat Pay before you fly**: most small vendors and street stalls are QR-only. See [how to pay in China](/guides/payments-in-china-for-foreigners/).
-- **Install an eSIM before you land**: airport Wi-Fi in China usually needs an SMS code you may not receive. See [eSIM setup](/guides/esim-setup-before-you-land/).
-- **Have your hotel address in Chinese characters** saved on your phone if you plan to take a taxi.
+- **Set up Alipay or WeChat Pay before you fly**: most small vendors and street stalls are QR-only. See [WeChat Pay and TenPayGo](/guides/wechat-pay-and-tenpaygo-for-foreigners/) and [how to pay in China](/guides/payments-in-china-for-foreigners/).
+- **Install an eSIM before you land**: see [eSIM setup](/guides/esim-setup-before-you-land/) (and [China airport Wi-Fi](/guides/china-airport-wifi/) for passport login at PVG).
+- **Set up [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/)** and save your hotel address in Chinese characters if you land after 22:30 when the metro stops.
 - **Confirm your transit eligibility** first: see [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
 - **Know where to leave your bags**: see [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
 
@@ -3864,46 +3865,95 @@ Packaged snacks are usually fine, but many countries restrict meat, dairy, fruit
 ## Beijing
 
 Source: https://chinalayoverguide.com/cities/beijing/
-Last updated: 2026-09-03
+Last updated: 2026-11-27
 
 ## Why Beijing works for a layover
 
-Beijing is the classic first stop in China. It's not the easiest layover (the airport is far and the city is huge) but with 10+ hours you can see the imperial core and even squeeze in the Great Wall at Mutianyu if you pre-book a car or join a small group.
+Beijing is China's imperial headline act, and for many travelers flying between Europe, North America, and Asia it is the highest-impact stopover on the map. It is **not the easiest short layover**: both airports sit well outside the historic core, immigration queues can stack when long-haul flights land together, and the top sights require advance planning.
 
-## The route
+With **8 to 10 hours** you can see one major downtown landmark properly. With **12 hours** you get a full imperial day (the Forbidden City, Jingshan Park, a hutong walk, and Peking duck). With **10+ hours and a morning arrival** or an overnight stop, you can make a realistic run to the **Mutianyu Great Wall**.
 
-Take the Airport Express to Dongzhimen, then the subway to Tiananmen and the Forbidden City. Walk through to Jingshan Park for the classic view over the palace roofs. If you have a full day, head to Mutianyu early instead. It's less crowded than Badaling and the toboggan down is memorable.
+## PEK vs. PKX: which airport changes your plan
 
-## Food to try
+Before picking a route or a hotel, check the three-letter airport code on both legs of your itinerary. Beijing's two international hubs sit on opposite sides of the city, roughly 80 km apart:
 
-Peking duck if you have a sit-down meal, or a quick bowl of zhajiang noodles. Street snacks near Wangfujing are fun but touristy.
+- **[Beijing Capital International Airport (PEK)](/airports/pek/)** sits ~25 km northeast of the center and is the better hub for short layovers. The Airport Express reaches Dongzhimen and Sanyuanqiao in 25–35 minutes for ¥25, and Mutianyu Great Wall is roughly 1.5 hours away by car.
+- **[Beijing Daxing International Airport (PKX)](/airports/pkx/)** sits ~50 km south of the center. The Daxing Airport Express reaches Caoqiao in ~20 minutes for ¥35, where you switch to Metro Line 10 or 19. Add 1 to 2 extra hours to any sightseeing threshold compared with PEK, and expect ~2.5 hours each way to Mutianyu.
+- **Cross-airport connections (PEK ↔ PKX)** take 1.5 to 2 hours across Beijing by airport bus or rail with two changes. Treat that transfer as the entire layover unless you have well over 12 hours.
 
-## Timing notes
+## Choosing your route by layover length
 
-Forbidden City requires advance online booking with your passport and often sells out. Budget at least 90 minutes each way between PEK and the center, and more in rush hour.
+- **Under 7 hours:** stay airside. Immigration, baggage, transfers, and the 2.5-hour international return buffer leave no usable city time.
+- **8–10 hours:** pick one downtown cluster, either Tiananmen Square plus a hutong walk near the Drum Tower, or the Temple of Heaven. Do not try to chain sights across town.
+- **12 hours:** pre-book the **Forbidden City** (enter from the south gate, exit north straight into **Jingshan Park** for the panoramic roof view), then sit down for Peking duck before taking the Airport Express back. See the full [Beijing 6, 8, 12, and 24-hour layover itinerary](/guides/beijing-layover-itinerary/) for exact timing math.
+- **Morning 10+ hours or 24-hour overnight (Great Wall):** head straight to **Mutianyu** with a pre-booked private driver so someone is waiting for your return run. Read our [Great Wall from a Beijing layover guide](/guides/great-wall-from-beijing-layover/) before committing, especially if you land at PKX.
+
+## Where to stay: airport hotel vs. downtown
+
+If your connection is overnight or exceeds 14 hours, first check whether your airline covers your room for free. **Air China** (ticket prefix 999), **China Southern**, and **China Eastern** all run free transit hotel schemes at Beijing for qualifying through-tickets, though every carrier requires advance booking rather than walk-up requests. Check exact booking classes and deadlines in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+
+If you do not qualify for an airline hotel:
+
+- **Short overnight (landing after 22:00 or departing before 09:00):** stay beside PEK or PKX to avoid late-night transfers after the Airport Express stops around 23:00.
+- **Full 18–24 hour layover:** book downtown near **Dongzhimen, Qianmen, or Wangfujing** if flying out of PEK (direct Airport Express return), or near **Line 19 / Caoqiao** if flying out of PKX. Hotels automatically handle mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) at check-in.
+
+## Practical logistics on the ground
+
+- **Entry permission:** both PEK and PKX are designated ports under China's [240-hour visa-free transit policy](/transit-visa/) (covering Beijing municipality and cross-province permitted areas), and eligible passports on the 30-day visa-free list can enter without the third-country rule. Check [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/) before booking.
+- **Luggage:** manual left-luggage counters at PEK typically cost ¥30–40 per rolling suitcase per 24 hours, while PKX's landside manual counters are free. See [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/) for current options.
+- **Getting around:** the metro is traffic-proof and signed in English. For late arrivals, luggage, or a hotel transfer, set up [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/) inside Alipay or WeChat so fares are upfront and addresses translate automatically.
+- **Payments and connectivity:** install a travel eSIM before flying ([best eSIM for China](/guides/best-esim-for-china/)) and link a foreign card to both Alipay and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/). If you land without data, both Beijing airports support passport-based login on [China airport Wi-Fi](/guides/china-airport-wifi/).
+
+## Food and local traps
+
+If you have time for one proper meal, go for **Peking duck** or a fast bowl of **zhajiangmian** (fried bean sauce noodles) near the hutongs rather than snack stalls on Wangfujing. Two traps catch first-timers most often: **Forbidden City tickets are passport-linked and sell out days ahead** (do not expect walk-up tickets), and both Airport Express lines close around **23:00**, leaving late arrivals dependent on taxis or DiDi.
 
 ---
 
 ## Chengdu
 
 Source: https://chinalayoverguide.com/cities/chengdu/
-Last updated: 2026-09-03
+Last updated: 2026-11-27
 
 ## Why Chengdu works for a layover
 
-Chengdu is the best layover in western China: giant pandas in the morning, a teahouse in a park at noon, and fiery Sichuan food all day. The catch is the new Tianfu Airport is far from the city, so this route works best with 10+ hours.
+Chengdu is western China's standout layover city: giant pandas in the morning, slow bamboo-chair teahouses in the afternoon, and Sichuan food that rewards every hour you spend outside the terminal. With **Sichuan Airlines** and **Air China** operating growing international routes through Chengdu, more Europe-to-Asia and Australia-to-Europe travelers are getting long connections here.
 
-## The route
+The main constraint is geography. Most international flights now use **Chengdu Tianfu International Airport (TFU)**, roughly 50 km southeast of the city center, while the **Chengdu Research Base of Giant Panda Breeding** sits on the northeast edge of town. Good timing turns a Chengdu layover into a highlight; landing in the afternoon means skipping pandas and focusing on tea, alleys, and food instead.
 
-Go straight to the **Chengdu Panda Base** in the morning, pandas are most active before 10am and it gets crowded later. Head back into the city for a lazy hour at **People's Park**, where you can drink tea and watch locals play mahjong. End at **Jinli Street** for snacks and souvenirs before the airport run.
+## Arrival airport & transfer math
 
-## Food to try
+Almost all international transits arrive at **[Chengdu Tianfu International Airport (TFU)](/airports/tfu/)**:
 
-Mapo tofu, dan dan noodles, hotpot if you're brave, and the numbing Sichuan peppercorn that makes everything buzz.
+- **Metro Line 18 (express rail):** reaches the city rail network in **35–40 minutes** for **¥7–10**, traffic-proof and modern, though reaching central sights or the Panda Base still requires an interchange.
+- **Taxi or DiDi:** **50–70 minutes** and **¥120–180**, often the smartest move on a tight morning connection if you are heading straight from TFU to the Panda Base with luggage stored in the boot. Set up [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/) before landing.
+- **Dual-airport check:** domestic connections sometimes use older **Chengdu Shuangliu Airport (CTU)** on the southwest side of town. Confirm both legs use TFU before planning a short layover trip.
 
-## Timing notes
+## Planning by layover window
 
-Tianfu Airport is roughly an hour from the center. Pandas sleep through the afternoon, so if you can't land early, swap the panda base for Kuanzhai Alley and the park.
+- **Under 7 hours:** stay airside. Tianfu's distance plus immigration and the 2.5-hour international return buffer leave no comfortable city window.
+- **8–9 hours (morning arrival only):** go directly to the **Chengdu Panda Base**. Giant pandas are most active during morning feeding before **10:00** and sleep through much of the afternoon.
+- **10–12 hours:** combine a morning Panda Base visit with an hour sipping jasmine tea at **People's Park** (watch locals play mahjong) and a snack walk through **Jinli Street** or **Kuanzhai Alley**. See our full [Chengdu 6, 8, 12, and 24-hour layover itinerary](/guides/chengdu-layover-itinerary/) for exact route timing.
+- **24 hours+:** stay overnight in central Chengdu, add a full Sichuan hotpot dinner, and catch a traditional Sichuan opera face-changing show before heading back to TFU.
+
+## Where to stay: Sichuan Airlines / Air China free hotel vs. downtown
+
+Chengdu has one of the most generous free transit hotel setups in China:
+
+- **Sichuan Airlines** (ticket prefix **876**) provides free transit hotels for connections of **6–48 hours domestic** and up to **6–240 hours** when an international leg is included, covering both TFU and CTU. Book in advance (30 days out until 4 hours before departure).
+- **Air China** (ticket prefix **999**) also covers TFU under its Transit Accommodation rules, requiring advance booking (24 hours for Standard, 50 hours for Deluxe). Check exact terms in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+
+If you book your own room: stay near **TFU** for a short overnight under 12 hours, or downtown around **Chunxi Road / Taikoo Li / People's Park** for a 16–24 hour layover so you can walk straight to teahouses and restaurants. Hotels handle mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) automatically.
+
+## Practical logistics on the ground
+
+- **Entry rules:** TFU is a designated port under China's [240-hour visa-free transit policy](/transit-visa/), covering 11 permitted cities in Sichuan (including Chengdu and Leshan) plus cross-province permitted areas. Confirm your entry route in [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- **Luggage:** TFU has staffed left-luggage counters (~¥15–30 per bag per day). See [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/) for tips.
+- **Payments and connectivity:** link a foreign card to both Alipay and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) before departure, and activate a travel eSIM ([best eSIM for China](/guides/best-esim-for-china/)) so navigation works from the moment you step off the plane.
+
+## Food and local traps
+
+Try **dan dan noodles**, **mapo tofu**, **zhong dumplings**, and **Sichuan hotpot** (ask for *wei la*, mild spice, if you are not used to numbing Sichuan peppercorns). Two traps to avoid: **Panda Base tickets are passport-linked and busy**, so book online ahead of arrival, and do not waste a 3pm arrival driving out to see sleeping pandas when People's Park and Kuanzhai Alley are far better afternoon stops.
 
 ---
 
@@ -3937,23 +3987,47 @@ Chongqing and Chengdu are about 1.5 hours apart by high-speed rail, so longer tr
 ## Guangzhou
 
 Source: https://chinalayoverguide.com/cities/guangzhou/
-Last updated: 2026-09-03
+Last updated: 2026-11-27
 
 ## Why Guangzhou works for a layover
 
-Guangzhou is China's food capital and one of its most relaxed big cities. It's a great layover if you're flying between Southeast Asia and Europe. The airport is huge and well connected, and the city rewards slow wandering more than checklist sightseeing.
+Guangzhou is one of the busiest transit hubs for travelers flying between Europe, Australia, New Zealand, Southeast Asia, and Africa, largely thanks to **China Southern Airlines**. Unlike Beijing or Xi'an, Guangzhou is not a race to tick off one distant monument: it is China's culinary capital, warm most of the year, and connected directly to the center by a cheap, traffic-proof metro line.
 
-## The route
+The single rule that separates a great Guangzhou layover from a mediocre one is **arrival time**. Cantonese *yum cha* (dim sum) is a morning and lunch ritual. If you land in the morning, eat dim sum first before doing anything else.
 
-Take Metro Line 3 to Canton Tower for the skyline, then switch to Line 6 for Shamian Island: a leafy former concession area perfect for a walk and coffee. Finish near Beijing Road for shopping and street food before heading back. If food is your priority, skip the tower and go straight to a proper dim sum lunch.
+## Arrival airport & transfer math
 
-## Food to try
+All international layovers arrive at **[Guangzhou Baiyun International Airport (CAN)](/airports/can/)**, roughly 28 km north of central Guangzhou:
 
-Dim sum (har gow, siu mai, char siu bao), roast goose, double-skin milk dessert, and anything from a busy street stall.
+- **Metro Line 3 (best choice):** direct from the airport into Tianhe and central Guangzhou in **45–55 minutes** for about **¥8**. It runs until roughly **22:30–23:00** and avoids highway traffic.
+- **Taxi or DiDi:** **45–60 minutes** and **¥100–130**, worthwhile if you are traveling with a group, heavy bags, or landing late at night after the metro closes. Set up [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/) before departure so addresses translate cleanly.
+- **Immigration timing:** CAN handles heavy overnight waves from Europe, Australia, and Southeast Asia. Budget 60–90 minutes at peak arrival banks and return at least **2.5 hours** before an international departure.
 
-## Timing notes
+## Planning by layover length
 
-Baiyun Airport is about 40 minutes from the center by metro. Immigration can be slow at peak hours: leave a real buffer for your onward flight.
+- **Under 6 hours:** stay airside. Once immigration and the 2.5-hour return buffer are counted, heading into town is not worth the stress.
+- **6–8 hours:** ride Metro Line 3 straight to a morning dim sum meal, then walk **Shamian Island** (leafy riverside lanes and historic architecture) before heading back.
+- **8–10 hours:** add **Canton Tower** or a street-food loop along **Beijing Road** after dim sum and Shamian Island. See our full [Guangzhou 6, 8, 10, 12, and 24-hour layover itinerary](/guides/guangzhou-layover-itinerary/) for exact neighborhood sequencing and dim sum timing.
+- **12–24 hours:** add **Chen Clan Ancestral Hall**, a Pearl River night cruise, and a proper Cantonese roast-meat dinner (or a 30-minute metro side trip to Foshan).
+
+## Where to stay: China Southern free hotel vs. booking downtown
+
+Guangzhou is the flagship hub for **China Southern's free transit accommodation**, and unlike China Eastern, standard economy tickets usually qualify on 6–30 hour overnight connections (or same-day arrivals between 00:00 and 08:00 with 6+ hours). Book online before flying and confirm at **Gate 50 on the first floor of Terminal 2** upon arrival. Read the full terms, single-room supplement rules, and domestic-leg exclusions in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+
+If you do not qualify or prefer to pick your own neighborhood:
+
+- **Short overnight (<12 hours):** stay near Baiyun Airport with a free terminal shuttle so you maximize sleep.
+- **16–24 hour layover:** stay in **Tianhe** (direct on Metro Line 3, fast airport return) or **Liwan / Yuexiu** (best for waking up next to classic dim sum houses and Shamian Island). Hotels automatically complete mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/).
+
+## Practical logistics on the ground
+
+- **Entry rules:** CAN is a designated port under the [240-hour visa-free transit policy](/transit-visa/), covering Guangdong province (and cross-province permitted areas). Confirm whether you use 240-hour transit or 30-day visa-free entry in [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- **Luggage:** Baiyun Airport offers staffed left-luggage counters (~¥15–30 per bag per day). Check options in [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
+- **Payments and connectivity:** small Cantonese eateries and tea houses are almost entirely QR-based. Link a foreign card to both Alipay and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) before flying, install a travel eSIM ([best eSIM for China](/guides/best-esim-for-china/)), and keep passport-login [China airport Wi-Fi](/guides/china-airport-wifi/) as a backup.
+
+## Food and local traps
+
+Prioritize **dim sum** (*har gow*, *siu mai*, *char siu bao*, *cheung fun*), **Cantonese roast goose**, **wonton noodles**, and **double-skin milk dessert**. Two common mistakes to avoid: trying to chain distant districts (Canton Tower, old town Liwan, and Baiyun) inside a short 6–7 hour window, and landing at 3pm expecting morning dim sum carts when most traditional tea houses have already wound down.
 
 ---
 
@@ -4072,50 +4146,98 @@ Qingdao Jiaodong Airport is about 50–60 minutes from the center by Metro Line 
 ## Shanghai
 
 Source: https://chinalayoverguide.com/cities/shanghai/
-Last updated: 2026-09-03
+Last updated: 2026-11-27
 
 ## Why Shanghai works for a layover
 
-Shanghai is the easiest big-city layover in China: two airports, a Maglev train, and the country's most international downtown. If you only have one day, this route gives you the classic skyline and old-town contrast without rushing.
+Shanghai is the smoothest first-time layover in mainland China. The rail links from both airports are predictable, English signage across the metro is clear, and the classic central sights sit close enough together that an 8-hour stop delivers a genuine half-day in the city rather than a sprint across suburbs.
 
-## The route
+Most international transits land at **Pudong (PVG)**, ~30 km east of downtown, while regional flights from Japan, South Korea, Hong Kong, Macau, and Taiwan often use **Hongqiao (SHA)**, only ~13 km west of the center. That airport split is the first thing to check before planning your hours.
 
-Start on the **Bund** for the skyline, walk 15 minutes south to **Yu Garden** for the old-town feel and a quick bite, then cut through **Nanjing Road** on your way back to Metro Line 2. If you have extra time, add a museum or the French Concession.
+## PVG vs. SHA: choosing the right transfer
 
-## Food to try
+- **[Shanghai Pudong International Airport (PVG)](/airports/pvg/)** handles almost all long-haul international connections. The fastest traffic-proof way in is the **Maglev** (8 minutes to Longyang Road, ¥50 or ¥40 at the counter with a same-day boarding pass) followed by **Metro Line 2** into Nanjing East Road or People's Square (~40–55 minutes total). Metro Line 2 direct costs ¥7–9 and takes 60–90 minutes.
+- **[Shanghai Hongqiao International Airport (SHA)](/airports/sha/)** is the easiest layover airport in China: Metro Lines 2 and 10 connect directly from the terminal to downtown in 30–50 minutes for ¥3–7, making even a 5–6 hour stop workable.
+- **Cross-airport connections (PVG ↔ SHA)** cover roughly 70 km. The Airport Link Line connects the two terminals in about 40 minutes (last train from Pudong at 22:15), but once you add immigration and a second check-in, do not plan sightseeing on a two-airport transfer under 12 hours.
 
-Soup dumplings (*xiaolongbao*), scallion oil noodles, and a quick *jianbing* from a street stall. Pay with Alipay/WeChat Pay, cash is increasingly rare.
+## Planning by layover window
 
-## Timing notes
+- **Under 6 hours from PVG:** stay airside. Arrivals immigration can take 30 to 60+ minutes in the evening long-haul wave, leaving no safe margin once you include the 2.5-hour return buffer.
+- **8 hours from PVG:** take Maglev + Line 2 to Nanjing East Road, walk to **the Bund** for the Pudong skyline, grab a basket of *xiaolongbao* (soup dumplings), and head back on rail.
+- **12 hours:** combine the Bund, **Yu Garden** and the old town, a walk along Nanjing Road, and either Lujiazui or the **Former French Concession**. See our hour-by-hour [Shanghai layover itinerary (6, 8, 12 & 24 hours)](/guides/shanghai-layover-itinerary/) for exact timing math and whether a layover tour makes sense.
+- **24 hours+:** stay overnight in Puxi, add an evening river cruise, and consider a morning side trip to Zhujiajiao water town or a one-hour high-speed train to Hangzhou.
 
-Pudong Airport is far from the center; budget at least 90 minutes each way. Aim for a layover of 8+ hours to make the trip worthwhile, and always leave a buffer for immigration queues.
+## Where to stay: airport hotel vs. Puxi overnight
+
+Before booking a room yourself, check if your airline provides a complimentary stay. **China Eastern** (ticket prefix 781) and **Air China** (prefix 999) both offer free transit hotels at Shanghai for qualifying tickets, with strict advance-booking rules and fare-class exclusions. Verify your eligibility in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+
+If you are booking your own hotel:
+
+- **Late landing or early flight out of PVG:** stay inside or directly beside Pudong Airport so you are not racing early-morning traffic or arriving after the last Maglev (21:42) and Metro Line 2 (~22:30).
+- **18–24 hour stopover:** stay along **Metro Line 2** in Puxi (**People's Square, Nanjing East Road, or Jing'an**). You can step out for dinner and the Bund at night and take a single direct rail line back to PVG or SHA the next day. Hotels register foreign guests automatically under China's [24-hour accommodation registration rule](/guides/hotel-registration-for-foreigners-in-china/).
+
+## Practical logistics on the ground
+
+- **Entry rules:** both PVG and SHA are designated ports under the [240-hour visa-free transit policy](/transit-visa/). Confirm whether you qualify under 240-hour transit or 30-day visa-free entry in [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- **Luggage:** Pudong has staffed left-luggage counters in arrivals and departures (~¥15–30 per bag per day). Details and alternatives are in [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
+- **Ride-hailing & payments:** after 22:30, rail stops and you will need a taxi or [DiDi](/guides/didi-and-ride-hailing-in-china/) (pick-ups at PVG are on level B2 in P2 car park, not arrivals kerb). Set up Alipay and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) before flying, plus a travel eSIM ([best eSIM for China](/guides/best-esim-for-china/)) backed up by passport-login [China airport Wi-Fi](/guides/china-airport-wifi/).
+
+## Food and local traps
+
+Prioritize **soup dumplings (*xiaolongbao*)**, **scallion oil noodles**, and pan-fried **shengjianbao** over expensive tourist restaurants right on the Bund waterfront. Watch two hard cutoffs at PVG: the **last Maglev departs at 21:42** (every 20 minutes), and **Metro Line 2 closes around 22:30**. Also remember the Maglev stops at Longyang Road rather than downtown, so always factor in the Line 2 transfer.
 
 ---
 
 ## Shenzhen
 
 Source: https://chinalayoverguide.com/cities/shenzhen/
-Last updated: 2026-09-16
+Last updated: 2026-11-27
 
 ## Why Shenzhen works for a layover
 
-Shenzhen is China's tech capital and one of the fastest, most modern cities in the country. It sits directly on the Hong Kong border, which makes it a natural layover for travelers routing between mainland China and Hong Kong. The airport is a genuine international hub, and the metro gets you into the thick of it quickly.
+Shenzhen is China's hardware and tech capital, sitting directly across the border from Hong Kong. Rather than imperial temples, a Shenzhen layover delivers ultra-modern architecture, huge electronics markets, leafy design districts, and Cantonese food, all linked to the airport by one of the fastest express metro lines in the country.
 
-## The route
+It is also a practical gateway for travelers combining mainland China with Hong Kong on multi-leg trips, since **Shenzhen Airlines** and **China Southern** run substantial international and regional networks through **Shenzhen Bao'an International Airport (SZX)**.
 
-Take **Metro Line 11** from Bao'an Airport toward Futian. Start at the **Ping An Finance Centre** for the observation deck and the skyline, then head to **OCT Loft**, a converted factory district full of galleries, cafés, and design shops. Finish at **Shenzhen Bay Park** for the waterfront, or **Dongmen** for street food and shopping, before returning on Line 11.
+## Arrival airport & transfer math
 
-## Food to try
+International flights arrive at **[Shenzhen Bao'an International Airport (SZX)](/airports/szx/)**, ~30 km west of central Futian:
 
-Cantonese-style dim sum (Shenzhen sits in Guangdong), freshly made rice noodles, and the city's huge range of regional Chinese restaurants: the tech workforce means almost every province is represented.
+- **Metro Line 11 (best choice):** an express airport line running straight into **Chegongmiao** and **Futian** in **30–50 minutes** for roughly **¥7–10**, modern and clearly signposted in English.
+- **Taxi or DiDi:** **40–60 minutes** and **¥100–150**, useful if you have heavy luggage or are heading straight to Shenzhen Bay or Nanshan after late-night metro hours. Set up [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/) before departure.
+- **Buffer rule:** allow 45–60 minutes for arrivals immigration and return to SZX **2.5 hours** before an international departure.
 
-## Timing notes
+## Planning by layover length
 
-The airport is close by the standards of Chinese hubs: Line 11 reaches the central districts in around 30–50 minutes. Still, allow a 2.5-hour buffer before an international departure and check the last metro time. With under 6 hours, stay at the airport.
+- **Under 6 hours:** stay airside. Once immigration, Metro Line 11 each way, and your return buffer are counted, leaving the terminal is too tight.
+- **7–8 hours:** ride Metro Line 11 to **Futian** for the **Ping An Finance Centre** skyline area, then take a relaxed waterfront walk along **Shenzhen Bay Park** (with views across the water toward Hong Kong) before returning on Line 11.
+- **9–12 hours:** add **OCT Loft** (a converted factory art district full of galleries, indie cafés, and design shops) or explore the famous **Huaqiangbei electronics markets** if you are into gadgets and hardware.
+- **12–24 hours:** add **Dongmen pedestrian street** for evening street food, a proper Cantonese dim sum breakfast, or a land crossing into Hong Kong if your passport and transit rules permit it.
 
-## Border note
+## Where to stay: Shenzhen Airlines / China Southern free hotel vs. Futian
 
-Shenzhen has land crossings to Hong Kong (Futian, Luohu, and Shenzhen Bay). If your itinerary enters or leaves through Hong Kong, keep your onward documents handy, see [can you leave the airport during a layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+If you have an overnight layover at SZX, check airline transit perks before paying for a hotel:
+
+- **Shenzhen Airlines (ZH)** provides a free transit hotel at SZX for connections of **6–24 hours domestic** or **6–36 hours with an international leg**, provided both segments are Shenzhen Airlines-operated and booked in advance.
+- **China Southern (CZ)** also offers online transit hotel booking at Shenzhen for qualifying through-tickets. Read full eligibility rules in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+
+If you book your own hotel: stay right beside **SZX** for a short overnight, or around **Futian CBD / Chegongmiao** for a 16–24 hour layover so you stay directly on Metro Line 11 for a one-seat ride back to the airport. Hotels automatically complete mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/).
+
+## Hong Kong border & 240-hour transit rules
+
+Shenzhen sits right against Hong Kong, with major land crossings at **Futian, Luohu, and Shenzhen Bay** plus ferry links from Shekou. Two rules matter if Hong Kong is part of your route:
+
+- Under China's [240-hour visa-free transit policy](/transit-visa/), **Hong Kong counts as a separate region** under the [A→B→C third-country rule](/guides/third-country-rule-for-china-transit/). Flying London → Shenzhen → Hong Kong (or taking an eligible exit port) works as third-region transit, while a round trip returning to Hong Kong does not.
+- Leaving mainland China into Hong Kong **ends your mainland entry**. Make sure your passport qualifies to enter Hong Kong and, if you plan to re-enter Shenzhen for an onward flight, verify that you have valid re-entry eligibility before crossing the border. See [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+
+## Practical logistics on the ground
+
+- **Luggage:** SZX has staffed left-luggage counters (~¥15–30 per bag per day). Details and backup options are in [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
+- **Payments and connectivity:** Shenzhen is arguably China's most aggressively cashless city. Link a foreign card to both Alipay and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) before landing, and activate a travel eSIM ([best eSIM for China](/guides/best-esim-for-china/)) so Google Maps and messaging stay online.
+
+## Food and local traps
+
+Because Shenzhen sits in Guangdong and draws workers from across China, you can eat top-notch **Cantonese dim sum**, **Chaoshan beef hotpot**, freshly steamed rice noodle rolls (*cheung fun*), and regional dishes from Sichuan to Hunan within a few metro stops of Futian. The main timing trap is geography: Shenzhen stretches long and narrow east-to-west, so stick to stops along **Line 11 and Futian/Nanshan** rather than crossing to distant eastern districts on a short layover.
 
 ---
 
@@ -4151,23 +4273,47 @@ The airport is only 20–30 minutes from the center, which gives you more usable
 ## Xi'an
 
 Source: https://chinalayoverguide.com/cities/xian/
-Last updated: 2026-09-03
+Last updated: 2026-11-27
 
 ## Why Xi'an works for a layover
 
-Xi'an is the shortest route to one of the world's great sights: the Terracotta Army. If your layover is 10+ hours and you don't mind moving fast, you can see the warriors, cycle the ancient city wall, and eat your way through the Muslim Quarter in a single day.
+Xi'an is the shortest practical jump from an international airport to one of the ancient world's great archaeological sites: the **Terracotta Army**. Even if your layover is too tight for the warriors, central Xi'an packs its highlights inside one compact historic square: the intact **Ming-era City Wall**, the illuminated **Bell and Drum Towers**, and the **Muslim Quarter** street-food alleys.
 
-## The route
+Because **China Eastern** uses Xi'an as a major western hub alongside international routes across Asia and Europe, Xi'an frequently appears on affordable long-layover itineraries. Knowing whether you have enough hours for the Terracotta Army or should stay inside the City Wall is the key decision.
 
-Head straight to the **Terracotta Army**. It's an hour from the airport and gets busy by late morning. Return to the city and walk or rent a bike on the **City Wall** at the South Gate. Finish in the **Muslim Quarter** for lamb skewers and hand-pulled noodles before your flight.
+## Arrival airport & transfer math
 
-## Food to try
+International flights arrive at **[Xi'an Xianyang International Airport (XIY)](/airports/xiy/)**, roughly 40 km northwest of the city center:
 
-Roujiamo (Chinese "burger"), yangrou paomo (lamb soup with crumbled bread), and the biangbiang noodles.
+- **Metro Line 14 (~¥7):** connects XIY into Xi'an's metro network, traffic-proof and inexpensive, though reaching the South Gate or Bell Tower requires a line transfer.
+- **Airport Bus Line 1 (~¥25, 40–50 minutes):** direct to the railway station and key central stops.
+- **Taxi or DiDi (40–60 minutes, ¥100–130):** the fastest option to downtown, and the only sensible way to go straight from XIY to the Terracotta Army (roughly an hour's drive from the airport/city). Set up [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/) before flying, or pre-book a round-trip driver if visiting the warriors.
 
-## Timing notes
+## Planning by layover length
 
-XIY airport is about 50 minutes from the city. The Terracotta Army deserves 2–3 hours: if your layover is shorter than 10 hours, stay in the city and do the wall and Muslim Quarter instead.
+- **Under 6 hours:** stay airside. Once immigration, transfers, and the 2.5-hour international return buffer are deducted, there is not enough margin even for the City Wall.
+- **8 hours (city only):** skip the Terracotta Army and head into town for the **Xi'an City Wall** at South Gate (walk or rent a bike along the ramparts) plus lunch in the **Muslim Quarter**.
+- **10–12 hours (Terracotta Army focus):** go straight to the **Terracotta Warriors** with a pre-booked round-trip driver, spend 2–3 hours across Pits 1–3, and return directly to XIY. See our detailed [Xi'an 6, 8, 12, and 24-hour layover itinerary](/guides/xian-layover-itinerary/) for exact timing math.
+- **24 hours+:** do the Terracotta Army early in the morning, spend the afternoon cycling the City Wall, eat through the Muslim Quarter at dusk, and see the lit-up Bell and Drum Towers at night.
+
+## Where to stay: airline transit hotel vs. inside the City Wall
+
+If you are flying **China Eastern** (ticket prefix 781) on an eligible overnight through-ticket through Xi'an, check whether your fare qualifies for a complimentary transit hotel before paying out of pocket. Full eligibility rules and application steps are in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+
+If you are booking your own hotel:
+
+- **Late-night arrival or early departure:** stay beside XIY to avoid an hour-long transfer in the dark.
+- **16–24 hour layover:** stay inside or just south of the **City Wall (Bell Tower / South Gate area)** so you can walk to the ramparts and Muslim Quarter without wasting transit time. Hotels complete mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) automatically at check-in.
+
+## Practical logistics on the ground
+
+- **Entry rules:** XIY is a designated port under China's [240-hour visa-free transit policy](/transit-visa/), covering Shaanxi province and cross-province permitted areas. Double-check your eligibility in [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- **Luggage:** XIY offers staffed left-luggage counters (~¥15–30 per bag per day), or leave bags in the trunk if you hire a private driver for the Terracotta Army. See [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
+- **Payments and connectivity:** Muslim Quarter vendors and bike rentals are QR-only. Set up Alipay and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) on a foreign card before flying, and install a travel eSIM ([best eSIM for China](/guides/best-esim-for-china/)) before landing.
+
+## Food and local traps
+
+Do not miss **roujiamo** (spiced braised meat in crispy flatbread), **biangbiang noodles** (wide hand-pulled chili oil noodles), lamb skewers, and **yangrou paomo** (lamb broth with hand-crumbled flatbread). Two traps ruin Xi'an layovers: **Terracotta Army tickets are passport-linked and sold in timed waves** (book ahead rather than showing up at the gate), and catching an independent return taxi from the Terracotta Army back to XIY on a tight schedule is unreliable, so lock in a waiting round-trip driver.
 
 ---
 

@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import HeroImage from '../../components/HeroImage.astro';
 import AuthorByline from '../../components/AuthorByline.astro';
 import { authorForCategory } from '../../data/authors';
+import { airports } from '../../data/airports';
 
 export async function getStaticPaths() {
   const cities = await getCollection('cities');
@@ -19,12 +20,54 @@ const { Content } = await render(city);
 const allCities = (await getCollection('cities')).sort((a, b) =>
   a.data.city.localeCompare(b.data.city),
 );
-const otherCities = allCities.filter((other) => other.id !== city.id).slice(0, 5);
+const currentIndex = allCities.findIndex((other) => other.id === city.id);
+const rotatedCities =
+  currentIndex >= 0
+    ? [...allCities.slice(currentIndex + 1), ...allCities.slice(0, currentIndex)]
+    : allCities.filter((other) => other.id !== city.id);
+const otherCities = rotatedCities.slice(0, 6);
+
+const cityAirports = airports.filter((airport) => airport.citySlug === city.id);
+const primaryAirport = cityAirports[0];
+
+const CITY_GUIDE_SLUGS: Record<string, string[]> = {
+  beijing: ['beijing-layover-itinerary', 'great-wall-from-beijing-layover'],
+  shanghai: ['shanghai-layover-itinerary'],
+  guangzhou: ['guangzhou-layover-itinerary'],
+  chengdu: ['chengdu-layover-itinerary'],
+  xian: ['xian-layover-itinerary'],
+};
+
+const ESSENTIAL_GUIDE_SLUGS = [
+  'can-you-leave-the-airport-during-a-china-layover',
+  'china-airline-layover-hotel',
+  'luggage-storage-at-china-airports',
+  'didi-and-ride-hailing-in-china',
+  'wechat-pay-and-tenpaygo-for-foreigners',
+  'best-esim-for-china',
+];
+
+const allGuides = await getCollection('guides');
+const guideById = new Map(allGuides.map((guide) => [guide.id, guide]));
+const cityGuides = (CITY_GUIDE_SLUGS[city.id] ?? [])
+  .map((slug) => guideById.get(slug))
+  .filter((guide): guide is NonNullable<typeof guide> => Boolean(guide));
+const essentialGuides = ESSENTIAL_GUIDE_SLUGS.map((slug) => guideById.get(slug)).filter(
+  (guide): guide is NonNullable<typeof guide> => Boolean(guide),
+);
 
 const author = authorForCategory('cities');
 
 const siteUrl = 'https://chinalayoverguide.com';
 const canonicalPath = `/cities/${city.id}/`;
+const pageTitle =
+  cityAirports.length > 0
+    ? `${city.data.city} Layover Hub: Airports, Transfers & Plans`
+    : `${city.data.city} Layover Guide: Routes, Transfers & Tips`;
+const pageDescription =
+  cityAirports.length > 0
+    ? `${city.data.city} layover hub: ${cityAirports.map((a) => a.code.toUpperCase()).join(' and ')} transfer times, 6 to 24-hour strategy, where to stay, luggage, and entry rules.`
+    : `How to spend a layover in ${city.data.city}: ${city.data.bestFor}. Realistic routes, airport transfers, payments, and timing notes.`;
 
 const brief = [
   { label: 'The route', body: city.data.route },
@@ -38,8 +81,8 @@ const jsonLd = [
     '@context': 'https://schema.org',
     '@type': 'Article',
     mainEntityOfPage: `${siteUrl}${canonicalPath}`,
-    headline: `${city.data.city} layover guide`,
-    description: city.data.bestFor,
+    headline: pageTitle,
+    description: pageDescription,
     image: `${siteUrl}/og-default.png`,
     dateModified: city.data.updated.toISOString(),
     author: {
@@ -80,8 +123,8 @@ const jsonLd = [
 ---
 
 <BaseLayout
-  title={`${city.data.city} layover guide | China Layover Guide`}
-  description={`How to spend a layover in ${city.data.city}: ${city.data.bestFor}.`}
+  title={pageTitle}
+  description={pageDescription}
   type="article"
   canonicalPath={`/cities/${city.id}/`}
   jsonLd={jsonLd}
@@ -158,9 +201,176 @@ const jsonLd = [
     class="mx-auto grid max-w-6xl gap-x-16 gap-y-12 px-4 py-12 sm:px-6 lg:grid-cols-[minmax(0,44rem)_1fr] lg:py-16"
   >
     <div class="min-w-0">
+      {
+        cityAirports.length > 0 && (
+          <section class="mb-12" aria-labelledby="city-airports">
+            <h2
+              id="city-airports"
+              class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink"
+            >
+              {cityAirports.length > 1
+                ? `${city.data.city} airports compared`
+                : `Your arrival airport: ${cityAirports[0].code.toUpperCase()}`}
+            </h2>
+            <p class="mt-2 text-sm leading-relaxed text-muted">
+              {cityAirports.length > 1
+                ? `${city.data.city} has ${cityAirports.length} international airports. Check which code is on your ticket before choosing a route or hotel.`
+                : `Key transfer, luggage, and timing numbers for ${cityAirports[0].name}.`}
+            </p>
+            <div class="mt-5 space-y-4">
+              {cityAirports.map((airport) => (
+                <div class="rounded-card border border-line bg-surface p-5">
+                  <div class="flex flex-wrap items-baseline justify-between gap-3">
+                    <div>
+                      <span class="font-mono text-xs font-semibold tracking-[0.06em] text-brand uppercase">
+                        {airport.code.toUpperCase()}
+                      </span>
+                      <h3 class="mt-0.5 font-display text-lg font-semibold text-ink">
+                        <a
+                          href={`/airports/${airport.code}/`}
+                          class="transition-colors duration-200 hover:text-brand"
+                        >
+                          {airport.name}
+                        </a>
+                      </h3>
+                    </div>
+                    <a
+                      href={`/airports/${airport.code}/`}
+                      class="text-sm font-semibold text-brand hover:underline"
+                    >
+                      Full {airport.code.toUpperCase()} guide →
+                    </a>
+                  </div>
+                  <dl class="mt-4 grid gap-3 border-t border-line pt-4 text-sm sm:grid-cols-2">
+                    <div>
+                      <dt class="text-[0.7rem] font-semibold tracking-[0.08em] text-faint uppercase">
+                        Fastest traffic-proof transfer
+                      </dt>
+                      <dd class="mt-1 text-body">
+                        {airport.transfers[0].mode} ({airport.transfers[0].time},{' '}
+                        {airport.transfers[0].cost})
+                      </dd>
+                    </div>
+                    <div>
+                      <dt class="text-[0.7rem] font-semibold tracking-[0.08em] text-faint uppercase">
+                        Usable layover window
+                      </dt>
+                      <dd class="mt-1 text-body tabular-nums">
+                        Min {airport.minViableHours}h · Comfortable {airport.comfortableHours}h+
+                      </dd>
+                    </div>
+                    <div>
+                      <dt class="text-[0.7rem] font-semibold tracking-[0.08em] text-faint uppercase">
+                        Distance to centre
+                      </dt>
+                      <dd class="mt-1 text-body">{airport.distance}</dd>
+                    </div>
+                    <div>
+                      <dt class="text-[0.7rem] font-semibold tracking-[0.08em] text-faint uppercase">
+                        Luggage storage
+                      </dt>
+                      <dd class="mt-1 text-body">{airport.luggage.cost}</dd>
+                    </div>
+                  </dl>
+                </div>
+              ))}
+            </div>
+          </section>
+        )
+      }
+
+      {
+        primaryAirport && (
+          <section class="mb-12" aria-labelledby="city-windows">
+            <div class="flex flex-wrap items-baseline justify-between gap-3">
+              <h2
+                id="city-windows"
+                class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink"
+              >
+                What fits by layover length
+              </h2>
+              {cityGuides[0] && (
+                <a
+                  href={`/guides/${cityGuides[0].id}/`}
+                  class="text-sm font-semibold text-brand hover:underline"
+                >
+                  Full hour-by-hour itinerary →
+                </a>
+              )}
+            </div>
+            <p class="mt-2 text-xs leading-relaxed text-faint">
+              Benchmarked from {primaryAirport.name} ({primaryAirport.code.toUpperCase()}).
+              {cityAirports.length > 1 &&
+                ` Landing at ${cityAirports[1].code.toUpperCase()}? Check the ${cityAirports[1].code.toUpperCase()} guide above for adjusted windows.`}
+            </p>
+            <ol class="mt-5 grid gap-4 sm:grid-cols-2">
+              {primaryAirport.windows.map((window) => (
+                <li class="rounded-card border border-line bg-surface-2/60 p-4">
+                  <div class="flex items-baseline justify-between gap-2">
+                    <h3 class="font-display text-base font-semibold text-ink">{window.label}</h3>
+                    <span class="text-[0.7rem] font-semibold tracking-[0.06em] text-brand uppercase">
+                      {window.verdict}
+                    </span>
+                  </div>
+                  <p class="mt-2 text-sm leading-relaxed text-muted">{window.detail}</p>
+                </li>
+              ))}
+            </ol>
+          </section>
+        )
+      }
+
       <div class="prose max-w-none">
         <Content />
       </div>
+
+      <section class="mt-14 border-t border-line pt-10" aria-labelledby="city-guides">
+        <h2
+          id="city-guides"
+          class="font-display text-2xl font-semibold tracking-[-0.02em] text-ink"
+        >
+          {cityGuides.length > 0
+            ? `${city.data.city} deep dives & essential guides`
+            : `Essential guides for a ${city.data.city} layover`}
+        </h2>
+        <ul class="mt-5 divide-y divide-line border-y border-line">
+          {
+            cityGuides.map((guide) => (
+              <li class="py-4">
+                <a
+                  href={`/guides/${guide.id}/`}
+                  class="group block"
+                >
+                  <span class="text-[0.7rem] font-semibold tracking-[0.08em] text-brand uppercase">
+                    {city.data.city} itinerary
+                  </span>
+                  <p class="mt-0.5 font-display text-lg font-semibold text-ink transition-colors duration-200 group-hover:text-brand">
+                    {guide.data.title}
+                  </p>
+                  <p class="mt-1 text-sm leading-relaxed text-muted">{guide.data.description}</p>
+                </a>
+              </li>
+            ))
+          }
+          {
+            essentialGuides.map((guide) => (
+              <li class="py-3.5">
+                <a
+                  href={`/guides/${guide.id}/`}
+                  class="group flex items-baseline justify-between gap-4"
+                >
+                  <span class="text-sm font-medium text-ink transition-colors duration-200 group-hover:text-brand">
+                    {guide.data.title}
+                  </span>
+                  <span aria-hidden="true" class="shrink-0 text-sm text-faint group-hover:text-brand">
+                    →
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
     </div>
 
     <aside class="lg:sticky lg:top-24 lg:self-start">
