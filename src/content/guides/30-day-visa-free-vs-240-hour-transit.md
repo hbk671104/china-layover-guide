@@ -100,7 +100,7 @@ Don't overthink the transit rules if your country is on the **30-day visa-free l
 
 Still unsure which applies? Start with the [240-hour visa-free transit guide](/guides/240-hour-visa-free-transit/), or use the eligibility checker on the [transit visa page](/transit-visa/) for a first pass.
 
-## Related guides
+## Further reading
 
 - [24-hour vs 240-hour visa-free transit](/guides/24-hour-vs-240-hour-visa-free-transit/)
 - [The third-country rule for China transit (A→B→C)](/guides/third-country-rule-for-china-transit/)

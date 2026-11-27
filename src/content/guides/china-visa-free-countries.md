@@ -113,7 +113,7 @@ If none of the schemes covers you, see [Do you need a visa for China?](/guides/v
 - **Entering at the wrong port.** The transit policy works only at the 65 designated ports.
 - **Relying on a list you read months ago.** Countries are added and lapse throughout the year.
 
-## Related guides
+## Further reading
 
 - [China's 240-hour visa-free transit: the complete guide](/guides/240-hour-visa-free-transit/)
 - [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/)

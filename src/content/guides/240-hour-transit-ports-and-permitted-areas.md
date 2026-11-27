@@ -88,7 +88,7 @@ Your onward ticket must be to a destination **different from where you arrived**
 
 For the eligibility rules themselves, see the [240-hour visa-free transit guide](/guides/240-hour-visa-free-transit/), and for whether you might use the simpler [30-day visa-free entry](/guides/30-day-visa-free-vs-240-hour-transit/) instead.
 
-## Related guides
+## Further reading
 
 - [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)

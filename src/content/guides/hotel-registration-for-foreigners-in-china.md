@@ -53,7 +53,7 @@ On a short stop this is easy to overlook: especially if you are staying with a f
 
 Registration is a simple 24-hour obligation that hotels handle for free. If you are not in a hotel, make it your first task after arrival. For the entry rules themselves, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/).
 
-## Related guides
+## Further reading
 
 - [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)

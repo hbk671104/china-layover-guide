@@ -157,7 +157,7 @@ Your onward ticket must be to a destination **different from where you arrived**
 
 For the eligibility rules themselves, see the [240-hour visa-free transit guide](/guides/240-hour-visa-free-transit/), and for whether you might use the simpler [30-day visa-free entry](/guides/30-day-visa-free-vs-240-hour-transit/) instead.
 
-## Related guides
+## Further reading
 
 - [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
@@ -263,7 +263,7 @@ If you hold an eligible passport and a genuine onward ticket to a third country 
 
 **Related:** [30-day visa-free entry vs 240-hour transit, which one do you actually use?](/guides/30-day-visa-free-vs-240-hour-transit/)
 
-## Related guides
+## Further reading
 
 - [24-hour vs 240-hour visa-free transit](/guides/24-hour-vs-240-hour-visa-free-transit/)
 - [The third-country rule for China transit (A→B→C)](/guides/third-country-rule-for-china-transit/)
@@ -391,7 +391,7 @@ Don't overthink the transit rules if your country is on the **30-day visa-free l
 
 Still unsure which applies? Start with the [240-hour visa-free transit guide](/guides/240-hour-visa-free-transit/), or use the eligibility checker on the [transit visa page](/transit-visa/) for a first pass.
 
-## Related guides
+## Further reading
 
 - [24-hour vs 240-hour visa-free transit](/guides/24-hour-vs-240-hour-visa-free-transit/)
 - [The third-country rule for China transit (A→B→C)](/guides/third-country-rule-for-china-transit/)
@@ -1481,7 +1481,7 @@ If none of the schemes covers you, see [Do you need a visa for China?](/guides/v
 - **Entering at the wrong port.** The transit policy works only at the 65 designated ports.
 - **Relying on a list you read months ago.** Countries are added and lapse throughout the year.
 
-## Related guides
+## Further reading
 
 - [China's 240-hour visa-free transit: the complete guide](/guides/240-hour-visa-free-transit/)
 - [30-day visa-free entry vs 240-hour transit](/guides/30-day-visa-free-vs-240-hour-transit/)
@@ -2143,7 +2143,7 @@ WeChat Pay is the other half of the duopoly, and some vendors only take WeChat. 
 
 Spend 20 minutes setting up Alipay + WeChat Pay (+ TenPayGo) before you fly, and paying in China stops being a problem. Keep a little cash for the rare holdout.
 
-## Related guides
+## Further reading
 
 - [Alipay for foreigners: step-by-step setup](/guides/alipay-for-foreigners/)
 - [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)
@@ -2412,7 +2412,7 @@ Treat fares and journey times as indicative. They change, so check the airport's
 
 China's airport transfers are cheap, fast, and well signed in English. Pick the metro unless you land late or carry a lot, and always check the last service time before you rely on it. Next, see [what you can do in each layover window](/cities/).
 
-## Related guides
+## Further reading
 
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
 - [DiDi and ride-hailing in China](/guides/didi-and-ride-hailing-in-china/)
@@ -2844,7 +2844,7 @@ On a short stop this is easy to overlook: especially if you are staying with a f
 
 Registration is a simple 24-hour obligation that hotels handle for free. If you are not in a hotel, make it your first task after arrival. For the entry rules themselves, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/).
 
-## Related guides
+## Further reading
 
 - [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
@@ -3364,7 +3364,7 @@ Guangzhou is also spread out: the airport, the Tianhe business district, the old
 
 Go to Guangzhou hungry and go early. Six hours buys one great meal; ten buys a full Cantonese day. The metro is the default way in, and a tour only pays off if you want the logistics handled.
 
-## Related guides
+## Further reading
 
 - [Can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
@@ -3504,7 +3504,7 @@ Prices are indicative and move with season and group size. Check what is **exclu
 
 Shanghai rewards 8 hours or more. Choose Hongqiao if you can, take the Maglev from Pudong if you cannot, book a tour only if you want the logistics handled, and treat any window under 6 hours as an airport day.
 
-## Related guides
+## Further reading
 
 - [Can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
@@ -4048,7 +4048,7 @@ The catch: **airport Wi-Fi in China needs a login code.** At the main hubs (PEK,
 
 A travel eSIM is the highest-leverage thing you can do before a China layover: it keeps your usual apps working and removes the biggest source of airport stress. Buy it early, install it early, and test it before you take off.
 
-## Related guides
+## Further reading
 
 - [Best eSIM for China: Airalo, Holafly & Nomad compared](/guides/best-esim-for-china/)
 - [eSIM vs VPN vs roaming in China](/guides/esim-vs-vpn-vs-roaming/)

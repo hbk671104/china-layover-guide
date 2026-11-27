@@ -530,7 +530,7 @@
     [data-reveal-scroll] {
       animation: reveal-up 0.7s var(--ease-soft) both;
       animation-timeline: view();
-      animation-range: entry 0% entry 90%;
+      animation-range: entry 0% entry 35%;
     }
   }
 }

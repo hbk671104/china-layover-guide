@@ -56,7 +56,7 @@ The catch: **airport Wi-Fi in China needs a login code.** At the main hubs (PEK,
 
 A travel eSIM is the highest-leverage thing you can do before a China layover: it keeps your usual apps working and removes the biggest source of airport stress. Buy it early, install it early, and test it before you take off.
 
-## Related guides
+## Further reading
 
 - [Best eSIM for China: Airalo, Holafly & Nomad compared](/guides/best-esim-for-china/)
 - [eSIM vs VPN vs roaming in China](/guides/esim-vs-vpn-vs-roaming/)
