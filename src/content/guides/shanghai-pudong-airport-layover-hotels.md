@@ -31,7 +31,7 @@ faqs:
 
 If you cannot clear immigration (or have under 6 hours), stay airside and use PVG's **hourly sleep pods**, lounges, or free 24-hour rest zones and showers. If you can enter China visa-free and have an 8–12 hour overnight stop, **Aerotel T2** (hourly or overnight) and **Da Zhong** (walkable from both terminals) are the two cleanest options.
 
-*(Flying China Eastern or Air China on one through-ticket? First check whether you qualify for a free room in our [China Eastern free transit hotel guide](/guides/china-eastern-free-transit-hotel/) or [China airline free transit hotel hub](/guides/china-airline-layover-hotel/).)*
+*(Flying China Eastern or Air China on one through-ticket? First check whether you qualify for a free room in our [China Eastern free transit hotel guide](/guides/china-eastern-free-transit-hotel/), [Air China free transit hotel guide](/guides/air-china-free-transit-hotel/), or [China airline free transit hotel hub](/guides/china-airline-layover-hotel/).)*
 
 ## PVG sleeping options, side by side
 

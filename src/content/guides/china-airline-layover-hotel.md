@@ -183,7 +183,12 @@ Air China's product is called **Transit Accommodation**, and it splits into two 
 - Booking deadline: **24 hours** before the inbound flight's arrival for Standard, **50 hours** for Deluxe, Beijing time
 - Excluded: booking classes **O, I, X, N**, mileage and award tickets, and infants
 
-Air China states plainly that **on-site bookings are not accepted**, and that partner hotels have limited rooms, qualifying does not guarantee you one. It also notes that where a shuttle exists it may only serve one airport, so a [PEK](/airports/pek/)-to-[PKX](/airports/pkx/) or [PVG](/airports/pvg/)-to-[SHA](/airports/sha/) connection can leave you arranging and paying for your own transfer via rail or [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/).
+Air China states plainly that **on-site bookings are not accepted**, and that partner hotels have limited rooms, qualifying does not guarantee you one. In the English Air China app, the booking entry sits under **`All Services → Transfer Service → Transit Hotel`** (next to `Transit Lounge`), not on the home screen. It also notes that where a shuttle exists it may only serve one airport, so a [PEK](/airports/pek/)-to-[PKX](/airports/pkx/) or [PVG](/airports/pvg/)-to-[SHA](/airports/sha/) connection can leave you arranging and paying for your own transfer via rail or [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/). For the complete step-by-step booking guide and Standard vs. Deluxe breakdown, see our dedicated [Air China free transit hotel guide](/guides/air-china-free-transit-hotel/).
+
+<figure>
+  <img src="/images/guides/air-china-transit-hotel-app.jpg" width="1200" height="920" loading="lazy" decoding="async" alt="Three-step walkthrough of the Air China English app: Step 1 taps All Services on the Home screen; Step 2 selects Transfer Service in the left sidebar and taps Transit Hotel; Step 3 reviews the 6 eligible hubs on the Transit Accommodation screen and taps Next to book." />
+  <figcaption>Finding Air China's free transit hotel in the English app: Home → All Services → Transfer Service → Transit Hotel → Next. Screenshots verified in-app by China Layover Guide.</figcaption>
+</figure>
 
 ## Other mainland carriers with free transit hotels
 
