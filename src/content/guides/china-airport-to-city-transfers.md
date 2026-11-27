@@ -67,7 +67,7 @@ Treat fares and journey times as indicative. They change, so check the airport's
 
 China's airport transfers are cheap, fast, and well signed in English. Pick the metro unless you land late or carry a lot, and always check the last service time before you rely on it. Next, see [what you can do in each layover window](/cities/).
 
-## Related guides
+## Further reading
 
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
 - [DiDi and ride-hailing in China](/guides/didi-and-ride-hailing-in-china/)

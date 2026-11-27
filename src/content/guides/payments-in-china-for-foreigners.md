@@ -69,7 +69,7 @@ WeChat Pay is the other half of the duopoly, and some vendors only take WeChat. 
 
 Spend 20 minutes setting up Alipay + WeChat Pay (+ TenPayGo) before you fly, and paying in China stops being a problem. Keep a little cash for the rare holdout.
 
-## Related guides
+## Further reading
 
 - [Alipay for foreigners: step-by-step setup](/guides/alipay-for-foreigners/)
 - [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)

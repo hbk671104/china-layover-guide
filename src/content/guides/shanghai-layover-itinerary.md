@@ -117,7 +117,7 @@ Prices are indicative and move with season and group size. Check what is **exclu
 
 Shanghai rewards 8 hours or more. Choose Hongqiao if you can, take the Maglev from Pudong if you cannot, book a tour only if you want the logistics handled, and treat any window under 6 hours as an airport day.
 
-## Related guides
+## Further reading
 
 - [Can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)

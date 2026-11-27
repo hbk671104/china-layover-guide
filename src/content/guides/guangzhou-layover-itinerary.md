@@ -152,7 +152,7 @@ Guangzhou is also spread out: the airport, the Tianhe business district, the old
 
 Go to Guangzhou hungry and go early. Six hours buys one great meal; ten buys a full Cantonese day. The metro is the default way in, and a tour only pays off if you want the logistics handled.
 
-## Related guides
+## Further reading
 
 - [Can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/)
 - [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)

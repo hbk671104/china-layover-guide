@@ -90,7 +90,7 @@ If you hold an eligible passport and a genuine onward ticket to a third country 
 
 **Related:** [30-day visa-free entry vs 240-hour transit, which one do you actually use?](/guides/30-day-visa-free-vs-240-hour-transit/)
 
-## Related guides
+## Further reading
 
 - [24-hour vs 240-hour visa-free transit](/guides/24-hour-vs-240-hour-visa-free-transit/)
 - [The third-country rule for China transit (A→B→C)](/guides/third-country-rule-for-china-transit/)
