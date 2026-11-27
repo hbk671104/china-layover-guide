@@ -110,17 +110,28 @@ const CITY_ITINERARY_GUIDES: Record<string, { href: string; label: string }[]> =
   beijing: [
     { href: '/guides/beijing-layover-itinerary/', label: 'Beijing 6–24h layover itinerary' },
     { href: '/guides/great-wall-from-beijing-layover/', label: 'Great Wall on a Beijing layover' },
+    { href: '/guides/beijing-airport-layover-hotels/', label: 'Beijing PEK & PKX layover hotels' },
   ],
   shanghai: [
     { href: '/guides/shanghai-layover-itinerary/', label: 'Shanghai 6–24h layover itinerary' },
+    { href: '/guides/shanghai-pudong-airport-layover-hotels/', label: 'Pudong (PVG) layover hotels' },
+    { href: '/guides/china-eastern-free-transit-hotel/', label: 'China Eastern free transit hotel' },
   ],
   guangzhou: [
     { href: '/guides/guangzhou-layover-itinerary/', label: 'Guangzhou 6–24h layover itinerary' },
+    { href: '/guides/guangzhou-baiyun-airport-layover-hotels/', label: 'Baiyun (CAN) layover hotels' },
+    { href: '/guides/china-southern-free-transit-hotel/', label: 'China Southern free transit hotel' },
   ],
   chengdu: [
     { href: '/guides/chengdu-layover-itinerary/', label: 'Chengdu 6–24h layover itinerary' },
   ],
-  xian: [{ href: '/guides/xian-layover-itinerary/', label: "Xi'an 6–24h layover itinerary" }],
+  xian: [
+    { href: '/guides/xian-layover-itinerary/', label: "Xi'an 6–24h layover itinerary" },
+    { href: '/guides/china-eastern-free-transit-hotel/', label: 'China Eastern free transit hotel' },
+  ],
+  shenzhen: [
+    { href: '/guides/china-southern-free-transit-hotel/', label: 'China Southern free transit hotel' },
+  ],
 };
 const cityItineraryLinks = airport.citySlug ? (CITY_ITINERARY_GUIDES[airport.citySlug] ?? []) : [];
 

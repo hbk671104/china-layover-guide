@@ -177,8 +177,8 @@ A two-airport connection still means clearing immigration at PVG, the train ride
 
 ## Sleeping at or near PVG
 
-- **A free airline hotel.** China Eastern, the main airline in T1, runs a free transit hotel scheme at Shanghai, and Air China lists Pudong among its transit accommodation cities. The rules are strict: see [free layover hotels by airline](/guides/china-airline-layover-hotel/).
-- **The airport's own hotels.** Shanghai Airport Group lists the four-star Ramada Plaza Shanghai Pudong Airport and the Holiday Inn Express Shanghai Pudong Airport among its hotels. Check the walking or shuttle time when you book.
+- **A free airline hotel.** China Eastern, the main airline in T1, runs a free transit hotel scheme at Shanghai ([China Eastern free transit hotel guide](/guides/china-eastern-free-transit-hotel/)), and Air China lists Pudong among its transit accommodation cities. See [free layover hotels by airline](/guides/china-airline-layover-hotel/).
+- **Paid hotels at or beside PVG.** For a full comparison of airside sleep pods, Aerotel Shanghai (landside T2), Da Zhong Airport Hotel (between T1 and T2), and campus hotels like Ramada Plaza and Holiday Inn Express, see our [Shanghai Pudong Airport (PVG) layover hotels guide](/guides/shanghai-pudong-airport-layover-hotels/).
 - **Inside the terminal.** The airport lists an overnight rest area, shower rooms, massage chairs and lounges among its passenger facilities. Ask at an information counter for the current location in your terminal.
 - **In the city.** With 12 hours or more and visa-free entry, a hotel in Puxi beats a night at the airport. Hotels register foreign guests at check-in; see [hotel registration for foreigners](/guides/hotel-registration-for-foreigners-in-china/).
 

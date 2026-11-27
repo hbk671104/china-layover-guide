@@ -31,11 +31,24 @@ const cityAirports = airports.filter((airport) => airport.citySlug === city.id);
 const primaryAirport = cityAirports[0];
 
 const CITY_GUIDE_SLUGS: Record<string, string[]> = {
-  beijing: ['beijing-layover-itinerary', 'great-wall-from-beijing-layover'],
-  shanghai: ['shanghai-layover-itinerary'],
-  guangzhou: ['guangzhou-layover-itinerary'],
+  beijing: [
+    'beijing-layover-itinerary',
+    'great-wall-from-beijing-layover',
+    'beijing-airport-layover-hotels',
+  ],
+  shanghai: [
+    'shanghai-layover-itinerary',
+    'shanghai-pudong-airport-layover-hotels',
+    'china-eastern-free-transit-hotel',
+  ],
+  guangzhou: [
+    'guangzhou-layover-itinerary',
+    'guangzhou-baiyun-airport-layover-hotels',
+    'china-southern-free-transit-hotel',
+  ],
   chengdu: ['chengdu-layover-itinerary'],
-  xian: ['xian-layover-itinerary'],
+  xian: ['xian-layover-itinerary', 'china-eastern-free-transit-hotel'],
+  shenzhen: ['china-southern-free-transit-hotel'],
 };
 
 const ESSENTIAL_GUIDE_SLUGS = [
