@@ -1,6 +1,6 @@
 ---
-title: "Can You See the Great Wall on a Beijing Layover?"
-description: "Yes, if you land in the morning with enough hours. The hour-by-hour plan from PEK or PKX to Mutianyu, and the layover length where it stops being worth it."
+title: "Great Wall on a Beijing Layover: PEK/PKX Timing & Mutianyu"
+description: "Need 10+ hours? Compare PEK vs PKX drive times to Mutianyu, private transfer timing, visa-free exit steps, and when the Great Wall isn't worth it."
 category: transit-visa
 updated: 2026-10-16
 sources:

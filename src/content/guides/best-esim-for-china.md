@@ -1,6 +1,6 @@
 ---
 title: "eSIM China: Best Plans Compared (Airalo, Holafly & Nomad)"
-description: "The best eSIM for China for most travelers, plus how Airalo, Holafly, and Nomad compare on data, price, firewall routing, and support, and why it matters on a layover."
+description: "Compare Airalo, Holafly & Nomad eSIMs for China on data, price, and firewall bypass, plus how much data you actually need for a short China layover."
 category: esim
 updated: 2026-10-16
 sources:

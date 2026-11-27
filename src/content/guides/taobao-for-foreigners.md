@@ -1,6 +1,6 @@
 ---
-title: "How to Shop on Taobao While Traveling in China"
-description: "Order from Taobao before you land, collect the parcels at your hotel, and fly home with them. A step-by-step guide for foreign visitors, including 48-hour-plus layovers."
+title: "Taobao for Foreigners: Order with Alipay & Hotel Delivery"
+description: "Shop on Taobao as a foreign visitor in China: pay with Alipay, ship parcels to your hotel before you land, and time orders for 48-hour+ layovers."
 category: shopping
 updated: 2026-10-23
 sources:

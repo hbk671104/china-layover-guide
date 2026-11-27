@@ -1,6 +1,6 @@
 ---
 title: "Things to Do in Guangzhou on a Layover: 6, 8, 10, 12 or 24 Hours"
-description: "The best things to do in Guangzhou on a layover, window by window: how to get in from Baiyun Airport, the 6, 8, 10 and 12-hour plans hour by hour, why to eat dim sum first, and when a layover tour is worth it."
+description: "Realistic 6, 8, 10 & 12-hour Guangzhou layover plans from Baiyun Airport (CAN): transfer times, why to eat dim sum first, and when a tour is worth it."
 category: cities
 updated: 2026-10-16
 sources:

@@ -423,7 +423,7 @@ No. Both are visa-free entry routes. The transit policy is a form of visa-free e
 
 ---
 
-## Can I Leave the Airport During a China Layover?
+## Can You Leave the Airport on a China Layover? (2026 Rules)
 
 Source: https://chinalayoverguide.com/guides/can-you-leave-the-airport-during-a-china-layover/
 Last updated: 2026-10-16
@@ -497,7 +497,7 @@ The rules are national, but the timing math is airport-specific. Two of the busi
 
 **Guangzhou Baiyun (CAN).** A designated port covering **Guangdong province**. Immigration can also run 60–90 minutes, since CAN is a major hub for Africa, Southeast Asia, and Europe traffic. **Metro Line 3** reaches the center in 45–55 minutes for about ¥8, which makes Guangzhou one of the easier Chinese layovers, but the city is spread out: the airport, the business district, the old town, and Canton Tower are all some distance apart, so do not try to chain them below 12 hours. The last metro runs around **22:30–23:00**.
 
-For what to actually do with your window once you are out, see the city guides in Related guides below.
+For what to actually do with your window once you are out, see the city guides in City and airport guides below.
 
 ## The three mistakes that ruin a city-visit layover
 
@@ -511,7 +511,7 @@ Yes, for most eligible travelers on a China layover, you can absolutely leave th
 
 **Your next step:** [Check your eligibility](/transit-visa/), then pick a [city quick trip](/cities/).
 
-## Related guides
+## City and airport guides
 
 - [Things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/)
 - [Things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/)
@@ -548,7 +548,7 @@ You are responsible for it, and the airline is not obliged to rebook you for fre
 
 ---
 
-## Free Hotel on a Long Layover? China Airlines vs China Eastern
+## Free Layover Hotels: China Eastern, Southern & Air China
 
 Source: https://chinalayoverguide.com/guides/china-airline-layover-hotel/
 Last updated: 2026-11-06
@@ -1228,7 +1228,7 @@ No. The unilateral 30-day scheme is temporary and renewed in waves, most countri
 
 ---
 
-## Can You See the Great Wall on a Beijing Layover?
+## Great Wall on a Beijing Layover: PEK/PKX Timing & Mutianyu
 
 Source: https://chinalayoverguide.com/guides/great-wall-from-beijing-layover/
 Last updated: 2026-10-16
@@ -1660,7 +1660,7 @@ Many small vendors show a personal QR code, which cannot accept foreign-linked c
 
 ---
 
-## Do Apple Pay and Google Pay Work in China? What Tourists Should Know
+## Do Apple Pay & Google Pay Work in China? What Works (2026)
 
 Source: https://chinalayoverguide.com/guides/apple-pay-and-google-pay-in-china/
 Last updated: 2026-10-16
@@ -2309,7 +2309,7 @@ Many Guangzhou operators state clearly that if immigration refuses your transit 
 
 ---
 
-## Things to Do in Shanghai on a Layover: 6, 8, 12 or 24 Hours
+## Shanghai Layover Guide (PVG/SHA): 6, 8, 12 & 24-Hour Plans
 
 Source: https://chinalayoverguide.com/guides/shanghai-layover-itinerary/
 Last updated: 2026-10-16
@@ -2637,7 +2637,7 @@ Technically yes, but it is a bad plan. You need working internet to download the
 
 ---
 
-## China Airport Wi-Fi: Log In with Your Passport
+## China Airport Wi-Fi: Passport Login (No Chinese Number)
 
 Source: https://chinalayoverguide.com/guides/china-airport-wifi/
 Last updated: 2026-10-16
@@ -2812,7 +2812,7 @@ If you use a travel eSIM that routes data outside mainland China, you usually do
 
 ---
 
-## Does Google Maps Work in China? (And What to Use Instead)
+## Does Google Maps Work in China? Even With an eSIM? (2026)
 
 Source: https://chinalayoverguide.com/guides/does-google-maps-work-in-china/
 Last updated: 2026-09-29
@@ -2987,7 +2987,7 @@ Chinese carriers sell local SIMs and eSIMs, but those route through mainland net
 
 ---
 
-## VPN for China: eSIM vs VPN vs Roaming Compared
+## China eSIM vs VPN vs Roaming: Do You Even Need a VPN?
 
 Source: https://chinalayoverguide.com/guides/esim-vs-vpn-vs-roaming/
 Last updated: 2026-10-16
@@ -3484,7 +3484,7 @@ Failing to register can lead to fines and problems with immigration. It is a leg
 
 ---
 
-## Luggage Storage at China's Airports: What It Costs and Where to Find It
+## China Airport Luggage Storage: PEK, PKX, PVG & CAN Prices
 
 Source: https://chinalayoverguide.com/guides/luggage-storage-at-china-airports/
 Last updated: 2026-10-16
@@ -3578,7 +3578,7 @@ Staffed airport and station counters are generally reliable and issue a receipt,
 
 # Shopping
 
-## How to Shop on Taobao While Traveling in China
+## Taobao for Foreigners: Order with Alipay & Hotel Delivery
 
 Source: https://chinalayoverguide.com/guides/taobao-for-foreigners/
 Last updated: 2026-10-23

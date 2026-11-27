@@ -1,6 +1,6 @@
 ---
-title: "Does Google Maps Work in China? (And What to Use Instead)"
-description: "Google Maps is unreliable in mainland China. Here's what is blocked, what still works, and the map and translation apps that actually get you around."
+title: "Does Google Maps Work in China? Even With an eSIM? (2026)"
+description: "Even with an eSIM or VPN, Google Maps is unreliable in China. See what breaks, why loading isn't enough, and the map apps that actually work on a trip."
 category: esim
 updated: 2026-09-29
 sources:

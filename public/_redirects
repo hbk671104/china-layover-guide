@@ -21,3 +21,6 @@
 
 # --- Airport luggage detail folds into the national luggage guide ---
 /guides/pvg-can-luggage-storage/ /guides/luggage-storage-at-china-airports/ 301
+
+# --- Standard sitemap path points to Astro's sitemap index ---
+/sitemap.xml /sitemap-index.xml 301

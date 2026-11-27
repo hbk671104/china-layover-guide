@@ -1,6 +1,6 @@
 ---
-title: "Do Apple Pay and Google Pay Work in China? What Tourists Should Know"
-description: "Mostly no: China pays by QR code, so tap-to-pay has little to talk to. Where a foreign Apple Pay or Google Pay tap still works, and what to set up instead."
+title: "Do Apple Pay & Google Pay Work in China? What Works (2026)"
+description: "Mostly no: China runs on Alipay and WeChat Pay QR codes. See the few places foreign Apple Pay or Google Pay still works, and the 5-minute backup setup."
 category: payments
 updated: 2026-10-16
 sources:

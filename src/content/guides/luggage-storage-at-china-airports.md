@@ -1,6 +1,6 @@
 ---
-title: "Luggage Storage at China's Airports: What It Costs and Where to Find It"
-description: "Where to leave your bags during a China layover, airport left-luggage, station lockers, hotel storage, and the option most travelers overlook."
+title: "China Airport Luggage Storage: PEK, PKX, PVG & CAN Prices"
+description: "Where to store bags at PEK, PKX, PVG & Guangzhou Baiyun (CAN) during a layover: exact left-luggage prices, locations, lockers, and hotel options."
 category: logistics
 updated: 2026-10-16
 sources:
