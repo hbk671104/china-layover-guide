@@ -3,7 +3,7 @@
 > Complete text of every guide and city page on chinalayoverguide.com, for AI assistants and search engines. Visa-free transit rules, eSIM setup, payments and apps, airport transfers, and city layover itineraries. Facts are checked against official sources; each page carries a last-updated date.
 
 Canonical index: https://chinalayoverguide.com/llms.txt
-Page count: 37 guides, 2 airport guides, 12 city pages
+Page count: 42 guides, 2 airport guides, 12 city pages
 
 ---
 
@@ -637,7 +637,7 @@ China Eastern only takes applications in advance, and its terms are the least re
    - **`手机号` (Phone):** tap `+86 >` to change the country code if using an overseas number
 4. **Tap the red `核验客票` button** to check eligibility and select your room. Apply days ahead rather than hours: the cutoff is reported at **12 hours before your first flight's departure**, and rooms are capped.
 5. **Save your confirmation.** Tap **`查看我的订单 >`** (View my orders) at the bottom right of the verification screen and screenshot your hotel confirmation before you fly.
-6. **Web and phone fallbacks.** You can also log in to Eastern Miles and try the [Overnight Transit Hotel Service page](https://us.ceair.com/en/transit-hotel-application.html) on desktop, or call **+86-21-20695530** (**95530** from a Chinese number), though travelers report phone agents sending them back to the app or website.
+**Fallback channels if the app rejects a valid ticket:** try logging in on desktop at the [China Eastern Overnight Transit Hotel Service page](https://us.ceair.com/en/transit-hotel-application.html), or call **+86-21-20695530** (**95530** inside China). For the complete eligibility checklist, hub minimums, and arrival steps, see our dedicated [China Eastern free transit hotel guide](/guides/china-eastern-free-transit-hotel/).
 
 <figure>
   <img src="/images/guides/china-eastern-transit-hotel-app.jpg" width="1200" height="920" loading="lazy" decoding="async" alt="Three-step walkthrough of the China Eastern Chinese-interface app: Step 1 highlights the bottom search bar and Service Hall on the home screen; Step 2 searches 中转住宿 and selects 中转服务; Step 3 translates the five fields on the Verify Ticket form (Surname/Given name, Passport No., 781 Ticket No., Flight No., and Phone) plus the Verify ticket and My orders buttons." />
@@ -658,7 +658,7 @@ China Southern publishes clearer rules than China Eastern, and its scheme is the
 
 The counter-example worth knowing: a Guangzhou–Beijing domestic connection after an international flight does **not** qualify, even on one ticket. If the onward leg is domestic, check before you count on the hotel.
 
-**To claim it:** open the **China Southern app** (the English interface works cleanly), tap **`e-Service`** on the bottom navigation bar, and tap **`Transfer Accommodation`** under Online Service. Sign in with your email, Sky Pearl number, or **`Overseas mobile phone password login`** (or tap `Sign Up` to register first). To read the current eligibility terms inside the app, go to `Me → Travel Guide → Transit Service → Free Accommodations for Transfer Passengers` (note that China Southern's in-app rules explicitly include qualifying interline tickets redeemed with mileage, and offer preferential paid rates at China Southern Pearl Hotels if your ticket does not qualify). You can also book on the China Southern website (Home → Service Center → Transit Hotel Booking) or the WeChat mini program (if you are setting up WeChat for your trip anyway, see [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)). At [Guangzhou Baiyun (CAN)](/airports/can/), the transit accommodation counter is at **Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit: staff there confirm your booking and arrange the free shuttle. If you didn't book online, you can still apply at the counter, subject to availability.
+**To claim it:** open the **China Southern app** (the English interface works cleanly), tap **`e-Service`** on the bottom navigation bar, and tap **`Transfer Accommodation`** under Online Service. Sign in with your email, Sky Pearl number, or **`Overseas mobile phone password login`** (or tap `Sign Up` to register first). To read the current eligibility terms inside the app, go to `Me → Travel Guide → Transit Service → Free Accommodations for Transfer Passengers` (note that China Southern's in-app rules explicitly include qualifying interline tickets redeemed with mileage, and offer preferential paid rates at China Southern Pearl Hotels if your ticket does not qualify). You can also book on the China Southern website (Home → Service Center → Transit Hotel Booking) or the WeChat mini program (if you are setting up WeChat for your trip anyway, see [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)). At [Guangzhou Baiyun (CAN)](/airports/can/), the transit accommodation counter is at **Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit: staff there confirm your booking and arrange the free shuttle. If you didn't book online, you can still apply at the counter, subject to availability. For full room-grade tables, mileage-ticket notes, and arrival steps, see our dedicated [China Southern free transit hotel guide](/guides/china-southern-free-transit-hotel/).
 
 <figure>
   <img src="/images/guides/china-southern-transit-hotel-app.jpg" width="1200" height="920" loading="lazy" decoding="async" alt="Three-step walkthrough of the China Southern English app: Step 1 opens the e-Service tab and taps Transfer Accommodation; Step 2 shows Sign Up and Overseas mobile phone password login on the sign-in screen; Step 3 shows Me, Travel Guide, Transit Service, and Free Accommodations for Transfer Passengers for full policy rules." />
@@ -709,7 +709,7 @@ Plenty of travelers won't. The usual reasons are a separate ticket, a fare below
 
 **When the airline says no, you have three options:**
 
-1. **Book an airport hotel yourself in advance.** Several Chinese airports have hotels in or beside the terminal that sell short blocks of 4–6 hours: often cheaper and better located than a full-night booking. For the two biggest hubs, the [Shanghai Pudong](/airports/pvg/) and [Beijing Daxing](/airports/pkx/) guides list each airport's own hotels and hourly rest rooms. See [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/) if you'd rather not drag bags.
+1. **Book an airport hotel yourself in advance.** Several Chinese airports have hourly rooms or connected terminal hotels that beat a last-minute airport scramble. Compare airside vs. landside rooms by hub in our dedicated guides: [Shanghai Pudong (PVG) layover hotels](/guides/shanghai-pudong-airport-layover-hotels/), [Beijing (PEK & PKX) airport layover hotels](/guides/beijing-airport-layover-hotels/), and [Guangzhou Baiyun (CAN) layover hotels](/guides/guangzhou-baiyun-airport-layover-hotels/). See [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/) if you'd rather not drag bags.
 2. **Stay in the city instead.** If you qualify for [240-hour visa-free transit](/transit-visa/), you can leave the airport entirely. Check that first. It may be a better night than an airport hotel. Note that [foreign visitors must register their accommodation](/guides/hotel-registration-for-foreigners-in-china/), which hotels handle automatically at check-in.
 3. **Use a lounge.** Cheaper than a room and airside, so no immigration needed.
 
@@ -787,6 +787,103 @@ Sometimes. Air China covers domestic-to-domestic connections with a 6–24 hour 
 - Sichuan Airlines — transit hotel service terms (official, Chinese): https://www.sichuanair.com/value-added-services/old-rev-001.html
 - Shenzhen Airlines — Transfer Hotel service and connection windows (official): https://globalpage.shenzhenair.com/zhair/cms/static/pages/wcm/static-navigation/Itinerary/BookingServices/TransferHotel/TransferHotel_en?language_id=102
 - National Immigration Administration (NIA) — visa-free transit policy: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+
+---
+
+## China Eastern Free Transit Hotel (2026): App Booking Guide
+
+Source: https://chinalayoverguide.com/guides/china-eastern-free-transit-hotel/
+Last updated: 2026-11-27
+
+> Last reviewed on 2026-11-27. China Eastern updates fare thresholds and participating hubs without much notice: verify your ticket directly in the app right after booking.
+
+## The short answer
+
+**China Eastern gives a free transit hotel (1 night, breakfast, and airport shuttle) on qualifying 6–24 hour layovers, but it is the trickiest mainland carrier to claim.** Two hurdles trip up almost every foreign traveler: the **English app hides the booking button**, and discounted economy fares or non-781 tickets are routinely rejected.
+
+If you are comparing multiple mainland carriers or Taiwan's China Airlines (CI), start with our [China airline free transit hotel comparison](/guides/china-airline-layover-hotel/). If you already hold a China Eastern ticket, follow the exact checklist and Chinese-app walkthrough below.
+
+## Eligibility rules: what actually qualifies
+
+Every requirement below must line up on the same booking:
+
+| Requirement | Rule | What commonly disqualifies people |
+|---|---|---|
+| **Ticket stock** | 13-digit ticket number starting **`781`** | Tickets issued by a partner airline or codeshare stock |
+| **Operating carrier** | China Eastern (`MU`) or Shanghai Airlines (`FM`) on both legs | Partner-operated codeshare legs |
+| **Itinerary** | One single through-ticket (one booking reference) | Two separate tickets bought individually, even on China Eastern |
+| **Transit window** | **6–24 hours**, taking the earliest available onward connection | Skipping an earlier flight to force an overnight stop |
+| **Same-day rule** | Inbound flight must arrive **before 03:00** | A 05:00 arrival connecting to a 14:00 flight the same day |
+| **Excluded classes** | Booking classes **A, O, X** and domestic **H** | Cheap promotional fares or award tickets |
+| **Fare threshold** | Must clear hub minimum (reported around **RMB 1,800** at Shanghai; lower at Kunming) | Deeply discounted OTA flash fares |
+| **Eligible hubs** | **Shanghai (PVG/SHA), Beijing (PKX), Kunming (KMG), Xi'an (XIY)**, plus Nanjing/Wuxi on select routes | Unlisted regional connections |
+| **Booking deadline** | Advance booking required (reported cutoff **12 hours** before first flight departure) | Showing up at the airport counter without a prior booking |
+
+## Step-by-step: how to book in the China Eastern app (Chinese UI)
+
+Most travelers hit a dead end because the English version of the China Eastern app omits the transit-hotel screen, and the English desktop form often redirects or errors out. The fastest reliable path is switching the app to Chinese:
+
+1. **Open the China Eastern app and switch to Chinese (`首页`).** Log in to your Eastern Miles account first (create a free account if you do not have one).
+2. **Find the search bar at the bottom of the home screen.** Unlike most apps, China Eastern places its search box **near the bottom**, just above the main navigation tabs (you can also tap **`服务大厅`** / Service Hall at the bottom-right of the icon grid).
+3. **Search `中转住宿` and tap `中转服务` (Transit Service).**
+4. **Fill in the five fields on the `核验客票` (Verify Ticket) form:**
+   - **`姓名` (Passenger Name):** for international tickets, enter `SURNAME/GIVENNAME` in capital English letters (for example, `SMITH/JOHN`)
+   - **`证件号` (Passport No.):** exact passport number on your reservation
+   - **`票号` (Ticket No.):** your 13-digit ticket number starting with `781`
+   - **`航班号` (Flight No.):** your inbound or connecting flight code (for example, `MU552`)
+   - **`手机号` (Phone):** tap `+86 >` to pick your country code if using a foreign mobile number
+5. **Tap the red `核验客票` button.** If your ticket qualifies, the app displays eligible partner hotels and lets you confirm a room.
+6. **Screenshot your confirmation immediately.** Tap **`查看我的订单 >`** (View my orders) at the bottom right of the form screen and save the QR code and hotel address offline before flying.
+
+<figure>
+  <img src="/images/guides/china-eastern-transit-hotel-app.jpg" width="1200" height="920" loading="lazy" decoding="async" alt="Three-step walkthrough of the China Eastern Chinese-interface app: Step 1 highlights the bottom search bar and Service Hall on the home screen; Step 2 searches 中转住宿 and selects 中转服务; Step 3 translates the five fields on the Verify Ticket form (Surname/Given name, Passport No., 781 Ticket No., Flight No., and Phone) plus the Verify ticket and My orders buttons." />
+  <figcaption>Finding China Eastern's transit hotel form in the Chinese app interface: use the bottom search bar for 中转住宿, open 中转服务, and complete the five fields on 核验客票. Screenshots verified in-app by China Layover Guide.</figcaption>
+</figure>
+
+**Fallback channels if the app rejects a valid ticket:** try logging in on desktop at the [China Eastern Overnight Transit Hotel Service page](https://us.ceair.com/en/transit-hotel-application.html), or call **+86-21-20695530** (**95530** inside China). Keep your 781 ticket number ready; phone agents often ask you to retry online first, so do this several days before departure.
+
+## What happens when you land
+
+- **Clear immigration first.** China Eastern's partner hotels sit landside outside security. Verify ahead of time that your passport qualifies for [240-hour visa-free transit](/transit-visa/) or 30-day visa-free entry, and read [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- **Find the China Eastern transit service counter** in the arrivals hall to confirm your hotel assignment and shuttle bus pickup point.
+- **Expect standard airport-perimeter hotels.** Partner hotels are typically 3-to-4-star properties 15 to 30 minutes from the terminal with complimentary breakfast and scheduled shuttle transfers. Solo economy passengers are frequently paired in a twin room unless paying a single-room supplement.
+- **Check your hub guide for transport and luggage:** [Shanghai Pudong (PVG)](/airports/pvg/), [Beijing Daxing (PKX)](/airports/pkx/), and [Xi'an (XIY)](/airports/xiy/), plus [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
+
+## What if your China Eastern ticket does not qualify?
+
+This is common on promotional economy fares and OTA-split tickets. Do not waste hours fighting the app if your booking class is excluded:
+
+- **Connecting through Shanghai Pudong (PVG)?** Compare airside sleep pods, Aerotel T2, and Da Zhong Airport Hotel in our [Shanghai Pudong Airport (PVG) layover hotels guide](/guides/shanghai-pudong-airport-layover-hotels/).
+- **Connecting through Beijing Daxing (PKX) or Capital (PEK)?** See our [Beijing PEK & PKX airport layover hotels guide](/guides/beijing-airport-layover-hotels/) for Aerotel Beijing and terminal rest rooms.
+- **Staying airside without entering China?** Stick to airside hourly pods or lounges so you avoid immigration entirely.
+- **Before you land:** install a travel eSIM ([best eSIM for China](/guides/best-esim-for-china/)) and link a card to Alipay or [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) so you can order a [DiDi](/guides/didi-and-ride-hailing-in-china/) if you miss a hotel shuttle.
+
+**Frequently asked questions**
+
+### Does China Eastern provide a free hotel for a long layover?
+
+Yes, for qualifying tickets under its Overnight Transit Hotel Service (STPC). You need a single through-ticket starting with 781, flights operated by China Eastern (MU) or Shanghai Airlines (FM), a 6–24 hour layover at an eligible hub, an eligible booking class above the hub fare threshold, and an advance booking before departure.
+
+### Why can't I find the transit hotel option in the China Eastern English app?
+
+China Eastern's English app hides the transit hotel entry. Switch the app to its Chinese interface, tap the search bar near the bottom of the home screen, search 中转住宿, and open 中转服务 to reach the 核验客票 (Verify Ticket) form.
+
+### What is the deadline to book China Eastern's free transit hotel?
+
+The cutoff is widely reported at 12 hours before your first flight's departure, and rooms are capped daily. Apply as soon as you book your flights rather than waiting until the week of travel.
+
+### Do I need a visa to use China Eastern's free transit hotel?
+
+Yes, or visa-free entry permission. The assigned partner hotel is landside, so you must clear immigration to reach the shuttle. Eligible passports can use China's 240-hour visa-free transit or 30-day visa-free entry.
+
+### What if I am traveling solo on a China Eastern economy ticket?
+
+Standard economy rooms are often assigned on a same-sex twin-share basis unless you pay a single-room supplement at check-in, subject to hotel policy and availability.
+
+**Sources**
+
+- China Eastern — Overnight Transit Hotel Service / STPC application: https://us.ceair.com/en/transit-hotel-application.html
+- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
@@ -1032,6 +1129,93 @@ Regional schemes are tied to a specific province or area and usually have their 
 
 - National Immigration Administration (NIA) — Regional visa-free entry policies: https://en.nia.gov.cn/n147418/n147463/c180637/content.html
 - National Immigration Administration (NIA) — List of countries covered by unilateral visa exemption policies (2026-02-17): https://en.nia.gov.cn/n147418/n147463/c183390/content.html
+
+---
+
+## China Southern Free Transit Hotel (2026): CAN & Booking Guide
+
+Source: https://chinalayoverguide.com/guides/china-southern-free-transit-hotel/
+Last updated: 2026-11-27
+
+> Last reviewed on 2026-11-27. Confirm your exact itinerary in the China Southern app right after booking, as room allocations and excluded routes can change by season.
+
+## The short answer
+
+**China Southern is the easiest mainland Chinese airline to actually get a free layover hotel from.** Unlike China Eastern, ordinary economy fares usually qualify (including eligible mileage tickets under one booking code), the **English app works properly**, and **Guangzhou Baiyun Airport (CAN)** has a well-oiled transit hotel counter and shuttle system.
+
+For a side-by-side comparison with Air China, China Eastern, and Taiwan's China Airlines, see our [China airline free transit hotel hub](/guides/china-airline-layover-hotel/). Below is the exact step-by-step playbook for China Southern passengers.
+
+## Eligibility rules & room grades
+
+| Rule | China Southern requirement | Key catch |
+|---|---|---|
+| **Ticket structure** | Confirmed seats on CSN flights under **the same booking code** | Code-share and ground virtual flights are excluded |
+| **Overnight window** | **6–30 hours** (domestic↔international and international↔international) | Domestic leg exclusions apply (for example, international → Guangzhou → Beijing does not qualify) |
+| **Same-day window** | Inbound arrives **00:00–08:00** with at least **6 hours** before onward flight | Midday arrivals with an evening flight do not qualify |
+| **Long international↔international** | Connections up to **240 hours** are eligible | Covers the **first night only** |
+| **What is included** | **1 free night**, complimentary breakfast, and round-trip airport shuttle | Stay length and breakfast hours follow the assigned hotel's rules |
+| **Room grades** | **A-grade** (First/Business), **B/C-grade** (Economy / Sky Pearl tier) | Standard economy is assigned **1 room for 2 same-sex passengers**; pay a supplement for a single room |
+| **Online booking hubs** | **Guangzhou (CAN), Beijing (PKX), Shenzhen (SZX), Urumqi, Shenyang** | Six other hubs (Dalian, Harbin, Wuhan, Changsha, Zhengzhou, etc.) have narrower rules |
+
+## Step-by-step: how to book in the China Southern English app
+
+Unlike China Eastern, you do not need to wrestle with a Chinese-only menu. China Southern's English app exposes both the booking portal and the full policy:
+
+1. **Open the China Southern app** and tap **`e-Service`** on the bottom navigation bar.
+2. Under **Online Service**, tap **`Transfer Accommodation`**.
+3. **Sign in or register.** You can log in with your email, Sky Pearl number, or tap **`Overseas mobile phone password login`** if you registered with a non-Chinese number (or tap `Sign Up` at top right).
+4. **Select your itinerary and reserve a hotel** from the available tier list for your booking class. Save a screenshot of the confirmation before flying.
+5. **Check live policy updates anytime** via **`Me → Travel Guide → Transit Service → Free Accommodations for Transfer Passengers`**.
+
+<figure>
+  <img src="/images/guides/china-southern-transit-hotel-app.jpg" width="1200" height="920" loading="lazy" decoding="async" alt="Three-step walkthrough of the China Southern English app: Step 1 opens the e-Service tab and taps Transfer Accommodation; Step 2 shows Sign Up and Overseas mobile phone password login on the sign-in screen; Step 3 shows Me, Travel Guide, Transit Service, and Free Accommodations for Transfer Passengers for full policy rules." />
+  <figcaption>Booking and checking rules in the China Southern English app: e-Service → Transfer Accommodation to book (supports overseas mobile login), or Me → Travel Guide → Transit Service for current policy terms. Screenshots verified in-app by China Layover Guide.</figcaption>
+</figure>
+
+**Alternative channels:** you can also book via the China Southern website (`Home → Service Center → Transit Hotel Booking`) or the China Southern WeChat mini program (if you are setting up WeChat for your trip, see [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)).
+
+## Arriving at Guangzhou Baiyun Airport (CAN): step by step
+
+1. **Clear immigration first.** China Southern's free transit hotels are landside. Make sure you qualify for [240-hour visa-free transit](/transit-visa/) or 30-day visa-free entry before booking (see [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/)).
+2. **Walk to the China Southern transit accommodation counter at Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit.
+3. **Show your passport, onward boarding pass, and app confirmation.** Staff confirm your hotel voucher and point you to the complimentary shuttle bus (if you forgot to book online, you can still ask at Gate 50, subject to same-day room availability).
+4. **Want to explore Guangzhou during your stop?** Once your bags are dropped, Metro Line 3 reaches central Guangzhou in 45–55 minutes for about ¥8. Plan your hours with our [Guangzhou layover hub](/cities/guangzhou/), [Guangzhou 6–24h itinerary](/guides/guangzhou-layover-itinerary/), and [CAN airport guide](/airports/can/).
+
+## What if your ticket does not qualify (or you want your own hotel)?
+
+- **China Southern Pearl Hotel discount:** China Southern's own in-app rules note that non-qualifying passengers can book the **China Southern Airlines Pearl Hotel** at preferential rates (subject to limited daily allocation).
+- **Prefer to stay inside T2 airside or 3 minutes from the terminal?** Compare airside **Aerotel Guangzhou (T2)** and landside **Pullman Guangzhou Baiyun Airport** in our [Guangzhou Baiyun Airport (CAN) layover hotels guide](/guides/guangzhou-baiyun-airport-layover-hotels/).
+- **Connecting through Beijing Daxing (PKX) or Shenzhen (SZX) instead?** Check our [Beijing airport layover hotels guide](/guides/beijing-airport-layover-hotels/) and [Shenzhen (SZX) airport guide](/airports/szx/).
+- **Ground essentials:** set up a travel eSIM before flying ([best eSIM for China](/guides/best-esim-for-china/)) and [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/) in case you arrive late after Metro Line 3 closes around 22:30–23:00.
+
+**Frequently asked questions**
+
+### Do economy passengers qualify for China Southern's free transit hotel?
+
+Usually yes, provided both segments sit under one booking code on qualifying China Southern flights and meet the transit-time window. Standard economy normally receives a C-grade hotel on a same-sex twin-share basis, with a paid supplement option for a private room.
+
+### How do I book China Southern's free transit hotel in the English app?
+
+Open the China Southern app, tap the e-Service tab on the bottom navigation bar, and tap Transfer Accommodation under Online Service. You can sign in using your email, Sky Pearl number, or the Overseas mobile phone password login option.
+
+### Where is China Southern's transit hotel desk at Guangzhou Baiyun Airport (CAN)?
+
+At Guangzhou Baiyun Airport, the China Southern transit accommodation counter is at Gate 50 on the first floor of Terminal 2, near the domestic arrival exit. Staff confirm your booking and direct you to the complimentary shuttle.
+
+### Do mileage award tickets qualify for China Southern's free transit hotel?
+
+China Southern's in-app transfer accommodation rules explicitly state that qualifying interline tickets redeemed with mileage are included, provided segments are confirmed under the same booking code.
+
+### Can I get a free hotel if I fly internationally into Guangzhou and connect domestically to Beijing?
+
+No. China Southern specifically excludes certain domestic onward connections such as Guangzhou to Beijing after an international flight. Always verify your exact route in the app before relying on a free room.
+
+**Sources**
+
+- China Southern — Free Accommodations for Transfer Passengers (official): https://www.csair.com/mcms/mcmsNewSite/en/eu/build/index.html?page=free
+- China Southern — Transfer Accommodation Service policy: https://www.csair.com/mcms/mcms/CN/en/2025/20250731_1/index_en.html
+- Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
+- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
@@ -1980,6 +2164,808 @@ No. TenPayGo signs you up with an email address, which is its main advantage ove
 - WeChat — official site: https://www.wechat.com/en/
 - TenPay Global — official site: https://www.tenpayglobal.com/
 - SCMP — Tencent rolls out payment app for foreign travellers ahead of APEC summit (2026-09-24): https://www.scmp.com/tech/tech-trends/article/3368544/tencent-rolls-out-payment-app-foreign-travellers-ahead-apec-summit
+
+---
+
+# Airport transfers and logistics
+
+## Beijing Airport Layover Hotels (PEK & PKX): Inside & Near
+
+Source: https://chinalayoverguide.com/guides/beijing-airport-layover-hotels/
+Last updated: 2026-11-27
+
+> Last reviewed on 2026-11-27. Confirm which Beijing airport code (`PEK` vs. `PKX`) is printed on both legs of your itinerary before booking any room.
+
+## The short answer
+
+**Check your airport code first: Beijing Capital (PEK) and Beijing Daxing (PKX) are 80 km apart.** Booking a hotel at the wrong Beijing airport turns a restful overnight into a 2-hour cross-city commute.
+
+- **At PEK (Capital Airport):** if you cannot clear immigration, use the **T3E International Hourly Lounge** airside (opposite Gate E10). If you clear immigration on an overnight layover, **Hilton Beijing Capital Airport** and **Cordis Beijing Capital Airport** are both ~5 minutes from T3 with 24-hour free shuttles.
+- **At PKX (Daxing Airport):** **Aerotel Beijing** sits right inside the Northeast Pier (5–10 min walk to check-in), **but it is landside**, so international transit passengers must clear immigration to enter it. Staying strictly airside at PKX limits you to lounges and free rest zones.
+
+*(Flying Air China, China Eastern, or China Southern on one through-ticket? Check your free-hotel eligibility first in our [China airline free transit hotel hub](/guides/china-airline-layover-hotel/), [China Eastern guide](/guides/china-eastern-free-transit-hotel/), or [China Southern guide](/guides/china-southern-free-transit-hotel/).)*
+
+## Beijing airport hotels, side by side
+
+| Airport | Property / Option | Zone | Immigration needed? | Best for |
+|---|---|---|---|---|
+| **PEK** | **T3E International Hourly Lounge** (opp. Gate E10) | **Airside** | **No** | Sleeping 3–8h without entering China |
+| **PEK** | **T3-C Public Area Hourly Lounge** (2F West Arrivals) | **Landside (in T3)** | **Yes** | Daytime hourly bed right inside Terminal 3 |
+| **PEK** | **Hilton Beijing Capital Airport** | **Landside (~5 min shuttle)** | **Yes** | Reliable full-service overnight (24h shuttle to T2/T3) |
+| **PEK** | **Cordis Beijing Capital Airport** | **Landside (~5 min shuttle)** | **Yes** | Quiet, well-soundproofed 5-star overnight beside T3 |
+| **PKX** | **Donghai Lounge & Free Rest Areas** (L3 Intl) | **Airside** | **No** | Short airside wait without clearing customs |
+| **PKX** | **Aerotel Beijing** (Northeast Pier L1–L2) | **Landside (in terminal)** | **Yes** | Walkable hourly or overnight bed inside PKX (no shuttle) |
+| **PKX** | **Shimian Hourly Rest Rooms** (L1 opp. Gates 16/20) | **Landside (in terminal)** | **Yes** | Budget short nap blocks before check-in |
+| **PKX** | **Mumian / Meichen / Hilton Garden Inn Daxing** | **Landside (nearby)** | **Yes** | Full-night stays near the Daxing campus |
+
+## Beijing Capital Airport (PEK): Terminal 3 & Terminal 2
+
+### Staying airside at PEK (no immigration needed)
+- **T3E International Hourly Lounge:** located airside inside Terminal 3E international departures, opposite **Boarding Gate E10**. Open 24 hours with small private sleeping rooms billed by the hour, Wi-Fi, light snacks, and hot showers. This is the single cleanest option in Beijing if you do not want to clear immigration.
+
+### Landside at or beside PEK (requires visa or 240h transit)
+- **T3-C Public Area Hourly Lounge:** situated on the 2nd floor of the West Arrival Hall inside Terminal 3-C. Ideal for 4–6 hour daytime layovers when you want a bed and shower without leaving the building.
+- **Hilton Beijing Capital Airport:** roughly 5 minutes from Terminals 2 and 3 via a complimentary **24-hour shuttle bus**, with full-service dining, a gym, and an indoor pool.
+- **Cordis Beijing Capital Airport:** right beside Terminal 3 (~5 minutes by 24-hour free shuttle), known for quiet soundproofing and smooth late-night check-in.
+
+For rail cutoffs, taxi stands, and luggage counters, see our [PEK airport guide](/airports/pek/).
+
+## Beijing Daxing Airport (PKX)
+
+### Staying airside at PKX (no immigration needed)
+- International departures on Level 3 has the **Donghai passenger lounge**, plus free terminal rest zones and 24-hour food outlets. Note that Daxing's **Ruqi** and airside **Shimian** hourly rooms sit on the **domestic** airside piers, not the international transit wing.
+
+### Landside inside or near PKX (requires visa or 240h transit)
+- **Aerotel Beijing (Northeast Pier, Levels 1–2):** the standout convenience pick at PKX. You walk straight from the terminal (~5 minutes to domestic check-in, ~10 minutes to international check-in) with zero shuttle wait, and rooms are bookable in flexible hourly blocks or overnight. **Critical reminder:** Aerotel Beijing is **landside**, so international transit passengers must hold valid entry eligibility ([240-hour visa-free transit](/transit-visa/) or a visa) to clear immigration and check in.
+- **Shimian Hourly Rest Rooms (Landside):** located on Level 1 opposite Gate 16 (west) and Gate 20 (east) for lower-cost short naps.
+- **Campus hotels:** Daxing Airport lists **Mumian Hotel (木棉花酒店)** and **Meichen Hotel (美宸酒店)** nearby, alongside properties like Hilton Garden Inn Daxing Airport.
+
+For Daxing Express hours, overnight airside check-in rules (08:00 the day prior until 02:00), and DiDi pickup zones, see our full [PKX airport guide](/airports/pkx/).
+
+## When a downtown Beijing hotel makes more sense
+
+Skip airport hotels if you have **18+ hours**, qualify for visa-free entry, and want to see Beijing rather than stare at terminal walls:
+- **Flying out of PEK:** stay near **Dongzhimen, Qianmen, or Wangfujing** so you can walk to sights and catch the 25–35 minute **Capital Airport Express (¥25, runs ~06:00–23:00)** straight back to T2/T3.
+- **Flying out of PKX:** stay near **Metro Line 19 or Caoqiao** for a quick switch onto the 20-minute **Daxing Airport Express (¥35, last train from Caoqiao 22:30)**.
+- **Planning a morning Great Wall run?** Staying near **Dongzhimen or beside PEK** cuts an hour off your drive to Mutianyu compared with PKX. Read our [Beijing layover hub](/cities/beijing/) and [Great Wall on a Beijing layover guide](/guides/great-wall-from-beijing-layover/).
+
+## Practical arrival checklist
+
+- **Immigration & registration:** every landside hotel requires clearing immigration first (check [can you leave the airport during a China layover?](/guides/can-you-leave-the-airport-during-a-china-layover/)). Licensed Beijing hotels automatically file your mandatory [24-hour foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) at check-in.
+- **Luggage:** PKX's landside manual left-luggage counters are free, while PEK charges roughly ¥30–40 per rolling suitcase per 24 hours. See [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/).
+- **Late-night transfers & payments:** both Airport Express lines stop around 22:30–23:00. Set up [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/), Alipay / [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/), and a travel eSIM ([best eSIM for China](/guides/best-esim-for-china/)) before you fly, with passport-login [China airport Wi-Fi](/guides/china-airport-wifi/) as backup.
+
+**Frequently asked questions**
+
+### Is there an airside transit hotel at Beijing Capital Airport (PEK)?
+
+Yes. PEK Terminal 3E (International Departures, opposite Gate E10) has a 24-hour International Hourly Lounge with private micro-rooms, beds, and showers that you can use airside without clearing Chinese immigration.
+
+### Is Aerotel Beijing at Daxing Airport (PKX) airside or landside?
+
+Aerotel Beijing is landside in the Northeast Pier (Levels 1–2) of Beijing Daxing Airport (PKX). International transit passengers must clear Chinese immigration and customs to reach it, then walk roughly 10 minutes back to international check-in.
+
+### Which hotel is closest to Beijing Capital Airport Terminal 3?
+
+For a full-service hotel, Hilton Beijing Capital Airport and Cordis Beijing Capital Airport both sit roughly 5 minutes from Terminal 3 with complimentary 24-hour airport shuttles. Inside Terminal 3-C (landside), the public-area Hourly Lounge sits directly on the 2nd floor West Arrivals Hall.
+
+### Can I stay at a PEK hotel if my flight leaves from PKX?
+
+Avoid doing that unless you have no choice. PEK and PKX sit roughly 80 km apart on opposite sides of Beijing, taking 1.5 to 2 hours between terminals. Always book your hotel at the airport of your departing flight.
+
+### Can I get a free airline transit hotel in Beijing?
+
+Air China (PEK and PKX), China Eastern (PKX), and China Southern (PKX) all offer free transit hotels on qualifying single through-tickets booked in advance. Always check airline eligibility first before paying for a room.
+
+**Sources**
+
+- Beijing Capital International Airport (PEK) — official site: https://www.bcia.com.cn/
+- Beijing Daxing International Airport (PKX) — official site: https://www.bdia.com.cn/
+- Aerotel Beijing — Daxing Airport (PKX) location details: https://www.myaerotel.com/en-uk/find/china-east-asia/china/beijing/aerotel-beijing
+- Hilton Beijing Capital Airport — official property page: https://www.hilton.com/en/hotels/bjsaphi-hilton-beijing-capital-airport/
+- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+
+---
+
+## China Airport to City: Transfers Compared for Every Major Layover Hub
+
+Source: https://chinalayoverguide.com/guides/china-airport-to-city-transfers/
+Last updated: 2026-10-16
+
+## The short answer
+
+Every major Chinese airport connects to its city by **metro or a dedicated express train**, usually for under ¥35. **The metro is almost always the right default**; taxis and DiDi are for late arrivals, heavy bags, or groups. Budget **60–90 minutes** door to door and be back **2.5 hours** before an international departure.
+
+## The numbers, airport by airport
+
+| Airport | Best option | Time | Cost |
+|---|---|---|---|
+| Shanghai Pudong (PVG) | Maglev + Metro Line 2 | ~40–55 min | ¥50 + ¥4 (¥40 with boarding pass) |
+| Shanghai Pudong (PVG) | Metro Line 2 direct | 60–90 min | ¥7–9 |
+| Shanghai Hongqiao (SHA) | Metro Lines 2 / 10 | 30–50 min | ¥3–7 |
+| Beijing Capital (PEK) | Airport Express | 25–35 min | ¥25 |
+| Beijing Daxing (PKX) | Daxing Airport Express | 30–40 min | ¥35 |
+| Guangzhou Baiyun (CAN) | Metro Line 3 | ~45–55 min | ~¥8 |
+| Chengdu Tianfu (TFU) | Metro Line 18 | 35–40 min | ¥7–10 |
+| Xi'an Xianyang (XIY) | Metro Line 14 (Airport West) | ~40 min+ | ¥2–9 |
+| Chongqing Jiangbei (CKG) | Metro Line 10 | 40–50 min | ~¥6 |
+| Shenzhen Bao'an (SZX) | Metro Line 11 | ~30–50 min | ~¥7–10 |
+| Hangzhou Xiaoshan (HGH) | Metro Lines 1, 7, 19 | ~45–60 min | Metro under ¥20; ¥20–30 is the coach fare |
+
+Treat fares and journey times as indicative. They change, so check the airport's own transport page or a maps app on arrival.
+
+## How to choose
+
+- **Daytime, light luggage:** metro or express train. Cheapest and traffic-proof.
+- **Heavy bags or a group:** taxi or DiDi, especially from Pudong.
+- **Late arrival:** taxi or DiDi only; the metro has stopped.
+- **A cross-airport connection:** in Shanghai, the **Airport Link Line** links PVG T1/T2 to Hongqiao T2 in about **40 minutes for ¥26** (06:00–22:15), so that transfer no longer needs the 1.5–2 hour buffer it once did. For other pairs, such as Beijing PEK to PKX, still allow **1.5–2 hours** and do not also plan sightseeing.
+
+## Paying for the ride
+
+- **Metro and Maglev:** buy a single ticket with cash, or use Alipay/WeChat Pay QR at the gates. Shanghai gates also accept contactless foreign cards.
+- **Taxi:** metered; pay with cash or a QR app. Most drivers do not take foreign cards.
+- **DiDi:** China's ride-hailing app. Fares are shown upfront and international cards are supported. You need a data connection, see [eSIM setup](/guides/esim-setup-before-you-land/).
+
+## Rules that save you money and trouble
+
+- **Use the official taxi queue**, never a driver soliciting inside arrivals.
+- **Have your destination in Chinese characters** on your phone.
+- **Avoid airport currency exchange**; use an ATM at a major bank instead (see [do you need cash in China?](/guides/do-you-need-cash-in-china/)).
+- **Check the last train time** before you count on the metro.
+
+## Bottom line
+
+China's airport transfers are cheap, fast, and well signed in English. Pick the metro unless you land late or carry a lot, and always check the last service time before you rely on it. Next, see [what you can do in each layover window](/cities/).
+
+## Related guides
+
+- [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
+- [DiDi and ride-hailing in China](/guides/didi-and-ride-hailing-in-china/)
+- [China high-speed rail for tourists](/guides/china-high-speed-rail-for-tourists/)
+- [China apps checklist: what to install before you fly](/guides/china-apps-checklist/)
+- [Is China safe for tourists? Scams and risks](/guides/china-travel-safety-and-scams/)
+
+**Frequently asked questions**
+
+### What is the fastest way from Shanghai Pudong Airport to the city?
+
+The Maglev to Longyang Road takes about 8 minutes, then Metro Line 2 continues into the center: roughly 40–55 minutes door to door for around ¥55. Metro Line 2 direct is cheaper (¥7–9) but takes 60–90 minutes.
+
+### How do I get from Beijing Capital Airport to the city?
+
+Take the Airport Express to Dongzhimen or Sanyuanqiao (about 25–35 minutes for ¥25) then metro or taxi onward. It runs roughly 06:00 to 23:00.
+
+### What is the cheapest way from a Chinese airport to the city?
+
+The metro. Fares from most airports are under ¥10, though the trip is slower than the dedicated express trains or Maglev. Hongqiao (SHA) is the cheapest and easiest, at ¥3–7 and 30–50 minutes.
+
+### What if I land after midnight?
+
+Metro and Maglev services stop between roughly 21:40 and 22:30. After that, use a metered taxi or DiDi from the official queue or app, never an unofficial driver soliciting in arrivals.
+
+**Sources**
+
+- Shanghai Airport — official transport information: https://www.shanghaiairport.com/
+- Beijing Capital International Airport — official site: https://www.bcia.com.cn/
+- Beijing Daxing International Airport — official site: https://www.bdia.com.cn/
+
+---
+
+## China High-Speed Rail for Tourists: Booking with a Passport
+
+Source: https://chinalayoverguide.com/guides/china-high-speed-rail-for-tourists/
+Last updated: 2026-10-16
+
+## The short answer
+
+China's high-speed rail is fast, punctual, and easy for foreigners. You book with your **passport** as the ID. At many stations the auto-gates cannot read a foreign passport, so you board through the staffed lane. Book through **Trip.com** if you want English and a foreign card, or the official **12306** app if you want the source of truth. Arrive **45–60 minutes early**; stations are big and security is mandatory.
+
+## Why it matters for a layover
+
+High-speed rail turns a stopover into a real trip. From Shanghai you can reach **Hangzhou** (West Lake) in about an hour. From Beijing, **Xi'an** is roughly 4.5 hours (feasible inside a 240-hour transit window. Within the transit rules you must still respect the **permitted areas** and exit through a **designated port**) see the [ports and permitted areas reference](/guides/240-hour-transit-ports-and-permitted-areas/).
+
+## How to book
+
+| Method | Pros | Cons |
+|---|---|---|
+| **Trip.com** | English interface, foreign cards, easy refunds | Small booking fee |
+| **12306 (official)** | Cheapest, definitive | Clunkier for foreign cards, Chinese-first UX |
+| **Station counter** | Works when nothing else does | Queue, language barrier |
+
+Both online options require **your passport details**. On 12306, passport identity verification can take **3–5 working days** before you can buy, so start it before you fly. Book a few days ahead for popular routes and holidays: the good departures sell out.
+
+## Seat classes
+
+| Class | Notes |
+|---|---|
+| **Second class** | Perfectly comfortable; the default choice |
+| **First class** | Wider seats, quieter carriage |
+| **Business class** | Lie-flat, expensive, rarely worth it for a day trip |
+
+## At the station
+
+1. **Arrive 45–60 minutes early.** Major stations are the size of airports.
+2. **Security screening** is mandatory for all bags.
+3. **Use the staffed lane** if the auto-gate cannot read your passport; e-tickets mean no paper ticket is needed.
+4. **Find your carriage and seat** on the platform displays.
+5. **Boarding closes shortly before departure**, do not cut it fine.
+
+## Practical tips
+
+- **Your passport is your ticket.** Keep it accessible, not buried in a bag.
+- **Note your train number** (e.g. G1234). That is what signage and staff use.
+- **Store bags in the racks** at the carriage ends; overhead space is limited.
+- **Food:** a trolley and sometimes a dining car, but bring your own for short hops.
+- **Same-day returns** are easy on short routes like Shanghai–Hangzhou.
+- **Do not plan tight rail connections before an international flight**: leave a real buffer.
+
+## Fares to expect
+
+Indicative second-class fares:
+
+| Route | Time | Fare |
+|---|---|---|
+| Shanghai → Hangzhou | ~1 hour | ¥30–123 (about ¥73 typical) |
+| Beijing → Xi'an | ~4.5 hours | ~¥515+ |
+| Guangzhou → Shenzhen | ~35 min | ~¥75 |
+| Chengdu → Chongqing | ~1.5 hours | ~¥154 |
+
+Fares and schedules change: check 12306 or Trip.com before you plan around them.
+
+## Bottom line
+
+High-speed rail is one of the best things about traveling in China and it works smoothly for foreigners. Book with your passport, arrive early, and use it to extend a layover into a genuine trip. Pair it with [DiDi](/guides/didi-and-ride-hailing-in-china/) for the last mile to the station.
+
+**Frequently asked questions**
+
+### Can foreigners book China high-speed rail tickets online?
+
+Yes. You can book through the official 12306 app or through Trip.com, using your passport as the ID document. Trip.com is easier for foreign cards; 12306 is the official source and is usually cheaper.
+
+### Do I need to print a train ticket in China?
+
+Generally no. E-tickets are the norm, though 12306 still sells both e-tickets and paper tickets. The catch for foreigners: station auto-gates often cannot read a foreign passport, so at many stations you need the staffed lane. Some travelers still print a receipt for expenses, but it is not required to board.
+
+### How early should I arrive at a Chinese train station?
+
+Arrive 45–60 minutes before departure. Stations are large, security screening is mandatory, and passport gates can queue. Boarding typically closes a few minutes before departure.
+
+### Is high-speed rail in China expensive?
+
+Second class is good value, for example, Shanghai to Hangzhou is about an hour at roughly ¥30–123 (about ¥73 typical for a G train from Hongqiao to Hangzhou East), and Beijing to Xi'an is roughly 4.5 hours. First and business class cost significantly more.
+
+**Sources**
+
+- China Railway 12306 — official ticketing: https://www.12306.cn/en/index.html
+- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+
+---
+
+## Is China Safe for Tourists? Scams, Risks, and What to Actually Watch For
+
+Source: https://chinalayoverguide.com/guides/china-travel-safety-and-scams/
+Last updated: 2026-09-16
+
+## The short answer
+
+**China is a very safe country for tourists.** Violent crime against visitors is rare and city streets are safe at night. The risks you actually face are petty and predictable: **taxi overcharging, tourist scams near major sights, and pickpocketing in crowds.** Handle those and you will be fine.
+
+## The real risks, ranked
+
+### 1. Unlicensed taxis at airports
+Touts approach you in arrivals offering a "taxi". They overcharge heavily.
+
+**Avoid it:** use the **official taxi queue** or book **DiDi**. Never follow someone who approaches you. See [DiDi and ride-hailing](/guides/didi-and-ride-hailing-in-china/).
+
+### 2. The "tea ceremony" and "art student" scams
+Near major tourist sights, friendly English-speaking strangers invite you to a tea ceremony, an art exhibition, or a student practice session. The bill at the end is enormous.
+
+**Avoid it:** decline unsolicited invitations from strangers, however friendly. Real invitations do not come from someone who approached you on the street.
+
+### 3. Aggressive touts
+Souvenir sellers, "massage" touts, and photo hustlers cluster around landmarks.
+
+**Avoid it:** a firm "no thanks" and keep walking. Do not engage, do not follow.
+
+### 4. Pickpocketing in crowds
+Metro stations and night markets at peak hours.
+
+**Avoid it:** front pockets or a zipped bag, and be aware when squeezed into crowds.
+
+### 5. Overpriced "tour" offers
+Door-to-door tour sellers offering Great Wall or city tours at inflated prices.
+
+**Avoid it:** book through a reputable platform in advance, or organize it yourself.
+
+## The genuine safety rules
+
+- **Use DiDi or the official taxi queue.** Never an unmarked car.
+- **Keep your passport secure** and carry a photocopy or photo separately.
+- **Save your embassy details offline** before you travel.
+- **Do not carry large amounts of cash**, see [do you need cash in China?](/guides/do-you-need-cash-in-china/).
+- **Watch your step**, traffic, e-bikes, and scooters are the most likely way to actually get hurt.
+- **Respect local rules** at attractions and on public transport.
+
+## Emergency numbers
+
+| Service | Number |
+|---|---|
+| Police | **110** |
+| Ambulance | **120** |
+| Fire | **119** |
+| Traffic accident | **122** |
+
+## Health and practicalities
+
+- **Tap water is not drinkable**, drink bottled or boiled water.
+- **Pharmacies** are common; bring any prescription medication in original packaging with a copy of the prescription.
+- **Travel insurance** is cheap and worth having for a longer stopover.
+- **Air quality** in northern cities can be poor in winter; sensitive travelers should plan indoor stops.
+
+## Bottom line
+
+China is safer than most travelers expect. Your job is not to defend against violence. It is to avoid petty hustles by sticking to official channels: the taxi queue or DiDi, licensed attractions, and pre-booked transport. For getting around safely, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
+
+**Frequently asked questions**
+
+### Is China safe for foreign tourists?
+
+Yes. Violent crime against tourists is rare, and Chinese cities are generally safe to walk at night. The realistic risks are petty: taxi overcharging, tourist-oriented scams, and pickpocketing in crowds.
+
+### What are the most common scams in China?
+
+The classic ones are unlicensed taxis at airports, the 'tea ceremony' or 'art student' invitation near major sights, and aggressive souvenir or massage touts. All are avoidable by using official channels and declining unsolicited invitations.
+
+### Is it safe to walk around at night in China?
+
+Generally yes in major cities. Streets are well lit and busy, and violent crime is uncommon. Use normal precautions in nightlife areas, and use DiDi rather than unmarked cars.
+
+### What should I do in an emergency in China?
+
+Dial 110 for police, 120 for an ambulance, and 119 for fire. Keep your embassy's contact details saved offline, and keep a photocopy of your passport separate from the original.
+
+**Sources**
+
+- National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
+- DiDi — official international rider information: https://www.didiglobal.com/
+
+---
+
+## DiDi and Ride-Hailing in China: A Guide for Foreigners
+
+Source: https://chinalayoverguide.com/guides/didi-and-ride-hailing-in-china/
+Last updated: 2026-10-16
+
+## The short answer
+
+**DiDi (滴滴出行) is China's Uber**, and it is the easiest way for a foreigner to get around. It has an English interface, accepts foreign phone numbers, and can be paid with an international card or through Alipay. Set it up **before you fly**, because SMS verification and app stores are unreliable once you are in China.
+
+## Set it up
+
+1. **Install the right app.** Search for **"DiDi China: Ride Hailing"** in the App Store or Google Play: that is the domestic app. Inside it, the 滴滴出行 name still appears. The separate international "DiDi Rider" app does **not** work in mainland China.
+2. **Switch to English** in *Settings → Language*.
+3. **Register with your phone number** and enter the SMS code. Do this at home on your own network.
+4. **Add a payment method** under *Me → Wallet → Payment Methods*. Add a card, and enable auto-deduct.
+5. **If the card fails**, link it in Alipay instead and choose Alipay as your DiDi payment method. That path is usually more reliable.
+
+## Booking a ride
+
+1. Check the **pickup pin**, drag it to where you are actually standing, not across the road.
+2. Enter your destination. English names work for major hotels and landmarks; pasting a **Chinese address** is more reliable for smaller places.
+3. Choose a ride type:
+
+| Type | Notes |
+|---|---|
+| **Express (快车)** | Cheapest, fine for almost every trip |
+| **Premier (专车)** | Nicer car, good for airports |
+| **Taxi (出租车)** | Hails a metered taxi through the app |
+| **Express Pool (拼车)** | Shared, cheaper, slower |
+
+4. Confirm and wait: typically 2–5 minutes in city centers.
+5. **Before getting in: check the plate number matches the app.** If it does not, cancel.
+
+## The "last four digits" ritual
+
+Drivers commonly ask for the **last four digits of your registered phone number** as an identity check. Write them down or keep them handy in a note, easier than saying numbers in a language you may not speak.
+
+## Prices to expect
+
+| Trip | Approximate fare |
+|---|---|
+| Short central trip (3–5 km) | ¥15–30 |
+| Cross-city (15+ km) | ¥50–100 |
+| Airport to city (Shanghai) | ¥150–250 |
+
+Fares are shown before you confirm, and surge pricing applies at rush hour, in bad weather, and on holidays.
+
+## If you'd rather not install another app
+
+**DiDi runs inside Alipay and WeChat** as a mini-program. Open Alipay, tap the **Transport** area, and choose Taxi/Ride-hailing. You get the same driver pool with one less app, and Alipay's foreign-card handling is often smoother. See the [China apps checklist](/guides/china-apps-checklist/).
+
+## Staying safe
+
+- **Match the plate** before boarding, every time.
+- **Use Share Trip** to send your route to someone.
+- **Ignore touts** at airport exits offering rides, unlicensed and overpriced.
+- **Use the official pickup zone** (follow signs for *Online Car-hailing / 网约车*).
+- **Lost an item?** Use the in-app lost-item feature and offer a small reward.
+
+## Bottom line
+
+DiDi is the single most useful transport app for a China layover. Install it at home, link a card (or Alipay), check the plate, and you can move around a Chinese city without speaking a word of Mandarin. For airport runs specifically, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
+
+**Frequently asked questions**
+
+### Can foreigners use DiDi in China?
+
+Yes. DiDi has an English interface, supports registration with an international phone number, and accepts international cards in many cases. Alipay and WeChat Pay can also be used as the payment method, which is often more reliable.
+
+### Do I need a Chinese phone number for DiDi?
+
+No. You can register with a foreign number and receive the SMS code, though roaming SMS is sometimes unreliable, register before you fly. DiDi also runs as a mini-program inside Alipay and WeChat.
+
+### What if my card does not work in DiDi?
+
+Link your card to Alipay first and set Alipay as the DiDi payment method. Alipay's foreign-card processing is generally more robust than DiDi's direct card binding.
+
+### Is DiDi cheaper than a taxi in China?
+
+Usually yes, and the fare is shown before you confirm. Expect roughly ¥15–30 for a short central trip and ¥150–250 for an airport run into Shanghai.
+
+**Sources**
+
+- DiDi — official international rider information: https://www.didiglobal.com/
+- Alipay — official site: https://www.alipay.com/
+
+---
+
+## Guangzhou Baiyun Airport (CAN) Layover Hotels: T2 & Near
+
+Source: https://chinalayoverguide.com/guides/guangzhou-baiyun-airport-layover-hotels/
+Last updated: 2026-11-27
+
+> Last reviewed on 2026-11-27. Confirm which terminal your flights use at Guangzhou Baiyun (CAN) and check Aerotel T2's live booking status before flying.
+
+## The short answer
+
+**Guangzhou Baiyun Airport (CAN) is one of the few mainland Chinese hubs with a true airside transit hotel inside the international terminal.** If you are transferring internationally through Terminal 2 and do not want to clear immigration, **Aerotel Guangzhou (T2 Level 4, airside)** sells 6, 9, and 12-hour room blocks right inside security.
+
+If you are clearing immigration on an overnight layover (and do not qualify for **China Southern's free transit hotel**), **Pullman Guangzhou Baiyun Airport** sits right on the airport campus with a 3-minute shuttle to Terminal 2.
+
+*(Flying China Southern? Always check your free-room eligibility first in our [China Southern free transit hotel guide](/guides/china-southern-free-transit-hotel/) before paying out of pocket.)*
+
+## CAN sleeping options, side by side
+
+| Option | Zone | Immigration needed? | Best for | Access from Terminal 2 |
+|---|---|---|---|---|
+| **Aerotel Guangzhou (T2)** | **Airside (T2 L4 Intl)** | **No** | Sleeping 6–12h between international flights without entering China | Inside T2 International Departures secured area (verify live status) |
+| **China Southern Free Transit Hotel** | **Landside (partner hotels)** | **Yes** | Qualifying CSN 6–30h single-ticket connections | Confirm at **T2 1F Gate 50** for complimentary shuttle |
+| **Pullman Guangzhou Baiyun Airport** | **Landside (airport campus)** | **Yes** | Upscale, quiet full overnight or daytime room right by the terminals | ~3-min complimentary shuttle to T2 Gate 46 |
+| **China Southern Airlines Pearl Hotel** | **Landside (airport area)** | **Yes** | Preferential paid rate if your CSN ticket doesn't qualify for free room | Airport shuttle (limited allocation via CSN app/portal) |
+| **Tianhe / Liwan Downtown Hotel** | **Central Guangzhou** | **Yes** | 14–24h layovers focused on dim sum, Shamian Island & Canton Tower | 45–55 min on direct Metro Line 3 (~¥8) |
+
+## Option 1: Staying airside at Terminal 2 (no immigration needed)
+
+### Aerotel Guangzhou (Terminal 2, Level 4)
+- **Location:** inside the **International Departure Secured Area** on Level 4 of Terminal 2.
+- **Who can use it:** international transit or departing passengers already holding an onward boarding pass and valid travel documents. Because you stay inside customs and immigration control, you do **not** need a Chinese visa or 240-hour entry permit.
+- **Room setup:** compact Solo, Solo Plus, and Double Plus rooms sold in flexible hourly blocks (commonly **6, 9, or 12 hours**), with Wi-Fi and access to the Library Lounge for hot food and drinks.
+- **Verify before flying:** Aerotel branches in China occasionally adjust operating hours or undergo temporary refurbishments, so confirm live room availability directly on [Aerotel's official Guangzhou page](https://www.myaerotel.com/en-uk/find/china-east-asia/china/guangzhou/aerotel-guangzhou) before counting on it.
+
+## Option 2: Landside hotels right beside CAN (requires visa or 240h transit)
+
+If you clear immigration under [240-hour visa-free transit](/transit-visa/) or 30-day visa-free entry:
+
+### Pullman Guangzhou Baiyun Airport
+- **Where it is:** right on the airport campus (No. 2 Yiheng Road), functioning as CAN's flagship upscale airport hotel.
+- **Transfer time:** complimentary scheduled shuttles connect to **Terminal 2 (Gate 46)** in roughly **3 minutes** (plus direct shuttles to other terminals).
+- **Why travelers pick it:** over 570 soundproofed rooms, Cantonese and international restaurants, an outdoor pool and gym, and frequent daytime day-use rates for 6–10 hour layovers. Higher-tier Executive bookings often include expedited security-channel perks.
+
+### China Southern Pearl Hotel & perimeter hotels
+- If your **China Southern** ticket is excluded from a free transit room (for example, a codeshare or excluded domestic leg), China Southern's in-app transfer policy highlights preferential paid rates at **China Southern Airlines Pearl Hotel** when rooms are available.
+- Budget-friendly airport hotels also cluster one to two stops south along **Metro Line 3** (Airport South / Gaozeng), though factor in 15–25 minutes of shuttle or metro time before early departures.
+
+## When staying in central Guangzhou beats an airport hotel
+
+Guangzhou's **Metro Line 3** connects CAN straight to central **Tianhe** in **45–55 minutes for ~¥8**, making a downtown overnight far easier than at Beijing Daxing or Chengdu Tianfu. Choose downtown when:
+- Your layover is **14+ hours** and you qualify to [leave the airport](/guides/can-you-leave-the-airport-during-a-china-layover/).
+- You want to wake up early for **Cantonese dim sum** (best before 11:00) in **Liwan / Yuexiu**, or stay directly on **Metro Line 3 in Tianhe** for a single-seat return train to CAN.
+
+Plan your hours with our [Guangzhou layover hub](/cities/guangzhou/), [Guangzhou 6–24h itinerary](/guides/guangzhou-layover-itinerary/), and [CAN airport guide](/airports/can/).
+
+## Practical arrival checklist
+
+- **Last metro cutoff:** Metro Line 3 stops running around **22:30–23:00**. For late-night landings, take an official taxi or [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/) (45–60 min downtown, ¥100–130).
+- **Passport registration:** every licensed hotel automatically files your mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) at check-in.
+- **Luggage, payments & data:** CAN offers staffed left-luggage counters (~¥15–30 per bag per day; see [luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)). Set up Alipay and [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) plus a travel eSIM ([best eSIM for China](/guides/best-esim-for-china/)) before you fly, with passport-login [China airport Wi-Fi](/guides/china-airport-wifi/) as backup.
+
+**Frequently asked questions**
+
+### Is there an airside transit hotel inside Guangzhou Baiyun Airport (CAN)?
+
+Yes. Aerotel Guangzhou sits airside on Level 4 of the Terminal 2 International Departure Secured Area, offering flexible 6, 9, or 12-hour room blocks for international transit passengers without clearing Chinese immigration. Confirm current operating status directly before booking.
+
+### How close is Pullman Guangzhou Baiyun Airport to Terminal 2?
+
+Pullman Guangzhou Baiyun Airport sits right on the airport campus (landside) and runs a complimentary scheduled shuttle taking roughly 3 minutes to Terminal 2 (Gate 46). You must clear immigration to reach it.
+
+### Should I book my own hotel at CAN if I am flying China Southern?
+
+Check China Southern's free transit hotel scheme first. Unlike China Eastern, ordinary economy fares on qualifying 6–30 hour single-ticket connections usually get a free night, breakfast, and shuttle. Book in advance via the China Southern app (e-Service → Transfer Accommodation).
+
+### What is China Southern Pearl Hotel?
+
+China Southern Airlines Pearl Hotel is operated by the airline group near the airport. China Southern's in-app policy notes that passengers who do not qualify for a free transit room can book it at preferential rates, subject to limited daily allocation.
+
+### Is it better to stay near Baiyun Airport or downtown Guangzhou on a layover?
+
+Stay at CAN if your layover is under 12 hours or arrives after Metro Line 3 closes around 22:30–23:00. With 14+ hours and daytime arrival, staying in Tianhe (direct on Metro Line 3) or Liwan puts you right next to Guangzhou's morning dim sum houses.
+
+**Sources**
+
+- Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
+- Aerotel Guangzhou — Terminal 2 airside transit hotel: https://www.myaerotel.com/en-uk/find/china-east-asia/china/guangzhou/aerotel-guangzhou
+- Pullman Guangzhou Baiyun Airport — official Accor property page: https://all.accor.com/hotel/6335/index.en.shtml
+- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+
+---
+
+## Hotel Registration for Foreigners in China: The 24-Hour Rule
+
+Source: https://chinalayoverguide.com/guides/hotel-registration-for-foreigners-in-china/
+Last updated: 2026-10-16
+
+## The short answer
+
+Foreign visitors to China must **register their accommodation with the local police within 24 hours of arrival**. If you stay in a hotel, the hotel does it for you at check-in. If you stay privately, **you are responsible** for registering yourself.
+
+## How it works
+
+| Where you stay | Who registers | When |
+|---|---|---|
+| Hotel | The hotel, at check-in | Within 24 hours of arrival |
+| Guesthouse or hostel | The property, usually at check-in | Within 24 hours |
+| A friend's or family's home | You, or your host | Within 24 hours |
+| Rented apartment | You (or the host) | Within 24 hours |
+
+Hotels that accept foreign guests handle the paperwork automatically. You simply hand over your passport. The catch is that **not every property is registered to take foreign guests**, which is why it is worth confirming before you book.
+
+## If you are staying privately
+
+You (or the person hosting you) must go to the **local public security bureau** office and register. Bring your passport and your host's ID. Since **21 September 2026**, online accommodation registration is available **nationwide** for foreign nationals (it was piloted from 20 March 2026). You can use the **NIA Government Service Platform** website, the **"NIA 12367" app**, the **NIA 12367 WeChat mini-program**, or the **Alipay mini-program**. Online registration has the same legal effect as registering in person.
+
+## Why it matters for a layover
+
+On a short stop this is easy to overlook: especially if you are staying with a friend or in a short-term rental rather than a hotel. It is a legal requirement, and skipping it can mean **fines** and complications with immigration. It also matters if you are on **visa-free transit**: officers may ask where you are staying, and an unregistered or out-of-area address can cause problems.
+
+## Practical tips
+
+- **Book foreigner-registered hotels** for a stress-free arrival.
+- **Carry your passport**. It is needed for registration and can be requested by authorities.
+- **Do it on day one.** Do not wait until the end of your stay.
+- **Keep a record** of the registration slip or confirmation if you are given one.
+
+## Bottom line
+
+Registration is a simple 24-hour obligation that hotels handle for free. If you are not in a hotel, make it your first task after arrival. For the entry rules themselves, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/).
+
+## Related guides
+
+- [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
+- [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
+- [Is China safe for tourists? Scams and risks](/guides/china-travel-safety-and-scams/)
+- [240-hour visa-free transit: the complete guide](/guides/240-hour-visa-free-transit/)
+
+**Frequently asked questions**
+
+### Do I have to register my accommodation in China as a foreigner?
+
+Yes. Foreign nationals must register where they are staying with the local public security office within 24 hours of arrival. If you stay at a hotel, the hotel does this for you at check-in.
+
+### Do hotels register foreign guests automatically?
+
+Foreigner-registered hotels complete the registration at check-in. Confirm your hotel accepts foreign guests, and keep your passport with you, it is used for registration.
+
+### What if I stay with a friend or in an apartment?
+
+You, or the person hosting you, must register with the local police station within 24 hours. Since 21 September 2026 you can also register online, nationwide, which has the same legal effect as registering in person.
+
+### What happens if I do not register?
+
+Failing to register can lead to fines and problems with immigration. It is a legal requirement, not a formality, so make sure it happens within 24 hours.
+
+**Sources**
+
+- National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
+- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
+
+---
+
+## China Airport Luggage Storage: PEK, PKX, PVG & CAN Prices
+
+Source: https://chinalayoverguide.com/guides/luggage-storage-at-china-airports/
+Last updated: 2026-10-16
+
+## The short answer
+
+Every major Chinese airport has **left-luggage counters (行李寄存)**, but prices now vary widely: at Beijing Capital (PEK) expect **¥30–40 per rolling suitcase per 24 hours**, while Beijing Daxing's (PKX) landside manual counters are **free**. Bring your passport, keep the receipt, and you are free to explore. If you are taking a private car or DiDi, the best storage is often **the boot of the car**: the driver waits and you skip the queue entirely.
+
+## Your options, ranked
+
+| Option | Cost | Best for |
+|---|---|---|
+| **Keep bags in your DiDi / private car** | Free (included in the fare) | Wall trips, multi-stop days |
+| **Airport left-luggage** | Free (PKX landside) to ¥30–40 per item (PEK) | Public-transport layovers |
+| **Hotel storage** | Free if you are a guest | Overnight stopovers |
+| **Station smart lockers** | Hourly, with a daily cap | Rail connections |
+| **Carry a small backpack only** | Free | Short layovers, fastest |
+
+## How airport left-luggage works
+
+1. Find the **行李寄存** counter: usually in the arrivals or departures hall; airport signage is in English.
+2. Show your **passport**; they may also want your onward ticket.
+3. Pay per bag per day and **keep the receipt/tag**. You need it to collect.
+4. Collect with time to spare; queues form before evening departure banks.
+
+Prices vary widely by airport, item and size, so check the counter's own board.
+
+## The option most travelers miss
+
+If you are hiring a **private driver**, for example for the [Great Wall from Beijing](/guides/great-wall-from-beijing-layover/) or the [Terracotta Army](/guides/xian-layover-itinerary/), the driver waits with the car. Your bags stay in the vehicle, you skip storage entirely, and you save 20–30 minutes at each end.
+
+## PEK, PKX, PVG and CAN: the airport-specific details
+
+Storage works the same way at each airport, but the price and the risk on the **return leg** differ.
+
+**Beijing Capital (PEK).** Left-luggage counters in Terminals 2 and 3 charge **¥30–40 per rolling suitcase per 24 hours**. Cartons and other items run **¥20–60**, and oversized items **¥100**. Bring your passport, and keep the receipt.
+
+**Beijing Daxing (PKX).** The **landside manual counters are free**. Airside lockers cap at **¥18–30 per day**, and lockers in the parking area run **¥20.50–50.50 per day**. For trains, taxis and where to sleep, see the [Daxing airport guide](/airports/pkx/).
+
+**Shanghai Pudong (PVG).** Counters sit in the arrivals and departures halls of both terminals, signed in English as "Left Luggage" or "Baggage Storage". Prices vary by counter; bring your passport, and sometimes your onward ticket. The trap: the **Maglev stops around 21:40** and Metro Line 2 around **22:30**. If you are returning late, your trip back becomes a taxi or DiDi, which takes longer, so collect your bags earlier than you think you need to. PVG has two terminals connected by a walkway and the inter-terminal train, so confirm which terminal your onward flight departs from before you choose where to store. For terminals and transport, see the [Pudong airport guide](/airports/pvg/); for the city side, [things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/).
+
+**Guangzhou Baiyun (CAN).** Counters operate in the terminal, on the arrivals level. Prices vary by counter; passport required. The trap: you are coming back on **Metro Line 3**, which takes 45–55 minutes, and with a 2.5-hour departure buffer that is most of your return leg. Budget the storage detour inside that time rather than on top of it. Baiyun operates two terminals, so check which one your flight uses, because the walk between them is not trivial. For the city side, see [things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/).
+
+## What to keep with you
+
+Never store these:
+
+- **Passport** and travel documents
+- **Phone, chargers, power bank**
+- **Medication**
+- **Payment cards and cash**
+- **Your onward ticket details** (you may need to show them at immigration)
+
+## Practical tips
+
+- **Photograph your bag** and note the tag number.
+- **Pack valuables in a carry-on** you keep with you.
+- **Do not leave bags unattended**: not in terminals, not in cafés.
+- **Check the counter's closing time**; not all are 24-hour.
+- **Arrive early to collect** before an international departure bank.
+
+## Bottom line
+
+Luggage never has to stop you leaving the airport. Use a car if you have one, a counter if you do not, and always keep documents and valuables on you. For getting into town, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
+
+**Frequently asked questions**
+
+### Can I store luggage at a Chinese airport during a layover?
+
+Yes. Most major Chinese airports have left-luggage counters (行李寄存), and prices vary by airport: Beijing Capital charges ¥30–40 per rolling suitcase per 24 hours, while Beijing Daxing's landside counters are free. You will need your passport and sometimes a baggage ticket.
+
+### What is the easiest way to handle luggage on a layover?
+
+If you are taking a private car or DiDi, keep your bags in the vehicle: the driver waits and you skip every storage step. For public transport, use airport left-luggage or your hotel.
+
+### Do high-speed rail stations in China have luggage storage?
+
+Yes. Station storage is now mostly smart lockers billed by the hour with a daily cap, for example about ¥2–6.50 per hour capped at ¥10–60 per day at Beijing stations. Large stations like Shanghai Hongqiao and Beijing South have them.
+
+### Is left-luggage safe in China?
+
+Staffed airport and station counters are generally reliable and issue a receipt, keep it. Avoid informal storage offered by individuals, and never leave bags unattended.
+
+**Sources**
+
+- Beijing Capital International Airport — official site: https://www.bcia.com.cn/
+- Shanghai Airport — official transport information: https://www.shanghaiairport.com/
+- Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
+
+---
+
+## Shanghai Pudong Airport (PVG) Layover Hotels: Inside & Near
+
+Source: https://chinalayoverguide.com/guides/shanghai-pudong-airport-layover-hotels/
+Last updated: 2026-11-27
+
+> Last reviewed on 2026-11-27. Always verify whether a Pudong hotel sits airside or landside before booking, and confirm your visa-free entry eligibility if leaving the transit zone.
+
+## The short answer
+
+**There is no full-service hotel airside at Shanghai Pudong Airport (PVG).** Every proper bed at PVG, including **Aerotel Shanghai** inside Terminal 2 and **Da Zhong Airport Hotel** between T1 and T2, sits **landside**, meaning international transit passengers must clear Chinese immigration to check in.
+
+If you cannot clear immigration (or have under 6 hours), stay airside and use PVG's **hourly sleep pods**, lounges, or free 24-hour rest zones and showers. If you can enter China visa-free and have an 8–12 hour overnight stop, **Aerotel T2** (hourly or overnight) and **Da Zhong** (walkable from both terminals) are the two cleanest options.
+
+*(Flying China Eastern or Air China on one through-ticket? First check whether you qualify for a free room in our [China Eastern free transit hotel guide](/guides/china-eastern-free-transit-hotel/) or [China airline free transit hotel hub](/guides/china-airline-layover-hotel/).)*
+
+## PVG sleeping options, side by side
+
+| Option | Zone | Immigration needed? | Best for | Access from arrivals |
+|---|---|---|---|---|
+| **Airside Sleep Pods** (T1 Gate 24 / T2 Gate 67) | **Airside** | **No** | Short 3–6h rest without entering China | Inside international departure gates; ~¥65/hr or ~¥333 overnight |
+| **Free Rest Areas & Showers** | **Airside** | **No** | Budget short transits | 24h seating (T2 C92, S1 H105, S2 G148) + free T1/T2 showers (bring towel) |
+| **Aerotel Shanghai** | **Landside (inside T2)** | **Yes** | Clean hourly blocks (3–12h) or modern overnight right in T2 | Inside T2 Levels 6–7 behind Check-in Counter G |
+| **Da Zhong Airport Hotel** | **Landside (between T1 & T2)** | **Yes** | Full-sized overnight room walkable from either terminal | 5–6 min indoor walk above Maglev / Metro Line 2 |
+| **Ramada Plaza / Holiday Inn Express PVG** | **Landside (airport campus)** | **Yes** | Standard 4-star overnight with lower rates than terminal rooms | Short airport shuttle (confirm shuttle hours when booking) |
+| **Puxi Hotel on Metro Line 2** | **Downtown Shanghai** | **Yes** | 14–24h layovers wanting the Bund and real dining | 40–55 min via Maglev + Line 2 (or 60–90 min direct on Line 2) |
+
+## Option 1: Staying airside (no immigration required)
+
+If your passport does not qualify for [240-hour visa-free transit](/transit-visa/) or your connection is too short to clear customs twice, stay inside the secured international zone:
+
+- **Hourly sleep pods:** located airside near **Terminal 1 International Departures (Gate 24)** and **Terminal 2 International Departures (Gate 67)**. Each pod has a reclining chair, charging ports, ventilation, and Wi-Fi. Indicative pricing runs around **¥65 per hour** or roughly **¥333 for an overnight block**, though only 10–20 pods sit at each gate so they fill fast during evening waves.
+- **Free 24-hour rest zones & showers:** PVG maintains free reclining rest zones (including near T2 Gate C92, Satellite S1 Gate H105, and S2 Gate G148) plus free 24-hour public shower rooms in T1 and T2 international zones. Pack a compact travel towel and toiletries if you plan to use the free showers.
+
+## Option 2: Walkable landside hotels (clear immigration, no shuttle needed)
+
+If you hold a valid visa, 30-day visa-free entry, or qualify for [240-hour visa-free transit](/transit-visa/), clearing immigration opens up real beds right inside the terminal complex:
+
+### Aerotel Shanghai (inside Terminal 2)
+- **Where it is:** Levels 6 and 7 inside Terminal 2, landside behind Check-in Counter G.
+- **Why travelers pick it:** purpose-built for transits, modern rooms with private showers, and flexible **hourly blocks** alongside standard overnight stays. If you land at 06:00 with a 15:00 onward flight, paying for a 6-hour daytime room beats waiting for a 14:00 hotel check-in.
+- **Note for T1 passengers:** T1 and T2 are linked by a covered central walkway (~10 minutes on foot), so Aerotel still works if you fly China Eastern out of T1.
+
+### Da Zhong Airport Hotel (between T1 and T2)
+- **Where it is:** directly in the central transport hub connecting Terminal 1 and Terminal 2, right above the Maglev and Metro Line 2 station (split into North and South buildings).
+- **Why travelers pick it:** a 5–6 minute indoor walk from both T1 and T2 without ever waiting for a shuttle bus or stepping into rain, making it the default choice for **07:00 departures** or **midnight arrivals**. Rooms are older than Aerotel's, but you get a full-sized hotel bed directly on top of the rail hub.
+
+## Option 3: Airport-campus shuttle hotels
+
+Shanghai Airport Group operates and connects several perimeter hotels including **Ramada Plaza Shanghai Pudong Airport** and **Holiday Inn Express Shanghai Pudong Airport**. They are typically quieter and better value per square meter than Da Zhong, but always check **24-hour shuttle schedules** and pickup gate numbers before landing after 23:00.
+
+## When a downtown Puxi hotel beats sleeping at PVG
+
+Skip airport hotels entirely when **all three** are true:
+1. Your layover is **14 hours or longer** (and you qualify to [leave the airport](/guides/can-you-leave-the-airport-during-a-china-layover/)).
+2. You land **before 20:00** so you can still catch the **Maglev (last train 21:42)** or **Metro Line 2 (last train ~22:30)** without paying night-rate taxi fares (~¥218+ into downtown).
+3. Your onward flight departs **after 10:30 the next morning**.
+
+Book near **People's Square, Nanjing East Road, or Jing'an** directly on **Metro Line 2** so you can see the Bund at night and ride one direct rail line back to PVG. Use our [Shanghai layover hub](/cities/shanghai/), [PVG airport guide](/airports/pvg/), and [Shanghai 6–24h itinerary](/guides/shanghai-layover-itinerary/) to plan the hours.
+
+## Practical checklist before checking in
+
+- **Passport registration:** licensed Chinese hotels automatically handle mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) when they scan your passport at check-in.
+- **Late-night transport:** if you miss the last Maglev/Metro, official taxis wait outside T1 Gate 12 and T2 Gate 25, and [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/) picks up on **level B2 in P2 car park**.
+- **Bags & connectivity:** store heavy luggage at PVG's left-luggage counters ([luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)) if you only want an overnight pack in town, and set up an eSIM ([best eSIM for China](/guides/best-esim-for-china/)) and Alipay / [WeChat Pay](/guides/wechat-pay-and-tenpaygo-for-foreigners/) before you fly.
+
+**Frequently asked questions**
+
+### Is there an airside transit hotel inside Shanghai Pudong Airport (PVG)?
+
+There is no full-service hotel airside at PVG. If you cannot or do not want to clear Chinese immigration, your airside options are hourly sleep pods (near T1 Gate 24 and T2 Gate 67), airline or paid lounges, and PVG's free 24-hour rest areas and showers.
+
+### Do I need to clear immigration to stay at Aerotel Shanghai or Da Zhong Airport Hotel?
+
+Yes for both. Aerotel Shanghai sits landside inside Terminal 2 (Levels 6–7, behind Check-in Counter G), and Da Zhong Airport Hotel sits landside in the central link building between Terminal 1 and Terminal 2. You need either a visa, 30-day visa-free entry, or 240-hour visa-free transit to reach them.
+
+### Which hotel is walkable from Terminal 1 and Terminal 2 at Pudong Airport?
+
+Da Zhong Airport Hotel sits directly between T1 and T2 above the Maglev and Metro Line 2 station, roughly a 5–6 minute indoor walk from either arrivals hall. Aerotel Shanghai is directly inside Terminal 2 (landside) and connects to T1 via the indoor walkway.
+
+### Should I stay at Pudong Airport or in downtown Shanghai on a layover?
+
+Stay at PVG if your layover is under 12 hours, you land after 21:00 (after the last Maglev at 21:42 and Metro Line 2 around 22:30), or you fly out before 09:00. With 14+ hours and daytime arrival, a hotel along Metro Line 2 in Puxi gives you a much better Shanghai stopover.
+
+### Does China Eastern give a free hotel at Shanghai Pudong Airport?
+
+Yes, for qualifying 781-stock through-tickets with a 6–24 hour layover above the Shanghai fare threshold, booked in advance through the Chinese-interface China Eastern app. Discounted economy and separate tickets do not qualify.
+
+**Sources**
+
+- Shanghai Airport — official passenger facilities and transport: https://www.shanghaiairport.com/
+- Aerotel Shanghai — Terminal 2 location and room details: https://www.myaerotel.com/en-uk/find/china-east-asia/china/shanghai/aerotel-shanghai
+- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
 
 ---
 
@@ -3074,524 +4060,6 @@ A travel eSIM is typically the cheapest and simplest option for a short trip. A 
 
 ---
 
-# Airport transfers and logistics
-
-## China Airport to City: Transfers Compared for Every Major Layover Hub
-
-Source: https://chinalayoverguide.com/guides/china-airport-to-city-transfers/
-Last updated: 2026-10-16
-
-## The short answer
-
-Every major Chinese airport connects to its city by **metro or a dedicated express train**, usually for under ¥35. **The metro is almost always the right default**; taxis and DiDi are for late arrivals, heavy bags, or groups. Budget **60–90 minutes** door to door and be back **2.5 hours** before an international departure.
-
-## The numbers, airport by airport
-
-| Airport | Best option | Time | Cost |
-|---|---|---|---|
-| Shanghai Pudong (PVG) | Maglev + Metro Line 2 | ~40–55 min | ¥50 + ¥4 (¥40 with boarding pass) |
-| Shanghai Pudong (PVG) | Metro Line 2 direct | 60–90 min | ¥7–9 |
-| Shanghai Hongqiao (SHA) | Metro Lines 2 / 10 | 30–50 min | ¥3–7 |
-| Beijing Capital (PEK) | Airport Express | 25–35 min | ¥25 |
-| Beijing Daxing (PKX) | Daxing Airport Express | 30–40 min | ¥35 |
-| Guangzhou Baiyun (CAN) | Metro Line 3 | ~45–55 min | ~¥8 |
-| Chengdu Tianfu (TFU) | Metro Line 18 | 35–40 min | ¥7–10 |
-| Xi'an Xianyang (XIY) | Metro Line 14 (Airport West) | ~40 min+ | ¥2–9 |
-| Chongqing Jiangbei (CKG) | Metro Line 10 | 40–50 min | ~¥6 |
-| Shenzhen Bao'an (SZX) | Metro Line 11 | ~30–50 min | ~¥7–10 |
-| Hangzhou Xiaoshan (HGH) | Metro Lines 1, 7, 19 | ~45–60 min | Metro under ¥20; ¥20–30 is the coach fare |
-
-Treat fares and journey times as indicative. They change, so check the airport's own transport page or a maps app on arrival.
-
-## How to choose
-
-- **Daytime, light luggage:** metro or express train. Cheapest and traffic-proof.
-- **Heavy bags or a group:** taxi or DiDi, especially from Pudong.
-- **Late arrival:** taxi or DiDi only; the metro has stopped.
-- **A cross-airport connection:** in Shanghai, the **Airport Link Line** links PVG T1/T2 to Hongqiao T2 in about **40 minutes for ¥26** (06:00–22:15), so that transfer no longer needs the 1.5–2 hour buffer it once did. For other pairs, such as Beijing PEK to PKX, still allow **1.5–2 hours** and do not also plan sightseeing.
-
-## Paying for the ride
-
-- **Metro and Maglev:** buy a single ticket with cash, or use Alipay/WeChat Pay QR at the gates. Shanghai gates also accept contactless foreign cards.
-- **Taxi:** metered; pay with cash or a QR app. Most drivers do not take foreign cards.
-- **DiDi:** China's ride-hailing app. Fares are shown upfront and international cards are supported. You need a data connection, see [eSIM setup](/guides/esim-setup-before-you-land/).
-
-## Rules that save you money and trouble
-
-- **Use the official taxi queue**, never a driver soliciting inside arrivals.
-- **Have your destination in Chinese characters** on your phone.
-- **Avoid airport currency exchange**; use an ATM at a major bank instead (see [do you need cash in China?](/guides/do-you-need-cash-in-china/)).
-- **Check the last train time** before you count on the metro.
-
-## Bottom line
-
-China's airport transfers are cheap, fast, and well signed in English. Pick the metro unless you land late or carry a lot, and always check the last service time before you rely on it. Next, see [what you can do in each layover window](/cities/).
-
-## Related guides
-
-- [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
-- [DiDi and ride-hailing in China](/guides/didi-and-ride-hailing-in-china/)
-- [China high-speed rail for tourists](/guides/china-high-speed-rail-for-tourists/)
-- [China apps checklist: what to install before you fly](/guides/china-apps-checklist/)
-- [Is China safe for tourists? Scams and risks](/guides/china-travel-safety-and-scams/)
-
-**Frequently asked questions**
-
-### What is the fastest way from Shanghai Pudong Airport to the city?
-
-The Maglev to Longyang Road takes about 8 minutes, then Metro Line 2 continues into the center: roughly 40–55 minutes door to door for around ¥55. Metro Line 2 direct is cheaper (¥7–9) but takes 60–90 minutes.
-
-### How do I get from Beijing Capital Airport to the city?
-
-Take the Airport Express to Dongzhimen or Sanyuanqiao (about 25–35 minutes for ¥25) then metro or taxi onward. It runs roughly 06:00 to 23:00.
-
-### What is the cheapest way from a Chinese airport to the city?
-
-The metro. Fares from most airports are under ¥10, though the trip is slower than the dedicated express trains or Maglev. Hongqiao (SHA) is the cheapest and easiest, at ¥3–7 and 30–50 minutes.
-
-### What if I land after midnight?
-
-Metro and Maglev services stop between roughly 21:40 and 22:30. After that, use a metered taxi or DiDi from the official queue or app, never an unofficial driver soliciting in arrivals.
-
-**Sources**
-
-- Shanghai Airport — official transport information: https://www.shanghaiairport.com/
-- Beijing Capital International Airport — official site: https://www.bcia.com.cn/
-- Beijing Daxing International Airport — official site: https://www.bdia.com.cn/
-
----
-
-## China High-Speed Rail for Tourists: Booking with a Passport
-
-Source: https://chinalayoverguide.com/guides/china-high-speed-rail-for-tourists/
-Last updated: 2026-10-16
-
-## The short answer
-
-China's high-speed rail is fast, punctual, and easy for foreigners. You book with your **passport** as the ID. At many stations the auto-gates cannot read a foreign passport, so you board through the staffed lane. Book through **Trip.com** if you want English and a foreign card, or the official **12306** app if you want the source of truth. Arrive **45–60 minutes early**; stations are big and security is mandatory.
-
-## Why it matters for a layover
-
-High-speed rail turns a stopover into a real trip. From Shanghai you can reach **Hangzhou** (West Lake) in about an hour. From Beijing, **Xi'an** is roughly 4.5 hours (feasible inside a 240-hour transit window. Within the transit rules you must still respect the **permitted areas** and exit through a **designated port**) see the [ports and permitted areas reference](/guides/240-hour-transit-ports-and-permitted-areas/).
-
-## How to book
-
-| Method | Pros | Cons |
-|---|---|---|
-| **Trip.com** | English interface, foreign cards, easy refunds | Small booking fee |
-| **12306 (official)** | Cheapest, definitive | Clunkier for foreign cards, Chinese-first UX |
-| **Station counter** | Works when nothing else does | Queue, language barrier |
-
-Both online options require **your passport details**. On 12306, passport identity verification can take **3–5 working days** before you can buy, so start it before you fly. Book a few days ahead for popular routes and holidays: the good departures sell out.
-
-## Seat classes
-
-| Class | Notes |
-|---|---|
-| **Second class** | Perfectly comfortable; the default choice |
-| **First class** | Wider seats, quieter carriage |
-| **Business class** | Lie-flat, expensive, rarely worth it for a day trip |
-
-## At the station
-
-1. **Arrive 45–60 minutes early.** Major stations are the size of airports.
-2. **Security screening** is mandatory for all bags.
-3. **Use the staffed lane** if the auto-gate cannot read your passport; e-tickets mean no paper ticket is needed.
-4. **Find your carriage and seat** on the platform displays.
-5. **Boarding closes shortly before departure**, do not cut it fine.
-
-## Practical tips
-
-- **Your passport is your ticket.** Keep it accessible, not buried in a bag.
-- **Note your train number** (e.g. G1234). That is what signage and staff use.
-- **Store bags in the racks** at the carriage ends; overhead space is limited.
-- **Food:** a trolley and sometimes a dining car, but bring your own for short hops.
-- **Same-day returns** are easy on short routes like Shanghai–Hangzhou.
-- **Do not plan tight rail connections before an international flight**: leave a real buffer.
-
-## Fares to expect
-
-Indicative second-class fares:
-
-| Route | Time | Fare |
-|---|---|---|
-| Shanghai → Hangzhou | ~1 hour | ¥30–123 (about ¥73 typical) |
-| Beijing → Xi'an | ~4.5 hours | ~¥515+ |
-| Guangzhou → Shenzhen | ~35 min | ~¥75 |
-| Chengdu → Chongqing | ~1.5 hours | ~¥154 |
-
-Fares and schedules change: check 12306 or Trip.com before you plan around them.
-
-## Bottom line
-
-High-speed rail is one of the best things about traveling in China and it works smoothly for foreigners. Book with your passport, arrive early, and use it to extend a layover into a genuine trip. Pair it with [DiDi](/guides/didi-and-ride-hailing-in-china/) for the last mile to the station.
-
-**Frequently asked questions**
-
-### Can foreigners book China high-speed rail tickets online?
-
-Yes. You can book through the official 12306 app or through Trip.com, using your passport as the ID document. Trip.com is easier for foreign cards; 12306 is the official source and is usually cheaper.
-
-### Do I need to print a train ticket in China?
-
-Generally no. E-tickets are the norm, though 12306 still sells both e-tickets and paper tickets. The catch for foreigners: station auto-gates often cannot read a foreign passport, so at many stations you need the staffed lane. Some travelers still print a receipt for expenses, but it is not required to board.
-
-### How early should I arrive at a Chinese train station?
-
-Arrive 45–60 minutes before departure. Stations are large, security screening is mandatory, and passport gates can queue. Boarding typically closes a few minutes before departure.
-
-### Is high-speed rail in China expensive?
-
-Second class is good value, for example, Shanghai to Hangzhou is about an hour at roughly ¥30–123 (about ¥73 typical for a G train from Hongqiao to Hangzhou East), and Beijing to Xi'an is roughly 4.5 hours. First and business class cost significantly more.
-
-**Sources**
-
-- China Railway 12306 — official ticketing: https://www.12306.cn/en/index.html
-- National Immigration Administration (NIA) — visa-free transit policies: https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-
----
-
-## Is China Safe for Tourists? Scams, Risks, and What to Actually Watch For
-
-Source: https://chinalayoverguide.com/guides/china-travel-safety-and-scams/
-Last updated: 2026-09-16
-
-## The short answer
-
-**China is a very safe country for tourists.** Violent crime against visitors is rare and city streets are safe at night. The risks you actually face are petty and predictable: **taxi overcharging, tourist scams near major sights, and pickpocketing in crowds.** Handle those and you will be fine.
-
-## The real risks, ranked
-
-### 1. Unlicensed taxis at airports
-Touts approach you in arrivals offering a "taxi". They overcharge heavily.
-
-**Avoid it:** use the **official taxi queue** or book **DiDi**. Never follow someone who approaches you. See [DiDi and ride-hailing](/guides/didi-and-ride-hailing-in-china/).
-
-### 2. The "tea ceremony" and "art student" scams
-Near major tourist sights, friendly English-speaking strangers invite you to a tea ceremony, an art exhibition, or a student practice session. The bill at the end is enormous.
-
-**Avoid it:** decline unsolicited invitations from strangers, however friendly. Real invitations do not come from someone who approached you on the street.
-
-### 3. Aggressive touts
-Souvenir sellers, "massage" touts, and photo hustlers cluster around landmarks.
-
-**Avoid it:** a firm "no thanks" and keep walking. Do not engage, do not follow.
-
-### 4. Pickpocketing in crowds
-Metro stations and night markets at peak hours.
-
-**Avoid it:** front pockets or a zipped bag, and be aware when squeezed into crowds.
-
-### 5. Overpriced "tour" offers
-Door-to-door tour sellers offering Great Wall or city tours at inflated prices.
-
-**Avoid it:** book through a reputable platform in advance, or organize it yourself.
-
-## The genuine safety rules
-
-- **Use DiDi or the official taxi queue.** Never an unmarked car.
-- **Keep your passport secure** and carry a photocopy or photo separately.
-- **Save your embassy details offline** before you travel.
-- **Do not carry large amounts of cash**, see [do you need cash in China?](/guides/do-you-need-cash-in-china/).
-- **Watch your step**, traffic, e-bikes, and scooters are the most likely way to actually get hurt.
-- **Respect local rules** at attractions and on public transport.
-
-## Emergency numbers
-
-| Service | Number |
-|---|---|
-| Police | **110** |
-| Ambulance | **120** |
-| Fire | **119** |
-| Traffic accident | **122** |
-
-## Health and practicalities
-
-- **Tap water is not drinkable**, drink bottled or boiled water.
-- **Pharmacies** are common; bring any prescription medication in original packaging with a copy of the prescription.
-- **Travel insurance** is cheap and worth having for a longer stopover.
-- **Air quality** in northern cities can be poor in winter; sensitive travelers should plan indoor stops.
-
-## Bottom line
-
-China is safer than most travelers expect. Your job is not to defend against violence. It is to avoid petty hustles by sticking to official channels: the taxi queue or DiDi, licensed attractions, and pre-booked transport. For getting around safely, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
-
-**Frequently asked questions**
-
-### Is China safe for foreign tourists?
-
-Yes. Violent crime against tourists is rare, and Chinese cities are generally safe to walk at night. The realistic risks are petty: taxi overcharging, tourist-oriented scams, and pickpocketing in crowds.
-
-### What are the most common scams in China?
-
-The classic ones are unlicensed taxis at airports, the 'tea ceremony' or 'art student' invitation near major sights, and aggressive souvenir or massage touts. All are avoidable by using official channels and declining unsolicited invitations.
-
-### Is it safe to walk around at night in China?
-
-Generally yes in major cities. Streets are well lit and busy, and violent crime is uncommon. Use normal precautions in nightlife areas, and use DiDi rather than unmarked cars.
-
-### What should I do in an emergency in China?
-
-Dial 110 for police, 120 for an ambulance, and 119 for fire. Keep your embassy's contact details saved offline, and keep a photocopy of your passport separate from the original.
-
-**Sources**
-
-- National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
-- DiDi — official international rider information: https://www.didiglobal.com/
-
----
-
-## DiDi and Ride-Hailing in China: A Guide for Foreigners
-
-Source: https://chinalayoverguide.com/guides/didi-and-ride-hailing-in-china/
-Last updated: 2026-10-16
-
-## The short answer
-
-**DiDi (滴滴出行) is China's Uber**, and it is the easiest way for a foreigner to get around. It has an English interface, accepts foreign phone numbers, and can be paid with an international card or through Alipay. Set it up **before you fly**, because SMS verification and app stores are unreliable once you are in China.
-
-## Set it up
-
-1. **Install the right app.** Search for **"DiDi China: Ride Hailing"** in the App Store or Google Play: that is the domestic app. Inside it, the 滴滴出行 name still appears. The separate international "DiDi Rider" app does **not** work in mainland China.
-2. **Switch to English** in *Settings → Language*.
-3. **Register with your phone number** and enter the SMS code. Do this at home on your own network.
-4. **Add a payment method** under *Me → Wallet → Payment Methods*. Add a card, and enable auto-deduct.
-5. **If the card fails**, link it in Alipay instead and choose Alipay as your DiDi payment method. That path is usually more reliable.
-
-## Booking a ride
-
-1. Check the **pickup pin**, drag it to where you are actually standing, not across the road.
-2. Enter your destination. English names work for major hotels and landmarks; pasting a **Chinese address** is more reliable for smaller places.
-3. Choose a ride type:
-
-| Type | Notes |
-|---|---|
-| **Express (快车)** | Cheapest, fine for almost every trip |
-| **Premier (专车)** | Nicer car, good for airports |
-| **Taxi (出租车)** | Hails a metered taxi through the app |
-| **Express Pool (拼车)** | Shared, cheaper, slower |
-
-4. Confirm and wait: typically 2–5 minutes in city centers.
-5. **Before getting in: check the plate number matches the app.** If it does not, cancel.
-
-## The "last four digits" ritual
-
-Drivers commonly ask for the **last four digits of your registered phone number** as an identity check. Write them down or keep them handy in a note, easier than saying numbers in a language you may not speak.
-
-## Prices to expect
-
-| Trip | Approximate fare |
-|---|---|
-| Short central trip (3–5 km) | ¥15–30 |
-| Cross-city (15+ km) | ¥50–100 |
-| Airport to city (Shanghai) | ¥150–250 |
-
-Fares are shown before you confirm, and surge pricing applies at rush hour, in bad weather, and on holidays.
-
-## If you'd rather not install another app
-
-**DiDi runs inside Alipay and WeChat** as a mini-program. Open Alipay, tap the **Transport** area, and choose Taxi/Ride-hailing. You get the same driver pool with one less app, and Alipay's foreign-card handling is often smoother. See the [China apps checklist](/guides/china-apps-checklist/).
-
-## Staying safe
-
-- **Match the plate** before boarding, every time.
-- **Use Share Trip** to send your route to someone.
-- **Ignore touts** at airport exits offering rides, unlicensed and overpriced.
-- **Use the official pickup zone** (follow signs for *Online Car-hailing / 网约车*).
-- **Lost an item?** Use the in-app lost-item feature and offer a small reward.
-
-## Bottom line
-
-DiDi is the single most useful transport app for a China layover. Install it at home, link a card (or Alipay), check the plate, and you can move around a Chinese city without speaking a word of Mandarin. For airport runs specifically, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
-
-**Frequently asked questions**
-
-### Can foreigners use DiDi in China?
-
-Yes. DiDi has an English interface, supports registration with an international phone number, and accepts international cards in many cases. Alipay and WeChat Pay can also be used as the payment method, which is often more reliable.
-
-### Do I need a Chinese phone number for DiDi?
-
-No. You can register with a foreign number and receive the SMS code, though roaming SMS is sometimes unreliable, register before you fly. DiDi also runs as a mini-program inside Alipay and WeChat.
-
-### What if my card does not work in DiDi?
-
-Link your card to Alipay first and set Alipay as the DiDi payment method. Alipay's foreign-card processing is generally more robust than DiDi's direct card binding.
-
-### Is DiDi cheaper than a taxi in China?
-
-Usually yes, and the fare is shown before you confirm. Expect roughly ¥15–30 for a short central trip and ¥150–250 for an airport run into Shanghai.
-
-**Sources**
-
-- DiDi — official international rider information: https://www.didiglobal.com/
-- Alipay — official site: https://www.alipay.com/
-
----
-
-## Hotel Registration for Foreigners in China: The 24-Hour Rule
-
-Source: https://chinalayoverguide.com/guides/hotel-registration-for-foreigners-in-china/
-Last updated: 2026-10-16
-
-## The short answer
-
-Foreign visitors to China must **register their accommodation with the local police within 24 hours of arrival**. If you stay in a hotel, the hotel does it for you at check-in. If you stay privately, **you are responsible** for registering yourself.
-
-## How it works
-
-| Where you stay | Who registers | When |
-|---|---|---|
-| Hotel | The hotel, at check-in | Within 24 hours of arrival |
-| Guesthouse or hostel | The property, usually at check-in | Within 24 hours |
-| A friend's or family's home | You, or your host | Within 24 hours |
-| Rented apartment | You (or the host) | Within 24 hours |
-
-Hotels that accept foreign guests handle the paperwork automatically. You simply hand over your passport. The catch is that **not every property is registered to take foreign guests**, which is why it is worth confirming before you book.
-
-## If you are staying privately
-
-You (or the person hosting you) must go to the **local public security bureau** office and register. Bring your passport and your host's ID. Since **21 September 2026**, online accommodation registration is available **nationwide** for foreign nationals (it was piloted from 20 March 2026). You can use the **NIA Government Service Platform** website, the **"NIA 12367" app**, the **NIA 12367 WeChat mini-program**, or the **Alipay mini-program**. Online registration has the same legal effect as registering in person.
-
-## Why it matters for a layover
-
-On a short stop this is easy to overlook: especially if you are staying with a friend or in a short-term rental rather than a hotel. It is a legal requirement, and skipping it can mean **fines** and complications with immigration. It also matters if you are on **visa-free transit**: officers may ask where you are staying, and an unregistered or out-of-area address can cause problems.
-
-## Practical tips
-
-- **Book foreigner-registered hotels** for a stress-free arrival.
-- **Carry your passport**. It is needed for registration and can be requested by authorities.
-- **Do it on day one.** Do not wait until the end of your stay.
-- **Keep a record** of the registration slip or confirmation if you are given one.
-
-## Bottom line
-
-Registration is a simple 24-hour obligation that hotels handle for free. If you are not in a hotel, make it your first task after arrival. For the entry rules themselves, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/).
-
-## Related guides
-
-- [China airport to city: transfers compared](/guides/china-airport-to-city-transfers/)
-- [Luggage storage at China's airports](/guides/luggage-storage-at-china-airports/)
-- [Is China safe for tourists? Scams and risks](/guides/china-travel-safety-and-scams/)
-- [240-hour visa-free transit: the complete guide](/guides/240-hour-visa-free-transit/)
-
-**Frequently asked questions**
-
-### Do I have to register my accommodation in China as a foreigner?
-
-Yes. Foreign nationals must register where they are staying with the local public security office within 24 hours of arrival. If you stay at a hotel, the hotel does this for you at check-in.
-
-### Do hotels register foreign guests automatically?
-
-Foreigner-registered hotels complete the registration at check-in. Confirm your hotel accepts foreign guests, and keep your passport with you, it is used for registration.
-
-### What if I stay with a friend or in an apartment?
-
-You, or the person hosting you, must register with the local police station within 24 hours. Since 21 September 2026 you can also register online, nationwide, which has the same legal effect as registering in person.
-
-### What happens if I do not register?
-
-Failing to register can lead to fines and problems with immigration. It is a legal requirement, not a formality, so make sure it happens within 24 hours.
-
-**Sources**
-
-- National Immigration Administration (NIA) — official English portal: https://en.nia.gov.cn/
-- National Immigration Administration (NIA) — Visa-Free Transit Policies (revised 2026-08-20): https://en.nia.gov.cn/n147418/n147463/c183412/content.html
-
----
-
-## China Airport Luggage Storage: PEK, PKX, PVG & CAN Prices
-
-Source: https://chinalayoverguide.com/guides/luggage-storage-at-china-airports/
-Last updated: 2026-10-16
-
-## The short answer
-
-Every major Chinese airport has **left-luggage counters (行李寄存)**, but prices now vary widely: at Beijing Capital (PEK) expect **¥30–40 per rolling suitcase per 24 hours**, while Beijing Daxing's (PKX) landside manual counters are **free**. Bring your passport, keep the receipt, and you are free to explore. If you are taking a private car or DiDi, the best storage is often **the boot of the car**: the driver waits and you skip the queue entirely.
-
-## Your options, ranked
-
-| Option | Cost | Best for |
-|---|---|---|
-| **Keep bags in your DiDi / private car** | Free (included in the fare) | Wall trips, multi-stop days |
-| **Airport left-luggage** | Free (PKX landside) to ¥30–40 per item (PEK) | Public-transport layovers |
-| **Hotel storage** | Free if you are a guest | Overnight stopovers |
-| **Station smart lockers** | Hourly, with a daily cap | Rail connections |
-| **Carry a small backpack only** | Free | Short layovers, fastest |
-
-## How airport left-luggage works
-
-1. Find the **行李寄存** counter: usually in the arrivals or departures hall; airport signage is in English.
-2. Show your **passport**; they may also want your onward ticket.
-3. Pay per bag per day and **keep the receipt/tag**. You need it to collect.
-4. Collect with time to spare; queues form before evening departure banks.
-
-Prices vary widely by airport, item and size, so check the counter's own board.
-
-## The option most travelers miss
-
-If you are hiring a **private driver**, for example for the [Great Wall from Beijing](/guides/great-wall-from-beijing-layover/) or the [Terracotta Army](/guides/xian-layover-itinerary/), the driver waits with the car. Your bags stay in the vehicle, you skip storage entirely, and you save 20–30 minutes at each end.
-
-## PEK, PKX, PVG and CAN: the airport-specific details
-
-Storage works the same way at each airport, but the price and the risk on the **return leg** differ.
-
-**Beijing Capital (PEK).** Left-luggage counters in Terminals 2 and 3 charge **¥30–40 per rolling suitcase per 24 hours**. Cartons and other items run **¥20–60**, and oversized items **¥100**. Bring your passport, and keep the receipt.
-
-**Beijing Daxing (PKX).** The **landside manual counters are free**. Airside lockers cap at **¥18–30 per day**, and lockers in the parking area run **¥20.50–50.50 per day**. For trains, taxis and where to sleep, see the [Daxing airport guide](/airports/pkx/).
-
-**Shanghai Pudong (PVG).** Counters sit in the arrivals and departures halls of both terminals, signed in English as "Left Luggage" or "Baggage Storage". Prices vary by counter; bring your passport, and sometimes your onward ticket. The trap: the **Maglev stops around 21:40** and Metro Line 2 around **22:30**. If you are returning late, your trip back becomes a taxi or DiDi, which takes longer, so collect your bags earlier than you think you need to. PVG has two terminals connected by a walkway and the inter-terminal train, so confirm which terminal your onward flight departs from before you choose where to store. For terminals and transport, see the [Pudong airport guide](/airports/pvg/); for the city side, [things to do in Shanghai on a layover](/guides/shanghai-layover-itinerary/).
-
-**Guangzhou Baiyun (CAN).** Counters operate in the terminal, on the arrivals level. Prices vary by counter; passport required. The trap: you are coming back on **Metro Line 3**, which takes 45–55 minutes, and with a 2.5-hour departure buffer that is most of your return leg. Budget the storage detour inside that time rather than on top of it. Baiyun operates two terminals, so check which one your flight uses, because the walk between them is not trivial. For the city side, see [things to do in Guangzhou on a layover](/guides/guangzhou-layover-itinerary/).
-
-## What to keep with you
-
-Never store these:
-
-- **Passport** and travel documents
-- **Phone, chargers, power bank**
-- **Medication**
-- **Payment cards and cash**
-- **Your onward ticket details** (you may need to show them at immigration)
-
-## Practical tips
-
-- **Photograph your bag** and note the tag number.
-- **Pack valuables in a carry-on** you keep with you.
-- **Do not leave bags unattended**: not in terminals, not in cafés.
-- **Check the counter's closing time**; not all are 24-hour.
-- **Arrive early to collect** before an international departure bank.
-
-## Bottom line
-
-Luggage never has to stop you leaving the airport. Use a car if you have one, a counter if you do not, and always keep documents and valuables on you. For getting into town, see [China airport-to-city transfers](/guides/china-airport-to-city-transfers/).
-
-**Frequently asked questions**
-
-### Can I store luggage at a Chinese airport during a layover?
-
-Yes. Most major Chinese airports have left-luggage counters (行李寄存), and prices vary by airport: Beijing Capital charges ¥30–40 per rolling suitcase per 24 hours, while Beijing Daxing's landside counters are free. You will need your passport and sometimes a baggage ticket.
-
-### What is the easiest way to handle luggage on a layover?
-
-If you are taking a private car or DiDi, keep your bags in the vehicle: the driver waits and you skip every storage step. For public transport, use airport left-luggage or your hotel.
-
-### Do high-speed rail stations in China have luggage storage?
-
-Yes. Station storage is now mostly smart lockers billed by the hour with a daily cap, for example about ¥2–6.50 per hour capped at ¥10–60 per day at Beijing stations. Large stations like Shanghai Hongqiao and Beijing South have them.
-
-### Is left-luggage safe in China?
-
-Staffed airport and station counters are generally reliable and issue a receipt, keep it. Avoid informal storage offered by individuals, and never leave bags unattended.
-
-**Sources**
-
-- Beijing Capital International Airport — official site: https://www.bcia.com.cn/
-- Shanghai Airport — official transport information: https://www.shanghaiairport.com/
-- Guangzhou Baiyun International Airport — official site: https://www.gbiac.net/
-
----
-
 # Shopping
 
 ## Taobao for Foreigners: Order with Alipay & Hotel Delivery
@@ -3905,9 +4373,9 @@ Before picking a route or a hotel, check the three-letter airport code on both l
 
 ## Where to stay: airport hotel vs. downtown
 
-If your connection is overnight or exceeds 14 hours, first check whether your airline covers your room for free. **Air China** (ticket prefix 999), **China Southern**, and **China Eastern** all run free transit hotel schemes at Beijing for qualifying through-tickets, though every carrier requires advance booking rather than walk-up requests. Check exact booking classes and deadlines in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+If your connection is overnight or exceeds 14 hours, first check whether your airline covers your room for free. **Air China** (ticket prefix 999), **[China Southern](/guides/china-southern-free-transit-hotel/)**, and **[China Eastern](/guides/china-eastern-free-transit-hotel/)** all run free transit hotel schemes at Beijing for qualifying through-tickets, though every carrier requires advance booking rather than walk-up requests. Check exact booking classes and deadlines in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
 
-If you do not qualify for an airline hotel:
+If you do not qualify for an airline hotel, compare airside hourly rooms, Hilton/Cordis at PEK, and Aerotel at PKX in our [Beijing PEK & PKX airport layover hotels guide](/guides/beijing-airport-layover-hotels/):
 
 - **Short overnight (landing after 22:00 or departing before 09:00):** stay beside PEK or PKX to avoid late-night transfers after the Airport Express stops around 23:00.
 - **Full 18–24 hour layover:** book downtown near **Dongzhimen, Qianmen, or Wangfujing** if flying out of PEK (direct Airport Express return), or near **Line 19 / Caoqiao** if flying out of PKX. Hotels automatically handle mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) at check-in.
@@ -4027,9 +4495,9 @@ All international layovers arrive at **[Guangzhou Baiyun International Airport (
 
 ## Where to stay: China Southern free hotel vs. booking downtown
 
-Guangzhou is the flagship hub for **China Southern's free transit accommodation**, and unlike China Eastern, standard economy tickets usually qualify on 6–30 hour overnight connections (or same-day arrivals between 00:00 and 08:00 with 6+ hours). Book online before flying and confirm at **Gate 50 on the first floor of Terminal 2** upon arrival. Read the full terms, single-room supplement rules, and domestic-leg exclusions in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+Guangzhou is the flagship hub for **[China Southern's free transit accommodation](/guides/china-southern-free-transit-hotel/)**, and unlike China Eastern, standard economy tickets usually qualify on 6–30 hour overnight connections (or same-day arrivals between 00:00 and 08:00 with 6+ hours). Book online before flying and confirm at **Gate 50 on the first floor of Terminal 2** upon arrival. Read the full carrier comparison in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
 
-If you do not qualify or prefer to pick your own neighborhood:
+If you do not qualify or prefer to pick your own neighborhood, compare airside Aerotel T2 and Pullman Baiyun Airport in our [Guangzhou Baiyun Airport (CAN) layover hotels guide](/guides/guangzhou-baiyun-airport-layover-hotels/):
 
 - **Short overnight (<12 hours):** stay near Baiyun Airport with a free terminal shuttle so you maximize sleep.
 - **16–24 hour layover:** stay in **Tianhe** (direct on Metro Line 3, fast airport return) or **Liwan / Yuexiu** (best for waking up next to classic dim sum houses and Shamian Island). Hotels automatically complete mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/).
@@ -4184,9 +4652,9 @@ Most international transits land at **Pudong (PVG)**, ~30 km east of downtown, w
 
 ## Where to stay: airport hotel vs. Puxi overnight
 
-Before booking a room yourself, check if your airline provides a complimentary stay. **China Eastern** (ticket prefix 781) and **Air China** (prefix 999) both offer free transit hotels at Shanghai for qualifying tickets, with strict advance-booking rules and fare-class exclusions. Verify your eligibility in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+Before booking a room yourself, check if your airline provides a complimentary stay. **[China Eastern](/guides/china-eastern-free-transit-hotel/)** (ticket prefix 781) and **Air China** (prefix 999) both offer free transit hotels at Shanghai for qualifying tickets, with strict advance-booking rules and fare-class exclusions. Verify your eligibility in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
 
-If you are booking your own hotel:
+If you are booking your own hotel, compare PVG airside sleep pods, Aerotel T2, and Da Zhong Airport Hotel in our [Shanghai Pudong Airport (PVG) layover hotels guide](/guides/shanghai-pudong-airport-layover-hotels/):
 
 - **Late landing or early flight out of PVG:** stay inside or directly beside Pudong Airport so you are not racing early-morning traffic or arriving after the last Maglev (21:42) and Metro Line 2 (~22:30).
 - **18–24 hour stopover:** stay along **Metro Line 2** in Puxi (**People's Square, Nanjing East Road, or Jing'an**). You can step out for dinner and the Bund at night and take a single direct rail line back to PVG or SHA the next day. Hotels register foreign guests automatically under China's [24-hour accommodation registration rule](/guides/hotel-registration-for-foreigners-in-china/).
@@ -4442,8 +4910,8 @@ Either way, allow **1.5–2 hours**, plus immigration at PKX if you arrive from 
 - **In the international departures area (level 3):** the Donghai passenger lounge.
 - **Airside on the domestic side:** Ruqi hourly rest rooms on level 1, opposite gates D112 (east) and A102 (west), and a Shimian branch at the end of Pier D.
 - **Landside:** Shimian hourly rest rooms on level 1, opposite Gate 16 (west) and Gate 20 (east).
-- **Nearby hotels:** the airport lists the Mumian Hotel (木棉花酒店) and the Meichen Hotel (美宸酒店).
-- **A free airline hotel:** China Southern, China Eastern and Air China all include Beijing in their transit hotel schemes. The rules are strict: see [free layover hotels by airline](/guides/china-airline-layover-hotel/).
+- **Nearby & terminal hotels:** see our [Beijing PEK & PKX airport layover hotels guide](/guides/beijing-airport-layover-hotels/) for Aerotel Beijing (Northeast Pier, landside), Shimian hourly rooms, and nearby options like Mumian Hotel and Meichen Hotel.
+- **A free airline hotel:** [China Southern](/guides/china-southern-free-transit-hotel/), [China Eastern](/guides/china-eastern-free-transit-hotel/) and Air China all include Beijing in their transit hotel schemes. Compare all carriers in [free layover hotels by airline](/guides/china-airline-layover-hotel/).
 
 **Spending the night before a flight.** For a next-day departure you can check in and go airside from **08:00 the day before until 02:00 on the day**. If your airline's counter is closed, go to B1: China Southern, Xiamen and Jiangxi Airlines at U21, China Eastern and Shanghai Airlines at W14, China United at W22, and other airlines at W01. Spring Airlines and 9 Air cannot check passengers in overnight. Security runs on level 3 and B1, and at checkpoint D57 on B1 when level 3 is closed. Inside, there are 14 free rest areas with loungers and sofas, 373 massage chairs, and 10 food outlets open 24 hours.
 
@@ -4645,8 +5113,8 @@ A two-airport connection still means clearing immigration at PVG, the train ride
 
 ## Sleeping at or near PVG
 
-- **A free airline hotel.** China Eastern, the main airline in T1, runs a free transit hotel scheme at Shanghai, and Air China lists Pudong among its transit accommodation cities. The rules are strict: see [free layover hotels by airline](/guides/china-airline-layover-hotel/).
-- **The airport's own hotels.** Shanghai Airport Group lists the four-star Ramada Plaza Shanghai Pudong Airport and the Holiday Inn Express Shanghai Pudong Airport among its hotels. Check the walking or shuttle time when you book.
+- **A free airline hotel.** China Eastern, the main airline in T1, runs a free transit hotel scheme at Shanghai ([China Eastern free transit hotel guide](/guides/china-eastern-free-transit-hotel/)), and Air China lists Pudong among its transit accommodation cities. See [free layover hotels by airline](/guides/china-airline-layover-hotel/).
+- **Paid hotels at or beside PVG.** For a full comparison of airside sleep pods, Aerotel Shanghai (landside T2), Da Zhong Airport Hotel (between T1 and T2), and campus hotels like Ramada Plaza and Holiday Inn Express, see our [Shanghai Pudong Airport (PVG) layover hotels guide](/guides/shanghai-pudong-airport-layover-hotels/).
 - **Inside the terminal.** The airport lists an overnight rest area, shower rooms, massage chairs and lounges among its passenger facilities. Ask at an information counter for the current location in your terminal.
 - **In the city.** With 12 hours or more and visa-free entry, a hotel in Puxi beats a night at the airport. Hotels register foreign guests at check-in; see [hotel registration for foreigners](/guides/hotel-registration-for-foreigners-in-china/).
 

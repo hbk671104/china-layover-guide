@@ -39,9 +39,9 @@ All international layovers arrive at **[Guangzhou Baiyun International Airport (
 
 ## Where to stay: China Southern free hotel vs. booking downtown
 
-Guangzhou is the flagship hub for **China Southern's free transit accommodation**, and unlike China Eastern, standard economy tickets usually qualify on 6–30 hour overnight connections (or same-day arrivals between 00:00 and 08:00 with 6+ hours). Book online before flying and confirm at **Gate 50 on the first floor of Terminal 2** upon arrival. Read the full terms, single-room supplement rules, and domestic-leg exclusions in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+Guangzhou is the flagship hub for **[China Southern's free transit accommodation](/guides/china-southern-free-transit-hotel/)**, and unlike China Eastern, standard economy tickets usually qualify on 6–30 hour overnight connections (or same-day arrivals between 00:00 and 08:00 with 6+ hours). Book online before flying and confirm at **Gate 50 on the first floor of Terminal 2** upon arrival. Read the full carrier comparison in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
 
-If you do not qualify or prefer to pick your own neighborhood:
+If you do not qualify or prefer to pick your own neighborhood, compare airside Aerotel T2 and Pullman Baiyun Airport in our [Guangzhou Baiyun Airport (CAN) layover hotels guide](/guides/guangzhou-baiyun-airport-layover-hotels/):
 
 - **Short overnight (<12 hours):** stay near Baiyun Airport with a free terminal shuttle so you maximize sleep.
 - **16–24 hour layover:** stay in **Tianhe** (direct on Metro Line 3, fast airport return) or **Liwan / Yuexiu** (best for waking up next to classic dim sum houses and Shamian Island). Hotels automatically complete mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/).

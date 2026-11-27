@@ -38,9 +38,9 @@ Most international transits land at **Pudong (PVG)**, ~30 km east of downtown, w
 
 ## Where to stay: airport hotel vs. Puxi overnight
 
-Before booking a room yourself, check if your airline provides a complimentary stay. **China Eastern** (ticket prefix 781) and **Air China** (prefix 999) both offer free transit hotels at Shanghai for qualifying tickets, with strict advance-booking rules and fare-class exclusions. Verify your eligibility in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+Before booking a room yourself, check if your airline provides a complimentary stay. **[China Eastern](/guides/china-eastern-free-transit-hotel/)** (ticket prefix 781) and **Air China** (prefix 999) both offer free transit hotels at Shanghai for qualifying tickets, with strict advance-booking rules and fare-class exclusions. Verify your eligibility in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
 
-If you are booking your own hotel:
+If you are booking your own hotel, compare PVG airside sleep pods, Aerotel T2, and Da Zhong Airport Hotel in our [Shanghai Pudong Airport (PVG) layover hotels guide](/guides/shanghai-pudong-airport-layover-hotels/):
 
 - **Late landing or early flight out of PVG:** stay inside or directly beside Pudong Airport so you are not racing early-morning traffic or arriving after the last Maglev (21:42) and Metro Line 2 (~22:30).
 - **18–24 hour stopover:** stay along **Metro Line 2** in Puxi (**People's Square, Nanjing East Road, or Jing'an**). You can step out for dinner and the Bund at night and take a single direct rail line back to PVG or SHA the next day. Hotels register foreign guests automatically under China's [24-hour accommodation registration rule](/guides/hotel-registration-for-foreigners-in-china/).

@@ -40,9 +40,9 @@ Before picking a route or a hotel, check the three-letter airport code on both l
 
 ## Where to stay: airport hotel vs. downtown
 
-If your connection is overnight or exceeds 14 hours, first check whether your airline covers your room for free. **Air China** (ticket prefix 999), **China Southern**, and **China Eastern** all run free transit hotel schemes at Beijing for qualifying through-tickets, though every carrier requires advance booking rather than walk-up requests. Check exact booking classes and deadlines in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+If your connection is overnight or exceeds 14 hours, first check whether your airline covers your room for free. **Air China** (ticket prefix 999), **[China Southern](/guides/china-southern-free-transit-hotel/)**, and **[China Eastern](/guides/china-eastern-free-transit-hotel/)** all run free transit hotel schemes at Beijing for qualifying through-tickets, though every carrier requires advance booking rather than walk-up requests. Check exact booking classes and deadlines in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
 
-If you do not qualify for an airline hotel:
+If you do not qualify for an airline hotel, compare airside hourly rooms, Hilton/Cordis at PEK, and Aerotel at PKX in our [Beijing PEK & PKX airport layover hotels guide](/guides/beijing-airport-layover-hotels/):
 
 - **Short overnight (landing after 22:00 or departing before 09:00):** stay beside PEK or PKX to avoid late-night transfers after the Airport Express stops around 23:00.
 - **Full 18–24 hour layover:** book downtown near **Dongzhimen, Qianmen, or Wangfujing** if flying out of PEK (direct Airport Express return), or near **Line 19 / Caoqiao** if flying out of PKX. Hotels automatically handle mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) at check-in.
