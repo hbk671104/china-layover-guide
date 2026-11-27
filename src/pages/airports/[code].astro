@@ -98,7 +98,31 @@ const jsonLd = [
   },
 ];
 
-const related = airports.filter((other) => other.code !== airport.code).slice(0, 4);
+const related = airports
+  .filter((other) => other.code !== airport.code)
+  .sort((a, b) => {
+    const aSameCity = a.citySlug === airport.citySlug ? 0 : 1;
+    const bSameCity = b.citySlug === airport.citySlug ? 0 : 1;
+    return aSameCity - bSameCity;
+  });
+
+const CITY_ITINERARY_GUIDES: Record<string, { href: string; label: string }[]> = {
+  beijing: [
+    { href: '/guides/beijing-layover-itinerary/', label: 'Beijing 6–24h layover itinerary' },
+    { href: '/guides/great-wall-from-beijing-layover/', label: 'Great Wall on a Beijing layover' },
+  ],
+  shanghai: [
+    { href: '/guides/shanghai-layover-itinerary/', label: 'Shanghai 6–24h layover itinerary' },
+  ],
+  guangzhou: [
+    { href: '/guides/guangzhou-layover-itinerary/', label: 'Guangzhou 6–24h layover itinerary' },
+  ],
+  chengdu: [
+    { href: '/guides/chengdu-layover-itinerary/', label: 'Chengdu 6–24h layover itinerary' },
+  ],
+  xian: [{ href: '/guides/xian-layover-itinerary/', label: "Xi'an 6–24h layover itinerary" }],
+};
+const cityItineraryLinks = airport.citySlug ? (CITY_ITINERARY_GUIDES[airport.citySlug] ?? []) : [];
 
 const atAGlance = [
   { value: `${airport.minViableHours}h`, label: 'Minimum layover worth leaving for' },
@@ -367,11 +391,31 @@ const atAGlance = [
                   href={`/cities/${airport.citySlug}/`}
                   class="text-body transition-colors duration-200 hover:text-brand"
                 >
-                  {airport.city} layover guide
+                  {airport.city} layover hub
                 </a>
               </li>
             )
           }
+          {
+            cityItineraryLinks.map((item) => (
+              <li>
+                <a
+                  href={item.href}
+                  class="text-body transition-colors duration-200 hover:text-brand"
+                >
+                  {item.label}
+                </a>
+              </li>
+            ))
+          }
+          <li>
+            <a
+              href="/guides/china-airline-layover-hotel/"
+              class="text-body transition-colors duration-200 hover:text-brand"
+            >
+              Free airline transit hotels
+            </a>
+          </li>
           <li>
             <a
               href="/guides/china-airport-to-city-transfers/"
@@ -386,6 +430,22 @@ const atAGlance = [
               class="text-body transition-colors duration-200 hover:text-brand"
             >
               Luggage storage at China&rsquo;s airports
+            </a>
+          </li>
+          <li>
+            <a
+              href="/guides/didi-and-ride-hailing-in-china/"
+              class="text-body transition-colors duration-200 hover:text-brand"
+            >
+              DiDi &amp; ride-hailing in China
+            </a>
+          </li>
+          <li>
+            <a
+              href="/guides/wechat-pay-and-tenpaygo-for-foreigners/"
+              class="text-body transition-colors duration-200 hover:text-brand"
+            >
+              WeChat Pay &amp; TenPayGo setup
             </a>
           </li>
           <li>

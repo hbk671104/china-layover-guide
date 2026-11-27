@@ -60,14 +60,15 @@ Overnight in the city and use the morning for **Mutianyu**, roughly 1.5–2 hour
 ## Beijing-specific traps
 
 - **Forbidden City tickets are passport-linked and sell out.** Book online before you travel.
-- **PEK and PKX are on opposite sides of the city**, roughly 80 km apart. A cross-airport connection is 1.5–2 hours by airport bus or by rail with two changes: never combine it with sightseeing. The [Daxing airport guide](/airports/pkx/) has the routes.
-- **The Airport Express stops running just after 23:00.** Late arrivals need a taxi or DiDi.
+- **PEK and PKX are on opposite sides of the city**, roughly 80 km apart. A cross-airport connection is 1.5–2 hours by airport bus or by rail with two changes: never combine it with sightseeing. See the [Beijing Capital (PEK)](/airports/pek/) and [Beijing Daxing (PKX)](/airports/pkx/) airport guides, or our [Beijing layover hub](/cities/beijing/) for airport comparisons.
+- **The Airport Express stops running just after 23:00.** Late arrivals need a taxi or [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/).
 - **Winter air can be harsh** and summer is hot; build in indoor stops.
 
 ## Before you go
 
-- [Set up Alipay or WeChat Pay](/guides/payments-in-china-for-foreigners/): the metro now accepts QR codes, and most vendors are QR-only.
+- Set up [Alipay](/guides/alipay-for-foreigners/) or [WeChat Pay and TenPayGo](/guides/wechat-pay-and-tenpaygo-for-foreigners/) (see [payments in China for foreigners](/guides/payments-in-china-for-foreigners/)): the metro now accepts QR codes, and most vendors are QR-only.
 - [Install an eSIM before you land](/guides/esim-setup-before-you-land/).
+- Planning a Wall run? Check [whether you can see the Great Wall on a Beijing layover](/guides/great-wall-from-beijing-layover/).
 - Confirm you can enter, see [240-hour visa-free transit](/guides/240-hour-visa-free-transit/) or [can you leave the airport?](/guides/can-you-leave-the-airport-during-a-china-layover/).
 
 ## Bottom line

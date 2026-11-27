@@ -23,7 +23,7 @@ faqs:
 
 ## The honest answer
 
-**Yes. It's possible, but only if your layover is 10+ hours, arrives in the morning, and you accept that the Great Wall is the *only* thing you'll do.** Mutianyu, the closest practical section, is a 1.5-hour drive from Beijing Capital Airport (PEK) and 2.5 hours from Daxing (PKX). Add immigration, the drive back, and your airport buffer, and a "day" collapses to roughly 2–3 hours actually on the Wall.
+**Yes. It's possible, but only if your layover is 10+ hours, arrives in the morning, and you accept that the Great Wall is the *only* thing you'll do.** Mutianyu, the closest practical section, is a 1.5-hour drive from [Beijing Capital Airport (PEK)](/airports/pek/) and 2.5 hours from [Daxing (PKX)](/airports/pkx/). Add immigration, the drive back, and your airport buffer, and a "day" collapses to roughly 2–3 hours actually on the Wall.
 
 ## The timing math, laid bare
 

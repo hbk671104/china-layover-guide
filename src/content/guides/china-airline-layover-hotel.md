@@ -150,7 +150,7 @@ China Southern publishes clearer rules than China Eastern, and its scheme is the
 
 The counter-example worth knowing: a Guangzhou–Beijing domestic connection after an international flight does **not** qualify, even on one ticket. If the onward leg is domestic, check before you count on the hotel.
 
-**To claim it:** book through the China Southern website (Home → Service Center → Transit Hotel Booking), the app, or the WeChat mini program. At Guangzhou, the transit accommodation counter is at **Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit: staff there confirm your booking and arrange the free shuttle. If you didn't book online, you can still apply at the counter, subject to availability.
+**To claim it:** book through the China Southern website (Home → Service Center → Transit Hotel Booking), the app, or the WeChat mini program (if you are setting up WeChat for your trip anyway, see [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)). At [Guangzhou Baiyun (CAN)](/airports/can/), the transit accommodation counter is at **Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit: staff there confirm your booking and arrange the free shuttle. If you didn't book online, you can still apply at the counter, subject to availability.
 
 ## Air China: the free transit hotel
 
@@ -168,7 +168,7 @@ Air China's product is called **Transit Accommodation**, and it splits into two 
 - Booking deadline: **24 hours** before the inbound flight's arrival for Standard, **50 hours** for Deluxe, Beijing time
 - Excluded: booking classes **O, I, X, N**, mileage and award tickets, and infants
 
-Air China states plainly that **on-site bookings are not accepted**, and that partner hotels have limited rooms, qualifying does not guarantee you one. It also notes that where a shuttle exists it may only serve one airport, so a PEK-to-PKX or PVG-to-SHA connection can leave you arranging and paying for your own transfer.
+Air China states plainly that **on-site bookings are not accepted**, and that partner hotels have limited rooms, qualifying does not guarantee you one. It also notes that where a shuttle exists it may only serve one airport, so a [PEK](/airports/pek/)-to-[PKX](/airports/pkx/) or [PVG](/airports/pvg/)-to-[SHA](/airports/sha/) connection can leave you arranging and paying for your own transfer via rail or [DiDi ride-hailing](/guides/didi-and-ride-hailing-in-china/).
 
 ## Other mainland carriers with free transit hotels
 
@@ -179,7 +179,7 @@ The three majors are not the only carriers that do this, and on some of the othe
 | **Hainan Airlines** (HU) | Haikou (HAK), Chongqing (CKG) | Over 4 and up to 72 hours at Haikou; over 6 and up to 48 hours at Chongqing | The ticket has to be **bought in the Hainan Airlines app**. At Chongqing the free hotel and the free tour are **either/or**. Beijing offers a hotel discount, not a free night. |
 | **Xiamen Airlines** (MF) | Xiamen, Fuzhou, Quanzhou, Hangzhou | 6–24 hours, **and** the two flights must not depart on the same calendar day | Both segments on **one ticket** operated by Xiamen, Hebei or Jiangxi Airlines, and the international leg must be Xiamen-operated. Award and privilege-redemption classes (X, O, E) are excluded. |
 | **Sichuan Airlines** (3U) | Chengdu Shuangliu (CTU) and Tianfu (TFU) | 6–48 hours domestic; **6–240 hours** if any leg is international | Ticket number starting **876**. Book from 30 days out until 4 hours before the onward flight departs. |
-| **Shenzhen Airlines** (ZH) | Shenzhen Bao'an (SZX) only | 6–36 hours with an international leg; 6–24 hours domestic | Both segments must be operated by Shenzhen Airlines. |
+| **Shenzhen Airlines** (ZH) | [Shenzhen Bao'an (SZX)](/airports/szx/) only | 6–36 hours with an international leg; 6–24 hours domestic | Both segments must be operated by Shenzhen Airlines. |
 
 A few details worth knowing:
 
