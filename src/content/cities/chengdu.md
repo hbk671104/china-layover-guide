@@ -42,7 +42,7 @@ Almost all international transits arrive at **[Chengdu Tianfu International Airp
 Chengdu has one of the most generous free transit hotel setups in China:
 
 - **Sichuan Airlines** (ticket prefix **876**) provides free transit hotels for connections of **6–48 hours domestic** and up to **6–240 hours** when an international leg is included, covering both TFU and CTU. Book in advance (30 days out until 4 hours before departure).
-- **Air China** (ticket prefix **999**) also covers TFU under its Transit Accommodation rules, requiring advance booking (24 hours for Standard, 50 hours for Deluxe). Check exact terms in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
+- **[Air China](/guides/air-china-free-transit-hotel/)** (ticket prefix **999**) also covers TFU under its Transit Accommodation rules, requiring advance booking (24 hours for Standard, 50 hours for Deluxe). Check exact terms in our [China airline free transit hotel guide](/guides/china-airline-layover-hotel/).
 
 If you book your own room: stay near **TFU** for a short overnight under 12 hours, or downtown around **Chunxi Road / Taikoo Li / People's Park** for a 16–24 hour layover so you can walk straight to teahouses and restaurants. Hotels handle mandatory [foreigner accommodation registration](/guides/hotel-registration-for-foreigners-in-china/) automatically.
 

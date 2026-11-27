@@ -36,7 +36,7 @@ faqs:
 - **At PEK (Capital Airport):** if you cannot clear immigration, use the **T3E International Hourly Lounge** airside (opposite Gate E10). If you clear immigration on an overnight layover, **Hilton Beijing Capital Airport** and **Cordis Beijing Capital Airport** are both ~5 minutes from T3 with 24-hour free shuttles.
 - **At PKX (Daxing Airport):** **Aerotel Beijing** sits right inside the Northeast Pier (5–10 min walk to check-in), **but it is landside**, so international transit passengers must clear immigration to enter it. Staying strictly airside at PKX limits you to lounges and free rest zones.
 
-*(Flying Air China, China Eastern, or China Southern on one through-ticket? Check your free-hotel eligibility first in our [China airline free transit hotel hub](/guides/china-airline-layover-hotel/), [China Eastern guide](/guides/china-eastern-free-transit-hotel/), or [China Southern guide](/guides/china-southern-free-transit-hotel/).)*
+*(Flying Air China, China Eastern, or China Southern on one through-ticket? Check your free-hotel eligibility first in our [Air China guide](/guides/air-china-free-transit-hotel/), [China Eastern guide](/guides/china-eastern-free-transit-hotel/), [China Southern guide](/guides/china-southern-free-transit-hotel/), or [China airline free transit hotel hub](/guides/china-airline-layover-hotel/).)*
 
 ## Beijing airport hotels, side by side
 
