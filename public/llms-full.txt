@@ -551,7 +551,7 @@ You are responsible for it, and the airline is not obliged to rebook you for fre
 ## Free Layover Hotels: China Eastern, Southern & Air China
 
 Source: https://chinalayoverguide.com/guides/china-airline-layover-hotel/
-Last updated: 2026-11-06
+Last updated: 2026-11-27
 
 ## The short answer
 
@@ -625,14 +625,24 @@ China Eastern calls this the **Overnight Transit Hotel Service**, and you will a
 
 ## How to apply for China Eastern's transit hotel
 
-China Eastern only takes applications in advance, and its terms are the least readable of the three. The application page loads its conditions behind a script that redirects ordinary browsers, and travelers report the online form failing. Work through it in this order:
+China Eastern only takes applications in advance, and its terms are the least readable of the three. The English app hides the transit-hotel entry altogether, and the English web form frequently fails or redirects ordinary browsers. The most reliable route is the **China Eastern app switched to its Chinese interface**:
 
-1. **Check the ticket before you apply.** It needs a number starting **781**, one booking for both flights, a 6–24 hour transit, a fare above the hub's threshold, and a booking class other than A, O, X or domestic H.
-2. **Log in to Eastern Miles**, China Eastern's mileage programme. The application option does not appear at all unless you are logged in, so create an account first if you don't have one.
-3. **Open the [Overnight Transit Hotel Service page](https://us.ceair.com/en/transit-hotel-application.html)**, agree to the terms, and submit the request for your booking.
-4. **Apply days ahead, not hours.** The cutoff is reported at **12 hours before your first flight's departure**, but rooms are capped, so a request made at booking time has the best chance.
-5. **Track it and save the confirmation.** The application page links to a transit hotel enquiry page where you can check progress. Screenshot the confirmation before you fly.
-6. **If the form won't cooperate, call.** China Eastern's English site lists **+86-21-20695530** for customer service, or **95530** from a Chinese number. Travelers report phone agents sending them back to the website, so treat the call as a fallback rather than the main route.
+1. **Check the ticket before you apply.** It needs a 13-digit number starting **781**, one booking for both flights, a 6–24 hour transit, a fare above the hub's threshold, and a booking class other than A, O, X or domestic H.
+2. **Switch the China Eastern app to Chinese and find the entry.** On the home screen (`首页`), either tap the **search bar near the bottom** (just above the bottom navigation bar) and search **`中转住宿`**, or tap **`服务大厅`** (Service Hall, bottom-right icon in the service grid). From the search result, tap **`中转服务`** (Transit Service).
+3. **Fill in the `核验客票` (Verify Ticket) form.** Enter the five fields in order:
+   - **`姓名` (Name):** for international tickets, enter `SURNAME/GIVENNAME` in English letters (for example, `SMITH/JOHN`)
+   - **`证件号` (ID / Passport No.):** the passport number used on your booking
+   - **`票号` (Ticket No.):** your 13-digit ticket number starting with `781`
+   - **`航班号` (Flight No.):** your flight number (for example, `MU552`)
+   - **`手机号` (Phone):** tap `+86 >` to change the country code if using an overseas number
+4. **Tap the red `核验客票` button** to check eligibility and select your room. Apply days ahead rather than hours: the cutoff is reported at **12 hours before your first flight's departure**, and rooms are capped.
+5. **Save your confirmation.** Tap **`查看我的订单 >`** (View my orders) at the bottom right of the verification screen and screenshot your hotel confirmation before you fly.
+6. **Web and phone fallbacks.** You can also log in to Eastern Miles and try the [Overnight Transit Hotel Service page](https://us.ceair.com/en/transit-hotel-application.html) on desktop, or call **+86-21-20695530** (**95530** from a Chinese number), though travelers report phone agents sending them back to the app or website.
+
+<figure>
+  <img src="/images/guides/china-eastern-transit-hotel-app.jpg" width="1200" height="920" loading="lazy" decoding="async" alt="Three-step walkthrough of the China Eastern Chinese-interface app: Step 1 highlights the bottom search bar and Service Hall on the home screen; Step 2 searches 中转住宿 and selects 中转服务; Step 3 translates the five fields on the Verify Ticket form (Surname/Given name, Passport No., 781 Ticket No., Flight No., and Phone) plus the Verify ticket and My orders buttons." />
+  <figcaption>Finding China Eastern's transit hotel form in the Chinese app interface: search 中转住宿 in the bottom search bar, open 中转服务, and fill in the five fields on 核验客票. Screenshots verified in-app by China Layover Guide.</figcaption>
+</figure>
 
 ## China Southern: the free transit hotel
 
@@ -648,7 +658,12 @@ China Southern publishes clearer rules than China Eastern, and its scheme is the
 
 The counter-example worth knowing: a Guangzhou–Beijing domestic connection after an international flight does **not** qualify, even on one ticket. If the onward leg is domestic, check before you count on the hotel.
 
-**To claim it:** book through the China Southern website (Home → Service Center → Transit Hotel Booking), the app, or the WeChat mini program (if you are setting up WeChat for your trip anyway, see [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)). At [Guangzhou Baiyun (CAN)](/airports/can/), the transit accommodation counter is at **Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit: staff there confirm your booking and arrange the free shuttle. If you didn't book online, you can still apply at the counter, subject to availability.
+**To claim it:** open the **China Southern app** (the English interface works cleanly), tap **`e-Service`** on the bottom navigation bar, and tap **`Transfer Accommodation`** under Online Service. Sign in with your email, Sky Pearl number, or **`Overseas mobile phone password login`** (or tap `Sign Up` to register first). To read the current eligibility terms inside the app, go to `Me → Travel Guide → Transit Service → Free Accommodations for Transfer Passengers` (note that China Southern's in-app rules explicitly include qualifying interline tickets redeemed with mileage, and offer preferential paid rates at China Southern Pearl Hotels if your ticket does not qualify). You can also book on the China Southern website (Home → Service Center → Transit Hotel Booking) or the WeChat mini program (if you are setting up WeChat for your trip anyway, see [WeChat Pay and TenPayGo for foreigners](/guides/wechat-pay-and-tenpaygo-for-foreigners/)). At [Guangzhou Baiyun (CAN)](/airports/can/), the transit accommodation counter is at **Gate 50 on the first floor of Terminal 2**, near the domestic arrival exit: staff there confirm your booking and arrange the free shuttle. If you didn't book online, you can still apply at the counter, subject to availability.
+
+<figure>
+  <img src="/images/guides/china-southern-transit-hotel-app.jpg" width="1200" height="920" loading="lazy" decoding="async" alt="Three-step walkthrough of the China Southern English app: Step 1 opens the e-Service tab and taps Transfer Accommodation; Step 2 shows Sign Up and Overseas mobile phone password login on the sign-in screen; Step 3 shows Me, Travel Guide, Transit Service, and Free Accommodations for Transfer Passengers for full policy rules." />
+  <figcaption>Booking and checking rules in the China Southern English app: e-Service → Transfer Accommodation to book (supports overseas mobile login), or Me → Travel Guide → Transit Service for current policy terms. Screenshots verified in-app by China Layover Guide.</figcaption>
+</figure>
 
 ## Air China: the free transit hotel
 
